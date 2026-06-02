@@ -5,92 +5,98 @@ import plotly.express as px
 from pathlib import Path
 import json
 
-meta_file = Path(".bdpm_meta.json")
-
-if meta_file.exists():
-    meta = json.loads(meta_file.read_text())
-
-    st.sidebar.success(
-        f"BDPM mise à jour : {meta['version']}"
-    )
-
-st.metric(
-    "Médicaments",
-    stats["medicaments"]
-)
 # ---------------------------------------------------
-# CONFIGURATION PAGE
+# CONFIGURATION PAGE  (doit être le 1er appel Streamlit)
 # ---------------------------------------------------
 st.set_page_config(page_title="Analyse Marché Pharma", layout="wide")
 
-st.title("💊 Outil d’Analyse Marché Pharmaceutique")
-
-st.markdown("""
-    <style>
-    /* Fond principal Deep Night */
-    .stApp {
-        background: #FFFFFF;
-        color: #E63946;
-    }
-    
-    /* Sidebar style */
-    [data-testid="stSidebar"] {
-        background-color: #080a0e !important;
-        border-right: 1px solid #1f2937;
-    }
-
-    /* Cartes Glassmorphism */
-    div[data-testid="stMetric"] {
-        background: rgba(255, 255, 255, 0.03);
-        border: 1px solid rgba(255, 255, 255, 0.1);
-        border-radius: 12px;
-        padding: 20px !important;
-        box-shadow: 0 4px 20px rgba(0, 0, 0, 0.4);
-    }
-    
-    /* Glow effect au survol */
-    div[data-testid="stMetric"]:hover {
-        border: 1px solid #4facfe;
-        box-shadow: 0 0 15px rgba(79, 172, 254, 0.2);
-    }
-
-    /* Titres en dégradé */
-    .premium-title {
-        background: linear-gradient(90deg, #4facfe, #00f2fe);
-        -webkit-background-clip: text;
-        -webkit-text-fill-color: transparent;
-        font-weight: 800;
-        font-size: 2.5rem;
-    }
-
-    /* Personnalisation des tableaux */
-    .stDataFrame {
-        border: 1px solid #1f2937;
-        border-radius: 10px;
-    }
-    </style>
-    """, unsafe_allow_html=True)
-
 # ---------------------------------------------------
-# CONNEXION BDD
+# CONNEXION BDD  (context manager → fermeture garantie)
 # ---------------------------------------------------
 DB_PATH = Path(__file__).resolve().parent / "bdpm.db"
-conn = sqlite3.connect(DB_PATH)
 
-# Chargement des tables principales
-df_cis = pd.read_sql("SELECT * FROM medicaments", conn)
-df_cip = pd.read_sql("SELECT * FROM presentations", conn)
-df_compo = pd.read_sql("SELECT * FROM compositions", conn)
-df_gener = pd.read_sql("SELECT * FROM generiques", conn)
+@st.cache_resource
+def get_connection():
+    return sqlite3.connect(DB_PATH, check_same_thread=False)
 
-# Jointure principale
+conn = get_connection()
+
+# ---------------------------------------------------
+# CHARGEMENT DES DONNÉES
+# ---------------------------------------------------
+@st.cache_data
+def load_data():
+    df_cis   = pd.read_sql("SELECT * FROM medicaments",            conn)
+    df_cip   = pd.read_sql("SELECT * FROM presentations",          conn)
+    df_compo = pd.read_sql("SELECT * FROM compositions",           conn)
+    df_gener = pd.read_sql("SELECT * FROM generiques",             conn)
+    return df_cis, df_cip, df_compo, df_gener
+
+df_cis, df_cip, df_compo, df_gener = load_data()
+
+# Jointure principale + nettoyage prix
 df = df_cis.merge(df_cip, on="CIS", how="left")
-
-# Nettoyage prix
 df["PRIX"] = pd.to_numeric(df["PRIX"], errors="coerce")
 
 # ---------------------------------------------------
-# ONGLET NAVIGATION
+# SIDEBAR — version BDPM
+# ---------------------------------------------------
+meta_file = Path(".bdpm_meta.json")
+if meta_file.exists():
+    meta = json.loads(meta_file.read_text())
+    st.sidebar.success(f"BDPM mise à jour : {meta['version']}")
+
+# ---------------------------------------------------
+# TITRE & STYLE
+# ---------------------------------------------------
+st.title("💊 Outil d'Analyse Marché Pharmaceutique")
+
+st.markdown("""
+<style>
+/* Fond principal blanc */
+.stApp {
+    background: #FFFFFF;
+    color: #1a1a2e;      /* texte sombre lisible — corrigé depuis #E63946 */
+}
+
+/* Sidebar */
+[data-testid="stSidebar"] {
+    background-color: #080a0e !important;
+    border-right: 1px solid #1f2937;
+}
+
+/* Cartes Glassmorphism */
+div[data-testid="stMetric"] {
+    background: rgba(0, 0, 0, 0.03);
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    border-radius: 12px;
+    padding: 20px !important;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+}
+
+div[data-testid="stMetric"]:hover {
+    border: 1px solid #4facfe;
+    box-shadow: 0 0 15px rgba(79, 172, 254, 0.2);
+}
+
+/* Titres en dégradé */
+.premium-title {
+    background: linear-gradient(90deg, #4facfe, #00f2fe);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: 800;
+    font-size: 2.5rem;
+}
+
+.stDataFrame {
+    border: 1px solid #1f2937;
+    border-radius: 10px;
+}
+</style>
+""", unsafe_allow_html=True)
+
+# ---------------------------------------------------
+# ONGLETS
 # ---------------------------------------------------
 tabs = st.tabs([
     "📊 Vue Marché",
@@ -101,25 +107,23 @@ tabs = st.tabs([
 ])
 
 # ===================================================
-# 📊 ONGLET 1 : VUE MARCHE
+# 📊 ONGLET 1 : VUE MARCHÉ
 # ===================================================
 with tabs[0]:
-
     col1, col2, col3, col4 = st.columns(4)
 
-    total_medicaments = df_cis["CIS"].nunique()
+    total_medicaments  = df_cis["CIS"].nunique()
     total_presentations = df_cip["CIS"].count()
-    total_substances = df_compo["SUBSTANCE"].nunique()
-    total_lab = df_cis["TITULAIRES"].nunique()
+    total_substances   = df_compo["SUBSTANCE"].nunique()
+    total_lab          = df_cis["TITULAIRES"].nunique()
 
-    col1.metric("💊 Médicaments", total_medicaments)
-    col2.metric("📦 Présentations", total_presentations)
-    col3.metric("🧪 Substances", total_substances)
-    col4.metric("🏭 Laboratoires", total_lab)
+    col1.metric("💊 Médicaments",    total_medicaments)
+    col2.metric("📦 Présentations",  total_presentations)
+    col3.metric("🧪 Substances",     total_substances)
+    col4.metric("🏭 Laboratoires",   total_lab)
 
     st.divider()
 
-    # Part de marché laboratoires
     df_lab = df_cis["TITULAIRES"].value_counts().reset_index()
     df_lab.columns = ["TITULAIRES", "NB"]
 
@@ -129,23 +133,20 @@ with tabs[0]:
         y="NB",
         title="Top 10 Laboratoires",
     )
-    st.plotly_chart(fig, width='stretch')
+    st.plotly_chart(fig, use_container_width=True)   # corrigé : width='stretch' → use_container_width
 
-    # Indice de concentration
-    top5 = df_lab.head(5)["NB"].sum()
-    total = df_lab["NB"].sum()
+    top5         = df_lab.head(5)["NB"].sum()
+    total        = df_lab["NB"].sum()
     concentration = round((top5 / total) * 100, 1)
-
     st.metric("📊 Indice concentration (Top 5)", f"{concentration}%")
 
 # ===================================================
 # 🏭 ONGLET 2 : LABORATOIRES
 # ===================================================
 with tabs[1]:
-
     df_lab_price = df.groupby("TITULAIRES").agg(
-        nb_produits=("CIS", "nunique"),
-        prix_moyen=("PRIX", "mean")
+        nb_produits=("CIS",  "nunique"),
+        prix_moyen= ("PRIX", "mean")
     ).reset_index()
 
     fig = px.scatter(
@@ -156,14 +157,12 @@ with tabs[1]:
         hover_name="TITULAIRES",
         title="Positionnement Laboratoires (Volume vs Prix)"
     )
-
-    st.plotly_chart(fig, width='stretch')
+    st.plotly_chart(fig, use_container_width=True)
 
 # ===================================================
-# 🧪 ONGLET 3 : MOLECULES
+# 🧪 ONGLET 3 : MOLÉCULES
 # ===================================================
 with tabs[2]:
-
     df_sub = df_compo["SUBSTANCE"].value_counts().reset_index()
     df_sub.columns = ["SUBSTANCE", "NB"]
 
@@ -173,47 +172,48 @@ with tabs[2]:
         y="NB",
         title="Top 10 Substances Actives"
     )
-
-    st.plotly_chart(fig, width='stretch')
+    st.plotly_chart(fig, use_container_width=True)
 
     intensite = round(df_sub["NB"].mean(), 1)
     st.metric("📈 Intensité concurrentielle moyenne", intensite)
 
 # ===================================================
-# 🧬 ONGLET 4 : GENERIQUES
+# 🧬 ONGLET 4 : GÉNÉRIQUES
 # ===================================================
 with tabs[3]:
-
     if not df_gener.empty:
-        df_gen = df_gener["DENOMINATION_GEN"].value_counts().reset_index()
-        df_gen.columns = ["TYPE", "NB"]
+        # Comptage du nombre de médicaments par groupe générique
+        df_gen_count = df_gener["DENOMINATION_GEN"].value_counts().reset_index()
+        df_gen_count.columns = ["DENOMINATION_GEN", "NB"]
 
         fig = px.pie(
-            df_gen,
-            names="TYPE",
+            df_gen_count.head(20),
+            names="DENOMINATION_GEN",
             values="NB",
-            title="Répartition Génériques vs Princeps"
+            title="Top 20 Groupes Génériques par Nombre de Spécialités"
         )
+        st.plotly_chart(fig, use_container_width=True)
 
-        st.plotly_chart(fig, width='stretch')
-
-        taux_gen = round((df_gen[df_gen["TYPE"] == "GENERIC"]["NB"].sum() / df_gen["NB"].sum()) * 100, 1) if "GENERIC" in df_gen["TYPE"].values else 0
+        # Taux de pénétration : part des médicaments appartenant à un groupe générique
+        cis_avec_generique = df_gener["CIS_GEN"].nunique()
+        cis_total          = df_cis["CIS"].nunique()
+        taux_gen = round((cis_avec_generique / cis_total) * 100, 1) if cis_total > 0 else 0
 
         st.metric("🧬 Taux de pénétration générique", f"{taux_gen}%")
+        st.caption(f"{cis_avec_generique} médicaments sur {cis_total} appartiennent à un groupe générique.")
     else:
-        st.info("Pas de données génériques disponibles")
+        st.info("Pas de données génériques disponibles.")
 
 # ===================================================
-# 💰 ONGLET 5 : ANALYSE ECONOMIQUE
+# 💰 ONGLET 5 : ANALYSE ÉCONOMIQUE
 # ===================================================
 with tabs[4]:
-
-    prix_moyen = round(df["PRIX"].mean(), 2)
+    prix_moyen  = round(df["PRIX"].mean(),   2)
     prix_mediane = round(df["PRIX"].median(), 2)
 
     col1, col2 = st.columns(2)
-    col1.metric("💰 Prix moyen", f"{prix_moyen} €")
-    col2.metric("📊 Prix médian", f"{prix_mediane} €")
+    col1.metric("💰 Prix moyen",   f"{prix_moyen} €")
+    col2.metric("📊 Prix médian",  f"{prix_mediane} €")
 
     st.divider()
 
@@ -223,13 +223,11 @@ with tabs[4]:
         nbins=50,
         title="Distribution des Prix"
     )
+    st.plotly_chart(fig, use_container_width=True)
 
-    st.plotly_chart(fig, width='stretch')
-
-    # HHI
-    parts = df_lab["NB"] / df_lab["NB"].sum()
-    hhi = round((parts ** 2).sum(), 3)
-
+    # Indice HHI (df_lab calculé dans l'onglet 1 — recalcul local pour robustesse)
+    _df_lab = df_cis["TITULAIRES"].value_counts().reset_index()
+    _df_lab.columns = ["TITULAIRES", "NB"]
+    parts = _df_lab["NB"] / _df_lab["NB"].sum()
+    hhi   = round((parts ** 2).sum(), 3)
     st.metric("📊 Indice HHI (concentration marché)", hhi)
-
-conn.close()
