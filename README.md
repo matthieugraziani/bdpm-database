@@ -47,7 +47,8 @@ bdpm-database/
 │   └── workflows/
 │       └── update_bdpm.yml     # CI/CD : mise à jour automatique BDPM
 ├── tests/                      # Tests unitaires du pipeline ETL
-├── files/                      # Fichiers BDPM source (.txt)
+├── data/ 
+│   └── files                   # Fichiers BDPM source (.txt)
 ├── database.py                 # Pipeline ETL (PharmaDataPipeline)
 ├── app.py                      # Application Streamlit
 ├── bdpm.db                     # Base SQLite générée
