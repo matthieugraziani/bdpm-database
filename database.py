@@ -1,3 +1,4 @@
+from pathlib import Path
 import pandas as pd
 import sqlite3
 import os
@@ -8,18 +9,22 @@ import unicodedata
 
 
 class PharmaDataPipeline:
-
-    def __init__(self, db_name="bdpm.db", data_dir="data"):
+    def __init__(self, db_name="bdpm.db", data_dir="files"):
         self.db_name = db_name
         self.data_dir = data_dir
 
-        # Écriture dans un fichier temporaire pour éviter de perdre
-        # la base précédente si le pipeline plante à mi-chemin
-        self.tmp_db_name = db_name + ".tmp"
-        if os.path.exists(self.tmp_db_name):
-            os.remove(self.tmp_db_name)
+        Path(self.db_name).parent.mkdir(
+            parents=True,
+            exist_ok=True
+        )
 
-        self.conn = sqlite3.connect(self.tmp_db_name)
+        if os.path.exists(self.db_name):
+            os.remove(self.db_name)
+
+        # création physique immédiate
+        Path(self.db_name).touch()
+
+        self.conn = sqlite3.connect(self.db_name)
 
     def _remove_accents(self, text):
         """Supprime les accents d'une chaîne de caractères."""
