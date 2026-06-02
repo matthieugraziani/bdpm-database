@@ -45,7 +45,13 @@ meta_file = Path(".bdpm_meta.json")
 if meta_file.exists():
     meta = json.loads(meta_file.read_text())
     st.sidebar.success(f"BDPM mise à jour : {meta['version']}")
+    
+with open(".bdpm_meta.json") as f:
+    meta = json.load(f)
 
+st.sidebar.info(
+    f"Dernière mise à jour : {meta['version']}"
+)
 # ---------------------------------------------------
 # TITRE & STYLE
 # ---------------------------------------------------
