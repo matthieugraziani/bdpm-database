@@ -47,8 +47,7 @@ bdpm-database/
 │   └── workflows/
 │       └── update_bdpm.yml     # CI/CD : mise à jour automatique BDPM
 ├── tests/                      # Tests unitaires du pipeline ETL
-├── data/ 
-│   └── files                   # Fichiers BDPM source (.txt)
+├── data/                       # Fichiers BDPM source (.txt)            
 ├── database.py                 # Pipeline ETL (PharmaDataPipeline)
 ├── app.py                      # Application Streamlit
 ├── bdpm.db                     # Base SQLite générée
@@ -131,7 +130,7 @@ pip install -r requirements.txt
 
 **4️⃣ Placer les fichiers BDPM**
 
-Télécharger les fichiers `.txt` depuis [data.gouv.fr](https://www.data.gouv.fr/fr/datasets/base-de-donnees-publique-des-medicaments/) et les placer dans le dossier `files/` :
+Télécharger les fichiers `.txt` depuis [data.gouv.fr](https://www.data.gouv.fr/fr/datasets/base-de-donnees-publique-des-medicaments/) et les placer dans le dossier `data/` :
 ```
 files/
 ├── CIS_bdpm.txt
