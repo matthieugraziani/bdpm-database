@@ -3,7 +3,21 @@ import pandas as pd
 import sqlite3
 import plotly.express as px
 from pathlib import Path
+import json
 
+meta_file = Path(".bdpm_meta.json")
+
+if meta_file.exists():
+    meta = json.loads(meta_file.read_text())
+
+    st.sidebar.success(
+        f"BDPM mise à jour : {meta['version']}"
+    )
+
+st.metric(
+    "Médicaments",
+    stats["medicaments"]
+)
 # ---------------------------------------------------
 # CONFIGURATION PAGE
 # ---------------------------------------------------

@@ -1,0 +1,43 @@
+name: Update BDPM
+
+on:
+  schedule:
+    - cron: "0 5 * * *"
+
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+
+      - name: Run update
+        run: |
+          python update_bdpm.py
+
+      - name: Commit changes
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
+
+          git add bdpm.db
+          git add .bdpm_meta.json
+
+          git commit -m "Auto update BDPM" || exit 0
+
+          git push

@@ -1,9 +1,28 @@
 import pandas as pd
 import sqlite3
+import json
 import os
 from tqdm import tqdm
 import unicodedata
 
+stats = {
+    "medicaments":
+        conn.execute(
+            "SELECT COUNT(*) FROM medicaments"
+        ).fetchone()[0],
+
+    "presentations":
+        conn.execute(
+            "SELECT COUNT(*) FROM presentations"
+        ).fetchone()[0],
+
+    "compositions":
+        conn.execute(
+            "SELECT COUNT(*) FROM compositions"
+        ).fetchone()[0]
+}
+
+print(stats)
 class PharmaDataPipeline:
     def __init__(self, db_name="bdpm.db", data_dir="files"):
         self.db_name = db_name

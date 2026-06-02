@@ -1,5 +1,8 @@
 # <p align="center">💊 BDPM Database - Pipeline ETL & Analyse BDPM</p>
 
+![Update BDPM](https://github.com/matthieugraziani/bdpm-database/actions/workflows/update_bdpm.yml/badge.svg)
+
+
 Pipeline de traitement de données et application d’analyse construits à partir de la Base de Données Publique des Médicaments (BDPM).
 Ce projet met en œuvre un processus complet d’ingestion, transformation et structuration de données pharmaceutiques dans une base SQLite optimisée pour l’analyse et la visualisation.
 
