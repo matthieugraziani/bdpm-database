@@ -115,13 +115,6 @@ class PharmaDataPipeline:
 
     def close(self):
         self.conn.close()
-
-        # Remplacement atomique : on écrase la base finale seulement si
-        # tout s'est bien passé
-        if os.path.exists(self.db_name):
-            os.remove(self.db_name)
-        os.rename(self.tmp_db_name, self.db_name)
-
         print("🏁 Pipeline terminé avec succès.")
 
 
