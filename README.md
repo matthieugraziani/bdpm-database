@@ -1,9 +1,14 @@
 # <p align="center">💊 BDPM Database - Pipeline ETL & Analyse BDPM</p>
 
 ![Update BDPM](https://github.com/matthieugraziani/bdpm-database/actions/workflows/update_bdpm.yml/badge.svg)
+![Python](https://img.shields.io/badge/python-3.10%2B-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+![Data Source](https://img.shields.io/badge/source-data.gouv.fr-blue)
 
 Pipeline de traitement de données et application d'analyse construits à partir de la Base de Données Publique des Médicaments (BDPM).
 Ce projet met en œuvre un processus complet d'ingestion, transformation et structuration de données pharmaceutiques dans une base SQLite optimisée pour l'analyse et la visualisation.
+
+> 🔄 **Les données BDPM sont automatiquement mises à jour** via un pipeline CI/CD GitHub Actions — aucune intervention manuelle requise.
 
 ---
 
@@ -22,9 +27,88 @@ Le projet vise à démontrer :
 
 ---
 
+# 🔄 Mise à jour automatique des données (Auto-Update)
+
+Le projet intègre un pipeline de mise à jour automatique du dataset BDPM, orchestré via **GitHub Actions**.
+
+### ⚙️ Fonctionnement
+
+```
+GitHub Actions (cron / manuel)
+        │
+        ▼
+update_bdpm.py          ← télécharge les fichiers BDPM depuis data.gouv.fr
+        │
+        ▼
+data/*.txt              ← fichiers source mis à jour
+        │
+        ▼
+database.py             ← régénère bdpm.db via le pipeline ETL
+        │
+        ▼
+bdpm.db                 ← base SQLite à jour, commitée dans le repo
+```
+
+### 📅 Déclenchement
+
+| Mode | Détail |
+|------|--------|
+| ⏰ Planifié | Exécution automatique (ex. hebdomadaire via `cron`) |
+| ▶️ Manuel | Déclenchable depuis l'onglet **Actions** de GitHub (`workflow_dispatch`) |
+
+### 📄 Fichier de workflow : `.github/workflows/update_bdpm.yml`
+
+```yaml
+name: Update BDPM
+
+on:
+  schedule:
+    - cron: "0 3 * * 1"   # Chaque lundi à 3h UTC
+  workflow_dispatch:        # Déclenchement manuel possible
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-python@v4
+        with:
+          python-version: "3.10"
+      - run: pip install -r requirements.txt
+      - run: python update_bdpm.py      # Télécharge les fichiers BDPM
+      - run: python database.py         # Régénère bdpm.db
+      - name: Commit & Push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/ bdpm.db
+          git commit -m "chore: update BDPM dataset $(date +'%Y-%m-%d')" || echo "No changes"
+          git push
+```
+
+### 📥 Script de téléchargement : `update_bdpm.py`
+
+Le script `update_bdpm.py` interroge l'API de **data.gouv.fr** pour récupérer les derniers fichiers BDPM disponibles et les place dans le dossier `data/` :
+
+- `CIS_bdpm.txt` — Médicaments
+- `CIS_CIP_bdpm.txt` — Présentations commerciales
+- `CIS_COMPO_bdpm.txt` — Compositions / substances actives
+- `CIS_CPD_bdpm.txt` — Conditions de prescription
+- `CIS_GENER_bdpm.txt` — Relations génériques
+
+> ℹ️ En cas d'échec du téléchargement (réseau, indisponibilité API), le pipeline conserve les fichiers existants et logue une erreur sans écraser la base précédente (écriture atomique via `bdpm.db.tmp`).
+
+---
+
 # 🏗️ Architecture
 
 ```
+GitHub Actions (cron / workflow_dispatch)
+        │
+        ▼
+update_bdpm.py          ← téléchargement automatique depuis data.gouv.fr
+        │
+        ▼
 Fichiers BDPM (.txt)
         │
         ▼
@@ -50,7 +134,7 @@ bdpm-database/
 ├── tests/                      # Tests unitaires du pipeline ETL
 ├── data/                       # Fichiers BDPM source (.txt)            
 ├── database.py                 # Pipeline ETL (PharmaDataPipeline)
-├── update_bdpm.py              # Mise a jour automatique de la BDPM
+├── update_bdpm.py              # Téléchargement automatique des fichiers BDPM (data.gouv.fr)
 ├── app.py                      # Application Streamlit
 ├── bdpm.db                     # Base SQLite générée
 ├── requirements.txt
@@ -64,6 +148,8 @@ bdpm-database/
 Données issues de la :
 
 [Base de Données Publique des Médicaments (BDPM) – data.gouv.fr](https://www.data.gouv.fr/fr/datasets/base-de-donnees-publique-des-medicaments/)
+
+> 🔄 Les fichiers sont **téléchargés et mis à jour automatiquement** via `update_bdpm.py` et le workflow GitHub Actions `update_bdpm.yml`.
 
 La base comprend notamment :
 - Médicaments (CIS)
