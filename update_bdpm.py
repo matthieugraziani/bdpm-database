@@ -10,8 +10,7 @@ DATASET_URL = (
 )
 
 META_FILE = Path(".bdpm_meta.json")
-FILES_DIR = Path("files")
-
+FILES_DIR = Path("data")
 # Fichiers attendus par ton ETL
 EXPECTED_FILES = {
     "CIS_bdpm.txt",
