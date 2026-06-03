@@ -16,7 +16,7 @@ Ce projet met en œuvre un processus complet d'ingestion, transformation et stru
 
 Concevoir un pipeline ETL robuste permettant d'ingérer, nettoyer, structurer et optimiser les données issues de la :
 
-[Base de Données Publique des Médicaments (BDPM) – data.gouv.fr](https://www.data.gouv.fr/fr/datasets/base-de-donnees-publique-des-medicaments/)
+[Base de Données Publique des Médicaments (BDPM) – data.gouv.fr](https://www.data.gouv.fr/datasets/base-de-donnees-publique-des-medicaments-base-officielle)
 
 Le projet vise à démontrer :
 - Conception d'un pipeline de transformation de données
@@ -147,7 +147,7 @@ bdpm-database/
 
 Données issues de la :
 
-[Base de Données Publique des Médicaments (BDPM) – data.gouv.fr](https://www.data.gouv.fr/fr/datasets/base-de-donnees-publique-des-medicaments/)
+[Base de Données Publique des Médicaments (BDPM) – data.gouv.fr](https://www.data.gouv.fr/datasets/base-de-donnees-publique-des-medicaments-base-officielle)
 
 > 🔄 Les fichiers sont **téléchargés et mis à jour automatiquement** via `update_bdpm.py` et le workflow GitHub Actions `update_bdpm.yml`.
 
@@ -218,9 +218,9 @@ pip install -r requirements.txt
 
 **4️⃣ Placer les fichiers BDPM**
 
-Télécharger les fichiers `.txt` depuis [data.gouv.fr](https://www.data.gouv.fr/fr/datasets/base-de-donnees-publique-des-medicaments/) et les placer dans le dossier `data/` :
+Télécharger les fichiers `.txt` depuis [data.gouv.fr](https://www.data.gouv.fr/datasets/base-de-donnees-publique-des-medicaments-base-officielle) et les placer dans le dossier `data/` :
 ```
-files/
+data/
 ├── CIS_bdpm.txt
 ├── CIS_CIP_bdpm.txt
 ├── CIS_COMPO_bdpm.txt
