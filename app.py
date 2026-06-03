@@ -13,7 +13,7 @@ st.set_page_config(page_title="Analyse Marché Pharma", layout="wide")
 # ---------------------------------------------------
 # CONNEXION BDD  (context manager → fermeture garantie)
 # ---------------------------------------------------
-DB_PATH = Path(__file__).resolve().parent / "bdpm.db"
+DB_PATH = Path(__file__).resolve().parent / "data" / "bdpm.db"
 
 @st.cache_resource
 def get_connection():
@@ -41,12 +41,12 @@ df["PRIX"] = pd.to_numeric(df["PRIX"], errors="coerce")
 # ---------------------------------------------------
 # SIDEBAR — version BDPM
 # ---------------------------------------------------
-meta_file = Path(".bdpm_meta.json")
+meta_file = Path("data") / ".bdpm_meta.json"
 if meta_file.exists():
     meta = json.loads(meta_file.read_text())
     st.sidebar.success(f"BDPM mise à jour : {meta['version']}")
     
-with open(".bdpm_meta.json") as f:
+with open("data/.bdpm_meta.json") as f:
     meta = json.load(f)
 
 st.sidebar.info(
