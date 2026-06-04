@@ -26,8 +26,8 @@ def get_dataset():
     return r.json()
 
 
-def get_remote_version(dataset):
-    return dataset.get("last_update")
+def get_remote_version(dataset_info):
+    return dataset_info.get("last_update")
 
 
 def get_local_version():
@@ -43,10 +43,10 @@ def save_version(version):
         json.dump({"version": version}, f, indent=2)
 
 
-def download_resources(dataset):
+def download_resources(dataset_info):
     FILES_DIR.mkdir(exist_ok=True)
 
-    resources = dataset.get("resources", [])
+    resources = dataset_info.get("resources", [])
 
     for resource in resources:
         url = resource.get("url")
