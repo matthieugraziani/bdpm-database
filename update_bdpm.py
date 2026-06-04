@@ -5,12 +5,13 @@ from pathlib import Path
 import requests
 
 DATASET_URL = (
-    "https://www.data.gouv.fr/api/1/datasets/base-de-donnees-publique-des-medicaments-base-officielle/"
+    "https://www.data.gouv.fr/api/1/datasets/"
+    "base-de-donnees-publique-des-medicaments-base-officielle/"
 )
 
 META_FILE = Path(".bdpm_meta.json")
 FILES_DIR = Path("data")
-# Fichiers attendus par ton ETL
+
 EXPECTED_FILES = {
     "CIS_bdpm.txt",
     "CIS_CIP_bdpm.txt",
@@ -21,8 +22,13 @@ EXPECTED_FILES = {
 
 
 def get_dataset():
-    r = requests.get(DATASET_URL, timeout=30)
+    headers = {"User-Agent": "ETL-BDPM/1.0"}
+    r = requests.get(DATASET_URL, headers=headers, timeout=30)
     r.raise_for_status()
+
+    if not r.text.strip():
+        raise ValueError(f"Réponse vide (status {r.status_code})")
+
     return r.json()
 
 
@@ -33,7 +39,6 @@ def get_remote_version(dataset_info):
 def get_local_version():
     if not META_FILE.exists():
         return None
-
     with open(META_FILE, "r", encoding="utf-8") as f:
         return json.load(f).get("version")
 
@@ -48,24 +53,46 @@ def download_resources(dataset_info):
 
     resources = dataset_info.get("resources", [])
 
+    # Debug : affiche toutes les ressources disponibles
+    print(f"Ressources trouvées : {len(resources)}")
+    for r in resources:
+        print(f"  → title: {r.get('title')!r} | url: {r.get('url','')}")
+
+    downloaded = set()
+
     for resource in resources:
-        url = resource.get("url")
+        url = resource.get("url", "")
+        title = resource.get("title", "")
 
         if not url:
             continue
 
-        filename = resource.get("title", "")
+        # ✅ Cherche le nom de fichier attendu dans le title OU dans l'URL
+        matched_file = None
+        for expected in EXPECTED_FILES:
+            if expected in title or expected in url:
+                matched_file = expected
+                break
 
-        if filename not in EXPECTED_FILES:
+        if not matched_file:
             continue
 
-        print(f"Téléchargement : {filename}")
+        print(f"Téléchargement : {matched_file}  ({url})")
 
-        r = requests.get(url, timeout=300)
+        r = requests.get(url, headers={"User-Agent": "ETL-BDPM/1.0"}, timeout=300)
         r.raise_for_status()
 
-        with open(FILES_DIR / filename, "wb") as f:
+        with open(FILES_DIR / matched_file, "wb") as f:
             f.write(r.content)
+
+        downloaded.add(matched_file)
+
+    # Vérifie qu'on a bien tout téléchargé
+    missing = EXPECTED_FILES - downloaded
+    if missing:
+        raise RuntimeError(f"Fichiers non trouvés dans le dataset : {missing}")
+
+    print(f"✅ {len(downloaded)} fichiers téléchargés.")
 
 
 def run_etl():
@@ -74,7 +101,6 @@ def run_etl():
 
 
 if __name__ == "__main__":
-
     dataset = get_dataset()
 
     remote_version = get_remote_version(dataset)
@@ -88,9 +114,7 @@ if __name__ == "__main__":
         raise SystemExit(0)
 
     download_resources(dataset)
-
     run_etl()
-
     save_version(remote_version)
 
     print("Mise à jour terminée")
