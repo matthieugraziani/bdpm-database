@@ -5,7 +5,7 @@ from pathlib import Path
 import requests
 
 DATASET_URL = (
-    "https://www.data.gouv.fr/api/1/datasets/r/056b6732-cbaf-447f-9f20-e3b5f655919a"
+    "https://www.data.gouv.fr/api/1/datasets/base-de-donnees-publique-des-medicaments-base-officielle/"
 )
 
 META_FILE = Path(".bdpm_meta.json")
