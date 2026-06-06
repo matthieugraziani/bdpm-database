@@ -51,46 +51,29 @@ def save_version(version):
 def download_resources(dataset_info):
     FILES_DIR.mkdir(exist_ok=True)
 
-    resources = dataset_info.get("resources", [])
-
-    # Debug : affiche toutes les ressources disponibles
-    print(f"Ressources trouvées : {len(resources)}")
-    for r in resources:
-        print(f"  → title: {r.get('title')!r} | url: {r.get('url','')}")
+    BASE_URL = (
+        "https://base-donnees-publique.medicaments.gouv.fr/"
+        "telechargement.php?fichier={}"
+    )
 
     downloaded = set()
 
-    for resource in resources:
-        url = resource.get("url", "")
-        title = resource.get("title", "")
+    for filename in EXPECTED_FILES:
+        url = BASE_URL.format(filename)
 
-        if not url:
-            continue
+        print(f"Téléchargement : {filename}")
 
-        # ✅ Cherche le nom de fichier attendu dans le title OU dans l'URL
-        matched_file = None
-        for expected in EXPECTED_FILES:
-            if expected in title or expected in url:
-                matched_file = expected
-                break
-
-        if not matched_file:
-            continue
-
-        print(f"Téléchargement : {matched_file}  ({url})")
-
-        r = requests.get(url, headers={"User-Agent": "ETL-BDPM/1.0"}, timeout=300)
+        r = requests.get(
+            url,
+            headers={"User-Agent": "ETL-BDPM/1.0"},
+            timeout=300,
+        )
         r.raise_for_status()
 
-        with open(FILES_DIR / matched_file, "wb") as f:
+        with open(FILES_DIR / filename, "wb") as f:
             f.write(r.content)
 
-        downloaded.add(matched_file)
-
-    # Vérifie qu'on a bien tout téléchargé
-    missing = EXPECTED_FILES - downloaded
-    if missing:
-        raise RuntimeError(f"Fichiers non trouvés dans le dataset : {missing}")
+        downloaded.add(filename)
 
     print(f"✅ {len(downloaded)} fichiers téléchargés.")
 
