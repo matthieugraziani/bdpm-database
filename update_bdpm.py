@@ -1,5 +1,6 @@
 import json
 import subprocess
+import sys
 from pathlib import Path
 from urllib.parse import urljoin
 from bs4 import BeautifulSoup
@@ -10,7 +11,7 @@ DATASET_URL = (
     "base-de-donnees-publique-des-medicaments-base-officielle/"
 )
 
-META_FILE = Path(".bdpm_meta.json")
+META_FILE = Path("data") / ".bdpm_meta.json"
 FILES_DIR = Path("data")
 
 EXPECTED_FILES = {
@@ -108,7 +109,7 @@ def download_resources():
 
 def run_etl():
     print("Construction de bdpm.db...")
-    subprocess.run(["python", "database.py"], check=True)
+    subprocess.run([sys.executable, "database.py"], check=True)
 
 
 if __name__ == "__main__":

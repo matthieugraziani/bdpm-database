@@ -9,7 +9,7 @@ import unicodedata
 
 
 class PharmaDataPipeline:
-    def __init__(self, db_name="bdpm.db", data_dir="data"):
+    def __init__(self, db_name="data/bdpm.db", data_dir="data"):
         self.db_name = db_name
         self.data_dir = data_dir
 
