@@ -49,7 +49,7 @@ def save_version(version):
         json.dump({"version": version}, f, indent=2)
 
 
-def download_resources(dataset_info=None):
+def download_resources():
     """
     Télécharge les fichiers BDPM depuis la page officielle
     https://base-donnees-publique.medicaments.gouv.fr/telechargement
@@ -72,6 +72,7 @@ def download_resources(dataset_info=None):
 
     # Recherche de tous les liens de téléchargement
     for link in soup.find_all("a", href=True):
+        print(link.get_text(strip=True), "->", link["href"])
         href = link["href"]
 
         for expected in EXPECTED_FILES:
@@ -123,7 +124,7 @@ if __name__ == "__main__":
         print("BDPM déjà à jour")
         raise SystemExit(0)
 
-    download_resources(dataset)
+    download_resources()
     run_etl()
     save_version(remote_version)
 
