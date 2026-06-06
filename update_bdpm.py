@@ -1,7 +1,8 @@
 import json
 import subprocess
 from pathlib import Path
-
+from urllib.parse import urljoin
+from bs4 import BeautifulSoup
 import requests
 
 DATASET_URL = (
@@ -48,32 +49,58 @@ def save_version(version):
         json.dump({"version": version}, f, indent=2)
 
 
-def download_resources(dataset_info):
+def download_resources(dataset_info=None):
+    """
+    Télécharge les fichiers BDPM depuis la page officielle
+    https://base-donnees-publique.medicaments.gouv.fr/telechargement
+    """
+
     FILES_DIR.mkdir(exist_ok=True)
 
-    BASE_URL = (
-        "https://base-donnees-publique.medicaments.gouv.fr/"
-        "telechargement.php?fichier={}"
-    )
+    BASE_URL = "https://base-donnees-publique.medicaments.gouv.fr"
+    PAGE_URL = f"{BASE_URL}/telechargement"
+
+    headers = {"User-Agent": "ETL-BDPM/1.0"}
+
+    # Récupération de la page de téléchargement
+    response = requests.get(PAGE_URL, headers=headers, timeout=30)
+    response.raise_for_status()
+
+    soup = BeautifulSoup(response.text, "html.parser")
 
     downloaded = set()
 
-    for filename in EXPECTED_FILES:
-        url = BASE_URL.format(filename)
+    # Recherche de tous les liens de téléchargement
+    for link in soup.find_all("a", href=True):
+        href = link["href"]
 
-        print(f"Téléchargement : {filename}")
+        for expected in EXPECTED_FILES:
+            if expected.lower() in href.lower():
+                url = urljoin(BASE_URL, href)
 
-        r = requests.get(
-            url,
-            headers={"User-Agent": "ETL-BDPM/1.0"},
-            timeout=300,
+                print(f"Téléchargement : {expected}")
+                print(f"  -> {url}")
+
+                r = requests.get(
+                    url,
+                    headers=headers,
+                    timeout=300,
+                    allow_redirects=True,
+                )
+                r.raise_for_status()
+
+                with open(FILES_DIR / expected, "wb") as f:
+                    f.write(r.content)
+
+                downloaded.add(expected)
+                break
+
+    missing = EXPECTED_FILES - downloaded
+
+    if missing:
+        raise RuntimeError(
+            f"Fichiers introuvables sur la page de téléchargement : {missing}"
         )
-        r.raise_for_status()
-
-        with open(FILES_DIR / filename, "wb") as f:
-            f.write(r.content)
-
-        downloaded.add(filename)
 
     print(f"✅ {len(downloaded)} fichiers téléchargés.")
 
