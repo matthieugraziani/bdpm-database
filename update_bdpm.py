@@ -3,7 +3,7 @@ import subprocess
 import sys
 from pathlib import Path
 from urllib.parse import urljoin
-from bs4 import BeautifulSoup
+from bs4 import BeautifulSoup, Tag
 import requests
 
 DATASET_URL = (
@@ -73,8 +73,14 @@ def download_resources():
 
     # Recherche de tous les liens de téléchargement
     for link in soup.find_all("a", href=True):
-        print(link.get_text(strip=True), "->", link["href"])
-        href = link["href"]
+        if not isinstance(link, Tag):
+            continue
+
+        href = link.get("href")
+        if href is None:
+            continue
+        href = str(href)
+        print(link.get_text(strip=True), "->", href)
 
         for expected in EXPECTED_FILES:
             if expected.lower() in href.lower():

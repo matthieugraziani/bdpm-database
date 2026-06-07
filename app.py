@@ -26,11 +26,11 @@ conn = get_connection()
 # ---------------------------------------------------
 @st.cache_data
 def load_data():
-    df_cis   = pd.read_sql("SELECT * FROM medicaments",            conn)
-    df_cip   = pd.read_sql("SELECT * FROM presentations",          conn)
-    df_compo = pd.read_sql("SELECT * FROM compositions",           conn)
-    df_gener = pd.read_sql("SELECT * FROM generiques",             conn)
-    return df_cis, df_cip, df_compo, df_gener
+    cis_df   = pd.read_sql("SELECT * FROM medicaments",            conn)
+    cip_df   = pd.read_sql("SELECT * FROM presentations",          conn)
+    compo_df = pd.read_sql("SELECT * FROM compositions",           conn)
+    gener_df = pd.read_sql("SELECT * FROM generiques",             conn)
+    return cis_df, cip_df, compo_df, gener_df
 
 df_cis, df_cip, df_compo, df_gener = load_data()
 
@@ -46,7 +46,7 @@ if meta_file.exists():
     meta = json.loads(meta_file.read_text())
     st.sidebar.success(f"BDPM mise à jour : {meta['version']}")
     
-with open("data/.bdpm_meta.json") as f:
+with open("data/.bdpm_meta.json", encoding="utf-8") as f:
     meta = json.load(f)
 
 st.sidebar.info(
