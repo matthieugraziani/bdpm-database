@@ -139,7 +139,7 @@ with tabs[0]:
         y="NB",
         title="Top 10 Laboratoires",
     )
-    st.plotly_chart(fig, use_container_width=True)   # corrigé : width='stretch' → use_container_width
+    st.plotly_chart(fig, width='stretch')   # corrigé : width='stretch' → use_container_width
 
     top5         = df_lab.head(5)["NB"].sum()
     total        = df_lab["NB"].sum()
@@ -163,7 +163,7 @@ with tabs[1]:
         hover_name="TITULAIRES",
         title="Positionnement Laboratoires (Volume vs Prix)"
     )
-    st.plotly_chart(fig, use_container_width=True)
+    st.plotly_chart(fig, width='stretch')
 
 # ===================================================
 # 🧪 ONGLET 3 : MOLÉCULES
@@ -178,7 +178,7 @@ with tabs[2]:
         y="NB",
         title="Top 10 Substances Actives"
     )
-    st.plotly_chart(fig, use_container_width=True)
+    st.plotly_chart(fig, width='stretch')
 
     intensite = round(df_sub["NB"].mean(), 1)
     st.metric("📈 Intensité concurrentielle moyenne", intensite)
@@ -198,7 +198,7 @@ with tabs[3]:
             values="NB",
             title="Top 20 Groupes Génériques par Nombre de Spécialités"
         )
-        st.plotly_chart(fig, use_container_width=True)
+        st.plotly_chart(fig, width='stretch')
 
         # Taux de pénétration : part des médicaments appartenant à un groupe générique
         cis_avec_generique = df_gener["CIS_GEN"].nunique()
@@ -229,7 +229,7 @@ with tabs[4]:
         nbins=50,
         title="Distribution des Prix"
     )
-    st.plotly_chart(fig, use_container_width=True)
+    st.plotly_chart(fig, width='stretch')
 
     # Indice HHI (df_lab calculé dans l'onglet 1 — recalcul local pour robustesse)
     _df_lab = df_cis["TITULAIRES"].value_counts().reset_index()
