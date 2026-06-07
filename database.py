@@ -2,7 +2,6 @@ from pathlib import Path
 import pandas as pd
 import sqlite3
 import os
-from tqdm import tqdm
 import unicodedata
 
 # Note: import 'json' supprimé (inutilisé)
@@ -103,15 +102,15 @@ class PharmaDataPipeline:
     def get_stats(self):
         """Retourne un dict avec le nombre de lignes des tables principales."""
         tables = ["medicaments", "presentations", "compositions"]
-        stats = {}
-        for table in tables:
+        counts = {}
+        for table_name in tables:
             try:
-                stats[table] = self.conn.execute(
-                    f"SELECT COUNT(*) FROM {table}"
+                counts[table_name] = self.conn.execute(
+                    f"SELECT COUNT(*) FROM {table_name}"
                 ).fetchone()[0]
             except sqlite3.Error:
-                stats[table] = 0
-        return stats
+                counts[table_name] = 0
+        return counts
 
     def close(self):
         self.conn.close()
