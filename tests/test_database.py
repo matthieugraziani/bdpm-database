@@ -3,7 +3,6 @@ import sqlite3
 import pandas as pd
 import tempfile
 import os
-from pathlib import Path
 from database import PharmaDataPipeline
 
 
@@ -37,11 +36,9 @@ class TestPharmaDataPipeline:
         """Test that pipeline removes old database before creating new one"""
         # Create initial database
         PharmaDataPipeline(db_name=temp_db, data_dir=temp_data_dir).close()
-        initial_stat = os.stat(temp_db)
-        
+
         # Create new pipeline - should remove and recreate
         pipeline = PharmaDataPipeline(db_name=temp_db, data_dir=temp_data_dir)
-        new_stat = os.stat(temp_db)
         
         # New database should be created (smaller initially)
         assert os.path.exists(temp_db)
@@ -52,12 +49,14 @@ class TestPharmaDataPipeline:
         pipeline = PharmaDataPipeline(db_name=temp_db, data_dir=temp_data_dir)
         
         # Test cases
+        # pylint: disable=protected-access
         assert pipeline._remove_accents("café") == "cafe"
         assert pipeline._remove_accents("naïve") == "naive"
         assert pipeline._remove_accents("résumé") == "resume"
         assert pipeline._remove_accents("normal") == "normal"
         assert pipeline._remove_accents(None) is None
         assert pipeline._remove_accents(123) == 123
+        # pylint: enable=protected-access
         
         pipeline.close()
     
