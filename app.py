@@ -100,8 +100,10 @@ if meta_file.exists():
 else:
     st.sidebar.warning("⚠️ Métadonnées absentes")
 
+# --- Remplacement des lignes 102 à 105 ---
 st.sidebar.divider()
-st.sidebar.page_link(page="app.py", label="Tableau de bord principal", icon="📈")
+st.sidebar.markdown("✨ **Navigation**")
+st.sidebar.info("🏠 Tableau de bord principal")
 
 # ---------------------------------------------------
 # EN-TÊTE PRINCIPALE
