@@ -10,7 +10,7 @@ import json
 # CONFIGURATION PAGE (Style global & responsive)
 # ---------------------------------------------------
 st.set_page_config(
-    page_title="PharmaIntelligence | Business Intelligence",
+    page_title="BDPM-Database | Business Intelligence",
     page_icon="📊",
     layout="wide",
     initial_sidebar_state="expanded"
