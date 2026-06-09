@@ -255,27 +255,21 @@ with tabs[3]:
     
     if not df_gener.empty:
         # 1. Cartographie et traduction des codes statuts (0, 1, 2, 3, 4)
-        # On s'assure que la colonne du statut existe (souvent nommée 'TYPE_GEN', 'STATUT_CODE' ou 'TYPE_PRODUIT' selon votre import)
-        # Adapté ici avec une détection ou création de fallback
-        
         statut_col = None
         for col_name in ["TYPE_GEN", "STATUT", "STATUT_CODE", "CODE_TYPE"]:
             if col_name in df_gener.columns:
                 statut_col = col_name
                 break
         
-        # Si la colonne n'est pas trouvée, on simule une colonne basée sur vos observations (0, 1, 2, 3, 4) pour l'exemple
-        # À adapter avec le vrai nom de votre colonne numérique si nécessaire
         if not statut_col:
-            # On cherche s'il y a une colonne numérique avec des petites valeurs
             numeric_cols = df_gener.select_dtypes(include=['number']).columns
             if len(numeric_cols) > 0:
                 statut_col = numeric_cols[0]
             else:
-                df_gener["STATUT_CODE"] = 1 # Fallback
+                df_gener["STATUT_CODE"] = 1
                 statut_col = "STATUT_CODE"
 
-        # Dictionnaire officiel de correspondance / interprétation des statuts marché
+        # Dictionnaire officiel de correspondance
         mapping_statuts = {
             0: "👑 Princeps (Médicament de référence)",
             1: "🧬 Générique standard",
@@ -284,7 +278,6 @@ with tabs[3]:
             4: "🔄 Autre type de substitut économique"
         }
         
-        # Application du mapping pour un rendu professionnel
         df_gener["Statut_Identifie"] = df_gener[statut_col].map(mapping_statuts).fillna(f"Code {df_gener[statut_col]} (Autre statut)")
 
         # --- MISE EN PAGE DES MÉTRIQUES ---
@@ -296,38 +289,32 @@ with tabs[3]:
         
         col_m1.metric("🧬 Spécialités Générifiées", f"{cis_avec_generique:,}".replace(',', ' '))
         col_m2.metric("📈 Taux de Pénétration", f"{taux_gen} %")
-        col_m3.metric("🗂️ Groupes Génériques Distincts", f"{df_gener['DENOMINATION_GEN'].nunique():,}".replace(',', ' '))
-
-        st.divider()
-
-        # --- SECTION GRAPHIQUES ÉTOFFÉE ---
-        col_g1, col_g2 = st.columns(2)
         
-        with col_g1:
-            st.markdown(f"#### 📊 Répartition des rôles dans le répertoire ({statut_col})")
-            df_status_count = df_gener["Statut_Identifie"].value_counts().reset_index()
-            df_status_count.columns = ["Statut", "Nombre"]
-            
-            fig_statut = px.bar(
-                df_status_count, x="Nombre", y="Statut", orientation='h',
-                color="Statut", template=plotly_template,
-                color_discrete_sequence=px.colors.sequential.Tealgrn_r
-            )
-            fig_statut.update_layout(showlegend=False, height=380, yaxis={'categoryorder':'total ascending'})
-            st.plotly_chart(fig_statut, use_container_width=True)
-            
-        with col_g2:
-            st.markdown("#### 🍩 Top 10 des Groupes Génériques les plus denses")
-            df_gen_count = df_gener["DENOMINATION_GEN"].value_counts().reset_index()
-            df_gen_count.columns = ["Groupes", "Nombre de spécialités"]
-            
-            fig_pie_gen = px.pie(
-                df_gen_count.head(10), names="Groupes", values="Nombre de spécialités",
-                hole=0.4, template=plotly_template,
-                color_discrete_sequence=px.colors.sequential.Blues_r
-            )
-            fig_pie_gen.update_layout(height=380, margin=dict(l=20, r=20, t=20, b=20))
-            st.plotly_chart(fig_pie_gen, use_container_width=True)
+        # Insertion des descriptifs directement dans l'aide (help) ou sous la métrique
+        # On utilise une astuce markdown propre pour lister la signification des codes 0 à 4
+        legende_codes = (
+            "**Signification des codes du répertoire :**\n\n"
+            "- **0** : Princeps (L'original de référence)\n"
+            "- **1** : Générique standard\n"
+            "- **2** : Générique biologique (Biosimilaire)\n"
+            "- **3** : Générique assimilé / Équivalent\n"
+            "- **4** : Autre substitut économique"
+        )
+        
+        # On affiche le nombre de groupes distincts et on injecte le descriptif au survol de la souris (le point d'interrogation)
+        col_m3.metric(
+            label="🗂️ Groupes Génériques", 
+            value=f"{df_gener['DENOMINATION_GEN'].nunique():,}".replace(',', ' '),
+            help=legende_codes
+        )
+
+        # En plus de la bulle d'aide, on met un petit encadré discret pour une lecture immédiate sans survol :
+        st.markdown("""
+        <small style='color: #64748b;'>
+        💡 <b>Légende des statuts du répertoire :</b> 
+        0 = Princeps | 1 = Générique | 2 = Biosimilaire | 3 = Équivalent | 4 = Autre substitut
+        </small>
+        """, unsafe_allow_html=True)
 
         st.divider()
 
