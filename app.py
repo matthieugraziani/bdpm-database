@@ -86,24 +86,27 @@ except Exception as e:
 # ---------------------------------------------------
 # SIDEBAR MÉTADONNÉES
 # ---------------------------------------------------
+# ---------------------------------------------------
+# SIDEBAR MÉTADONNÉES (Nettoyée et efficace)
+# ---------------------------------------------------
 meta_file = Path(__file__).resolve().parent / "data" / ".bdpm_meta.json"
-st.sidebar.title("🧬 BDPM-Database v1.0")
+
+st.sidebar.title("🧬 BDPM - Database v1.0")
 
 if meta_file.exists():
     try:
         with open(meta_file, encoding="utf-8") as f:
             meta = json.load(f)
-        st.sidebar.caption(f"**Base de données :** BDPM Officielle")
-        st.sidebar.caption(f"**Dernière MAJ :** {meta.get('version', 'Inconnue')}")
+        st.sidebar.markdown("### 📊 État du système")
+        st.sidebar.caption(f"**Source :** BDPM Officielle (ANSM)")
+        st.sidebar.caption(f"**Version :** {meta.get('version', 'Inconnue')}")
     except:
-        st.sidebar.warning("Erreur de lecture des métadonnées")
+        st.sidebar.warning("⚠️ Erreur de lecture des métadonnées")
 else:
-    st.sidebar.warning("⚠️ Métadonnées absentes")
+    st.sidebar.warning("⚠️ Métadonnées absolues introuvables")
 
-# --- Remplacement des lignes 102 à 105 ---
 st.sidebar.divider()
-st.sidebar.markdown("✨ **Navigation**")
-st.sidebar.info("🏠 Tableau de bord principal")
+st.sidebar.caption("💡 Utilisez les onglets supérieurs pour naviguer entre les différentes analyses économiques et structurelles.")
 
 # ---------------------------------------------------
 # EN-TÊTE PRINCIPALE
