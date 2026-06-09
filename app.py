@@ -15,21 +15,13 @@ st.set_page_config(page_title="Analyse Marché Pharma", layout="wide")
 # ---------------------------------------------------
 DB_PATH = Path(__file__).resolve().parent / "data" / "bdpm.db"
 
-@st.cache_resource
-def get_connection():
-    return sqlite3.connect(DB_PATH, check_same_thread=False)
-
-conn = get_connection()
-
-# ---------------------------------------------------
-# CHARGEMENT DES DONNÉES
-# ---------------------------------------------------
 @st.cache_data
 def load_data():
-    cis_df   = pd.read_sql("SELECT * FROM medicaments",            conn)
-    cip_df   = pd.read_sql("SELECT * FROM presentations",          conn)
-    compo_df = pd.read_sql("SELECT * FROM compositions",           conn)
-    gener_df = pd.read_sql("SELECT * FROM generiques",             conn)
+    with sqlite3.connect(DB_PATH) as conn:
+        cis_df   = pd.read_sql("SELECT * FROM medicaments",  conn)
+        cip_df   = pd.read_sql("SELECT * FROM presentations", conn)
+        compo_df = pd.read_sql("SELECT * FROM compositions",  conn)
+        gener_df = pd.read_sql("SELECT * FROM generiques",   conn)
     return cis_df, cip_df, compo_df, gener_df
 
 df_cis, df_cip, df_compo, df_gener = load_data()
@@ -41,17 +33,14 @@ df["PRIX"] = pd.to_numeric(df["PRIX"], errors="coerce")
 # ---------------------------------------------------
 # SIDEBAR — version BDPM
 # ---------------------------------------------------
-meta_file = Path("data") / ".bdpm_meta.json"
-if meta_file.exists():
-    meta = json.loads(meta_file.read_text())
-    st.sidebar.success(f"BDPM mise à jour : {meta['version']}")
-    
-with open("data/.bdpm_meta.json", encoding="utf-8") as f:
-    meta = json.load(f)
+meta_file = Path(__file__).resolve().parent / "data" / ".bdpm_meta.json"
 
-st.sidebar.info(
-    f"Dernière mise à jour : {meta['version']}"
-)
+if meta_file.exists():
+    with open(meta_file, encoding="utf-8") as f:
+        meta = json.load(f)
+    st.sidebar.info(f"Dernière mise à jour : {meta['version']}")
+else:
+    st.sidebar.warning("Métadonnées indisponibles")
 # ---------------------------------------------------
 # TITRE & STYLE
 # ---------------------------------------------------
@@ -139,7 +128,7 @@ with tabs[0]:
         y="NB",
         title="Top 10 Laboratoires",
     )
-    st.plotly_chart(fig, width='stretch')   # corrigé : width='stretch' → use_container_width
+    st.plotly_chart(fig)
 
     top5         = df_lab.head(5)["NB"].sum()
     total        = df_lab["NB"].sum()
@@ -163,7 +152,7 @@ with tabs[1]:
         hover_name="TITULAIRES",
         title="Positionnement Laboratoires (Volume vs Prix)"
     )
-    st.plotly_chart(fig, width='stretch')
+    st.plotly_chart(fig)
 
 # ===================================================
 # 🧪 ONGLET 3 : MOLÉCULES
@@ -178,7 +167,7 @@ with tabs[2]:
         y="NB",
         title="Top 10 Substances Actives"
     )
-    st.plotly_chart(fig, width='stretch')
+    st.plotly_chart(fig)
 
     intensite = round(df_sub["NB"].mean(), 1)
     st.metric("📈 Intensité concurrentielle moyenne", intensite)
@@ -198,7 +187,7 @@ with tabs[3]:
             values="NB",
             title="Top 20 Groupes Génériques par Nombre de Spécialités"
         )
-        st.plotly_chart(fig, width='stretch')
+        st.plotly_chart(fig)
 
         # Taux de pénétration : part des médicaments appartenant à un groupe générique
         cis_avec_generique = df_gener["CIS_GEN"].nunique()
@@ -229,7 +218,7 @@ with tabs[4]:
         nbins=50,
         title="Distribution des Prix"
     )
-    st.plotly_chart(fig, width='stretch')
+    st.plotly_chart(fig)
 
     # Indice HHI (df_lab calculé dans l'onglet 1 — recalcul local pour robustesse)
     _df_lab = df_cis["TITULAIRES"].value_counts().reset_index()
