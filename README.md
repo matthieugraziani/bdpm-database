@@ -1,9 +1,13 @@
 # <p align="center">💊 BDPM Database - Pipeline ETL & Analyse BDPM</p>
 
+<div align="center">
+
 ![Update BDPM](https://github.com/matthieugraziani/bdpm-database/actions/workflows/update_bdpm.yml/badge.svg)
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Data Source](https://img.shields.io/badge/source-data.gouv.fr-blue)
+
+</div>
 
 Pipeline de traitement de données et application d'analyse construits à partir de la Base de Données Publique des Médicaments (BDPM).
 Ce projet met en œuvre un processus complet d'ingestion, transformation et structuration de données pharmaceutiques dans une base SQLite optimisée pour l'analyse et la visualisation.
