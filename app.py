@@ -340,8 +340,8 @@ with tabs[3]:
             
             if col_cle_gen:
                 # On prépare une copie propre pour la jointure sans casser le dataframe initial
-                df_gener_sub = df_gener[[col_cle_gen, 'Statut_Identifie']].copy()
-                df_gener_sub.columns = ["CIS" if c == col_cle_gen else c for c in df_gener_sub.columns]
+                df_gener_sub = df_gener.loc[:, [col_cle_gen, 'Statut_Identifie']].copy()
+                df_gener_sub = df_gener_sub.rename(columns={col_cle_gen: "CIS"})
                 
                 # Jointure sécurisée sur 'CIS'
                 df_prices_gen = df.merge(df_gener_sub, on="CIS", how="inner").dropna(subset=["PRIX"])
