@@ -51,23 +51,65 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # ---------------------------------------------------
-# ACCÈS & CHARGEMENT DES DONNÉES (Optimisé)
+# ACCÈS & CHARGEMENT DES DONNÉES (Auto-adaptatif)
 # ---------------------------------------------------
 DB_PATH = Path(__file__).resolve().parent / "data" / "bdpm.db"
 
 @st.cache_data(show_spinner="Analyse et indexation de la base de données...")
 def load_and_process_data():
     with sqlite3.connect(DB_PATH) as conn:
-        cis_df   = pd.read_sql("SELECT * FROM medicaments",  conn)
-        cip_df   = pd.read_sql("SELECT * FROM presentations", conn)
-        compo_df = pd.read_sql("SELECT * FROM compositions",  conn)
-        gener_df = pd.read_sql("SELECT * FROM generiques",   conn)
+        # 1. On liste les tables réellement existantes dans le fichier SQLITE
+        cursor = conn.cursor()
+        cursor.execute("SELECT name FROM sqlite_master WHERE type='table';")
+        tables_existantes = [row[0] for row in cursor.fetchall()]
+        
+        # Si la base est totalement vide
+        if not tables_existantes:
+            raise ValueError("La base de données bdpm.db ne contient aucune table. Vérifiez son initialisation.")
+            
+        # 2. Système de détection de correspondance des tables (fallback si noms officiels ANSM)
+        table_cis = "medicaments" if "medicaments" in tables_existantes else next((t for t in tables_existantes if "cis" in t.lower() and "cip" not in t.lower() and "gener" not in t.lower() and "compo" not in t.lower()), tables_existantes[0])
+        table_cip = "presentations" if "presentations" in tables_existantes else next((t for t in tables_existantes if "cip" in t.lower()), tables_existantes[0])
+        table_compo = "compositions" if "compositions" in tables_existantes else next((t for t in tables_existantes if "compo" in t.lower()), tables_existantes[0])
+        table_gener = "generiques" if "generiques" in tables_existantes else next((t for t in tables_existantes if "gener" in t.lower()), tables_existantes[0])
+        
+        # 3. Chargement dynamique
+        cis_df   = pd.read_sql(f"SELECT * FROM {table_cis}",  conn)
+        cip_df   = pd.read_sql(f"SELECT * FROM {table_cip}",  conn)
+        compo_df = pd.read_sql(f"SELECT * FROM {table_compo}", conn)
+        gener_df = pd.read_sql(f"SELECT * FROM {table_gener}", conn)
+    
+    # 4. Standardisation des colonnes au cas où elles soient en minuscules ou possèdent des suffixes
+    for df_tmp in [cis_df, cip_df, compo_df, gener_df]:
+        df_tmp.columns = [c.upper() for c in df_tmp.columns]
+        
+    # Renommer les colonnes clés si variantes constatées (ex: CODE_CIS -> CIS)
+    for target_df in [cis_df, cip_df, compo_df, gener_df]:
+        for col in target_df.columns:
+            if "CIS" in col and col != "CIS" and "GEN" not in col:
+                target_df.rename(columns={col: "CIS"}, inplace=True)
+            if "TITULAIRE" in col:
+                target_df.rename(columns={col: "TITULAIRES"}, inplace=True)
+            if "SUBSTANCE" in col:
+                target_df.rename(columns={col: "SUBSTANCE"}, inplace=True)
+            if "DESIGNATION" in col or "NOM" in col:
+                target_df.rename(columns={col: "DENOMINATION"}, inplace=True)
     
     # Jointure principale et typage
     df_main = cis_df.merge(cip_df, on="CIS", how="left")
-    df_main["PRIX"] = pd.to_numeric(df_main["PRIX"], errors="coerce")
     
+    if "PRIX" in df_main.columns:
+        df_main["PRIX"] = pd.to_numeric(df_main["PRIX"], errors="coerce")
+    else:
+        # Si la colonne prix s'appelle autrement (ex: PRIX_EURO, TARIF...)
+        col_prix = next((c for c in df_main.columns if "PRIX" in c or "TARIF" in c), None)
+        if col_prix:
+            df_main["PRIX"] = pd.to_numeric(df_main[col_prix], errors="coerce")
+        else:
+            df_main["PRIX"] = 0.0 # Fallback si pas de prix
+            
     # NLP / Extraction textuelle des Formes Galéniques majeures
+    col_denom = "DENOMINATION" if "DENOMINATION" in df_main.columns else df_main.columns[1]
     def extraire_forme(text):
         text = str(text).lower()
         if "comprim" in text: return "💊 Comprimé"
@@ -77,14 +119,15 @@ def load_and_process_data():
         elif "crème" in text or "creme" in text or "pommade" in text: return "🧴 Pommade / Crème"
         else: return "🧩 Autre forme"
         
-    df_main["FORME_CATEGORIE"] = df_main["DENOMINATION"].apply(extraire_forme)
+    df_main["FORME_CATEGORIE"] = df_main[col_denom].apply(extraire_forme)
     
     return cis_df, cip_df, compo_df, gener_df, df_main
 
 try:
     df_cis, df_cip, df_compo, df_gener, df = load_and_process_data()
 except Exception as e:
-    st.error(f"Erreur de base de données. Détails: {e}")
+    st.error(f"❌ Impossible de charger les données : {e}")
+    st.info("💡 Suggestions : Vérifiez que votre script de parsing a bien rempli le fichier 'data/bdpm.db' avec des tables valides.")
     st.stop()
 
 # ---------------------------------------------------
