@@ -331,32 +331,38 @@ with tabs[3]:
 
         st.divider()
 
-        # --- NOUVELLE ANALYSE : IMPACT SUR LES PRIX (SI DISPONIBLE) ---
+        # --- NOUVELLE ANALYSE : IMPACT SUR LES PRIX ---
         st.markdown("#### 💰 Impact de la générification sur le niveau de Pricing")
         
-        # Jointure locale pour lier le prix de la présentation aux indicateurs de génériques
         if "PRIX" in df.columns:
-            # On récupère le statut du médicament pour le lier à son prix
-            df_prices_gen = df.merge(df_gener[['CIS', 'Statut_Identifie']], on="CIS", how="inner").dropna(subset=["PRIX"])
+            # On détecte quelle colonne sert d'identifiant unique dans la table génériques
+            col_cle_gen = "CIS_GEN" if "CIS_GEN" in df_gener.columns else ("CIS" if "CIS" in df_gener.columns else None)
             
-            if not df_prices_gen.empty:
-                df_prix_moyen_statut = df_prices_gen.groupby("Statut_Identifie")["PRIX"].mean().reset_index()
-                df_prix_moyen_statut.columns = ["Statut marché", "Prix Moyen (€)"]
+            if col_cle_gen:
+                # On prépare une copie propre pour la jointure sans casser le dataframe initial
+                df_gener_sub = df_gener[[col_cle_gen, 'Statut_Identifie']].copy()
+                df_gener_sub = df_gener_sub.rename(columns={col_cle_gen: "CIS"})
                 
-                fig_compare_prix = px.bar(
-                    df_prix_moyen_statut, x="Statut marché", y="Prix Moyen (€)",
-                    color="Statut marché", template=plotly_template,
-                    text_auto='.2f',
-                    title="Comparaison des prix publics moyens selon le statut dans le groupe générique",
-                    color_discrete_sequence=px.colors.qualitative.Safe
-                )
-                fig_compare_prix.update_layout(showlegend=False, height=400)
-                st.plotly_chart(fig_compare_prix, use_container_width=True)
+                # Jointure sécurisée sur 'CIS'
+                df_prices_gen = df.merge(df_gener_sub, on="CIS", how="inner").dropna(subset=["PRIX"])
+                
+                if not df_prices_gen.empty:
+                    df_prix_moyen_statut = df_prices_gen.groupby("Statut_Identifie")["PRIX"].mean().reset_index()
+                    df_prix_moyen_statut.columns = ["Statut marché", "Prix Moyen (€)"]
+                    
+                    fig_compare_prix = px.bar(
+                        df_prix_moyen_statut, x="Statut marché", y="Prix Moyen (€)",
+                        color="Statut marché", template=plotly_template,
+                        text_auto='.2f',
+                        title="Comparaison des prix publics moyens selon le statut",
+                        color_discrete_sequence=px.colors.qualitative.Safe
+                    )
+                    fig_compare_prix.update_layout(showlegend=False, height=400)
+                    st.plotly_chart(fig_compare_prix, use_container_width=True)
+                else:
+                    st.info("💡 Les médicaments du répertoire générique n'ont pas de prix direct associé pour le calcul d'impact.")
             else:
-                st.info("💡 Les médicaments de la table générique n'ont pas de prix direct associé pour le calcul d'impact.")
-        
-    else:
-        st.info("Pas de données génériques disponibles.")
+                st.warning("⚠️ Impossible de lier les prix : clé d'identification (CIS/CIS_GEN) introuvable dans la table génériques.")
 # ===================================================
 # 💰 ONGLET 5 : INGENIERIE ÉCONOMIQUE & MONOPÔLE
 # ===================================================
