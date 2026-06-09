@@ -14,6 +14,9 @@
 Accès direct : [Streamlit Cloud App](https://bdpm-database-wtcybha9ypy6kvege9vxes.streamlit.app/) 
 
 </div>
+<p align="center">
+  <img src="screenshot/screenshot.png" alt="Capture d'écran" width="700">
+</p>
 
 
 Pipeline de traitement de données et application d'analyse construits à partir de la Base de Données Publique des Médicaments (BDPM).
