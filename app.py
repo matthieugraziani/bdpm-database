@@ -100,7 +100,7 @@ if meta_file.exists():
 else:
     st.sidebar.warning("⚠️ Métadonnées absentes")
 
-st.sidebar.separator()
+st.sidebar.divider()
 st.sidebar.page_link(page="app.py", label="Tableau de bord principal", icon="📈")
 
 # ---------------------------------------------------
