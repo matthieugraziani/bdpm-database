@@ -134,7 +134,7 @@ except Exception as e:
 # SIDEBAR MÉTADONNÉES
 # ---------------------------------------------------
 meta_file = Path(__file__).resolve().parent / "data" / ".bdpm_meta.json"
-st.sidebar.title("🧬 PharmaIntel v2.5")
+st.sidebar.title("🧬 BDPM - Database Version 1.0")
 
 if meta_file.exists():
     try:
