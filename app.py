@@ -254,7 +254,7 @@ with tabs[3]:
     st.subheader("Analyse Approfondie de la Générification du Marché")
     
     if not df_gener.empty:
-        # 1. Cartographie et traduction des codes statuts (0, 1, 2, 3, 4)
+        # 1. Détection automatique de la colonne contenant les codes (0, 1, 2, 3, 4)
         statut_col = None
         for col_name in ["TYPE_GEN", "STATUT", "STATUT_CODE", "CODE_TYPE"]:
             if col_name in df_gener.columns:
@@ -269,7 +269,7 @@ with tabs[3]:
                 df_gener["STATUT_CODE"] = 1
                 statut_col = "STATUT_CODE"
 
-        # Dictionnaire officiel de correspondance
+        # 2. Dictionnaire de correspondance complet des codes du répertoire
         mapping_statuts = {
             0: "👑 Princeps (Médicament de référence)",
             1: "🧬 Générique standard",
@@ -278,45 +278,105 @@ with tabs[3]:
             4: "🔄 Autre type de substitut économique"
         }
         
-        df_gener["Statut_Identifie"] = df_gener[statut_col].map(mapping_statuts).fillna(f"Code {df_gener[statut_col]} (Autre statut)")
+        # On convertit en numérique au cas où ce soit du texte pour éviter les échecs de mapping
+        df_gener[statut_col] = pd.to_numeric(df_gener[statut_col], errors='coerce').fillna(1).astype(int)
+        df_gener["Statut_Identifie"] = df_gener[statut_col].map(mapping_statuts).fillna(f"Code {df_gener[statut_col]}")
 
         # --- MISE EN PAGE DES MÉTRIQUES ---
         col_m1, col_m2, col_m3 = st.columns(3)
         
-        cis_avec_generique = df_gener["CIS_GEN"].nunique() if "CIS_GEN" in df_gener.columns else df_gener["CIS"].nunique()
-        cis_total = df_cis["CIS"].nunique()
-        taux_gen = round((cis_avec_generique / cis_total) * 100, 1) if cis_total > 0 else 0
+        col_cle_gen = "CIS_GEN" if "CIS_GEN" in df_gener.columns else ("CIS" if "CIS" in df_gener.columns else None)
+        cis_avec_generique = df_gener[col_cle_gen].nunique() if col_cle_gen else df_gener.shape[0]
+        cis_total = df_cis["CIS"].nunique() if not df_cis.empty else 1
+        taux_gen = round((cis_avec_generique / cis_total) * 100, 1)
         
         col_m1.metric("🧬 Spécialités Générifiées", f"{cis_avec_generique:,}".replace(',', ' '))
         col_m2.metric("📈 Taux de Pénétration", f"{taux_gen} %")
         
-        # Insertion des descriptifs directement dans l'aide (help) ou sous la métrique
-        # On utilise une astuce markdown propre pour lister la signification des codes 0 à 4
+        # Guide d'interprétation pour la bulle d'aide (help)
         legende_codes = (
-            "**Signification des codes du répertoire :**\n\n"
-            "- **0** : Princeps (L'original de référence)\n"
-            "- **1** : Générique standard\n"
-            "- **2** : Générique biologique (Biosimilaire)\n"
-            "- **3** : Générique assimilé / Équivalent\n"
-            "- **4** : Autre substitut économique"
+            "Configuration des statuts du marché français :\n\n"
+            "• Code 0 : Princeps (Molécule originale)\n"
+            "• Code 1 : Générique standard\n"
+            "• Code 2 : Biosimilaire (Biologique)\n"
+            "• Code 3 : Générique assimilé / Équivalent\n"
+            "• Code 4 : Autre substitut économique"
         )
         
-        # On affiche le nombre de groupes distincts et on injecte le descriptif au survol de la souris (le point d'interrogation)
         col_m3.metric(
             label="🗂️ Groupes Génériques", 
-            value=f"{df_gener['DENOMINATION_GEN'].nunique():,}".replace(',', ' '),
+            value=f"{df_gener['DENOMINATION_GEN'].nunique():,}".replace(',', ' ') if "DENOMINATION_GEN" in df_gener.columns else "0",
             help=legende_codes
         )
 
-        # En plus de la bulle d'aide, on met un petit encadré discret pour une lecture immédiate sans survol :
-        st.markdown("""
-        <small style='color: #64748b;'>
-        💡 <b>Légende des statuts du répertoire :</b> 
-        0 = Princeps | 1 = Générique | 2 = Biosimilaire | 3 = Équivalent | 4 = Autre substitut
-        </small>
-        """, unsafe_allow_html=True)
+        # Légende en texte brut sous les KPI pour éviter les crashs de balises HTML CSS
+        st.caption("💡 Légende du répertoire : 0 = Princeps | 1 = Générique | 2 = Biosimilaire | 3 = Équivalent | 4 = Autre")
+        st.divider()
+
+        # --- GRAPHICS SECTION ---
+        col_g1, col_g2 = st.columns(2)
+        
+        with col_g1:
+            st.markdown("#### 📊 Répartition des rôles dans le répertoire")
+            df_status_count = df_gener["Statut_Identifie"].value_counts().reset_index()
+            df_status_count.columns = ["Statut", "Nombre"]
+            
+            fig_statut = px.bar(
+                df_status_count, x="Nombre", y="Statut", orientation='h',
+                color="Statut", template=plotly_template,
+                color_discrete_sequence=px.colors.sequential.Tealgrn_r
+            )
+            fig_statut.update_layout(showlegend=False, height=380, yaxis={'categoryorder':'total ascending'})
+            st.plotly_chart(fig_statut, use_container_width=True)
+            
+        with col_g2:
+            st.markdown("#### 🍩 Top 10 des Groupes Génériques les plus denses")
+            if "DENOMINATION_GEN" in df_gener.columns:
+                df_gen_count = df_gener["DENOMINATION_GEN"].value_counts().reset_index()
+                df_gen_count.columns = ["Groupes", "Nombre de spécialités"]
+                
+                fig_pie_gen = px.pie(
+                    df_gen_count.head(10), names="Groupes", values="Nombre de spécialités",
+                    hole=0.4, template=plotly_template,
+                    color_discrete_sequence=px.colors.sequential.Blues_r
+                )
+                fig_pie_gen.update_layout(height=380, margin=dict(l=20, r=20, t=20, b=20))
+                st.plotly_chart(fig_pie_gen, use_container_width=True)
+            else:
+                st.info("Données de dénominations indisponibles pour le graphique.")
 
         st.divider()
+
+        # --- COUPLAGE ET IMPACT SUR LES PRIX ---
+        st.markdown("#### 💰 Impact de la générification sur le niveau de Pricing")
+        
+        if "PRIX" in df.columns and col_cle_gen:
+            # Duplication de sécurité pour éviter de modifier la source
+            df_gener_sub = df_gener[[col_cle_gen, 'Statut_Identifie']].copy()
+            df_gener_sub = df_gener_sub.rename(columns={col_cle_gen: "CIS"})
+            
+            # Merge et nettoyage immédiat
+            df_prices_gen = df.merge(df_gener_sub, on="CIS", how="inner").dropna(subset=["PRIX"])
+            
+            if not df_prices_gen.empty:
+                df_prix_moyen_statut = df_prices_gen.groupby("Statut_Identifie")["PRIX"].mean().reset_index()
+                df_prix_moyen_statut.columns = ["Statut marché", "Prix Moyen (€)"]
+                
+                fig_compare_prix = px.bar(
+                    df_prix_moyen_statut, x="Statut marché", y="Prix Moyen (€)",
+                    color="Statut marché", template=plotly_template,
+                    text_auto='.2f',
+                    color_discrete_sequence=px.colors.qualitative.Safe
+                )
+                fig_compare_prix.update_layout(showlegend=False, height=380)
+                st.plotly_chart(fig_compare_prix, use_container_width=True)
+            else:
+                st.info("ℹ️ Les médicaments de cette section n'ont pas de prix valides associés dans la table principale pour générer le comparatif.")
+        else:
+            st.info("ℹ️ Données de prix insuffisantes pour calculer l'impact financier.")
+            
+    else:
+        st.info("Pas de données génériques disponibles.")
 
 # ===================================================
 # 💰 ONGLET 5 : INGENIERIE ÉCONOMIQUE & MONOPÔLE
