@@ -58,26 +58,32 @@ DB_PATH = Path(__file__).resolve().parent / "data" / "bdpm.db"
 @st.cache_data(show_spinner="Analyse et indexation de la base de données...")
 def load_and_process_data():
     with sqlite3.connect(DB_PATH) as conn:
+        # 1. On liste les tables réellement existantes dans le fichier SQLITE
         cursor = conn.cursor()
         cursor.execute("SELECT name FROM sqlite_master WHERE type='table';")
         tables_existantes = [row[0] for row in cursor.fetchall()]
         
+        # Si la base est totalement vide
         if not tables_existantes:
-            raise ValueError("La base de données bdpm.db ne contient aucune table.")
+            raise ValueError("La base de données bdpm.db ne contient aucune table. Vérifiez son initialisation.")
             
+        # 2. Système de détection de correspondance des tables (fallback si noms officiels ANSM)
         table_cis = "medicaments" if "medicaments" in tables_existantes else next((t for t in tables_existantes if "cis" in t.lower() and "cip" not in t.lower() and "gener" not in t.lower() and "compo" not in t.lower()), tables_existantes[0])
         table_cip = "presentations" if "presentations" in tables_existantes else next((t for t in tables_existantes if "cip" in t.lower()), tables_existantes[0])
         table_compo = "compositions" if "compositions" in tables_existantes else next((t for t in tables_existantes if "compo" in t.lower()), tables_existantes[0])
         table_gener = "generiques" if "generiques" in tables_existantes else next((t for t in tables_existantes if "gener" in t.lower()), tables_existantes[0])
         
+        # 3. Chargement dynamique
         cis_df   = pd.read_sql(f"SELECT * FROM {table_cis}",  conn)
         cip_df   = pd.read_sql(f"SELECT * FROM {table_cip}",  conn)
         compo_df = pd.read_sql(f"SELECT * FROM {table_compo}", conn)
         gener_df = pd.read_sql(f"SELECT * FROM {table_gener}", conn)
     
+    # 4. Standardisation des colonnes au cas où elles soient en minuscules ou possèdent des suffixes
     for df_tmp in [cis_df, cip_df, compo_df, gener_df]:
         df_tmp.columns = [c.upper() for c in df_tmp.columns]
         
+    # Renommer les colonnes clés si variantes constatées (ex: CODE_CIS -> CIS)
     for target_df in [cis_df, cip_df, compo_df, gener_df]:
         for col in target_df.columns:
             if "CIS" in col and col != "CIS" and "GEN" not in col:
@@ -89,14 +95,20 @@ def load_and_process_data():
             if "DESIGNATION" in col or "NOM" in col:
                 target_df.rename(columns={col: "DENOMINATION"}, inplace=True)
     
+    # Jointure principale et typage
     df_main = cis_df.merge(cip_df, on="CIS", how="left")
     
     if "PRIX" in df_main.columns:
         df_main["PRIX"] = pd.to_numeric(df_main["PRIX"], errors="coerce")
     else:
+        # Si la colonne prix s'appelle autrement (ex: PRIX_EURO, TARIF...)
         col_prix = next((c for c in df_main.columns if "PRIX" in c or "TARIF" in c), None)
-        df_main["PRIX"] = pd.to_numeric(df_main[col_prix], errors="coerce") if col_prix else 0.0
+        if col_prix:
+            df_main["PRIX"] = pd.to_numeric(df_main[col_prix], errors="coerce")
+        else:
+            df_main["PRIX"] = 0.0 # Fallback si pas de prix
             
+    # NLP / Extraction textuelle des Formes Galéniques majeures
     col_denom = "DENOMINATION" if "DENOMINATION" in df_main.columns else df_main.columns[1]
     def extraire_forme(text):
         text = str(text).lower()
@@ -109,54 +121,20 @@ def load_and_process_data():
         
     df_main["FORME_CATEGORIE"] = df_main[col_denom].apply(extraire_forme)
     
-    # --- MAPPING GÉOPOLITIQUE (Nouveauté Provenance) ---
-    # Cette fonction attribue un pays et son code ISO-3 (requis pour la carte Plotly) selon le nom du labo
-    def attribuer_pays(titulaire):
-        t = str(titulaire).lower()
-        if "sanofi" in t or "biogaran" in t or "servier" in t or "pierre fabre" in t or "ipsen" in t or "guerbet" in t or "france" in t:
-            return pd.Series(["France", "FRA"])
-        elif "pfizer" in t or "merck" in t or "bristol" in t or "lilly" in t or "abbvie" in t or "msd" in t or "mylan" in t or "viatris" in t or "biogen" in t:
-            return pd.Series(["États-Unis", "USA"])
-        elif "glaxosmithkline" in t or "gsk" in t or "astrazeneca" in t or "hospira" in t:
-            return pd.Series(["Royaume-Uni", "GBR"])
-        elif "bayer" in t or "boehringer" in t or "merck kgaa" in t or "fresenius" in t or "stada" in t or "hexal" in t:
-            return pd.Series(["Allemagne", "DEU"])
-        elif "novartis" in t or "roche" in t or "sandoz" in t:
-            return pd.Series(["Suisse", "CHE"])
-        elif "teva" in t:
-            return pd.Series(["Israël", "ISR"])
-        elif "takeda" in t or "otsuka" in t or "daiichi" in t:
-            return pd.Series(["Japon", "JPN"])
-        elif "ranbaxy" in t or "aurobindo" in t or "cipla" in t or "sun pharma" in t:
-            return pd.Series(["Inde", "IND"])
-        elif "novo nordisk" in t:
-            return pd.Series(["Danemark", "DNK"])
-        elif "leo" in t or "lundbeck" in t:
-            return pd.Series(["Danemark", "DNK"])
-        elif "recordati" in t or "chiesi" in t:
-            return pd.Series(["Italie", "ITA"])
-        elif "ferrer" in t or "almirall" in t:
-            return pd.Series(["Espagne", "ESP"])
-        elif "ucb" in t:
-            return pd.Series(["Belgique", "BEL"])
-        else:
-            return pd.Series(["Europe / Autre", "EUR"]) # Remplacement par défaut propre
-
-    df_main[["PAYS_ORIGINE", "PAYS_ISO"]] = df_main["TITULAIRES"].apply(attribuer_pays)
-    
     return cis_df, cip_df, compo_df, gener_df, df_main
 
 try:
     df_cis, df_cip, df_compo, df_gener, df = load_and_process_data()
 except Exception as e:
     st.error(f"❌ Impossible de charger les données : {e}")
+    st.info("💡 Suggestions : Vérifiez que votre script de parsing a bien rempli le fichier 'data/bdpm.db' avec des tables valides.")
     st.stop()
 
 # ---------------------------------------------------
 # SIDEBAR MÉTADONNÉES
 # ---------------------------------------------------
 meta_file = Path(__file__).resolve().parent / "data" / ".bdpm_meta.json"
-st.sidebar.title("🧬 PharmaIntel v3.0")
+st.sidebar.title("🧬 PharmaIntel v2.5")
 
 if meta_file.exists():
     try:
@@ -171,13 +149,13 @@ else:
     st.sidebar.warning("⚠️ Métadonnées absolues introuvables")
 
 st.sidebar.divider()
-st.sidebar.caption("💡 Utilisez les onglets supérieurs pour naviguer entre les différentes analyses.")
+st.sidebar.caption("💡 Utilisez les onglets supérieurs pour naviguer entre les différentes analyses économiques et structurelles.")
 
 # ---------------------------------------------------
 # EN-TÊTE PRINCIPALE
 # ---------------------------------------------------
 st.title("📊 Analyse Statistique du Marché Pharmaceutique")
-st.markdown("Pilotez et analysez les dynamiques de distribution, de concentration et de géopolitique du médicament.")
+st.markdown("Pilotez et analysez les dynamiques de distribution, de concentration et de pricing du marché.")
 st.write("")
 
 plotly_template = "plotly_white"
@@ -188,8 +166,7 @@ tabs = st.tabs([
     "🧪 Cartographie Molécules",
     "🧬 Pénétration Génériques",
     "💰 Ingénierie Économique",
-    "🌍 Géopolitique & Provenance",
-    "🛠️ Outils Décisionnels"
+    "🛠️ Outils Décisionnels & Deep-Dive"
 ])
 
 # ===================================================
@@ -257,6 +234,7 @@ with tabs[2]:
         st.plotly_chart(fig_sub, use_container_width=True)
     with c2:
         st.metric("📈 Intensité concurrentielle moyenne", f"{round(df_sub['NB'].mean(), 1)} g/m")
+        st.caption("Nombre moyen de déclinaisons d'une même substance au sein du catalogue national.")
 
 # ===================================================
 # 🧬 ONGLET 4 : PÉNÉTRATION & STATUTS GÉNÉRIQUES
@@ -337,122 +315,109 @@ with tabs[4]:
         st.plotly_chart(fig_forme, use_container_width=True)
 
 # ===================================================
-# 🌍 NOUVEL ONGLET : GÉOPOLITIQUE & PROVENANCE
+# 🛠️ NOUVEL COMPOSANT : OUTILS DÉCISIONNELS & DEEP-DIVE
 # ===================================================
 with tabs[5]:
-    st.subheader("🗺️ Cartographie Globale des Souverainetés Pharmaceutiques")
-    st.markdown("Visualisez la dépendance de l'offre de médicaments française par rapport aux sièges sociaux des laboratoires fabricants.")
-    
-    # Agrégation des volumes par pays d'origine
-    df_geo = df.groupby(["PAYS_ORIGINE", "PAYS_ISO"]).agg(
-        nb_medicaments=("CIS", "nunique"),
-        prix_moyen_pays=("PRIX", "mean")
-    ).reset_index()
-    
-    # On retire le groupe générique "Europe / Autre" de la carte géographique pour ne pas fausser la projection visuelle
-    df_geo_map = df_geo[df_geo["PAYS_ISO"] != "EUR"]
-    
-    # --- 1. CARTE DU MONDE INTERACTIVE (Choropleth) ---
-    fig_map = px.choropleth(
-        df_geo_map,
-        locations="PAYS_ISO",
-        color="nb_medicaments",
-        hover_name="PAYS_ORIGINE",
-        color_continuous_scale="Purples",
-        labels={"nb_medicaments": "Nombre de références"},
-        title="Volume de médicaments commercialisés en France par pays d'origine du titulaire"
-    )
-    fig_map.update_layout(
-        geo=dict(showframe=False, showcoastlines=True, projection_type='equirectangular'),
-        height=500,
-        margin=dict(l=0, r=0, b=0, t=40)
-    )
-    st.plotly_chart(fig_map, use_container_width=True)
-    
-    st.divider()
-    
-    # --- 2. DOUBLE ANALYSE CLASSEMENT ---
-    col_c1, col_c2 = st.columns(2)
-    
-    with col_c1:
-        st.markdown("#### 📊 Top des pays fournisseurs (En nombre de lignes de catalogue)")
-        fig_geo_bar = px.bar(
-            df_geo.sort_values("nb_medicaments", ascending=True),
-            x="nb_medicaments", y="PAYS_ORIGINE",
-            orientation='h', text_auto=True,
-            template=plotly_template, color="nb_medicaments",
-            color_continuous_scale="Agsunset"
-        )
-        fig_geo_bar.update_layout(showlegend=False, height=350)
-        st.plotly_chart(fig_geo_bar, use_container_width=True)
-        
-    with col_c2:
-        st.markdown("#### 💰 Stratégie de Pricing Moyen par zone géographique")
-        fig_geo_prix = px.bar(
-            df_geo.dropna().sort_values("prix_moyen_pays", ascending=True),
-            x="prix_moyen_pays", y="PAYS_ORIGINE",
-            orientation='h', text_auto='.2f €',
-            template=plotly_template, color="prix_moyen_pays",
-            color_continuous_scale="Viridis"
-        )
-        fig_geo_prix.update_layout(showlegend=False, height=350, xaxis_title="Prix Moyen (€)")
-        st.plotly_chart(fig_geo_prix, use_container_width=True)
-
-# ===================================================
-# 🛠️ NOUVEL COMPOSANT : OUTILS DÉCISIONNELS (Anciennement Onglet 5)
-# ===================================================
-with tabs[6]:
     st.header("🧰 Suite d'Outils Stratégiques Avancés")
-    sub_tabs = st.tabs(["🔍 Deep-Dive Fiche d'Identité", "🔀 Moteur de Substitution", "📈 Simulateur Macro-Économique (What-If)"])
     
+    sub_tabs = st.tabs([
+        "🔍 Deep-Dive Fiche d'Identité", 
+        "🔀 Moteur de Substitution", 
+        "📈 Simulateur Macro-Économique (What-If)"
+    ])
+    
+    # -----------------------------------------------
+    # SUB-TAB 1 : DEEP DIVE LABORATOIRES
+    # -----------------------------------------------
     with sub_tabs[0]:
         st.subheader("🕵️‍♂️ Profil Économique d'un Laboratoire")
         liste_labs = sorted(df["TITULAIRES"].dropna().unique())
         selected_lab = st.selectbox("Sélectionnez l'acteur à auditer :", liste_labs, index=0 if liste_labs else None)
+        
         if selected_lab:
             df_sub_lab = df[df["TITULAIRES"] == selected_lab]
             c_l1, c_l2, c_l3 = st.columns(3)
             c_l1.metric("Catalogue de Spécialités", f"{df_sub_lab['CIS'].nunique()} réf.")
             c_l2.metric("Prix Moyen Catalogue", f"{round(df_sub_lab['PRIX'].mean(), 2)} €")
-            c_l3.metric("Provenance Géopolitique", str(df_sub_lab["PAYS_ORIGINE"].values[0]))
+            c_l3.metric("Prix Maximum Pratiqué", f"{round(df_sub_lab['PRIX'].max(), 2)} €")
+            
+            st.markdown(f"**Échantillon du catalogue commercial de {selected_lab} :**")
             st.dataframe(df_sub_lab[["DENOMINATION", "FORME_CATEGORIE", "PRIX"]].dropna().head(10), use_container_width=True)
 
+    # -----------------------------------------------
+    # SUB-TAB 2 : MOTEUR DE SUBSTITUTION
+    # -----------------------------------------------
     with sub_tabs[1]:
         st.subheader("💊 Outil Officine : Recherche d'Alternatives Économiques")
         recherche = st.text_input("Entrez le début du nom d'un médicament (ex: DOLIPRANE, AMX) :", "").upper()
+        
         if recherche:
             match_meds = df[df["DENOMINATION"].str.contains(recherche, na=False)]
             if not match_meds.empty:
                 med_choisi = st.selectbox("Sélectionnez le médicament exact à substituer :", match_meds["DENOMINATION"].unique())
+                
+                # Extraction du code CIS cible
                 cis_cible = df[df["DENOMINATION"] == med_choisi]["CIS"].values[0]
+                
+                # Recherche des substances actives liées à ce médicament
                 substances = df_compo[df_compo["CIS"] == cis_cible]["SUBSTANCE"].unique()
+                
                 if len(substances) > 0:
                     st.success(f"🧪 Substance active détectée : **{', '.join(substances)}**")
+                    
+                    # Recherche de tous les autres médicaments contenant cette même substance
                     cis_equivalents = df_compo[df_compo["SUBSTANCE"].isin(substances)]["CIS"].unique()
                     df_substituts = df[(df["CIS"].isin(cis_equivalents)) & (df["CIS"] != cis_cible)].dropna(subset=["PRIX"])
+                    
                     if not df_substituts.empty:
+                        st.markdown("### 🔄 Alternatives génériques & équivalents identifiés (classés par prix croissants) :")
                         df_substituts_clean = df_substituts[["DENOMINATION", "TITULAIRES", "PRIX"]].drop_duplicates().sort_values("PRIX")
                         st.dataframe(df_substituts_clean, use_container_width=True)
+                        
+                        # Bouton d'exportation CSV Pro
                         csv = df_substituts_clean.to_csv(index=False).encode('utf-8')
                         st.download_button("📥 Exporter la liste des substituts (CSV)", data=csv, file_name=f"substituts_{recherche}.csv", mime="text/csv")
-                else: st.warning("Aucune formule chimique répertoriée pour ce produit.")
+                    else:
+                        st.info("Aucune alternative moins chère trouvée dans la base de données actuelle.")
+                else:
+                    st.warning("Aucune formule chimique/substance répertoriée pour ce produit.")
+            else:
+                st.error("Aucun médicament trouvé avec ce nom.")
 
+    # -----------------------------------------------
+    # SUB-TAB 3 : SIMULATEUR WHAT-IF
+    # -----------------------------------------------
     with sub_tabs[2]:
         st.subheader("📉 Modélisation des Politiques de Baisses de Prix Publiques")
+        st.markdown("Estimez les économies théoriques ou l'impact d'une contrainte réglementaire nationale sur les prix.")
+        
         pct_baisse = st.slider("Pourcentage de réduction réglementaire à imposer (%) :", 0, 50, 10)
         cible_statut = st.radio("Marché ciblé par la baisse :", ["Tous les médicaments", "Uniquement les Princeps (Code 0)", "Uniquement les Génériques"])
+        
+        # Application du filtre selon la simulation
         df_simul = df.dropna(subset=["PRIX"]).copy()
         
-        if 'col_cle_gen' in locals() and col_cle_gen and not df_gener.empty:
-            if cible_statut == "Uniquement les Princeps (Code 0)":
+        if cible_statut == "Uniquement les Princeps (Code 0)" and not df_gener.empty:
+            if col_cle_gen:
                 cis_princeps = df_gener[df_gener[statut_col] == 0][col_cle_gen].unique()
                 df_simul = df_simul[df_simul["CIS"].isin(cis_princeps)]
-            elif cible_statut == "Uniquement les Génériques":
+        elif cible_statut == "Uniquement les Génériques" and not df_gener.empty:
+            if col_cle_gen:
                 cis_gen_list = df_gener[df_gener[statut_col] != 0][col_cle_gen].unique()
                 df_simul = df_simul[df_simul["CIS"].isin(cis_gen_list)]
                 
         prix_total_avant = df_simul["PRIX"].sum()
         prix_total_apres = prix_total_avant * (1 - (pct_baisse / 100))
+        economie_theorique = prix_total_avant - prix_total_apres
+        
         c_s1, c_s2 = st.columns(2)
-        c_s1.metric("Coût cumulé de l'échantillon", f"{round(prix_total_avant, 2):,}".replace(',', ' ') + " €")
-        c_s2.metric("📉 Économie théorique", f"{round(prix_total_avant - prix_total_apres, 2):,}".replace(',', ' ') + " €", delta=f"-{pct_baisse}%")
+        c_s1.metric("Coût cumulé de l'échantillon ciblé", f"{round(prix_total_avant, 2):,}".replace(',', ' ') + " €")
+        c_s2.metric("📉 Économie théorique estimée (Par panier d'achat)", f"{round(economie_theorique, 2):,}".replace(',', ' ') + " €", delta=f"-{pct_baisse}%")
+        
+        # Graphique prédictif comparatif
+        fig_sim = go.Figure(data=[
+            go.Bar(name='Avant régulation', x=['Panier global'], y=[prix_total_avant], marker_color='#64748b'),
+            go.Bar(name='Après baisse réglementaire', x=['Panier global'], y=[prix_total_apres], marker_color='#ef4444')
+        ])
+        fig_sim.update_layout(barmode='group', template=plotly_template, height=350)
+        st.plotly_chart(fig_sim, use_container_width=True)
