@@ -2,12 +2,19 @@
 
 <div align="center">
 
-![Update BDPM](https://github.com/matthieugraziani/bdpm-database/actions/workflows/update_bdpm.yml/badge.svg)
-![Python](https://img.shields.io/badge/python-3.10%2B-blue)
-![License](https://img.shields.io/badge/license-MIT-green)
-![Data Source](https://img.shields.io/badge/source-data.gouv.fr-blue)
+![GitHub Actions workflow status for automatic BDPM data updates, showing whether the latest run succeeded](https://github.com/matthieugraziani/bdpm-database/actions/workflows/update_bdpm.yml/badge.svg)
+![Compatibility badge indicating support for Python 3.10 and later versions](https://img.shields.io/badge/python-3.10%2B-blue)
+![License badge indicating the project is released under the MIT open source license](https://img.shields.io/badge/license-MIT-green)
+![Badge indicating the BDPM dataset source is data.gouv.fr](https://img.shields.io/badge/source-data.gouv.fr-blue)
 
 </div>
+
+<div align="center"> 
+
+Accès direct : [Streamlit Cloud App](https://bdpm-database-wtcybha9ypy6kvege9vxes.streamlit.app/) 
+
+</div>
+
 
 Pipeline de traitement de données et application d'analyse construits à partir de la Base de Données Publique des Médicaments (BDPM).
 Ce projet met en œuvre un processus complet d'ingestion, transformation et structuration de données pharmaceutiques dans une base SQLite optimisée pour l'analyse et la visualisation.
