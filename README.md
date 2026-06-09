@@ -10,9 +10,9 @@ Ce projet met en œuvre un processus complet d'ingestion, transformation et stru
 
 > 🔄 **Les données BDPM sont automatiquement mises à jour** via un pipeline CI/CD GitHub Actions — aucune intervention manuelle requise.
 
----
 
-# 🎯 Objectif du projet
+
+## 🎯 Objectif du projet
 
 Concevoir un pipeline ETL robuste permettant d'ingérer, nettoyer, structurer et optimiser les données issues de la :
 
@@ -25,9 +25,8 @@ Le projet vise à démontrer :
 - Structuration d'une base exploitable analytiquement
 - Séparation claire des couches ingestion / transformation / stockage
 
----
 
-# 🔄 Mise à jour automatique des données (Auto-Update)
+## 🔄 Mise à jour automatique des données (Auto-Update)
 
 Le projet intègre un pipeline de mise à jour automatique du dataset BDPM, orchestré via **GitHub Actions**.
 
@@ -98,9 +97,8 @@ Le script `update_bdpm.py` interroge l'API de **data.gouv.fr** pour récupérer 
 
 > ℹ️ En cas d'échec du téléchargement (réseau, indisponibilité API), le pipeline conserve les fichiers existants et logue une erreur sans écraser la base précédente (écriture atomique via `bdpm.db.tmp`).
 
----
 
-# 🏗️ Architecture
+## 🏗️ Architecture
 
 ```
 GitHub Actions (cron / workflow_dispatch)
@@ -121,9 +119,8 @@ Base SQLite (bdpm.db)       ← écriture atomique via bdpm.db.tmp
 Application Web (Streamlit)
 ```
 
----
 
-# 📁 Structure du projet
+## 📁 Structure du projet
 
 ```
 bdpm-database/
@@ -141,9 +138,8 @@ bdpm-database/
 └── README.md
 ```
 
----
 
-# 🗄️ Source des données
+## 🗄️ Source des données
 
 Données issues de la :
 
@@ -158,9 +154,8 @@ La base comprend notamment :
 - Conditions de prescription
 - Relations génériques
 
----
 
-# 🔄 Pipeline ETL
+## 🔄 Pipeline ETL
 
 Implémenté dans `database.py` via la classe `PharmaDataPipeline`.
 
@@ -190,9 +185,8 @@ Index SQL créés automatiquement sur :
 - `conditions_prescription(CIS)`
 - `generiques(CIS_GEN)`
 
----
 
-# 🚀 Installation
+## 🚀 Installation
 
 **1️⃣ Cloner le projet**
 ```bash
@@ -228,9 +222,8 @@ data/
 └── CIS_GENER_bdpm.txt
 ```
 
----
 
-# ▶️ Exécution
+## ▶️ Exécution
 
 **Générer la base SQLite :**
 ```bash
@@ -243,9 +236,8 @@ Cela génère `bdpm.db` et affiche un résumé des lignes insérées par table.
 streamlit run app.py
 ```
 
----
 
-# 📦 Dépendances principales
+## 📦 Dépendances principales
 
 | Librairie | Usage |
 |-----------|-------|
@@ -256,9 +248,8 @@ streamlit run app.py
 | `plotly` | Visualisations interactives |
 | `streamlit` | Application web d'analyse |
 
----
 
-# 🧹 Transformations appliquées
+## 🧹 Transformations appliquées
 
 ### Normalisation texte (colonnes textuelles uniquement)
 - Suppression des accents (NFKD)
@@ -277,9 +268,8 @@ streamlit run app.py
 - `idx_cpd` → `conditions_prescription(CIS)`
 - `idx_gener` → `generiques(CIS_GEN)`
 
----
 
-# 📊 Application Streamlit
+## 📊 Application Streamlit
 
 L'application propose 5 onglets d'analyse :
 
@@ -293,9 +283,8 @@ L'application propose 5 onglets d'analyse :
 
 Les données sont mises en cache (`@st.cache_data`) pour des performances optimales.
 
----
 
-# 🔍 Exemple de requête SQL
+## 🔍 Exemple de requête SQL
 
 ```sql
 SELECT m.DENOMINATION, p.PRIX
@@ -305,9 +294,8 @@ WHERE p.PRIX IS NOT NULL
 ORDER BY p.PRIX DESC;
 ```
 
----
 
-# 🛠️ Améliorations possibles
+## 🛠️ Améliorations possibles
 
 - Ajout d'une API REST (FastAPI)
 - Déploiement Docker
@@ -316,8 +304,7 @@ ORDER BY p.PRIX DESC;
 - Migration vers DuckDB pour de meilleures performances analytiques
 - Tests unitaires supplémentaires sur les transformations ETL
 
----
 
-# 📄 Licence
+## 📄 Licence
 
 Projet académique / personnel — [MIT License](LICENSE.txt)
