@@ -189,13 +189,13 @@ with tabs[0]:
         st.markdown("#### 🔝 Top 10 Laboratoires par volume de spécialités")
         fig_bar = px.bar(df_lab.head(10), x="NB", y="TITULAIRES", orientation='h', text_auto='.s', template=plotly_template, color="NB", color_continuous_scale="Blugrn")
         fig_bar.update_layout(yaxis={'categoryorder':'total ascending'}, showlegend=False, height=450)
-        st.plotly_chart(fig_bar, use_container_width=True)
+        st.plotly_chart(fig_bar, width='stretch')
         
     with right_col:
         st.markdown("#### 🪵 Répartition des Parts de Marché (Treemap)")
         fig_tree = px.treemap(df_lab.head(30), path=['TITULAIRES'], values='NB', template=plotly_template, color='NB', color_continuous_scale="Blues")
         fig_tree.update_layout(margin=dict(t=10, b=10, r=10, l=10), height=450)
-        st.plotly_chart(fig_tree, use_container_width=True)
+        st.plotly_chart(fig_tree, width='stretch')
 
 # ===================================================
 # 🏭 ONGLET 2 : ANALYSE LABORATOIRES
@@ -210,7 +210,7 @@ with tabs[1]:
     with col_g1:
         st.markdown("#### 🗺️ Matrice Volume vs Prix Moyen")
         fig_scatter = px.scatter(df_filtered_lab, x="nb_produits", y="prix_moyen", size="nb_produits", hover_name="TITULAIRES", log_x=True, template=plotly_template, color="prix_moyen", color_continuous_scale="Viridis")
-        st.plotly_chart(fig_scatter, use_container_width=True)
+        st.plotly_chart(fig_scatter, width='stretch')
     with col_g2:
         st.markdown("#### 📦 Dispersion des prix des Top Acteurs (Boxplot)")
         top_10_labs_names = df_lab.head(10)["TITULAIRES"].tolist()
@@ -218,7 +218,7 @@ with tabs[1]:
         fig_box = px.box(df_top_labs_data, x="TITULAIRES", y="PRIX", color="TITULAIRES", template=plotly_template, points=False)
         fig_box.update_layout(showlegend=False, xaxis_tickangle=45, height=450)
         fig_box.update_yaxes(range=[0, df_top_labs_data["PRIX"].quantile(0.95)])
-        st.plotly_chart(fig_box, use_container_width=True)
+        st.plotly_chart(fig_box, width='stretch')
 
 # ===================================================
 # 🧪 ONGLET 3 : CARTOGRAPHIE MOLÉCULES
@@ -231,7 +231,7 @@ with tabs[2]:
     with c1:
         fig_sub = px.bar(df_sub.head(15), x="NB", y="SUBSTANCE", orientation='h', text_auto=True, template=plotly_template, color="NB", color_continuous_scale="Purples")
         fig_sub.update_layout(yaxis={'categoryorder':'total ascending'}, height=500)
-        st.plotly_chart(fig_sub, use_container_width=True)
+        st.plotly_chart(fig_sub, width='stretch')
     with c2:
         st.metric("📈 Intensité concurrentielle moyenne", f"{round(df_sub['NB'].mean(), 1)} g/m")
         st.caption("Nombre moyen de déclinaisons d'une même substance au sein du catalogue national.")
@@ -277,14 +277,14 @@ with tabs[3]:
             df_status_count.columns = ["Statut", "Nombre"]
             fig_statut = px.bar(df_status_count, x="Nombre", y="Statut", orientation='h', color="Statut", template=plotly_template, color_discrete_sequence=px.colors.sequential.Tealgrn_r)
             fig_statut.update_layout(showlegend=False, height=350, yaxis={'categoryorder':'total ascending'})
-            st.plotly_chart(fig_statut, use_container_width=True)
+            st.plotly_chart(fig_statut, width='stretch')
         with col_g2:
             if "DENOMINATION_GEN" in df_gener.columns:
                 df_gen_count = df_gener["DENOMINATION_GEN"].value_counts().reset_index()
                 df_gen_count.columns = ["Groupes", "Nombre"]
                 fig_pie_gen = px.pie(df_gen_count.head(10), names="Groupes", values="Nombre", hole=0.4, template=plotly_template, color_discrete_sequence=px.colors.sequential.Blues_r)
                 fig_pie_gen.update_layout(height=350, margin=dict(l=10, r=10, t=10, b=10))
-                st.plotly_chart(fig_pie_gen, use_container_width=True)
+                st.plotly_chart(fig_pie_gen, width='stretch')
 
 # ===================================================
 # 💰 ONGLET 5 : INGENIERIE ÉCONOMIQUE
@@ -305,14 +305,14 @@ with tabs[4]:
     c_g1, c_g2 = st.columns(2)
     with c_g1:
         fig_hist = px.histogram(df_economique[df_economique["PRIX"] <= df_economique["PRIX"].quantile(0.95)], x="PRIX", nbins=60, template=plotly_template, color_discrete_sequence=['#10b981'])
-        st.plotly_chart(fig_hist, use_container_width=True)
+        st.plotly_chart(fig_hist, width='stretch')
     with c_g2:
         st.markdown("#### 📦 Répartition par Formes Galéniques")
         df_forme = df_economique["FORME_CATEGORIE"].value_counts().reset_index()
         df_forme.columns = ["Forme", "Volume"]
         fig_forme = px.bar(df_forme, x="Volume", y="Forme", orientation="h", color="Forme", template=plotly_template, color_discrete_sequence=px.colors.qualitative.Pastel)
         fig_forme.update_layout(showlegend=False, height=350, yaxis={'categoryorder':'total ascending'})
-        st.plotly_chart(fig_forme, use_container_width=True)
+        st.plotly_chart(fig_forme, width='stretch')
 
 # ===================================================
 # 🛠️ NOUVEL COMPOSANT : OUTILS DÉCISIONNELS & DEEP-DIVE
@@ -342,7 +342,7 @@ with tabs[5]:
             c_l3.metric("Prix Maximum Pratiqué", f"{round(df_sub_lab['PRIX'].max(), 2)} €")
             
             st.markdown(f"**Échantillon du catalogue commercial de {selected_lab} :**")
-            st.dataframe(df_sub_lab[["DENOMINATION", "FORME_CATEGORIE", "PRIX"]].dropna().head(10), use_container_width=True)
+            st.dataframe(df_sub_lab[["DENOMINATION", "FORME_CATEGORIE", "PRIX"]].dropna().head(10), width='stretch')
 
     # -----------------------------------------------
     # SUB-TAB 2 : MOTEUR DE SUBSTITUTION
@@ -372,7 +372,7 @@ with tabs[5]:
                     if not df_substituts.empty:
                         st.markdown("### 🔄 Alternatives génériques & équivalents identifiés (classés par prix croissants) :")
                         df_substituts_clean = df_substituts[["DENOMINATION", "TITULAIRES", "PRIX"]].drop_duplicates().sort_values("PRIX")
-                        st.dataframe(df_substituts_clean, use_container_width=True)
+                        st.dataframe(df_substituts_clean, width='stretch')
                         
                         # Bouton d'exportation CSV Pro
                         csv = df_substituts_clean.to_csv(index=False).encode('utf-8')
@@ -420,4 +420,4 @@ with tabs[5]:
             go.Bar(name='Après baisse réglementaire', x=['Panier global'], y=[prix_total_apres], marker_color='#ef4444')
         ])
         fig_sim.update_layout(barmode='group', template=plotly_template, height=350)
-        st.plotly_chart(fig_sim, use_container_width=True)
+        st.plotly_chart(fig_sim, width='stretch')
