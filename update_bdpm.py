@@ -1,18 +1,22 @@
 import json
 import subprocess
 import sys
+import hashlib
 from pathlib import Path
 from urllib.parse import urljoin
-from bs4 import BeautifulSoup, Tag
+
 import requests
+from bs4 import BeautifulSoup, Tag
 
-DATASET_URL = (
-    "https://www.data.gouv.fr/api/1/datasets/"
-    "base-de-donnees-publique-des-medicaments-base-officielle/"
-)
+# =========================
+# CONFIG
+# =========================
 
-META_FILE = Path("data") / ".bdpm_meta.json"
-FILES_DIR = Path("data")
+BASE_URL = "https://base-donnees-publique.medicaments.gouv.fr"
+PAGE_URL = f"{BASE_URL}/telechargement"
+
+DATA_DIR = Path("data")
+META_FILE = DATA_DIR / ".bdpm_meta.json"
 
 EXPECTED_FILES = {
     "CIS_bdpm.txt",
@@ -22,117 +26,155 @@ EXPECTED_FILES = {
     "CIS_GENER_bdpm.txt",
 }
 
+HEADERS = {"User-Agent": "ETL-BDPM/1.0"}
 
-def get_dataset():
-    headers = {"User-Agent": "ETL-BDPM/1.0"}
-    r = requests.get(DATASET_URL, headers=headers, timeout=30)
+
+# =========================
+# UTILS HASH
+# =========================
+
+def sha256_bytes(data: bytes) -> str:
+    return hashlib.sha256(data).hexdigest()
+
+
+def fetch_file_hash(url: str) -> str:
+    r = requests.get(url, headers=HEADERS, timeout=60)
     r.raise_for_status()
-
-    if not r.text.strip():
-        raise ValueError(f"Réponse vide (status {r.status_code})")
-
-    return r.json()
+    return sha256_bytes(r.content)
 
 
-def get_remote_version(dataset_info):
-    return dataset_info.get("last_update")
+# =========================
+# VERSION LOCAL
+# =========================
 
-
-def get_local_version():
+def get_local_signature():
     if not META_FILE.exists():
         return None
+
     with open(META_FILE, "r", encoding="utf-8") as f:
-        return json.load(f).get("version")
+        return json.load(f).get("signature")
 
 
-def save_version(version):
+def save_signature(signature: str):
+    DATA_DIR.mkdir(exist_ok=True)
+
     with open(META_FILE, "w", encoding="utf-8") as f:
-        json.dump({"version": version}, f, indent=2)
+        json.dump({"signature": signature}, f, indent=2)
 
 
-def download_resources():
-    """
-    Télécharge les fichiers BDPM depuis la page officielle
-    https://base-donnees-publique.medicaments.gouv.fr/telechargement
-    """
+# =========================
+# SCRAPING LIENS BDPM
+# =========================
 
-    FILES_DIR.mkdir(exist_ok=True)
+def get_bdpm_file_urls():
+    r = requests.get(PAGE_URL, headers=HEADERS, timeout=30)
+    r.raise_for_status()
 
-    BASE_URL = "https://base-donnees-publique.medicaments.gouv.fr"
-    PAGE_URL = f"{BASE_URL}/telechargement"
+    soup = BeautifulSoup(r.text, "html.parser")
 
-    headers = {"User-Agent": "ETL-BDPM/1.0"}
+    urls = {}
 
-    # Récupération de la page de téléchargement
-    response = requests.get(PAGE_URL, headers=headers, timeout=30)
-    response.raise_for_status()
-
-    soup = BeautifulSoup(response.text, "html.parser")
-
-    downloaded = set()
-
-    # Recherche de tous les liens de téléchargement
     for link in soup.find_all("a", href=True):
         if not isinstance(link, Tag):
             continue
 
-        href = link.get("href")
-        if href is None:
-            continue
-        href = str(href)
-        print(link.get_text(strip=True), "->", href)
+        href = str(link["href"])
 
         for expected in EXPECTED_FILES:
             if expected.lower() in href.lower():
-                url = urljoin(BASE_URL, href)
+                urls[expected] = urljoin(BASE_URL, href)
 
-                print(f"Téléchargement : {expected}")
-                print(f"  -> {url}")
-
-                r = requests.get(
-                    url,
-                    headers=headers,
-                    timeout=300,
-                    allow_redirects=True,
-                )
-                r.raise_for_status()
-
-                with open(FILES_DIR / expected, "wb") as f:
-                    f.write(r.content)
-
-                downloaded.add(expected)
-                break
-
-    missing = EXPECTED_FILES - downloaded
-
+    missing = EXPECTED_FILES - set(urls.keys())
     if missing:
-        raise RuntimeError(
-            f"Fichiers introuvables sur la page de téléchargement : {missing}"
-        )
+        raise RuntimeError(f"Fichiers BDPM introuvables : {missing}")
 
-    print(f"✅ {len(downloaded)} fichiers téléchargés.")
+    return urls
 
+
+# =========================
+# SIGNATURE GLOBALE
+# =========================
+
+def compute_remote_signature(urls: dict) -> str:
+    """
+    Hash global basé sur le contenu réel des fichiers
+    """
+    hashes = []
+
+    for name, url in sorted(urls.items()):
+        print(f"🔍 Hash fichier : {name}")
+        file_hash = fetch_file_hash(url)
+        hashes.append(file_hash)
+
+    return sha256_bytes("".join(hashes).encode())
+
+
+# =========================
+# DOWNLOAD FILES
+# =========================
+
+def download_resources(urls: dict):
+    DATA_DIR.mkdir(exist_ok=True)
+
+    for name, url in urls.items():
+        print(f"⬇ Téléchargement : {name}")
+
+        r = requests.get(url, headers=HEADERS, timeout=300)
+        r.raise_for_status()
+
+        with open(DATA_DIR / name, "wb") as f:
+            f.write(r.content)
+
+
+# =========================
+# ETL
+# =========================
 
 def run_etl():
-    print("Construction de bdpm.db...")
-    subprocess.run([sys.executable, "database.py"], check=True)
+    print("⚙ Construction de bdpm.db...")
 
+    result = subprocess.run(
+        [sys.executable, "database.py"],
+        check=True
+    )
+
+    return result.returncode
+
+
+# =========================
+# MAIN
+# =========================
 
 if __name__ == "__main__":
-    dataset = get_dataset()
 
-    remote_version = get_remote_version(dataset)
-    local_version = get_local_version()
+    print("📡 Récupération des URLs BDPM...")
+    urls = get_bdpm_file_urls()
 
-    print("Version distante :", remote_version)
-    print("Version locale   :", local_version)
+    print("🔐 Calcul signature distante...")
+    remote_sig = compute_remote_signature(urls)
 
-    if remote_version == local_version:
-        print("BDPM déjà à jour")
+    print("💾 Signature locale...")
+    local_sig = get_local_signature()
+
+    print("Remote :", remote_sig)
+    print("Local  :", local_sig)
+
+    # =========================
+    # CHECK UPDATE
+    # =========================
+
+    if remote_sig == local_sig:
+        print("✔ BDPM déjà à jour → exit")
         raise SystemExit(0)
 
-    download_resources()
-    run_etl()
-    save_version(remote_version)
+    print("🆕 Nouvelle version détectée")
 
-    print("Mise à jour terminée")
+    # =========================
+    # PIPELINE
+    # =========================
+
+    download_resources(urls)
+    run_etl()
+    save_signature(remote_sig)
+
+    print("✅ Mise à jour BDPM terminée")
