@@ -2,7 +2,7 @@ name: BDPM Auto Update
 
 on:
   schedule:
-    - cron: "0 * * * *"  # check toutes les heures (léger car HEAD only)
+    - cron: "0 * * * *"
   workflow_dispatch:
 
 permissions:
@@ -22,55 +22,19 @@ jobs:
       - name: Install dependencies
         run: |
           pip install -r requirements.txt
-          sudo apt-get update
-          sudo apt-get install -y jq
 
-      # 🧠 1. CHECK ULTRA RAPIDE (ETag)
-      - name: Check remote BDPM version
-        id: check
-        run: |
-          URL="https://www.data.gouv.fr/datasets/base-de-donnees-publique-des-medicaments-base-officielle"
-
-          echo "Checking remote ETag..."
-
-          ETAG=$(curl -sI "$URL" | grep -i etag | cut -d: -f2 | tr -d ' \r"')
-
-          echo "Remote ETAG: $ETAG"
-
-          if [ -f data/.bdpm_meta.json ]; then
-            OLD_ETAG=$(jq -r .etag data/.bdpm_meta.json)
-          else
-            OLD_ETAG=""
-          fi
-
-          echo "Local ETAG: $OLD_ETAG"
-
-          if [ "$ETAG" = "$OLD_ETAG" ] && [ -f data/bdpm.db ]; then
-            echo "updated=false" >> $GITHUB_OUTPUT
-            echo "No update detected → stopping workflow."
-            exit 0
-          fi
-
-          echo "updated=true" >> $GITHUB_OUTPUT
-          echo "New update detected → continuing."
-
-          echo "{\"etag\": \"$ETAG\"}" > data/.new_meta.json
-
-      # 🧱 2. BUILD UNIQUEMENT SI UPDATE
       - name: Update BDPM
-        if: steps.check.outputs.updated == 'true'
         run: |
           python update_bdpm.py
 
-      # 💾 3. COMMIT UNIQUEMENT SI CHANGEMENT
       - name: Commit database
-        if: steps.check.outputs.updated == 'true'
         run: |
           git config user.name github-actions
           git config user.email actions@github.com
 
-          git add data/bdpm.db
-          git add data/.bdpm_meta.json
+          git add data/
 
-          git commit -m "BDPM auto update" || exit 0
+          git diff --cached --quiet && exit 0
+
+          git commit -m "BDPM auto update"
           git push

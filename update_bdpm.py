@@ -2,6 +2,7 @@ import json
 import subprocess
 import sys
 import hashlib
+from datetime import datetime, UTC
 from pathlib import Path
 from urllib.parse import urljoin
 
@@ -26,25 +27,21 @@ EXPECTED_FILES = {
     "CIS_GENER_bdpm.txt",
 }
 
-HEADERS = {"User-Agent": "ETL-BDPM/1.0"}
+HEADERS = {
+    "User-Agent": "ETL-BDPM/1.0"
+}
 
 
 # =========================
-# UTILS HASH
+# HASH
 # =========================
 
 def sha256_bytes(data: bytes) -> str:
     return hashlib.sha256(data).hexdigest()
 
 
-def fetch_file_hash(url: str) -> str:
-    r = requests.get(url, headers=HEADERS, timeout=60)
-    r.raise_for_status()
-    return sha256_bytes(r.content)
-
-
 # =========================
-# VERSION LOCAL
+# META
 # =========================
 
 def get_local_signature():
@@ -59,15 +56,27 @@ def save_signature(signature: str):
     DATA_DIR.mkdir(exist_ok=True)
 
     with open(META_FILE, "w", encoding="utf-8") as f:
-        json.dump({"signature": signature}, f, indent=2)
+        json.dump(
+            {
+                "signature": signature,
+                "updated_at": datetime.now(UTC).isoformat()
+            },
+            f,
+            indent=2,
+            ensure_ascii=False
+        )
 
 
 # =========================
-# SCRAPING LIENS BDPM
+# SCRAPING
 # =========================
 
 def get_bdpm_file_urls():
-    r = requests.get(PAGE_URL, headers=HEADERS, timeout=30)
+    r = requests.get(
+        PAGE_URL,
+        headers=HEADERS,
+        timeout=30
+    )
     r.raise_for_status()
 
     soup = BeautifulSoup(r.text, "html.parser")
@@ -75,6 +84,7 @@ def get_bdpm_file_urls():
     urls = {}
 
     for link in soup.find_all("a", href=True):
+
         if not isinstance(link, Tag):
             continue
 
@@ -85,45 +95,59 @@ def get_bdpm_file_urls():
                 urls[expected] = urljoin(BASE_URL, href)
 
     missing = EXPECTED_FILES - set(urls.keys())
+
     if missing:
-        raise RuntimeError(f"Fichiers BDPM introuvables : {missing}")
+        raise RuntimeError(
+            f"Fichiers BDPM introuvables : {missing}"
+        )
 
     return urls
 
 
 # =========================
-# SIGNATURE GLOBALE
+# DOWNLOAD + HASH
 # =========================
 
-def compute_remote_signature(urls: dict) -> str:
-    """
-    Hash global basé sur le contenu réel des fichiers
-    """
+def download_and_compute(urls):
+
+    DATA_DIR.mkdir(exist_ok=True)
+
+    downloaded = {}
     hashes = []
 
     for name, url in sorted(urls.items()):
-        print(f"🔍 Hash fichier : {name}")
-        file_hash = fetch_file_hash(url)
-        hashes.append(file_hash)
 
-    return sha256_bytes("".join(hashes).encode())
-
-
-# =========================
-# DOWNLOAD FILES
-# =========================
-
-def download_resources(urls: dict):
-    DATA_DIR.mkdir(exist_ok=True)
-
-    for name, url in urls.items():
         print(f"⬇ Téléchargement : {name}")
 
-        r = requests.get(url, headers=HEADERS, timeout=300)
+        r = requests.get(
+            url,
+            headers=HEADERS,
+            timeout=300
+        )
         r.raise_for_status()
 
+        content = r.content
+
+        downloaded[name] = content
+        hashes.append(sha256_bytes(content))
+
+    global_signature = sha256_bytes(
+        "".join(hashes).encode()
+    )
+
+    return downloaded, global_signature
+
+
+# =========================
+# SAVE FILES
+# =========================
+
+def save_files(downloaded):
+
+    for name, content in downloaded.items():
+
         with open(DATA_DIR / name, "wb") as f:
-            f.write(r.content)
+            f.write(content)
 
 
 # =========================
@@ -131,50 +155,47 @@ def download_resources(urls: dict):
 # =========================
 
 def run_etl():
+
     print("⚙ Construction de bdpm.db...")
 
-    result = subprocess.run(
+    subprocess.run(
         [sys.executable, "database.py"],
         check=True
     )
-
-    return result.returncode
 
 
 # =========================
 # MAIN
 # =========================
 
-if __name__ == "__main__":
+def main():
 
     print("📡 Récupération des URLs BDPM...")
     urls = get_bdpm_file_urls()
 
-    print("🔐 Calcul signature distante...")
-    remote_sig = compute_remote_signature(urls)
+    print("🔐 Téléchargement + calcul signature...")
+    downloaded, remote_sig = download_and_compute(urls)
 
-    print("💾 Signature locale...")
     local_sig = get_local_signature()
 
     print("Remote :", remote_sig)
     print("Local  :", local_sig)
 
-    # =========================
-    # CHECK UPDATE
-    # =========================
-
     if remote_sig == local_sig:
-        print("✔ BDPM déjà à jour → exit")
-        raise SystemExit(0)
+        print("✔ BDPM déjà à jour")
+        sys.exit(0)
 
     print("🆕 Nouvelle version détectée")
 
-    # =========================
-    # PIPELINE
-    # =========================
+    save_files(downloaded)
 
-    download_resources(urls)
     run_etl()
+
     save_signature(remote_sig)
 
     print("✅ Mise à jour BDPM terminée")
+
+
+if __name__ == "__main__":
+    main()
+
