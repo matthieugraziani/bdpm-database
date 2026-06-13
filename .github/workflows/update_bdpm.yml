@@ -25,7 +25,7 @@ jobs:
 
       - name: Update BDPM
         run: |
-          python update_bdpm.py
+          python -u update_bdpm.py
 
       - name: Commit database
         run: |
