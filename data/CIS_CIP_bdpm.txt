@@ -576,7 +576,6 @@
 60286346	2183111	plaquette(s) PVC PVDC aluminium de 12 comprimé(s)	Présentation active	Déclaration de commercialisation	19/04/2018	3400921831115	oui					
 60286556	3383496	10 récipient(s) unidose(s) polyéthylène de 0,4 ml	Présentation active	Déclaration de commercialisation	19/05/1995	3400933834968	non					
 60287206	5500401	1 flacon(s) en verre - 1 flacon(s) en verre de 5 ml avec dispositif(s) de reconstitution	Présentation active	Déclaration d'arrêt de commercialisation	13/01/2026	3400955004011	non					
-60287277	3003171	plaquette(s) thermoformée(s) PVC polychlortrifluoroéthylène aluminium de 28 gélule(s)	Présentation active	Déclaration d'arrêt de commercialisation	16/06/2021	3400930031711	non	65%	4,36	5,38	1,02	
 60287277	3021821	plaquette(s) thermoformée(s) PVC PVDC aluminium de 28 gélule(s)	Présentation active	Déclaration de commercialisation	16/06/2021	3400930218211	oui	65%	4,36	5,38	1,02	
 60287373	3299040	plaquette(s) PVC-Aluminium de 30 comprimé(s)	Présentation active	Déclaration de commercialisation	19/01/1992	3400932990405	non					
 60287373	3299063	plaquette(s) PVC-Aluminium de 90 comprimé(s)	Présentation active	Déclaration de commercialisation	19/05/1995	3400932990634	non					
@@ -1630,7 +1629,6 @@
 60759678	3004065	8 sachet(s) papier aluminium polyéthylène	Présentation active	Déclaration de commercialisation	25/04/2018	3400930040652	non					
 60759685	2664402	plaquette(s) thermoformée(s) polyamide aluminium PVC-Aluminium de 90 comprimé(s)	Présentation active	Déclaration de commercialisation	01/04/2013	3400926644024	oui	65%	5,99	7,01	1,02	
 60759685	2664419	plaquette(s) thermoformée(s) polyamide aluminium PVC-Aluminium de 270 comprimé(s)	Présentation active	Déclaration de commercialisation	01/04/2013	3400926644192	oui	65%	16,94	19,70	2,76	
-60761704	3008515	plaquette(s) OPA : polyamide orienté aluminium PVC de 84 gélule(s)	Présentation active	Déclaration d'arrêt de commercialisation	16/06/2021	3400930085158	non	65%	6,18	7,20	1,02	
 60762795	3691068	10 ampoule(s) en verre de 1 ml	Présentation active	Déclaration de commercialisation	01/07/2005	3400936910683	oui	65%	9,45	10,47	1,02	
 60762795	3691105	10 ampoule(s) en verre de 5 ml	Présentation active	Déclaration de commercialisation	01/07/2005	3400936911055	oui	65%	16,45	17,47	1,02	
 60762795	3691163	10 ampoule(s) en verre de 10 ml	Présentation active	Déclaration de commercialisation	01/07/2005	3400936911635	oui	65%	17,91	18,93	1,02	
@@ -2219,8 +2217,6 @@
 61033239	3024095	2 seringue(s) préremplie(s) en verre de 0,2 mL	Présentation active	Déclaration de commercialisation	26/09/2022	3400930240953	oui	65%	4,34	5,36	1,02	
 61033239	3024096	6 seringue(s) préremplie(s) en verre de 0,2 mL	Présentation active	Déclaration de commercialisation	26/09/2022	3400930240960	oui	65%	12,75	13,77	1,02	
 61035382	3008306	10 ampoule(s) bouteille en verre de 10 ml	Présentation active	Déclaration de commercialisation	24/07/2019	3400930083062	oui	65%	9,59	10,61	1,02	
-61037255	3612293	plaquette(s) PVC-Aluminium de 30 comprimé(s)	Présentation active	Déclaration d'arrêt de commercialisation	16/06/2021	3400936122932	non	65%	1,95	2,97	1,02	
-61037255	3612324	plaquette(s) PVC-Aluminium de 90 comprimé(s)	Présentation active	Déclaration d'arrêt de commercialisation	16/06/2021	3400936123243	non	65%	5,15	6,17	1,02	
 61037294	3203100	film(s) thermosoudé(s) aluminium polyéthylène de 8 ovule(s)	Présentation active	Déclaration de commercialisation	19/09/1985	3400932031009	non					
 61038325	3030411	plaquette(s) aluminium PVC PVDC de 14 gélule(s)	Présentation active	Déclaration de commercialisation	04/02/2025	3400930304112	oui	65 %	86,13	87,15	1,02	
 61038695	5508953	1 à 4 flacons copolymère de cyclooléfines de 4,6 ml de chaque composant cellulaire	Présentation active	Déclaration de commercialisation	21/09/2023	3400955089537	oui					
@@ -3986,8 +3982,6 @@
 61848891	3031780	1 flacon(s) PVC de 200 ml avec cuillère-mesure polypropylène de 5 ml	Présentation active	Déclaration d'arrêt de commercialisation	01/09/2021	3400930317808	non	30%	2,69	3,71	1,02	
 61849146	2677712	plaquette(s) thermoformée(s) PVC-Aluminium de 28 comprimé(s)	Présentation active	Déclaration de commercialisation	20/05/2014	3400926777128	oui	65%	78,21	79,23	1,02	
 61849961	4993742	plaquette(s) aluminium de 7 comprimé(s)	Présentation active	Déclaration d'arrêt de commercialisation	31/08/2022	3400949937424	non	65%	9,60	10,62	1,02	
-61850725	3612258	plaquette(s) PVC-Aluminium de 30 comprimé(s)	Présentation active	Déclaration d'arrêt de commercialisation	16/06/2021	3400936122581	non	65%	1,64	2,66	1,02	
-61850725	3612287	plaquette(s) PVC-Aluminium de 90 comprimé(s)	Présentation active	Déclaration d'arrêt de commercialisation	16/06/2021	3400936122871	non	65%	4,07	5,09	1,02	
 61850771	3603590	1 flacon(s) en verre brun de 6,6 g avec cuillère-mesure en polypropylène	Présentation active	Déclaration de commercialisation	04/03/2003	3400936035904	oui	65%	1,49	2,51	1,02	
 61851777	3016993	tube(s) polypropylène de 20 comprimé(s)	Présentation active	Déclaration d'arrêt de commercialisation	11/01/2026	3400930169933	non	65%	1,99	3,01	1,02	
 61852676	3549086	plaquette(s) thermoformée(s) PVC-aluminium de 30 comprimé(s)	Présentation active	Déclaration de commercialisation	11/01/2001	3400935490865	oui	65%	2,66	3,68	1,02	
@@ -6462,7 +6456,6 @@
 63077978	3723093	plaquette(s) PVC aluminium de 30 gélule(s)	Présentation active	Déclaration de commercialisation	16/09/2008	3400937230933	oui	65%	5,62	6,64	1,02	
 63077978	3723118	plaquette(s) PVC aluminium de 90 gélule(s)	Présentation active	Déclaration de commercialisation	30/07/2008	3400937231183	oui	65%	15,94	18,70	2,76	
 63078350	2794694	1 seringue(s) préremplie(s) en verre de 15 ml avec dispositif(s) d'administration (raccord + cathéter sécurisé 22G) ( abrogée le 22/11/2023)	Présentation abrogée	Déclaration de commercialisation	04/02/2015	3400927946943	oui					
-63078350	3007510	1 seringue(s) préremplie(s) en verre de 15 ml avec dispositif(s) d'administration pour injecteur Medrad Spectris Solaris EP (seringue + prolongateur + cathéter) ( abrogée le 22/11/2023)	Présentation abrogée	Déclaration d'arrêt de commercialisation	16/06/2021	3400930075104	non					
 63078350	3019914	1 seringue(s) préremplie(s) polypropylène de 10 ml	Présentation active	Déclaration de commercialisation	05/05/2021	3400930199145	oui					
 63078350	3019915	1 seringue(s) préremplie(s) polypropylène de 15 ml	Présentation active	Déclaration de commercialisation	08/02/2021	3400930199152	oui					
 63078350	3019917	1 seringue(s) préremplie(s) polypropylène de 20 ml	Présentation active	Déclaration de commercialisation	08/02/2021	3400930199176	oui					
