@@ -2793,7 +2793,6 @@
 61292455	3346153	tube(s) polypropylène de 40 comprimé(s)	Présentation active	Déclaration de commercialisation	23/09/2019	3400933461539	non					
 61293112	3771034	plaquette(s) PVC polyéthylène de 10 suppositoire(s)	Présentation active	Déclaration de commercialisation	01/09/2009	3400937710343	non					
 61293226	3026118	plaquette(s) PVC PVDC aluminium de 60 comprimé(s)	Présentation active	Déclaration d'arrêt de commercialisation	01/03/2024	3400930261187	non	30 %	8,18	9,20	1,02	
-61294680	3392182	1 plaquette(s) PVC-Aluminium de 21 comprimé(s)	Présentation active	Déclaration d'arrêt de commercialisation	18/06/2021	3400933921828	non					
 61294680	3392199	3 plaquette(s) PVC-Aluminium de 21 comprimé(s)	Présentation active	Déclaration d'arrêt de commercialisation	19/10/2021	3400933921996	non					
 61294762	3622564	flacon(s) polyéthylène haute densité (PEHD) de 30 gélules avec fermeture de sécurité enfant	Présentation active	Déclaration de commercialisation	08/01/2004	3400936225640	oui	100%	153,06	154,08	1,02	
 61294805	3606849	1 poche(s) (ECOFLAC) polyéthylène suremballée(s)/surpochée(s) de 500 ml	Présentation active	Déclaration de commercialisation	31/03/2003	3400936068490	oui					
