@@ -1782,7 +1782,6 @@
 60836288	3026549	1 flacon en verre de poudre	Présentation active	Déclaration de commercialisation	21/02/2024	3400930265499	oui					
 60836690	2661504	1 tube(s) aluminium verni de 30 g	Présentation active	Déclaration de commercialisation	18/04/2013	3400926615048	oui	30%	2,50	3,52	1,02	
 60838150	3005826	plaquette(s) PVC-Aluminium de 30 comprimé(s)	Présentation active	Déclaration d'arrêt de commercialisation	23/07/2021	3400930058268	non	65%	13,80	14,82	1,02	
-60838150	3005833	plaquette(s) PVC-Aluminium de 90 comprimé(s)	Présentation active	Déclaration d'arrêt de commercialisation	24/06/2021	3400930058336	non	65%	38,56	41,32	2,76	
 60839455	5834394	1 flacon(s) en verre de 3000 UI - 1 seringue(s) préremplie(s) en verre de 5 ml avec piston(s) avec adaptateur(s) pour flacon avec nécessaire(s) avec tampon(s) alcoolisé(s) avec pansement(s) et une compresse de gaze	Présentation active	Déclaration de commercialisation	04/11/2013	3400958343940	oui					
 60840614	3494497	plaquette(s) thermoformée(s) PVC aluminium de 40 comprimé(s)	Présentation active	Déclaration d'arrêt de commercialisation	31/03/2022	3400934944970	non					
 60840614	3494505	plaquette(s) thermoformée(s) PVC aluminium de 80 comprimé(s)	Présentation active	Déclaration d'arrêt de commercialisation	31/03/2022	3400934945052	non					
@@ -12380,7 +12379,6 @@
 65932917	3327055	1 tube(s) aluminium verni de 15 g	Présentation active	Déclaration d'arrêt de commercialisation	20/08/2022	3400933270551	non	30%	2,83	3,85	1,02	
 65933346	5668978	1 flacon(s) en verre de 25 ml	Présentation active	Déclaration de commercialisation	17/11/2006	3400956689781	oui					
 65933346	5782562	1 flacon(s) en verre de 15 ml	Présentation active	Déclaration de commercialisation	06/09/2010	3400957825621	non					
-65933549	3771212	flacon(s) en verre brun de 125 ml avec gobelet(s) doseur(s) polypropylène	Présentation active	Déclaration d'arrêt de commercialisation	24/06/2021	3400937712125	non					
 65934042	5507326	10 flacon(s) en verre de 20 ml	Présentation active	Déclaration de commercialisation	30/08/2022	3400955073260	oui					
 65934042	5507327	10 flacon(s) en verre de 50 ml	Présentation active	Déclaration d'arrêt de commercialisation	06/03/2023	3400955073277	non					
 65934455	2766551	boîte(s) de 1 pansement(s)	Présentation active	Déclaration de commercialisation	17/12/2014	3400927665516	oui	65%	1,71	2,73	1,02	
