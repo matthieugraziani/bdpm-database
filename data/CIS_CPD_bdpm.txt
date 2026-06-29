@@ -11,6 +11,7 @@
 60080232	réservé à l'usage HOSPITALIER
 60089217	réservé à l'usage HOSPITALIER
 60105568	réservé à l'usage HOSPITALIER
+60119048	réservé à l'usage HOSPITALIER
 60124020	réservé à l'usage HOSPITALIER
 60131805	réservé à l'usage HOSPITALIER
 60132743	réservé à l'usage HOSPITALIER
@@ -262,7 +263,6 @@
 63145144	réservé à l'usage HOSPITALIER
 63149018	réservé à l'usage HOSPITALIER
 63173930	réservé à l'usage HOSPITALIER
-63181966	réservé à l'usage HOSPITALIER
 63185288	réservé à l'usage HOSPITALIER
 63207425	réservé à l'usage HOSPITALIER
 63210987	réservé à l'usage HOSPITALIER
@@ -539,7 +539,6 @@
 66799366	réservé à l'usage HOSPITALIER
 66829076	réservé à l'usage HOSPITALIER
 66831305	réservé à l'usage HOSPITALIER
-66840005	réservé à l'usage HOSPITALIER
 66843357	réservé à l'usage HOSPITALIER
 66921973	réservé à l'usage HOSPITALIER
 66966299	réservé à l'usage HOSPITALIER
@@ -735,6 +734,7 @@
 69233327	réservé à l'usage HOSPITALIER
 69236394	réservé à l'usage HOSPITALIER
 69243168	réservé à l'usage HOSPITALIER
+69245646	réservé à l'usage HOSPITALIER
 69248005	réservé à l'usage HOSPITALIER
 69265912	réservé à l'usage HOSPITALIER
 69270884	réservé à l'usage HOSPITALIER
@@ -750,7 +750,6 @@
 69340343	réservé à l'usage HOSPITALIER
 69357912	réservé à l'usage HOSPITALIER
 69375846	réservé à l'usage HOSPITALIER
-69387574	réservé à l'usage HOSPITALIER
 69399740	réservé à l'usage HOSPITALIER
 69419901	réservé à l'usage HOSPITALIER
 69439245	réservé à l'usage HOSPITALIER
@@ -951,6 +950,7 @@
 61876862	prescription réservée aux spécialistes et services NEUROLOGIE
 61899925	prescription réservée aux spécialistes et services NEUROLOGIE
 61913385	prescription réservée aux spécialistes et services NEUROLOGIE
+61921122	prescription réservée aux spécialistes et services NEUROLOGIE
 61969188	prescription réservée aux spécialistes et services NEUROLOGIE
 62031593	prescription réservée aux spécialistes et services NEUROLOGIE
 62056415	prescription réservée aux spécialistes et services NEUROLOGIE
@@ -1157,6 +1157,7 @@
 67517909	prescription réservée aux spécialistes et services NEUROLOGIE
 67545591	prescription réservée aux spécialistes et services NEUROLOGIE
 67623734	prescription réservée aux spécialistes et services NEUROLOGIE
+67630675	prescription réservée aux spécialistes et services NEUROLOGIE
 67661585	prescription réservée aux spécialistes et services NEUROLOGIE
 67716786	prescription réservée aux spécialistes et services NEUROLOGIE
 67764293	prescription réservée aux spécialistes et services NEUROLOGIE
@@ -1226,6 +1227,7 @@
 69419901	prescription réservée aux spécialistes et services NEUROLOGIE
 69421610	prescription réservée aux spécialistes et services NEUROLOGIE
 69481874	prescription réservée aux spécialistes et services NEUROLOGIE
+69544050	prescription réservée aux spécialistes et services NEUROLOGIE
 69578113	prescription réservée aux spécialistes et services NEUROLOGIE
 69581821	prescription réservée aux spécialistes et services NEUROLOGIE
 69597074	prescription réservée aux spécialistes et services NEUROLOGIE
@@ -1449,6 +1451,7 @@
 65683309	prescription réservée aux spécialistes et services PEDIATRIE
 65691302	prescription réservée aux spécialistes et services PEDIATRIE
 65801736	prescription réservée aux spécialistes et services PEDIATRIE
+65804497	prescription réservée aux spécialistes et services PEDIATRIE
 65837903	prescription réservée aux spécialistes et services PEDIATRIE
 65864619	prescription réservée aux spécialistes et services PEDIATRIE
 65869160	prescription réservée aux spécialistes et services PEDIATRIE
@@ -1553,6 +1556,7 @@
 68469328	prescription réservée aux spécialistes et services PEDIATRIE
 68496649	prescription réservée aux spécialistes et services PEDIATRIE
 68501345	prescription réservée aux spécialistes et services PEDIATRIE
+68511994	prescription réservée aux spécialistes et services PEDIATRIE
 68563941	prescription réservée aux spécialistes et services PEDIATRIE
 68564865	prescription réservée aux spécialistes et services PEDIATRIE
 68568447	prescription réservée aux spécialistes et services PEDIATRIE
@@ -1577,6 +1581,7 @@
 69137599	prescription réservée aux spécialistes et services PEDIATRIE
 69158091	prescription réservée aux spécialistes et services PEDIATRIE
 69200149	prescription réservée aux spécialistes et services PEDIATRIE
+69245646	prescription réservée aux spécialistes et services PEDIATRIE
 69256710	prescription réservée aux spécialistes et services PEDIATRIE
 69293057	prescription réservée aux spécialistes et services PEDIATRIE
 69308356	prescription réservée aux spécialistes et services PEDIATRIE
@@ -1622,6 +1627,7 @@
 60085553	médicament nécessitant une surveillance particulière pendant le traitement
 60089217	médicament nécessitant une surveillance particulière pendant le traitement
 60108831	médicament nécessitant une surveillance particulière pendant le traitement
+60111012	médicament nécessitant une surveillance particulière pendant le traitement
 60116714	médicament nécessitant une surveillance particulière pendant le traitement
 60122699	médicament nécessitant une surveillance particulière pendant le traitement
 60143654	médicament nécessitant une surveillance particulière pendant le traitement
@@ -1726,7 +1732,6 @@
 60749100	médicament nécessitant une surveillance particulière pendant le traitement
 60757264	médicament nécessitant une surveillance particulière pendant le traitement
 60766498	médicament nécessitant une surveillance particulière pendant le traitement
-60783533	médicament nécessitant une surveillance particulière pendant le traitement
 60787186	médicament nécessitant une surveillance particulière pendant le traitement
 60788605	médicament nécessitant une surveillance particulière pendant le traitement
 60789290	médicament nécessitant une surveillance particulière pendant le traitement
@@ -1953,6 +1958,7 @@
 61907012	médicament nécessitant une surveillance particulière pendant le traitement
 61913385	médicament nécessitant une surveillance particulière pendant le traitement
 61918795	médicament nécessitant une surveillance particulière pendant le traitement
+61921122	médicament nécessitant une surveillance particulière pendant le traitement
 61926055	médicament nécessitant une surveillance particulière pendant le traitement
 61928914	médicament nécessitant une surveillance particulière pendant le traitement
 61935054	médicament nécessitant une surveillance particulière pendant le traitement
@@ -1995,6 +2001,7 @@
 62258064	médicament nécessitant une surveillance particulière pendant le traitement
 62258872	médicament nécessitant une surveillance particulière pendant le traitement
 62262995	médicament nécessitant une surveillance particulière pendant le traitement
+62276016	médicament nécessitant une surveillance particulière pendant le traitement
 62280018	médicament nécessitant une surveillance particulière pendant le traitement
 62292771	médicament nécessitant une surveillance particulière pendant le traitement
 62302589	médicament nécessitant une surveillance particulière pendant le traitement
@@ -2680,6 +2687,7 @@
 66096713	médicament nécessitant une surveillance particulière pendant le traitement
 66099467	médicament nécessitant une surveillance particulière pendant le traitement
 66127361	médicament nécessitant une surveillance particulière pendant le traitement
+66129469	médicament nécessitant une surveillance particulière pendant le traitement
 66147613	médicament nécessitant une surveillance particulière pendant le traitement
 66150794	médicament nécessitant une surveillance particulière pendant le traitement
 66152222	médicament nécessitant une surveillance particulière pendant le traitement
@@ -2832,6 +2840,7 @@
 66997921	médicament nécessitant une surveillance particulière pendant le traitement
 67013115	médicament nécessitant une surveillance particulière pendant le traitement
 67016410	médicament nécessitant une surveillance particulière pendant le traitement
+67016780	médicament nécessitant une surveillance particulière pendant le traitement
 67018272	médicament nécessitant une surveillance particulière pendant le traitement
 67021350	médicament nécessitant une surveillance particulière pendant le traitement
 67022406	médicament nécessitant une surveillance particulière pendant le traitement
@@ -2948,6 +2957,7 @@
 67613747	médicament nécessitant une surveillance particulière pendant le traitement
 67623734	médicament nécessitant une surveillance particulière pendant le traitement
 67629484	médicament nécessitant une surveillance particulière pendant le traitement
+67630675	médicament nécessitant une surveillance particulière pendant le traitement
 67632968	médicament nécessitant une surveillance particulière pendant le traitement
 67638864	médicament nécessitant une surveillance particulière pendant le traitement
 67649597	médicament nécessitant une surveillance particulière pendant le traitement
@@ -2963,7 +2973,6 @@
 67684776	médicament nécessitant une surveillance particulière pendant le traitement
 67685458	médicament nécessitant une surveillance particulière pendant le traitement
 67688034	médicament nécessitant une surveillance particulière pendant le traitement
-67692495	médicament nécessitant une surveillance particulière pendant le traitement
 67694966	médicament nécessitant une surveillance particulière pendant le traitement
 67695203	médicament nécessitant une surveillance particulière pendant le traitement
 67695281	médicament nécessitant une surveillance particulière pendant le traitement
@@ -3091,6 +3100,7 @@
 68513956	médicament nécessitant une surveillance particulière pendant le traitement
 68521045	médicament nécessitant une surveillance particulière pendant le traitement
 68539189	médicament nécessitant une surveillance particulière pendant le traitement
+68546785	médicament nécessitant une surveillance particulière pendant le traitement
 68552628	médicament nécessitant une surveillance particulière pendant le traitement
 68564865	médicament nécessitant une surveillance particulière pendant le traitement
 68566407	médicament nécessitant une surveillance particulière pendant le traitement
@@ -3205,6 +3215,7 @@
 69240179	médicament nécessitant une surveillance particulière pendant le traitement
 69242739	médicament nécessitant une surveillance particulière pendant le traitement
 69243759	médicament nécessitant une surveillance particulière pendant le traitement
+69245646	médicament nécessitant une surveillance particulière pendant le traitement
 69249210	médicament nécessitant une surveillance particulière pendant le traitement
 69256226	médicament nécessitant une surveillance particulière pendant le traitement
 69258437	médicament nécessitant une surveillance particulière pendant le traitement
@@ -3357,6 +3368,7 @@
 60480212	prescription réservée aux spécialistes et services PSYCHIATRIE
 60502559	prescription réservée aux spécialistes et services PSYCHIATRIE
 60557826	prescription réservée aux spécialistes et services PSYCHIATRIE
+60587424	prescription réservée aux spécialistes et services PSYCHIATRIE
 60592065	prescription réservée aux spécialistes et services PSYCHIATRIE
 60618161	prescription réservée aux spécialistes et services PSYCHIATRIE
 60672497	prescription réservée aux spécialistes et services PSYCHIATRIE
@@ -3374,6 +3386,7 @@
 61182432	prescription réservée aux spécialistes et services PSYCHIATRIE
 61247556	prescription réservée aux spécialistes et services PSYCHIATRIE
 61288115	prescription réservée aux spécialistes et services PSYCHIATRIE
+61300140	prescription réservée aux spécialistes et services PSYCHIATRIE
 61322336	prescription réservée aux spécialistes et services PSYCHIATRIE
 61400781	prescription réservée aux spécialistes et services PSYCHIATRIE
 61430397	prescription réservée aux spécialistes et services PSYCHIATRIE
@@ -3471,6 +3484,7 @@
 66133528	prescription réservée aux spécialistes et services PSYCHIATRIE
 66177624	prescription réservée aux spécialistes et services PSYCHIATRIE
 66197477	prescription réservée aux spécialistes et services PSYCHIATRIE
+66273327	prescription réservée aux spécialistes et services PSYCHIATRIE
 66284291	prescription réservée aux spécialistes et services PSYCHIATRIE
 66290166	prescription réservée aux spécialistes et services PSYCHIATRIE
 66317873	prescription réservée aux spécialistes et services PSYCHIATRIE
@@ -3721,6 +3735,7 @@
 62215554	prescription réservée aux spécialistes et services ONCOLOGIE MEDICALE
 62235699	prescription réservée aux spécialistes et services ONCOLOGIE MEDICALE
 62252467	prescription réservée aux spécialistes et services ONCOLOGIE MEDICALE
+62276016	prescription réservée aux spécialistes et services ONCOLOGIE MEDICALE
 62280018	prescription réservée aux spécialistes et services ONCOLOGIE MEDICALE
 62292771	prescription réservée aux spécialistes et services ONCOLOGIE MEDICALE
 62308535	prescription réservée aux spécialistes et services ONCOLOGIE MEDICALE
@@ -4156,7 +4171,6 @@
 67651178	prescription réservée aux spécialistes et services ONCOLOGIE MEDICALE
 67671540	prescription réservée aux spécialistes et services ONCOLOGIE MEDICALE
 67688034	prescription réservée aux spécialistes et services ONCOLOGIE MEDICALE
-67692495	prescription réservée aux spécialistes et services ONCOLOGIE MEDICALE
 67695203	prescription réservée aux spécialistes et services ONCOLOGIE MEDICALE
 67695281	prescription réservée aux spécialistes et services ONCOLOGIE MEDICALE
 67707919	prescription réservée aux spécialistes et services ONCOLOGIE MEDICALE
@@ -4492,6 +4506,7 @@
 68427877	prescription réservée aux spécialistes et services HEPATO/GASTRO-ENTEROLOGIE
 68430695	prescription réservée aux spécialistes et services HEPATO/GASTRO-ENTEROLOGIE
 68431320	prescription réservée aux spécialistes et services HEPATO/GASTRO-ENTEROLOGIE
+68511994	prescription réservée aux spécialistes et services HEPATO/GASTRO-ENTEROLOGIE
 68619482	prescription réservée aux spécialistes et services HEPATO/GASTRO-ENTEROLOGIE
 68655966	prescription réservée aux spécialistes et services HEPATO/GASTRO-ENTEROLOGIE
 68789399	prescription réservée aux spécialistes et services HEPATO/GASTRO-ENTEROLOGIE
@@ -4658,6 +4673,7 @@
 69978449	prescription réservée aux spécialistes et services GERIATRIE
 61410918	prescription réservée aux spécialistes et services CANCEROLOGIE
 62252467	prescription réservée aux spécialistes et services CANCEROLOGIE
+62276016	prescription réservée aux spécialistes et services CANCEROLOGIE
 62435664	prescription réservée aux spécialistes et services CANCEROLOGIE
 64457346	prescription réservée aux spécialistes et services CANCEROLOGIE
 64669819	prescription réservée aux spécialistes et services CANCEROLOGIE
@@ -4789,6 +4805,7 @@
 62870086	prescription initiale hospitalière
 62983550	prescription initiale hospitalière
 63163224	prescription initiale hospitalière
+63419691	prescription initiale hospitalière
 63820570	prescription initiale hospitalière
 64115983	prescription initiale hospitalière
 64166903	prescription initiale hospitalière
@@ -4892,6 +4909,7 @@
 60085553	prescription réservée aux spécialistes et services MEDECINE INTERNE
 60101438	prescription réservée aux spécialistes et services MEDECINE INTERNE
 60110896	prescription réservée aux spécialistes et services MEDECINE INTERNE
+60111012	prescription réservée aux spécialistes et services MEDECINE INTERNE
 60129099	prescription réservée aux spécialistes et services MEDECINE INTERNE
 60203090	prescription réservée aux spécialistes et services MEDECINE INTERNE
 60203795	prescription réservée aux spécialistes et services MEDECINE INTERNE
@@ -4919,7 +4937,6 @@
 60713588	prescription réservée aux spécialistes et services MEDECINE INTERNE
 60724264	prescription réservée aux spécialistes et services MEDECINE INTERNE
 60757264	prescription réservée aux spécialistes et services MEDECINE INTERNE
-60783533	prescription réservée aux spécialistes et services MEDECINE INTERNE
 60789290	prescription réservée aux spécialistes et services MEDECINE INTERNE
 60814847	prescription réservée aux spécialistes et services MEDECINE INTERNE
 60850633	prescription réservée aux spécialistes et services MEDECINE INTERNE
@@ -5182,6 +5199,7 @@
 65228610	prescription réservée aux spécialistes et services MEDECINE INTERNE
 65235590	prescription réservée aux spécialistes et services MEDECINE INTERNE
 65283311	prescription réservée aux spécialistes et services MEDECINE INTERNE
+65283496	prescription réservée aux spécialistes et services MEDECINE INTERNE
 65325739	prescription réservée aux spécialistes et services MEDECINE INTERNE
 65332908	prescription réservée aux spécialistes et services MEDECINE INTERNE
 65340488	prescription réservée aux spécialistes et services MEDECINE INTERNE
@@ -5212,6 +5230,7 @@
 65774591	prescription réservée aux spécialistes et services MEDECINE INTERNE
 65801736	prescription réservée aux spécialistes et services MEDECINE INTERNE
 65804084	prescription réservée aux spécialistes et services MEDECINE INTERNE
+65804497	prescription réservée aux spécialistes et services MEDECINE INTERNE
 65825598	prescription réservée aux spécialistes et services MEDECINE INTERNE
 65835628	prescription réservée aux spécialistes et services MEDECINE INTERNE
 65837903	prescription réservée aux spécialistes et services MEDECINE INTERNE
@@ -5230,6 +5249,7 @@
 66086562	prescription réservée aux spécialistes et services MEDECINE INTERNE
 66092483	prescription réservée aux spécialistes et services MEDECINE INTERNE
 66112231	prescription réservée aux spécialistes et services MEDECINE INTERNE
+66129469	prescription réservée aux spécialistes et services MEDECINE INTERNE
 66146931	prescription réservée aux spécialistes et services MEDECINE INTERNE
 66157358	prescription réservée aux spécialistes et services MEDECINE INTERNE
 66170398	prescription réservée aux spécialistes et services MEDECINE INTERNE
@@ -5278,6 +5298,7 @@
 66951589	prescription réservée aux spécialistes et services MEDECINE INTERNE
 66980320	prescription réservée aux spécialistes et services MEDECINE INTERNE
 66997921	prescription réservée aux spécialistes et services MEDECINE INTERNE
+67018308	prescription réservée aux spécialistes et services MEDECINE INTERNE
 67024791	prescription réservée aux spécialistes et services MEDECINE INTERNE
 67031476	prescription réservée aux spécialistes et services MEDECINE INTERNE
 67042907	prescription réservée aux spécialistes et services MEDECINE INTERNE
@@ -5289,6 +5310,7 @@
 67121308	prescription réservée aux spécialistes et services MEDECINE INTERNE
 67134227	prescription réservée aux spécialistes et services MEDECINE INTERNE
 67185086	prescription réservée aux spécialistes et services MEDECINE INTERNE
+67253142	prescription réservée aux spécialistes et services MEDECINE INTERNE
 67261114	prescription réservée aux spécialistes et services MEDECINE INTERNE
 67270711	prescription réservée aux spécialistes et services MEDECINE INTERNE
 67296108	prescription réservée aux spécialistes et services MEDECINE INTERNE
@@ -5341,8 +5363,10 @@
 68431320	prescription réservée aux spécialistes et services MEDECINE INTERNE
 68452994	prescription réservée aux spécialistes et services MEDECINE INTERNE
 68474364	prescription réservée aux spécialistes et services MEDECINE INTERNE
+68511994	prescription réservée aux spécialistes et services MEDECINE INTERNE
 68512046	prescription réservée aux spécialistes et services MEDECINE INTERNE
 68554636	prescription réservée aux spécialistes et services MEDECINE INTERNE
+68558570	prescription réservée aux spécialistes et services MEDECINE INTERNE
 68564865	prescription réservée aux spécialistes et services MEDECINE INTERNE
 68601712	prescription réservée aux spécialistes et services MEDECINE INTERNE
 68619482	prescription réservée aux spécialistes et services MEDECINE INTERNE
@@ -5510,7 +5534,6 @@
 61670321	prescription initiale hospitalière annuelle
 61673680	prescription initiale hospitalière annuelle
 61681780	prescription initiale hospitalière annuelle
-61685711	prescription initiale hospitalière annuelle
 61707595	prescription initiale hospitalière annuelle
 61708715	prescription initiale hospitalière annuelle
 61715282	prescription initiale hospitalière annuelle
@@ -5794,6 +5817,7 @@
 67935673	prescription initiale hospitalière annuelle
 67969992	prescription initiale hospitalière annuelle
 68003070	prescription initiale hospitalière annuelle
+68012589	prescription initiale hospitalière annuelle
 68035755	prescription initiale hospitalière annuelle
 68036070	prescription initiale hospitalière annuelle
 68039999	prescription initiale hospitalière annuelle
@@ -6110,6 +6134,7 @@
 66961131	prescription initiale hospitalière semestrielle
 66990599	prescription initiale hospitalière semestrielle
 67015899	prescription initiale hospitalière semestrielle
+67016780	prescription initiale hospitalière semestrielle
 67055840	prescription initiale hospitalière semestrielle
 67055858	prescription initiale hospitalière semestrielle
 67057460	prescription initiale hospitalière semestrielle
@@ -6144,6 +6169,8 @@
 68381052	prescription initiale hospitalière semestrielle
 68388716	prescription initiale hospitalière semestrielle
 68495604	prescription initiale hospitalière semestrielle
+68535739	prescription initiale hospitalière semestrielle
+68546785	prescription initiale hospitalière semestrielle
 68587077	prescription initiale hospitalière semestrielle
 68686890	prescription initiale hospitalière semestrielle
 68757280	prescription initiale hospitalière semestrielle
@@ -6450,15 +6477,12 @@
 60913012	prescription limitée à 4 semaines
 60914025	prescription limitée à 4 semaines
 60963015	prescription limitée à 4 semaines
-60968585	prescription limitée à 4 semaines
 60975252	prescription limitée à 4 semaines
 60976557	prescription limitée à 4 semaines
 60998856	prescription limitée à 4 semaines
 61001138	prescription limitée à 4 semaines
 61007415	prescription limitée à 4 semaines
-61051785	prescription limitée à 4 semaines
 61115864	prescription limitée à 4 semaines
-61128477	prescription limitée à 4 semaines
 61145640	prescription limitée à 4 semaines
 61170825	prescription limitée à 4 semaines
 61181501	prescription limitée à 4 semaines
@@ -6520,7 +6544,6 @@
 62539894	prescription limitée à 4 semaines
 62557732	prescription limitée à 4 semaines
 62581637	prescription limitée à 4 semaines
-62688571	prescription limitée à 4 semaines
 62767225	prescription limitée à 4 semaines
 62768665	prescription limitée à 4 semaines
 62820286	prescription limitée à 4 semaines
@@ -6531,7 +6554,6 @@
 62969974	prescription limitée à 4 semaines
 63000533	prescription limitée à 4 semaines
 63009443	prescription limitée à 4 semaines
-63013616	prescription limitée à 4 semaines
 63020895	prescription limitée à 4 semaines
 63025935	prescription limitée à 4 semaines
 63071772	prescription limitée à 4 semaines
@@ -6704,10 +6726,9 @@
 67776438	prescription limitée à 4 semaines
 67824655	prescription limitée à 4 semaines
 67844330	prescription limitée à 4 semaines
+67851524	prescription limitée à 4 semaines
 67868420	prescription limitée à 4 semaines
 67877743	prescription limitée à 4 semaines
-67911715	prescription limitée à 4 semaines
-67934219	prescription limitée à 4 semaines
 67952249	prescription limitée à 4 semaines
 67973720	prescription limitée à 4 semaines
 67976474	prescription limitée à 4 semaines
@@ -7372,7 +7393,6 @@
 67665594	prescription réservée aux spécialistes et services HEMATOLOGIE
 67671540	prescription réservée aux spécialistes et services HEMATOLOGIE
 67675236	prescription réservée aux spécialistes et services HEMATOLOGIE
-67692495	prescription réservée aux spécialistes et services HEMATOLOGIE
 67694966	prescription réservée aux spécialistes et services HEMATOLOGIE
 67695281	prescription réservée aux spécialistes et services HEMATOLOGIE
 67713231	prescription réservée aux spécialistes et services HEMATOLOGIE
@@ -7599,7 +7619,6 @@
 60549911	prescription réservée aux spécialistes et services CARDIOLOGIE
 60570108	prescription réservée aux spécialistes et services CARDIOLOGIE
 60598673	prescription réservée aux spécialistes et services CARDIOLOGIE
-60783533	prescription réservée aux spécialistes et services CARDIOLOGIE
 60789290	prescription réservée aux spécialistes et services CARDIOLOGIE
 60850633	prescription réservée aux spécialistes et services CARDIOLOGIE
 60856579	prescription réservée aux spécialistes et services CARDIOLOGIE
@@ -7815,6 +7834,7 @@
 69946266	prescription réservée aux spécialistes et services CARDIOLOGIE
 60025054	prescription réservée aux spécialistes et services PNEUMOLOGIE
 60085553	prescription réservée aux spécialistes et services PNEUMOLOGIE
+60111012	prescription réservée aux spécialistes et services PNEUMOLOGIE
 60175716	prescription réservée aux spécialistes et services PNEUMOLOGIE
 60181231	prescription réservée aux spécialistes et services PNEUMOLOGIE
 60203795	prescription réservée aux spécialistes et services PNEUMOLOGIE
@@ -7908,6 +7928,7 @@
 65683309	prescription réservée aux spécialistes et services PNEUMOLOGIE
 65683679	prescription réservée aux spécialistes et services PNEUMOLOGIE
 65774591	prescription réservée aux spécialistes et services PNEUMOLOGIE
+65804497	prescription réservée aux spécialistes et services PNEUMOLOGIE
 65835628	prescription réservée aux spécialistes et services PNEUMOLOGIE
 65864619	prescription réservée aux spécialistes et services PNEUMOLOGIE
 65976536	prescription réservée aux spécialistes et services PNEUMOLOGIE
@@ -7917,6 +7938,7 @@
 66055271	prescription réservée aux spécialistes et services PNEUMOLOGIE
 66086562	prescription réservée aux spécialistes et services PNEUMOLOGIE
 66107946	prescription réservée aux spécialistes et services PNEUMOLOGIE
+66129469	prescription réservée aux spécialistes et services PNEUMOLOGIE
 66157358	prescription réservée aux spécialistes et services PNEUMOLOGIE
 66169136	prescription réservée aux spécialistes et services PNEUMOLOGIE
 66291777	prescription réservée aux spécialistes et services PNEUMOLOGIE
@@ -8114,6 +8136,7 @@
 66475574	réservé à l'usage en situation d'urgence selon l'article R5121-96 du code de la santé publique
 66499899	réservé à l'usage en situation d'urgence selon l'article R5121-96 du code de la santé publique
 66506404	réservé à l'usage en situation d'urgence selon l'article R5121-96 du code de la santé publique
+66534880	réservé à l'usage en situation d'urgence selon l'article R5121-96 du code de la santé publique
 66600871	réservé à l'usage en situation d'urgence selon l'article R5121-96 du code de la santé publique
 66617123	réservé à l'usage en situation d'urgence selon l'article R5121-96 du code de la santé publique
 66661536	réservé à l'usage en situation d'urgence selon l'article R5121-96 du code de la santé publique
@@ -8874,6 +8897,7 @@
 67423566	renouvellement de la prescription réservé aux spécialistes en HEPATO/GASTRO-ENTEROLOGIE
 67911925	renouvellement de la prescription réservé aux spécialistes en HEPATO/GASTRO-ENTEROLOGIE
 68330200	renouvellement de la prescription réservé aux spécialistes en HEPATO/GASTRO-ENTEROLOGIE
+68535739	renouvellement de la prescription réservé aux spécialistes en HEPATO/GASTRO-ENTEROLOGIE
 68757280	renouvellement de la prescription réservé aux spécialistes en HEPATO/GASTRO-ENTEROLOGIE
 68818769	renouvellement de la prescription réservé aux spécialistes en HEPATO/GASTRO-ENTEROLOGIE
 68931126	renouvellement de la prescription réservé aux spécialistes en HEPATO/GASTRO-ENTEROLOGIE
@@ -8920,6 +8944,7 @@
 67423566	renouvellement de la prescription réservé aux spécialistes en MEDECINE INTERNE
 68330200	renouvellement de la prescription réservé aux spécialistes en MEDECINE INTERNE
 68499606	renouvellement de la prescription réservé aux spécialistes en MEDECINE INTERNE
+68535739	renouvellement de la prescription réservé aux spécialistes en MEDECINE INTERNE
 68757280	renouvellement de la prescription réservé aux spécialistes en MEDECINE INTERNE
 68931126	renouvellement de la prescription réservé aux spécialistes en MEDECINE INTERNE
 69150269	renouvellement de la prescription réservé aux spécialistes en MEDECINE INTERNE
@@ -8940,6 +8965,7 @@
 61858889	prescription réservée aux spécialistes et services OPHTALMOLOGIE
 62042376	prescription réservée aux spécialistes et services OPHTALMOLOGIE
 62158605	prescription réservée aux spécialistes et services OPHTALMOLOGIE
+62494424	prescription réservée aux spécialistes et services OPHTALMOLOGIE
 62612837	prescription réservée aux spécialistes et services OPHTALMOLOGIE
 62720332	prescription réservée aux spécialistes et services OPHTALMOLOGIE
 62915154	prescription réservée aux spécialistes et services OPHTALMOLOGIE
@@ -8999,6 +9025,7 @@
 68262660	prescription réservée aux spécialistes et services OPHTALMOLOGIE
 68311292	prescription réservée aux spécialistes et services OPHTALMOLOGIE
 68452994	prescription réservée aux spécialistes et services OPHTALMOLOGIE
+68511994	prescription réservée aux spécialistes et services OPHTALMOLOGIE
 68594506	prescription réservée aux spécialistes et services OPHTALMOLOGIE
 68619482	prescription réservée aux spécialistes et services OPHTALMOLOGIE
 68654266	prescription réservée aux spécialistes et services OPHTALMOLOGIE
@@ -9092,6 +9119,7 @@
 66544554	renouvellement de la prescription réservé aux spécialistes en ONCOLOGIE MEDICALE
 66554616	renouvellement de la prescription réservé aux spécialistes en ONCOLOGIE MEDICALE
 66687082	renouvellement de la prescription réservé aux spécialistes en ONCOLOGIE MEDICALE
+67016780	renouvellement de la prescription réservé aux spécialistes en ONCOLOGIE MEDICALE
 67055840	renouvellement de la prescription réservé aux spécialistes en ONCOLOGIE MEDICALE
 67057460	renouvellement de la prescription réservé aux spécialistes en ONCOLOGIE MEDICALE
 67089180	renouvellement de la prescription réservé aux spécialistes en ONCOLOGIE MEDICALE
@@ -9105,6 +9133,8 @@
 68307714	renouvellement de la prescription réservé aux spécialistes en ONCOLOGIE MEDICALE
 68388716	renouvellement de la prescription réservé aux spécialistes en ONCOLOGIE MEDICALE
 68495604	renouvellement de la prescription réservé aux spécialistes en ONCOLOGIE MEDICALE
+68535739	renouvellement de la prescription réservé aux spécialistes en ONCOLOGIE MEDICALE
+68546785	renouvellement de la prescription réservé aux spécialistes en ONCOLOGIE MEDICALE
 68757280	renouvellement de la prescription réservé aux spécialistes en ONCOLOGIE MEDICALE
 68758635	renouvellement de la prescription réservé aux spécialistes en ONCOLOGIE MEDICALE
 68931126	renouvellement de la prescription réservé aux spécialistes en ONCOLOGIE MEDICALE
@@ -9124,6 +9154,7 @@
 69855350	renouvellement de la prescription réservé aux spécialistes en UROLOGIE
 60035714	prescription réservée aux spécialistes et services RHUMATOLOGIE
 60101438	prescription réservée aux spécialistes et services RHUMATOLOGIE
+60111012	prescription réservée aux spécialistes et services RHUMATOLOGIE
 60129099	prescription réservée aux spécialistes et services RHUMATOLOGIE
 60203090	prescription réservée aux spécialistes et services RHUMATOLOGIE
 60215018	prescription réservée aux spécialistes et services RHUMATOLOGIE
@@ -9248,6 +9279,7 @@
 65105419	prescription réservée aux spécialistes et services RHUMATOLOGIE
 65243459	prescription réservée aux spécialistes et services RHUMATOLOGIE
 65283311	prescription réservée aux spécialistes et services RHUMATOLOGIE
+65283496	prescription réservée aux spécialistes et services RHUMATOLOGIE
 65325739	prescription réservée aux spécialistes et services RHUMATOLOGIE
 65332908	prescription réservée aux spécialistes et services RHUMATOLOGIE
 65348481	prescription réservée aux spécialistes et services RHUMATOLOGIE
@@ -9273,6 +9305,7 @@
 66078074	prescription réservée aux spécialistes et services RHUMATOLOGIE
 66092483	prescription réservée aux spécialistes et services RHUMATOLOGIE
 66112231	prescription réservée aux spécialistes et services RHUMATOLOGIE
+66129469	prescription réservée aux spécialistes et services RHUMATOLOGIE
 66146931	prescription réservée aux spécialistes et services RHUMATOLOGIE
 66170398	prescription réservée aux spécialistes et services RHUMATOLOGIE
 66178765	prescription réservée aux spécialistes et services RHUMATOLOGIE
@@ -9291,11 +9324,13 @@
 66906448	prescription réservée aux spécialistes et services RHUMATOLOGIE
 66922000	prescription réservée aux spécialistes et services RHUMATOLOGIE
 66951589	prescription réservée aux spécialistes et services RHUMATOLOGIE
+67018308	prescription réservée aux spécialistes et services RHUMATOLOGIE
 67060271	prescription réservée aux spécialistes et services RHUMATOLOGIE
 67080391	prescription réservée aux spécialistes et services RHUMATOLOGIE
 67088616	prescription réservée aux spécialistes et services RHUMATOLOGIE
 67088865	prescription réservée aux spécialistes et services RHUMATOLOGIE
 67121308	prescription réservée aux spécialistes et services RHUMATOLOGIE
+67253142	prescription réservée aux spécialistes et services RHUMATOLOGIE
 67270711	prescription réservée aux spécialistes et services RHUMATOLOGIE
 67296108	prescription réservée aux spécialistes et services RHUMATOLOGIE
 67356797	prescription réservée aux spécialistes et services RHUMATOLOGIE
@@ -9321,6 +9356,8 @@
 68372441	prescription réservée aux spécialistes et services RHUMATOLOGIE
 68430695	prescription réservée aux spécialistes et services RHUMATOLOGIE
 68431320	prescription réservée aux spécialistes et services RHUMATOLOGIE
+68511994	prescription réservée aux spécialistes et services RHUMATOLOGIE
+68558570	prescription réservée aux spécialistes et services RHUMATOLOGIE
 68564865	prescription réservée aux spécialistes et services RHUMATOLOGIE
 68619482	prescription réservée aux spécialistes et services RHUMATOLOGIE
 68655966	prescription réservée aux spécialistes et services RHUMATOLOGIE
@@ -9532,6 +9569,7 @@
 60462965	prescription initiale réservée à certains spécialistes
 60518136	prescription initiale réservée à certains spécialistes
 60544558	prescription initiale réservée à certains spécialistes
+60587424	prescription initiale réservée à certains spécialistes
 60598673	prescription initiale réservée à certains spécialistes
 60620988	prescription initiale réservée à certains spécialistes
 60627865	prescription initiale réservée à certains spécialistes
@@ -9540,7 +9578,6 @@
 60666804	prescription initiale réservée à certains spécialistes
 60688551	prescription initiale réservée à certains spécialistes
 60713079	prescription initiale réservée à certains spécialistes
-60783533	prescription initiale réservée à certains spécialistes
 60787186	prescription initiale réservée à certains spécialistes
 60789290	prescription initiale réservée à certains spécialistes
 60850633	prescription initiale réservée à certains spécialistes
@@ -9560,6 +9597,7 @@
 61237544	prescription initiale réservée à certains spécialistes
 61270163	prescription initiale réservée à certains spécialistes
 61271735	prescription initiale réservée à certains spécialistes
+61300140	prescription initiale réservée à certains spécialistes
 61318238	prescription initiale réservée à certains spécialistes
 61342424	prescription initiale réservée à certains spécialistes
 61349130	prescription initiale réservée à certains spécialistes
@@ -9746,6 +9784,7 @@
 66185667	prescription initiale réservée à certains spécialistes
 66207619	prescription initiale réservée à certains spécialistes
 66242285	prescription initiale réservée à certains spécialistes
+66273327	prescription initiale réservée à certains spécialistes
 66279248	prescription initiale réservée à certains spécialistes
 66334926	prescription initiale réservée à certains spécialistes
 66351548	prescription initiale réservée à certains spécialistes
@@ -9772,6 +9811,7 @@
 66980320	prescription initiale réservée à certains spécialistes
 66988648	prescription initiale réservée à certains spécialistes
 66997921	prescription initiale réservée à certains spécialistes
+67016780	prescription initiale réservée à certains spécialistes
 67024791	prescription initiale réservée à certains spécialistes
 67055840	prescription initiale réservée à certains spécialistes
 67057460	prescription initiale réservée à certains spécialistes
@@ -9815,7 +9855,9 @@
 68499606	prescription initiale réservée à certains spécialistes
 68512046	prescription initiale réservée à certains spécialistes
 68516735	prescription initiale réservée à certains spécialistes
+68535739	prescription initiale réservée à certains spécialistes
 68546447	prescription initiale réservée à certains spécialistes
+68546785	prescription initiale réservée à certains spécialistes
 68577204	prescription initiale réservée à certains spécialistes
 68601712	prescription initiale réservée à certains spécialistes
 68716209	prescription initiale réservée à certains spécialistes
@@ -10021,6 +10063,7 @@
 65161930	prescription réservée aux spécialistes et services DERMATOLOGIE
 65250375	prescription réservée aux spécialistes et services DERMATOLOGIE
 65283311	prescription réservée aux spécialistes et services DERMATOLOGIE
+65283496	prescription réservée aux spécialistes et services DERMATOLOGIE
 65325739	prescription réservée aux spécialistes et services DERMATOLOGIE
 65332908	prescription réservée aux spécialistes et services DERMATOLOGIE
 65348481	prescription réservée aux spécialistes et services DERMATOLOGIE
@@ -10031,6 +10074,7 @@
 65599067	prescription réservée aux spécialistes et services DERMATOLOGIE
 65600733	prescription réservée aux spécialistes et services DERMATOLOGIE
 65620419	prescription réservée aux spécialistes et services DERMATOLOGIE
+65804497	prescription réservée aux spécialistes et services DERMATOLOGIE
 65837903	prescription réservée aux spécialistes et services DERMATOLOGIE
 65864619	prescription réservée aux spécialistes et services DERMATOLOGIE
 65973337	prescription réservée aux spécialistes et services DERMATOLOGIE
@@ -10059,9 +10103,11 @@
 66906448	prescription réservée aux spécialistes et services DERMATOLOGIE
 66922000	prescription réservée aux spécialistes et services DERMATOLOGIE
 66951589	prescription réservée aux spécialistes et services DERMATOLOGIE
+67018308	prescription réservée aux spécialistes et services DERMATOLOGIE
 67060271	prescription réservée aux spécialistes et services DERMATOLOGIE
 67080391	prescription réservée aux spécialistes et services DERMATOLOGIE
 67088865	prescription réservée aux spécialistes et services DERMATOLOGIE
+67253142	prescription réservée aux spécialistes et services DERMATOLOGIE
 67270711	prescription réservée aux spécialistes et services DERMATOLOGIE
 67296108	prescription réservée aux spécialistes et services DERMATOLOGIE
 67356797	prescription réservée aux spécialistes et services DERMATOLOGIE
@@ -10091,6 +10137,8 @@
 68372441	prescription réservée aux spécialistes et services DERMATOLOGIE
 68430695	prescription réservée aux spécialistes et services DERMATOLOGIE
 68431320	prescription réservée aux spécialistes et services DERMATOLOGIE
+68511994	prescription réservée aux spécialistes et services DERMATOLOGIE
+68558570	prescription réservée aux spécialistes et services DERMATOLOGIE
 68586623	prescription réservée aux spécialistes et services DERMATOLOGIE
 68619482	prescription réservée aux spécialistes et services DERMATOLOGIE
 68655966	prescription réservée aux spécialistes et services DERMATOLOGIE
@@ -10233,6 +10281,7 @@
 66544554	renouvellement de la prescription réservé aux spécialistes en HEMATOLOGIE
 66554616	renouvellement de la prescription réservé aux spécialistes en HEMATOLOGIE
 66687082	renouvellement de la prescription réservé aux spécialistes en HEMATOLOGIE
+67016780	renouvellement de la prescription réservé aux spécialistes en HEMATOLOGIE
 67055840	renouvellement de la prescription réservé aux spécialistes en HEMATOLOGIE
 67057460	renouvellement de la prescription réservé aux spécialistes en HEMATOLOGIE
 67089180	renouvellement de la prescription réservé aux spécialistes en HEMATOLOGIE
@@ -10246,6 +10295,8 @@
 68307714	renouvellement de la prescription réservé aux spécialistes en HEMATOLOGIE
 68388716	renouvellement de la prescription réservé aux spécialistes en HEMATOLOGIE
 68495604	renouvellement de la prescription réservé aux spécialistes en HEMATOLOGIE
+68535739	renouvellement de la prescription réservé aux spécialistes en HEMATOLOGIE
+68546785	renouvellement de la prescription réservé aux spécialistes en HEMATOLOGIE
 68757280	renouvellement de la prescription réservé aux spécialistes en HEMATOLOGIE
 68758635	renouvellement de la prescription réservé aux spécialistes en HEMATOLOGIE
 68931126	renouvellement de la prescription réservé aux spécialistes en HEMATOLOGIE
@@ -10300,6 +10351,7 @@
 60076860	prescription hospitalière
 60085553	prescription hospitalière
 60110654	prescription hospitalière
+60111012	prescription hospitalière
 60140010	prescription hospitalière
 60143654	prescription hospitalière
 60148167	prescription hospitalière
@@ -10593,6 +10645,7 @@
 62232322	prescription hospitalière
 62252467	prescription hospitalière
 62262657	prescription hospitalière
+62276016	prescription hospitalière
 62277449	prescription hospitalière
 62292771	prescription hospitalière
 62308535	prescription hospitalière
@@ -10634,7 +10687,6 @@
 62497388	prescription hospitalière
 62501139	prescription hospitalière
 62501705	prescription hospitalière
-62504078	prescription hospitalière
 62508169	prescription hospitalière
 62516116	prescription hospitalière
 62516778	prescription hospitalière
@@ -10718,6 +10770,7 @@
 63068769	prescription hospitalière
 63092880	prescription hospitalière
 63093822	prescription hospitalière
+63094237	prescription hospitalière
 63095061	prescription hospitalière
 63096551	prescription hospitalière
 63097564	prescription hospitalière
@@ -10927,6 +10980,7 @@
 64581657	prescription hospitalière
 64582321	prescription hospitalière
 64590923	prescription hospitalière
+64591263	prescription hospitalière
 64591854	prescription hospitalière
 64622919	prescription hospitalière
 64635418	prescription hospitalière
@@ -11137,6 +11191,7 @@
 66077182	prescription hospitalière
 66086562	prescription hospitalière
 66099467	prescription hospitalière
+66129469	prescription hospitalière
 66136969	prescription hospitalière
 66150794	prescription hospitalière
 66155179	prescription hospitalière
@@ -11271,6 +11326,7 @@
 67195408	prescription hospitalière
 67199506	prescription hospitalière
 67200677	prescription hospitalière
+67216514	prescription hospitalière
 67228961	prescription hospitalière
 67232333	prescription hospitalière
 67240262	prescription hospitalière
@@ -11331,7 +11387,6 @@
 67667620	prescription hospitalière
 67671540	prescription hospitalière
 67675236	prescription hospitalière
-67692495	prescription hospitalière
 67694966	prescription hospitalière
 67695203	prescription hospitalière
 67697019	prescription hospitalière
@@ -11404,6 +11459,7 @@
 68328338	prescription hospitalière
 68335311	prescription hospitalière
 68343525	prescription hospitalière
+68345387	prescription hospitalière
 68353583	prescription hospitalière
 68360453	prescription hospitalière
 68364291	prescription hospitalière
@@ -11556,6 +11612,7 @@
 69521735	prescription hospitalière
 69530271	prescription hospitalière
 69537091	prescription hospitalière
+69544050	prescription hospitalière
 69545056	prescription hospitalière
 69548508	prescription hospitalière
 69552232	prescription hospitalière
@@ -11776,7 +11833,9 @@
 61900982	réservé à l'usage professionnel
 61975465	réservé à l'usage professionnel
 62157859	réservé à l'usage professionnel
+62480969	réservé à l'usage professionnel
 63301732	réservé à l'usage professionnel
+64501159	réservé à l'usage professionnel
 64634704	réservé à l'usage professionnel
 64803677	réservé à l'usage professionnel
 64959847	réservé à l'usage professionnel
@@ -12155,6 +12214,7 @@
 60108831	liste I
 60110654	liste I
 60110896	liste I
+60111012	liste I
 60111197	liste I
 60111471	liste I
 60111553	liste I
@@ -12164,6 +12224,7 @@
 60116714	liste I
 60116810	liste I
 60118715	liste I
+60119048	liste I
 60120709	liste I
 60122628	liste I
 60122699	liste I
@@ -12359,6 +12420,7 @@
 60290273	liste I
 60290800	liste I
 60291941	liste I
+60292274	liste I
 60292349	liste I
 60292648	liste I
 60293216	liste I
@@ -12374,7 +12436,6 @@
 60304591	liste I
 60306813	liste I
 60307630	liste I
-60308369	liste I
 60310808	liste I
 60311269	liste I
 60311408	liste I
@@ -12675,6 +12736,7 @@
 60586094	liste I
 60586660	liste I
 60587100	liste I
+60587424	liste I
 60589496	liste I
 60590630	liste I
 60591091	liste I
@@ -12702,7 +12764,6 @@
 60614889	liste I
 60616445	liste I
 60616687	liste I
-60616840	liste I
 60617052	liste I
 60618154	liste I
 60618161	liste I
@@ -12879,7 +12940,6 @@
 60757264	liste I
 60759607	liste I
 60759685	liste I
-60761704	liste I
 60763922	liste I
 60766498	liste I
 60767155	liste I
@@ -12895,7 +12955,6 @@
 60780754	liste I
 60781984	liste I
 60782303	liste I
-60783533	liste I
 60783622	liste I
 60785331	liste I
 60787186	liste I
@@ -13181,7 +13240,6 @@
 61031964	liste I
 61033068	liste I
 61033239	liste I
-61037255	liste I
 61038325	liste I
 61038695	liste I
 61038713	liste I
@@ -13206,6 +13264,7 @@
 61052830	liste I
 61054849	liste I
 61055303	liste I
+61056394	liste I
 61056483	liste I
 61059102	liste I
 61060033	liste I
@@ -13484,6 +13543,7 @@
 61296838	liste I
 61297395	liste I
 61299147	liste I
+61300140	liste I
 61300756	liste I
 61301363	liste I
 61304982	liste I
@@ -13755,6 +13815,7 @@
 61519586	liste I
 61520873	liste I
 61521911	liste I
+61521943	liste I
 61527330	liste I
 61528101	liste I
 61529057	liste I
@@ -13926,7 +13987,6 @@
 61684812	liste I
 61684869	liste I
 61685049	liste I
-61685711	liste I
 61687089	liste I
 61687655	liste I
 61688718	liste I
@@ -14002,7 +14062,6 @@
 61743794	liste I
 61746541	liste I
 61746783	liste I
-61747892	liste I
 61748503	liste I
 61748649	liste I
 61749562	liste I
@@ -14106,7 +14165,6 @@
 61848674	liste I
 61849146	liste I
 61849961	liste I
-61850725	liste I
 61850771	liste I
 61852676	liste I
 61853027	liste I
@@ -14185,6 +14243,7 @@
 61917063	liste I
 61918795	liste I
 61919121	liste I
+61921122	liste I
 61921510	liste I
 61923059	liste I
 61923340	liste I
@@ -14581,6 +14640,7 @@
 62270942	liste I
 62270981	liste I
 62271624	liste I
+62276016	liste I
 62277449	liste I
 62278056	liste I
 62279329	liste I
@@ -14771,6 +14831,7 @@
 62445555	liste I
 62445726	liste I
 62446447	liste I
+62447691	liste I
 62448170	liste I
 62448341	liste I
 62450285	liste I
@@ -14805,6 +14866,7 @@
 62478726	liste I
 62479447	liste I
 62480378	liste I
+62480969	liste I
 62481238	liste I
 62481430	liste I
 62481448	liste I
@@ -14821,6 +14883,7 @@
 62491517	liste I
 62493653	liste I
 62493774	liste I
+62494424	liste I
 62494470	liste I
 62494787	liste I
 62495939	liste I
@@ -14834,7 +14897,6 @@
 62501139	liste I
 62501705	liste I
 62503916	liste I
-62504078	liste I
 62504459	liste I
 62505333	liste I
 62505785	liste I
@@ -14929,6 +14991,7 @@
 62607530	liste I
 62607587	liste I
 62609613	liste I
+62610277	liste I
 62610754	liste I
 62611475	liste I
 62611660	liste I
@@ -14970,6 +15033,7 @@
 62641835	liste I
 62645381	liste I
 62645506	liste I
+62647820	liste I
 62649604	liste I
 62650485	liste I
 62650834	liste I
@@ -15102,7 +15166,6 @@
 62766454	liste I
 62767168	liste I
 62767225	liste I
-62767549	liste I
 62768099	liste I
 62768220	liste I
 62770748	liste I
@@ -15110,7 +15173,6 @@
 62771736	liste I
 62771825	liste I
 62778588	liste I
-62779793	liste I
 62780055	liste I
 62780660	liste I
 62782120	liste I
@@ -15457,6 +15519,7 @@
 63092880	liste I
 63093669	liste I
 63093822	liste I
+63094237	liste I
 63094301	liste I
 63094408	liste I
 63094493	liste I
@@ -15547,7 +15610,6 @@
 63179285	liste I
 63179965	liste I
 63180946	liste I
-63181966	liste I
 63182694	liste I
 63183337	liste I
 63185288	liste I
@@ -15699,7 +15761,6 @@
 63322018	liste I
 63322630	liste I
 63322961	liste I
-63324300	liste I
 63324371	liste I
 63324453	liste I
 63324624	liste I
@@ -15801,6 +15862,7 @@
 63416752	liste I
 63416987	liste I
 63417060	liste I
+63419691	liste I
 63420868	liste I
 63420875	liste I
 63422748	liste I
@@ -15886,6 +15948,7 @@
 63490375	liste I
 63490553	liste I
 63490927	liste I
+63491203	liste I
 63491598	liste I
 63498500	liste I
 63499933	liste I
@@ -16112,6 +16175,7 @@
 63732483	liste I
 63732654	liste I
 63733514	liste I
+63734840	liste I
 63735305	liste I
 63735807	liste I
 63736019	liste I
@@ -16924,6 +16988,7 @@
 64499306	liste I
 64500146	liste I
 64500961	liste I
+64501159	liste I
 64501892	liste I
 64502115	liste I
 64503288	liste I
@@ -17014,6 +17079,7 @@
 64589522	liste I
 64590841	liste I
 64590923	liste I
+64591263	liste I
 64591690	liste I
 64591854	liste I
 64593008	liste I
@@ -17238,7 +17304,6 @@
 64781800	liste I
 64783616	liste I
 64783769	liste I
-64783947	liste I
 64784134	liste I
 64784675	liste I
 64784789	liste I
@@ -17816,6 +17881,7 @@
 65282348	liste I
 65283158	liste I
 65283311	liste I
+65283496	liste I
 65283820	liste I
 65285180	liste I
 65287548	liste I
@@ -18402,6 +18468,7 @@
 65803331	liste I
 65803349	liste I
 65804084	liste I
+65804497	liste I
 65806466	liste I
 65807550	liste I
 65808346	liste I
@@ -18742,6 +18809,7 @@
 66127233	liste I
 66127361	liste I
 66128246	liste I
+66129469	liste I
 66129490	liste I
 66132216	liste I
 66132910	liste I
@@ -18901,6 +18969,7 @@
 66271123	liste I
 66272549	liste I
 66273170	liste I
+66273327	liste I
 66274639	liste I
 66275029	liste I
 66276750	liste I
@@ -19053,6 +19122,7 @@
 66397937	liste I
 66399379	liste I
 66399710	liste I
+66399945	liste I
 66400785	liste I
 66401606	liste I
 66402996	liste I
@@ -19290,6 +19360,7 @@
 66664532	liste I
 66664685	liste I
 66666597	liste I
+66667884	liste I
 66669173	liste I
 66669650	liste I
 66669675	liste I
@@ -19479,7 +19550,6 @@
 66837710	liste I
 66838901	liste I
 66839572	liste I
-66840005	liste I
 66841235	liste I
 66842294	liste I
 66842942	liste I
@@ -19671,6 +19741,7 @@
 67016780	liste I
 67017829	liste I
 67018272	liste I
+67018308	liste I
 67019171	liste I
 67020138	liste I
 67020316	liste I
@@ -19893,6 +19964,7 @@
 67216133	liste I
 67216140	liste I
 67216375	liste I
+67216514	liste I
 67217445	liste I
 67218369	liste I
 67219072	liste I
@@ -19928,6 +20000,7 @@
 67250203	liste I
 67252364	liste I
 67252909	liste I
+67253142	liste I
 67255976	liste I
 67258011	liste I
 67258794	liste I
@@ -20173,7 +20246,6 @@
 67476946	liste I
 67477165	liste I
 67477197	liste I
-67477432	liste I
 67477845	liste I
 67478840	liste I
 67481345	liste I
@@ -20325,6 +20397,7 @@
 67628724	liste I
 67629484	liste I
 67630127	liste I
+67630675	liste I
 67630807	liste I
 67631396	liste I
 67632060	liste I
@@ -20393,7 +20466,6 @@
 67690302	liste I
 67692214	liste I
 67692246	liste I
-67692495	liste I
 67693597	liste I
 67693946	liste I
 67694165	liste I
@@ -20745,6 +20817,7 @@
 68011537	liste I
 68011551	liste I
 68011619	liste I
+68012589	liste I
 68014323	liste I
 68015560	liste I
 68016146	liste I
@@ -20793,7 +20866,6 @@
 68060865	liste I
 68062738	liste I
 68065816	liste I
-68066416	liste I
 68066715	liste I
 68067589	liste I
 68069647	liste I
@@ -21094,6 +21166,7 @@
 68342163	liste I
 68343016	liste I
 68343525	liste I
+68345387	liste I
 68347107	liste I
 68347388	liste I
 68348757	liste I
@@ -21296,6 +21369,7 @@
 68510344	liste I
 68510974	liste I
 68511791	liste I
+68511994	liste I
 68512046	liste I
 68513504	liste I
 68513632	liste I
@@ -21320,6 +21394,7 @@
 68529120	liste I
 68529686	liste I
 68530585	liste I
+68535739	liste I
 68537633	liste I
 68537836	liste I
 68538735	liste I
@@ -21343,6 +21418,7 @@
 68556498	liste I
 68556562	liste I
 68557867	liste I
+68558570	liste I
 68559206	liste I
 68560639	liste I
 68562572	liste I
@@ -21415,7 +21491,6 @@
 68619920	liste I
 68622585	liste I
 68624821	liste I
-68626352	liste I
 68626690	liste I
 68627340	liste I
 68627995	liste I
@@ -21669,7 +21744,6 @@
 68865128	liste I
 68868156	liste I
 68868512	liste I
-68871572	liste I
 68872286	liste I
 68872941	liste I
 68873833	liste I
@@ -22012,6 +22086,7 @@
 69196619	liste I
 69197468	liste I
 69197614	liste I
+69198367	liste I
 69198506	liste I
 69198890	liste I
 69200035	liste I
@@ -22075,6 +22150,7 @@
 69244971	liste I
 69245055	liste I
 69245429	liste I
+69245646	liste I
 69247501	liste I
 69248005	liste I
 69249210	liste I
@@ -22249,7 +22325,6 @@
 69384667	liste I
 69385242	liste I
 69386458	liste I
-69387574	liste I
 69387866	liste I
 69388669	liste I
 69389536	liste I
@@ -22420,6 +22495,7 @@
 69541570	liste I
 69543678	liste I
 69543888	liste I
+69544050	liste I
 69544189	liste I
 69545056	liste I
 69545330	liste I
@@ -22472,7 +22548,6 @@
 69588545	liste I
 69588627	liste I
 69590806	liste I
-69591915	liste I
 69592038	liste I
 69592294	liste I
 69593873	liste I
@@ -22962,15 +23037,12 @@
 60907447	prescription en toutes lettres sur ordonnance sécurisée
 60913012	prescription en toutes lettres sur ordonnance sécurisée
 60963015	prescription en toutes lettres sur ordonnance sécurisée
-60968585	prescription en toutes lettres sur ordonnance sécurisée
 60975252	prescription en toutes lettres sur ordonnance sécurisée
 60998856	prescription en toutes lettres sur ordonnance sécurisée
 61001138	prescription en toutes lettres sur ordonnance sécurisée
 61007415	prescription en toutes lettres sur ordonnance sécurisée
-61051785	prescription en toutes lettres sur ordonnance sécurisée
 61109911	prescription en toutes lettres sur ordonnance sécurisée
 61115864	prescription en toutes lettres sur ordonnance sécurisée
-61128477	prescription en toutes lettres sur ordonnance sécurisée
 61137241	prescription en toutes lettres sur ordonnance sécurisée
 61144346	prescription en toutes lettres sur ordonnance sécurisée
 61145640	prescription en toutes lettres sur ordonnance sécurisée
@@ -23041,7 +23113,6 @@
 62539894	prescription en toutes lettres sur ordonnance sécurisée
 62581637	prescription en toutes lettres sur ordonnance sécurisée
 62582924	prescription en toutes lettres sur ordonnance sécurisée
-62688571	prescription en toutes lettres sur ordonnance sécurisée
 62711493	prescription en toutes lettres sur ordonnance sécurisée
 62720364	prescription en toutes lettres sur ordonnance sécurisée
 62738782	prescription en toutes lettres sur ordonnance sécurisée
@@ -23055,7 +23126,6 @@
 63000533	prescription en toutes lettres sur ordonnance sécurisée
 63009443	prescription en toutes lettres sur ordonnance sécurisée
 63010787	prescription en toutes lettres sur ordonnance sécurisée
-63013616	prescription en toutes lettres sur ordonnance sécurisée
 63025935	prescription en toutes lettres sur ordonnance sécurisée
 63071772	prescription en toutes lettres sur ordonnance sécurisée
 63074380	prescription en toutes lettres sur ordonnance sécurisée
@@ -23254,8 +23324,6 @@
 67844330	prescription en toutes lettres sur ordonnance sécurisée
 67869942	prescription en toutes lettres sur ordonnance sécurisée
 67877743	prescription en toutes lettres sur ordonnance sécurisée
-67911715	prescription en toutes lettres sur ordonnance sécurisée
-67934219	prescription en toutes lettres sur ordonnance sécurisée
 67950433	prescription en toutes lettres sur ordonnance sécurisée
 67973720	prescription en toutes lettres sur ordonnance sécurisée
 67976474	prescription en toutes lettres sur ordonnance sécurisée
@@ -23556,7 +23624,6 @@
 61542706	liste II
 61547468	liste II
 61547571	liste II
-61551064	liste II
 61556061	liste II
 61564097	liste II
 61578015	liste II
@@ -23940,6 +24007,7 @@
 64354271	liste II
 64359642	liste II
 64360751	liste II
+64362325	liste II
 64366900	liste II
 64368132	liste II
 64368641	liste II
@@ -23969,7 +24037,6 @@
 64573315	liste II
 64575768	liste II
 64576012	liste II
-64577819	liste II
 64578892	liste II
 64579019	liste II
 64598133	liste II
@@ -24114,7 +24181,6 @@
 65658163	liste II
 65662980	liste II
 65671584	liste II
-65673877	liste II
 65674089	liste II
 65676300	liste II
 65687211	liste II
@@ -24690,13 +24756,10 @@
 60913012	stupéfiants
 60914025	stupéfiants
 60963015	stupéfiants
-60968585	stupéfiants
 60975252	stupéfiants
 60998856	stupéfiants
 61007415	stupéfiants
-61051785	stupéfiants
 61115864	stupéfiants
-61128477	stupéfiants
 61144346	stupéfiants
 61145640	stupéfiants
 61170825	stupéfiants
@@ -24742,14 +24805,12 @@
 62539894	stupéfiants
 62557732	stupéfiants
 62581637	stupéfiants
-62688571	stupéfiants
 62738782	stupéfiants
 62768665	stupéfiants
 62820286	stupéfiants
 62870086	stupéfiants
 63000533	stupéfiants
 63009443	stupéfiants
-63013616	stupéfiants
 63071772	stupéfiants
 63074380	stupéfiants
 63098755	stupéfiants
@@ -24890,10 +24951,9 @@
 67733508	stupéfiants
 67827968	stupéfiants
 67844330	stupéfiants
+67851524	stupéfiants
 67868420	stupéfiants
 67877743	stupéfiants
-67911715	stupéfiants
-67934219	stupéfiants
 67973720	stupéfiants
 67976474	stupéfiants
 67986059	stupéfiants
@@ -25502,6 +25562,7 @@
 66093051	réservé à une structure d'assistance médicale mobile ou de rapatriement sanitaire
 66110981	réservé à une structure d'assistance médicale mobile ou de rapatriement sanitaire
 66207074	réservé à une structure d'assistance médicale mobile ou de rapatriement sanitaire
+66534880	réservé à une structure d'assistance médicale mobile ou de rapatriement sanitaire
 66617123	réservé à une structure d'assistance médicale mobile ou de rapatriement sanitaire
 66661536	réservé à une structure d'assistance médicale mobile ou de rapatriement sanitaire
 66701952	réservé à une structure d'assistance médicale mobile ou de rapatriement sanitaire
@@ -25809,6 +25870,7 @@
 61535619	prescription réservée aux spécialistes et services NEUROPEDIATRIE
 61680130	prescription réservée aux spécialistes et services NEUROPEDIATRIE
 61876862	prescription réservée aux spécialistes et services NEUROPEDIATRIE
+61921122	prescription réservée aux spécialistes et services NEUROPEDIATRIE
 62140151	prescription réservée aux spécialistes et services NEUROPEDIATRIE
 62154820	prescription réservée aux spécialistes et services NEUROPEDIATRIE
 62160702	prescription réservée aux spécialistes et services NEUROPEDIATRIE
@@ -25840,6 +25902,7 @@
 67410227	prescription réservée aux spécialistes et services NEUROPEDIATRIE
 67447460	prescription réservée aux spécialistes et services NEUROPEDIATRIE
 67545591	prescription réservée aux spécialistes et services NEUROPEDIATRIE
+67630675	prescription réservée aux spécialistes et services NEUROPEDIATRIE
 67661585	prescription réservée aux spécialistes et services NEUROPEDIATRIE
 67883810	prescription réservée aux spécialistes et services NEUROPEDIATRIE
 67978055	prescription réservée aux spécialistes et services NEUROPEDIATRIE
@@ -25851,6 +25914,7 @@
 69164991	prescription réservée aux spécialistes et services NEUROPEDIATRIE
 69326436	prescription réservée aux spécialistes et services NEUROPEDIATRIE
 69421610	prescription réservée aux spécialistes et services NEUROPEDIATRIE
+69544050	prescription réservée aux spécialistes et services NEUROPEDIATRIE
 69834687	prescription réservée aux spécialistes et services NEUROPEDIATRIE
 69949472	prescription réservée aux spécialistes et services NEUROPEDIATRIE
 60661312	prescription nécessitant la signature annuelle par le médecin et la patiente d'une attestation d'information
@@ -26038,7 +26102,6 @@
 60203546	prescription limitée à 6 mois
 60618841	prescription limitée à 6 mois
 60658330	prescription limitée à 6 mois
-60761704	prescription limitée à 6 mois
 60805346	prescription limitée à 6 mois
 60912259	prescription limitée à 6 mois
 61031964	prescription limitée à 6 mois
@@ -26500,6 +26563,7 @@
 64627916	prescription réservée aux spécialistes et services OTO-RHINO-LARYNGOLOGIE
 65134723	prescription réservée aux spécialistes et services OTO-RHINO-LARYNGOLOGIE
 65161930	prescription réservée aux spécialistes et services OTO-RHINO-LARYNGOLOGIE
+65804497	prescription réservée aux spécialistes et services OTO-RHINO-LARYNGOLOGIE
 65864619	prescription réservée aux spécialistes et services OTO-RHINO-LARYNGOLOGIE
 66107946	prescription réservée aux spécialistes et services OTO-RHINO-LARYNGOLOGIE
 66719612	prescription réservée aux spécialistes et services OTO-RHINO-LARYNGOLOGIE
@@ -26543,6 +26607,7 @@
 60565723	renouvellement non restreint
 60569173	renouvellement non restreint
 60570108	renouvellement non restreint
+60587424	renouvellement non restreint
 60621442	renouvellement non restreint
 60673389	renouvellement non restreint
 60678735	renouvellement non restreint
@@ -26576,6 +26641,7 @@
 61203595	renouvellement non restreint
 61247435	renouvellement non restreint
 61294762	renouvellement non restreint
+61300140	renouvellement non restreint
 61312477	renouvellement non restreint
 61358994	renouvellement non restreint
 61410918	renouvellement non restreint
@@ -26591,7 +26657,6 @@
 61623065	renouvellement non restreint
 61654491	renouvellement non restreint
 61666846	renouvellement non restreint
-61685711	renouvellement non restreint
 61687452	renouvellement non restreint
 61697585	renouvellement non restreint
 61698947	renouvellement non restreint
@@ -26827,6 +26892,7 @@
 66150577	renouvellement non restreint
 66169524	renouvellement non restreint
 66209488	renouvellement non restreint
+66273327	renouvellement non restreint
 66325208	renouvellement non restreint
 66352529	renouvellement non restreint
 66384911	renouvellement non restreint
@@ -27609,7 +27675,6 @@
 67651178	prescription réservée aux médecins compétents en CANCEROLOGIE
 67671540	prescription réservée aux médecins compétents en CANCEROLOGIE
 67688034	prescription réservée aux médecins compétents en CANCEROLOGIE
-67692495	prescription réservée aux médecins compétents en CANCEROLOGIE
 67695203	prescription réservée aux médecins compétents en CANCEROLOGIE
 67695281	prescription réservée aux médecins compétents en CANCEROLOGIE
 67707919	prescription réservée aux médecins compétents en CANCEROLOGIE
@@ -27798,6 +27863,7 @@
 65119162	prescription réservée aux spécialistes et services ALLERGOLOGIE
 65134723	prescription réservée aux spécialistes et services ALLERGOLOGIE
 65161930	prescription réservée aux spécialistes et services ALLERGOLOGIE
+65804497	prescription réservée aux spécialistes et services ALLERGOLOGIE
 65864619	prescription réservée aux spécialistes et services ALLERGOLOGIE
 66004227	prescription réservée aux spécialistes et services ALLERGOLOGIE
 66080171	prescription réservée aux spécialistes et services ALLERGOLOGIE
@@ -27913,6 +27979,7 @@
 66544554	renouvellement de la prescription réservé aux médecins compétents en CANCEROLOGIE
 66554616	renouvellement de la prescription réservé aux médecins compétents en CANCEROLOGIE
 66687082	renouvellement de la prescription réservé aux médecins compétents en CANCEROLOGIE
+67016780	renouvellement de la prescription réservé aux médecins compétents en CANCEROLOGIE
 67055840	renouvellement de la prescription réservé aux médecins compétents en CANCEROLOGIE
 67057460	renouvellement de la prescription réservé aux médecins compétents en CANCEROLOGIE
 67089180	renouvellement de la prescription réservé aux médecins compétents en CANCEROLOGIE
@@ -27926,6 +27993,8 @@
 68307714	renouvellement de la prescription réservé aux médecins compétents en CANCEROLOGIE
 68388716	renouvellement de la prescription réservé aux médecins compétents en CANCEROLOGIE
 68495604	renouvellement de la prescription réservé aux médecins compétents en CANCEROLOGIE
+68535739	renouvellement de la prescription réservé aux médecins compétents en CANCEROLOGIE
+68546785	renouvellement de la prescription réservé aux médecins compétents en CANCEROLOGIE
 68757280	renouvellement de la prescription réservé aux médecins compétents en CANCEROLOGIE
 68758635	renouvellement de la prescription réservé aux médecins compétents en CANCEROLOGIE
 68931126	renouvellement de la prescription réservé aux médecins compétents en CANCEROLOGIE
@@ -27945,6 +28014,7 @@
 68452994	prescription réservée aux spécialistes en ENDOCRINOLOGIE - DIABETOLOGIE - NUTRITION
 68773605	prescription réservée aux spécialistes en ENDOCRINOLOGIE - DIABETOLOGIE - NUTRITION
 68822746	prescription réservée aux spécialistes en ENDOCRINOLOGIE - DIABETOLOGIE - NUTRITION
+69245646	prescription réservée aux spécialistes en ENDOCRINOLOGIE - DIABETOLOGIE - NUTRITION
 61009918	à l'initiation du traitement et une fois par an
 61547468	à l'initiation du traitement et une fois par an
 63045724	à l'initiation du traitement et une fois par an
@@ -28032,7 +28102,6 @@
 60618841	prescription sur ordonnance sécurisée
 60658330	prescription sur ordonnance sécurisée
 60756917	prescription sur ordonnance sécurisée
-60761704	prescription sur ordonnance sécurisée
 60805346	prescription sur ordonnance sécurisée
 60912259	prescription sur ordonnance sécurisée
 60914025	prescription sur ordonnance sécurisée
@@ -28157,6 +28226,7 @@
 67733508	prescription sur ordonnance sécurisée
 67824655	prescription sur ordonnance sécurisée
 67838740	prescription sur ordonnance sécurisée
+67851524	prescription sur ordonnance sécurisée
 67855921	prescription sur ordonnance sécurisée
 67868420	prescription sur ordonnance sécurisée
 67873887	prescription sur ordonnance sécurisée
