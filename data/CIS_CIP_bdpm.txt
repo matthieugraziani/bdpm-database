@@ -889,7 +889,6 @@
 60447461	5644529	1 flacon(s) en verre de 7,5 à 15 MBq/ml	Présentation active	Déclaration de commercialisation	01/01/1992	3400956445295	oui					
 60448702	3587419	1 pilulier(s) PVC brun de 42  gélule(s) avec sachet absorbeur d'oxygène	Présentation active	Déclaration d'arrêt de commercialisation	05/11/2025	3400935874191	non					
 60448937	3027736	plaquettes OPA : polyamide orienté aluminium PVC-Aluminium de 28 comprimés	Présentation active	Déclaration d'arrêt de commercialisation	17/04/2024	3400930277362	non	65 %	262,98	264,00	1,02	
-60449672	3811845	plaquette(s) thermoformée(s) aluminium de 7 gélule(s)	Présentation active	Déclaration d'arrêt de commercialisation	05/07/2021	3400938118452	non	65%	1,27	2,29	1,02	
 60449672	3811851	plaquette(s) thermoformée(s) aluminium de 14 gélule(s)	Présentation active	Déclaration de commercialisation	12/12/2007	3400938118513	oui	65%	2,23	3,25	1,02	
 60449672	3811868	plaquette(s) thermoformée(s) aluminium de 28 gélule(s)	Présentation active	Déclaration de commercialisation	12/12/2007	3400938118681	oui	65%	4,10	5,12	1,02	
 60451456	3020174	2 seringue(s) préremplie(s) en verre de 0,6 ml	Présentation active	Déclaration de commercialisation	25/11/2020	3400930201749	oui	65 %	9,82	10,84	1,02	
@@ -8044,7 +8043,7 @@
 63866728	2219079	12 seringue(s) préremplie(s) en verre de 0,5 ml dans stylo jetable avec aiguille(s) acier	Présentation active	Déclaration de commercialisation	05/04/2013	3400922190792	oui	65%	478,78	479,80	1,02	
 63868145	3018139	2 flacons pulvérisateurs nasaux  en récipient unidose de 0,1 mL	Présentation active	Déclaration de commercialisation	20/09/2021	3400930181393	oui	65 %	31,40	32,42	1,02	
 63868864	3354709	1 flacon(s) polyéthylène haute densité (PEHD) contenant 24,4 g de poudre avec seringue(s) pour administration orale graduée avec adaptateur(s) pour flacon	Présentation active	Déclaration de commercialisation	16/03/1998	3400933547097	oui	65%	13,28	14,30	1,02	
-63869763	3030903	plaquettes aluminium de  90 (3 x 30) comprimés, (conditionnement multiple)	Présentation active	Déclaration de commercialisation	23/05/2025	3400930309032	non					
+63869763	3030903	plaquettes aluminium de  90 (3 x 30) comprimés, (conditionnement multiple)	Présentation active	Déclaration de commercialisation	23/05/2025	3400930309032	non	100 %	14,177,30	1,02		
 63870235	3793685	plaquette(s) PVC PVDC aluminium de 7 gélule(s)	Présentation active	Déclaration de commercialisation	05/11/2007	3400937936859	oui	65%	9,64	10,66	1,02	
 63870751	3185135	plaquette(s) thermoformée(s) PVDC PVC-Aluminium de 30  gélule(s)	Présentation active	Déclaration de commercialisation	19/04/1983	3400931851356	oui	65%	4,79	5,81	1,02	
 63871159	3572889	1 seringue préremplie polypropylène avec 1 aiguille fixe en acier inoxydable munie d'un système de sécurité automatique	Présentation active	Déclaration de commercialisation	15/01/2002	3400935728890	oui	100%	833,28	834,30	1,02	Ce médicament peut être pris en charge ou remboursé par l'Assurance Maladie dans les cas suivants :<br><br>- Traitement de l'acromégalie lorsque la chirurgie et/ou la radiothérapie ne peuvent pas être envisagés.<br>- Traitement des symptômes cliniques des tumeurs carcinoïdes. ; JOURNAL OFFICIEL ; 08/08/13
