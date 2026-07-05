@@ -3398,7 +3398,6 @@
 61572425	3019496	plaquette(s) PVC PVDC aluminium de 8 comprimé(s)	Présentation active	Déclaration de commercialisation	27/11/2020	3400930194966	non					
 61572507	3913847	plaquette(s) thermoformée(s) aluminium de 28 comprimé(s)	Présentation active	Déclaration d'arrêt de commercialisation	23/06/2025	3400939138473	non	65%	10,48	11,50	1,02	
 61572941	3223887	plaquette(s) thermoformée(s) PVC-Aluminium de 20  comprimé(s)	Présentation active	Déclaration de commercialisation	19/09/1979	3400932238873	oui	65%	3,11	4,13	1,02	
-61573299	3008126	plaquette(s) PVC PVDC aluminium de 84 comprimé(s)	Présentation active	Déclaration d'arrêt de commercialisation	06/07/2021	3400930081266	non					
 61574554	3009638	1 tube(s) polypropylène de 8 comprimé(s)	Présentation active	Déclaration de commercialisation	19/03/2018	3400930096383	non					
 61576943	3580736	plaquette(s) papier aluminium PVC (ACLAR RX) polytrifluorochloroéthylène de 3 comprimé(s) avec applicateur(s) buccal(aux) en plastique	Présentation active	Déclaration de commercialisation	02/09/2002	3400935807366	oui	65%	18,17	19,19	1,02	
 61578015	5631165	20 ampoule(s) en verre de 4 ml	Présentation active	Déclaration de commercialisation	21/12/1994	3400956311651	oui					
