@@ -6049,7 +6049,6 @@
 62884513	5629990	10 flacon(s) en verre de 10 ml	Présentation active	Déclaration de commercialisation	06/07/2001	3400956299904	oui					
 62884890	3988911	1 sachet(s) papier polyéthylène aluminium de 8 g	Présentation active	Déclaration de commercialisation	13/11/2024	3400939889115	oui	65%	4,21	5,23	1,02	
 62886076	3025422	1 flacon(s) polyéthylène haute densité (PEHD) de 30 comprimé(s)	Présentation active	Déclaration de commercialisation	08/04/2026	3400930254226	oui	65 %	25,94	26,96	1,02	
-62886560	4924362	tube(s) polyéthylène de 30 g	Présentation active	Déclaration d'arrêt de commercialisation	13/07/2021	3400949243624	non	30%	3,42	4,44	1,02	
 62887096	3014186	1 flacon en verre de 50 microgrammes de poudre  - 1 flacon en verre de 0,5 ml de suspension	Présentation active	Déclaration de commercialisation	02/10/2023	3400930141861	oui	65 %	188,37	189,39	1,02	
 62887947	3017044	tube(s) polypropylène de 8 comprimé(s)	Présentation active	Déclaration de commercialisation	11/01/2021	3400930170441	oui	65%	1,16	2,18	1,02	
 62887947	3615883	plaquette(s) thermoformée(s) PVC-Aluminium de 8  comprimé(s)	Présentation active	Déclaration de commercialisation	29/09/2003	3400936158832	oui	65%	1,16	2,18	1,02	
@@ -10649,7 +10648,6 @@
 65106581	2667582	1 flacon(s) polypropylène de 150 ml avec seringue(s) pour injecteur Nemoto (+ microperfuseur + raccord) et avec cathéter(s)	Présentation active	Déclaration d'arrêt de commercialisation	17/09/2024	3400926675820	non					
 65106581	2667599	1 flacon(s) polypropylène de 150 ml avec seringue(s) pour injecteur Medrad Stellant (+ microperfuseur + raccord) et avec cathéter(s)	Présentation active	Déclaration d'arrêt de commercialisation	29/02/2024	3400926675998	non					
 65106581	3018772	1 flacon(s) polypropylène de 100 ml avec tubulure patient pour injecteur Ulrich CT motion et avec cathéter(s)	Présentation active	Déclaration d'arrêt de commercialisation	05/07/2024	3400930187722	non					
-65106581	3018773	1 flacon(s) polypropylène de 150 ml avec tubulure patient pour injecteur Ulrich CT motion et avec cathéter(s)	Présentation active	Déclaration d'arrêt de commercialisation	13/07/2021	3400930187739	non					
 65106581	3028197	10 flacon(s) polypropylène de 500 ml	Présentation active	Déclaration de commercialisation	21/03/2024	3400930281970	oui					
 65106581	3268157	1 flacon(s) en verre de 10 ml	Présentation active	Déclaration d'arrêt de commercialisation	20/02/2024	3400932681570	non	65%	3,64	4,66	1,02	
 65106581	3334983	1 flacon(s) polypropylène de 50 ml avec seringue(s) microperfuseur	Présentation active	Déclaration d'arrêt de commercialisation	29/02/2024	3400933349837	non					
@@ -15806,7 +15804,6 @@
 67567958	3002832	plaquette(s) PVC polychlortrifluoroéthylène aluminium de 30 comprimé(s)	Présentation active	Déclaration de commercialisation	18/04/2016	3400930028322	oui	65%	9,05	10,07	1,02	
 67568483	3024365	1 flacon(s) en verre de 20 ml	Présentation active	Déclaration de commercialisation	24/05/2022	3400930243657	oui	65 %	3,304,52	3,305,54	1,02	
 67568483	3024367	8 flacon(s) en verre de 20 ml	Présentation active	Déclaration de commercialisation	30/05/2023	3400930243671	oui	65%	25,501,46	25,502,48	1,02	
-67568693	3952089	1 flacon(s) compte-gouttes polyéthylène basse densité (PEBD) de 5 ml	Présentation active	Déclaration d'arrêt de commercialisation	13/07/2021	3400939520896	non	65%	3,55	4,57	1,02	
 67569927	3003971	plaquette(s) PVC PVDC aluminium de 24 pastille(s)	Présentation active	Déclaration de commercialisation	30/08/2016	3400930039717	non					
 67572325	3849954	plaquette(s) thermoformée(s) PVC PVDC aluminium de 100 gélule(s)	Présentation active	Déclaration de commercialisation	18/03/2025	3400938499544	oui	100 %	50,50	51,52	1,02	
 67572599	3026660	plaquette(s) OPA : polyamide orienté aluminium PVC-Aluminium de 30 gélule(s)	Présentation active	Déclaration de commercialisation	02/02/2024	3400930266601	oui	65 %	16,17	17,19	1,02	
