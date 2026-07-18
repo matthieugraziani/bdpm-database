@@ -9898,7 +9898,6 @@
 64767583	3561354	1 poche(s) (COSINUS) polyoléfine suremballée(s)/surpochée(s) de 1000 ml	Présentation active	Déclaration de commercialisation	14/09/2004	3400935613547	oui	65%	2,99	4,01	1,02	
 64767583	3561377	1 poche(s) (COSINUS) PVC monoluer PVC plastifié suremballée(s)/surpochée(s) de 100 ml	Présentation active	Déclaration de commercialisation	14/09/2004	3400935613776	oui					
 64767583	3561408	1 poche(s) (COSINUS) PVC monoluer PVC plastifié suremballée(s)/surpochée(s) de 250 ml	Présentation active	Déclaration de commercialisation	14/09/2004	3400935614087	oui					
-64767583	3561414	1 poche(s) (COSINUS) PVC monoluer PVC plastifié suremballée(s)/surpochée(s) de 500 ml	Présentation active	Déclaration d'arrêt de commercialisation	18/07/2021	3400935614148	non					
 64767583	3563117	1 poche(s) (COSINUS) PVC biluer PVC plastifié suremballée(s)/surpochée(s) de 500 ml	Présentation active	Déclaration de commercialisation	14/09/2004	3400935631176	oui					
 64767583	4975112	poche(s) (EASYFLEX) + polyoléfine suremballée(s)/surpochée(s) de 50 ml	Présentation active	Déclaration de commercialisation	07/12/2012	3400949751129	oui					
 64767583	4975129	poche(s) (EASYFLEX) + polyoléfine suremballée(s)/surpochée(s) de 100 ml	Présentation active	Déclaration de commercialisation	07/12/2012	3400949751297	oui					
