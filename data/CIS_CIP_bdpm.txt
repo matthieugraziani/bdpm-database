@@ -4791,7 +4791,6 @@
 62245483	3538220	plaquette(s) PVC-Aluminium de 40 comprimé(s)	Présentation active	Déclaration de commercialisation	29/05/2001	3400935382207	non					
 62246560	3731402	plaquette(s) PVC PVDC aluminium de 30 comprimé(s)	Présentation active	Déclaration de commercialisation	02/02/2012	3400937314022	oui	65%	2,78	3,80	1,02	
 62246560	3731425	plaquette(s) PVC PVDC aluminium de 90 comprimé(s)	Présentation active	Déclaration de commercialisation	14/11/2011	3400937314251	oui	65%	7,39	10,15	2,76	
-62246628	2742823	plaquette(s) polyamide aluminium PVC-Aluminium de 28 comprimé(s)	Présentation active	Déclaration d'arrêt de commercialisation	19/07/2021	3400927428234	non	65%	3,85	4,87	1,02	
 62247908	3018201	plaquette(s) PVC-Aluminium de 30 comprimé(s)	Présentation active	Déclaration de commercialisation	12/05/2022	3400930182017	oui	65%	3,72	4,74	1,02	
 62247908	3018204	plaquette(s) PVC-Aluminium de 90 comprimé(s)	Présentation active	Déclaration de commercialisation	06/11/2020	3400930182048	oui	65%	10,35	13,11	2,76	
 62249357	3263711	1 flacon(s) en verre de 10 ml avec nébuliseur	Présentation active	Déclaration de commercialisation	19/01/1986	3400932637119	non					
@@ -16301,7 +16300,6 @@
 67785031	3018998	plaquette(s) PVC PVDC aluminium de 56 comprimé(s)	Présentation active	Déclaration de commercialisation	19/09/2022	3400930189986	oui	65 %	48,58	49,60	1,02	
 67785202	3129645	plaquette(s) thermoformée(s) polyéthylène PVC de 10 suppositoire(s)	Présentation active	Déclaration d'arrêt de commercialisation	01/01/2023	3400931296454	non					
 67785202	3236275	1 sac(s) polyéthylène de 25 suppositoire(s)	Présentation active	Déclaration d'arrêt de commercialisation	19/10/2021	3400932362752	non					
-67785202	3236281	1 sac(s) polyéthylène de 50 suppositoire(s)	Présentation active	Déclaration d'arrêt de commercialisation	19/07/2021	3400932362813	non					
 67785202	3236298	1 sac(s) polyéthylène de 100 suppositoire(s)	Présentation active	Déclaration d'arrêt de commercialisation	21/07/2021	3400932362981	non					
 67785736	3498934	plaquette(s) PVC-Aluminium de 15 comprimé(s)	Présentation active	Déclaration de commercialisation	03/01/2003	3400934989346	oui	30%	2,38	3,40	1,02	
 67786749	3990115	1 seringue(s) préremplie(s) en verre de 0,5 ml avec aiguille(s)	Présentation active	Déclaration de commercialisation	31/05/2010	3400939901152	oui	65%	48,82	49,84	1,02	Ce médicament peut être pris en charge ou remboursé par l'Assurance Maladie dans le cas suivant :<br><br>Vaccination contre les infections invasives à pneumocoques chez les patients suivants :<br><br>- Nourrissons de 6 semaines à 2 ans<br>- Enfants à partir de 2 ans,  présentant un risque élevé d'infection à cause de certaines pathologies<br>- Adultes et personnes âgées<br><br>Vaccination contre les pneumonies bactériennes chez les patients suivants :<br>- Adultes et personnes âgées ; JOURNAL OFFICIEL ; 21/05/10
