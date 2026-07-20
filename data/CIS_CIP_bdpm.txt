@@ -6554,7 +6554,6 @@
 63119562	4911980	5 ampoule(s) bouteille en verre de 2 ml	Présentation active	Déclaration d'arrêt de commercialisation	28/02/2025	3400949119806	non					
 63119726	3670899	plaquette(s) aluminium PVC PVDC opaque de 30 comprimé(s)	Présentation active	Déclaration de commercialisation	01/06/2005	3400936708990	oui	65%	1,95	2,97	1,02	
 63119726	3670907	plaquette(s) aluminium PVC PVDC opaque de 90 comprimé(s)	Présentation active	Déclaration de commercialisation	09/08/2007	3400936709072	oui	65%	5,15	6,17	1,02	
-63120714	3006200	plaquette(s) aluminium de 7 comprimé(s)	Présentation active	Arrêt de commercialisation (le médicament n'a plus d'autorisation)	20/07/2021	3400930062005	non					
 63121061	3004558	plaquette(s) PVC polychlortrifluoroéthylène aluminium de 30 comprimé(s)	Présentation active	Déclaration de commercialisation	28/06/2016	3400930045589	oui	65%	16,02	17,04	1,02	
 63121061	3004560	plaquette(s) PVC polychlortrifluoroéthylène aluminium de 60 comprimé(s)	Présentation active	Déclaration de commercialisation	28/06/2016	3400930045602	oui	65%	31,63	32,65	1,02	
 63121086	3011746	plaquette(s) PVC PVDC aluminium de 30 comprimé(s)	Présentation active	Déclaration de commercialisation	27/11/2018	3400930117460	oui	65%	131,70	132,72	1,02	
@@ -6800,7 +6799,6 @@
 63234340	3118794	plaquette(s) thermoformée(s) PVC aluminium de 30 comprimé(s)	Présentation active	Déclaration de commercialisation	19/01/1971	3400931187943	oui	65%	2,33	3,35	1,02	
 63235054	3511675	plaquette(s) PVC-Aluminium de 28 comprimé(s)	Présentation active	Déclaration de commercialisation	20/06/2000	3400935116758	oui	65%	1,74	2,76	1,02	
 63235257	3020528	56 comprimés sous 4 plaquettes (PVC/ACLAR/PVC) contenant 7 comprimés de 30 mg + 7 comprimés de 90 mg	Présentation active	Déclaration de commercialisation	22/06/2021	3400930205280	oui	30 %	468,15	469,17	1,02	Ce médicament peut être pris en charge ou remboursé par l'Assurance Maladie dans les cas suivants :<br><br>Polykystose rénale autosomique dominante authentifiée chez les patients adultes  et progresseurs (c'est-à-dire avec un certain nombre de critères concernant la fonction rénale), le but recherché étant de ralentir la progression du développement des kystes et de l'insuffisance rénale ; JOURNAL OFFICIEL ; 14/01/20
-63235360	3758401	plaquette(s) thermoformée(s) PVC-Aluminium de 30 comprimé(s)	Présentation active	Déclaration d'arrêt de commercialisation	20/07/2021	3400937584012	non					
 63236206	3018634	1 stylo prérempli en verre de 1 ml	Présentation active	Déclaration de commercialisation	16/03/2020	3400930186343	oui	65 %	917,64	918,66	1,02	
 63236206	3025056	3 stylos préremplis en verre de 1 ml  (conditionnement multiple)	Présentation active	Déclaration de commercialisation	24/01/2023	3400930250563	oui	65 %	2,655,36	2,658,12	2,76	
 63237361	3764608	plaquette(s) aluminium PVC polyéthylène PVDC de 30 comprimé(s)	Présentation active	Déclaration de commercialisation	13/11/2009	3400937646086	oui	65%	3,64	4,66	1,02	
