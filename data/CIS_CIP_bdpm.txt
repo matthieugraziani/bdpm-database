@@ -465,7 +465,7 @@
 60234100	5636955	plaquette(s) thermoformée(s) PVC-aluminium de 100  comprimé(s)	Présentation active	Déclaration de commercialisation	17/03/2003	3400956369553	oui					
 60234214	3882704	plaquette(s) PVC PVDC aluminium de 30 gélule(s)	Présentation active	Déclaration de commercialisation	19/06/2018	3400938827040	oui	65%	4,53	5,55	1,02	
 60235330	3556755	1 flacon(s) en verre de 500 mg - 1 ampoule(s) en verre de 5 ml	Présentation active	Déclaration de commercialisation	09/07/2001	3400935567550	oui	65%	3,48	4,50	1,02	
-60235768	3931383	1 flacon(s) polyéthylène haute densité (PEHD) avec fermeture de sécurité enfant de 60 comprimé(s)	Présentation active	Déclaration de commercialisation	01/09/2009	3400939313832	oui	100%	289,14	290,16	1,02	
+60235768	3931383	1 flacon(s) polyéthylène haute densité (PEHD) avec fermeture de sécurité enfant de 60 comprimé(s)	Présentation active	Déclaration de commercialisation	01/09/2009	3400939313832	oui	100%	202,76	203,78	1,02	
 60236546	4900405	1 pilulier(s) polypropylène de 30 comprimé(s)	Présentation active	Déclaration de commercialisation	08/09/2021	3400949004058	oui	65 %	8,67	9,69	1,02	
 60236546	4900406	1 pilulier(s) polypropylène de 90 comprimé(s)	Présentation active	Déclaration de commercialisation	08/09/2021	3400949004065	oui	65 %	24,59	27,35	2,76	
 60237858	5710137	10 ampoule(s) en verre de 10 ml	Présentation active	Déclaration de commercialisation	01/10/2007	3400957101374	oui					
@@ -1828,7 +1828,7 @@
 60858338	2678657	5 plaquette(s) thermoformée(s) aluminium de 1 gélule(s)	Présentation active	Déclaration de commercialisation	11/04/2013	3400926786571	oui					
 60859059	3582540	plaquette(s) thermoformée(s) polyamide aluminium PVC-aluminium de 30  comprimé(s)	Présentation active	Déclaration de commercialisation	24/04/2003	3400935825407	oui	100%	3,27	4,29	1,02	
 60859237	3026183	10 flacon(s) en verre	Présentation active	Déclaration de commercialisation	16/03/2026	3400930261835	oui					
-60860061	3012755	flacon(s) polyéthylène haute densité (PEHD) avec fermeture de sécurité enfant de 60 comprimé(s)	Présentation active	Déclaration de commercialisation	05/11/2018	3400930127551	oui	100%	160,24	161,26	1,02	
+60860061	3012755	flacon(s) polyéthylène haute densité (PEHD) avec fermeture de sécurité enfant de 60 comprimé(s)	Présentation active	Déclaration de commercialisation	05/11/2018	3400930127551	oui	100%	156,38	157,40	1,02	
 60860524	3022056	1 flacon(s) en verre de 10 ml	Présentation active	Déclaration de commercialisation	10/01/2024	3400930220566	oui					
 60860606	4976778	flacon(s) polyéthylène haute densité (PEHD) de 14 gélule(s)	Présentation active	Déclaration d'arrêt de commercialisation	30/09/2024	3400949767786	non	65%	1,53	2,55	1,02	
 60860606	4976790	flacon(s) polyéthylène haute densité (PEHD) de 28 gélule(s)	Présentation active	Déclaration de commercialisation	04/07/2012	3400949767908	oui	65%	2,72	3,74	1,02	
@@ -5519,7 +5519,7 @@
 62621779	3991416	plaquette(s) thermoformée(s) PVC PVDC aluminium de 30 comprimé(s)	Présentation active	Déclaration de commercialisation	17/10/2012	3400939914169	oui	65%	3,75	4,77	1,02	
 62621779	3991445	plaquette(s) thermoformée(s) PVC PVDC aluminium de 90 comprimé(s)	Présentation active	Déclaration de commercialisation	17/10/2012	3400939914459	oui	65%	10,85	13,61	2,76	
 62624259	3027972	plaquette(s) OPA : polyamide orienté aluminium PVC-Aluminium de 30 gélule(s)	Présentation active	Déclaration de commercialisation	17/10/2024	3400930279724	oui	30 %	971,74	972,76	1,02	
-62624693	3010478	60 plaquette(s) PVC (ACLAR RX) polytrifluorochloroéthylène PVC-Aluminium de 1 comprimé(s)	Présentation active	Déclaration d'arrêt de commercialisation	31/05/2023	3400930104781	non	100%	256,03	257,05	1,02	
+62624693	3010478	60 plaquette(s) PVC (ACLAR RX) polytrifluorochloroéthylène PVC-Aluminium de 1 comprimé(s)	Présentation active	Déclaration d'arrêt de commercialisation	31/05/2023	3400930104781	non	100%	249,85	250,87	1,02	
 62625119	3000571	plaquette(s) PVC-Aluminium de 30 comprimé(s)	Présentation active	Déclaration de commercialisation	04/01/2016	3400930005712	oui	65%	13,80	14,82	1,02	
 62625119	3000600	plaquette(s) PVC-Aluminium de 90 comprimé(s)	Présentation active	Déclaration de commercialisation	04/01/2016	3400930006009	oui	65%	38,56	41,32	2,76	
 62625592	3015631	7 plaquettes unitaires  OPA : polyamide orienté aluminium PVC-Aluminium de 1 gélule	Présentation active	Déclaration d'arrêt de commercialisation	30/11/2023	3400930156315	non					
@@ -6757,7 +6757,7 @@
 63213613	4155739	plaquette(s) PVC polyéthylène PVDC aluminium de 90 comprimé(s)	Présentation active	Déclaration d'arrêt de commercialisation	31/07/2025	3400941557392	non	100%	68,68	71,44	2,76	
 63215258	3790965	plaquette(s) PVC PVDC aluminium de 28 comprimé(s)	Présentation active	Déclaration d'arrêt de commercialisation	10/03/2025	3400937909655	non	65%	2,04	3,06	1,02	
 63216075	3391308	1 poche aluminium de 50 g placée dans un flacon en polypropylène muni d’une pompe doseuse	Présentation active	Déclaration de commercialisation	19/04/1996	3400933913083	oui	65%	5,11	6,13	1,02	
-63216342	3959536	flacon(s) polyéthylène haute densité (PEHD) avec fermeture de sécurité enfant de 240 comprimé(s)	Présentation active	Déclaration de commercialisation	15/04/2010	3400939595368	oui	100%	462,57	463,59	0,00	
+63216342	3959536	flacon(s) polyéthylène haute densité (PEHD) avec fermeture de sécurité enfant de 240 comprimé(s)	Présentation active	Déclaration de commercialisation	15/04/2010	3400939595368	oui	100%	324,16	325,18	1,02	
 63218293	3410543	2 récipient(s) unidose(s) polyéthylène basse densité (PEBD) de 0,25 ml suremballée(s)/surpochée(s)	Présentation active	Déclaration de commercialisation	22/05/2023	3400934105432	oui	65%	10,27	11,29	1,02	
 63218293	3410589	24 récipient(s) unidose(s) polyéthylène basse densité (PEBD) de 0,25 ml suremballée(s)/surpochée(s)	Présentation active	Déclaration de commercialisation	01/06/2024	3400934105890	oui					
 63218382	2195953	1 flacon(s) compte-gouttes polyéthylène de 5 ml	Présentation active	Déclaration de commercialisation	18/03/2013	3400921959536	oui	65%	5,53	6,55	1,02	
@@ -7059,8 +7059,8 @@
 63371588	3886903	plaquette(s) PVC polyéthylène PVDC aluminium de 90 comprimé(s)	Présentation active	Déclaration de commercialisation	13/11/2009	3400938869033	oui	65%	10,53	13,29	2,76	
 63372551	3027127	plaquette(s) aluminium de 30 comprimé(s)	Présentation active	Déclaration de commercialisation	02/07/2025	3400930271278	oui	65 %	1,23	2,25	1,02	
 63372551	5509483	plaquette(s) aluminium de 60 comprimé(s)	Présentation active	Déclaration de commercialisation	11/06/2025	3400955094838	oui					
-63372843	2678870	1 flacon(s) polyéthylène haute densité (PEHD) avec fermeture de sécurité enfant de 30 comprimé(s)	Présentation active	Déclaration de commercialisation	02/07/2013	3400926788704	oui	100%	289,14	290,16	1,02	Ce médicament peut être pris en charge ou remboursé par l'Assurance Maladie dans les cas suivants :<br><br>- SIDA ( dit VIH de type 1), en association avec une faible dose de ritonavir   ou pour obtenir les posologies adaptées au traitement du SIDA (du type VIH-1) chez les adultes et la population pédiatrique à partir de l'âge de 3 ans et pesant au moins 40 kg selon certaines conditions ; JOURNAL OFFICIEL ; 13/08/09
-63372843	4950105	1 flacon(s) polyéthylène haute densité (PEHD) avec fermeture de sécurité enfant de 30 comprimé(s) (Distributeur parallèle : BB Farma)	Présentation active	Déclaration de commercialisation	31/10/2022	3400949501052	oui	100 %	274,74	275,76	1,02	
+63372843	2678870	1 flacon(s) polyéthylène haute densité (PEHD) avec fermeture de sécurité enfant de 30 comprimé(s)	Présentation active	Déclaration de commercialisation	02/07/2013	3400926788704	oui	100%	202,76	203,78	1,02	Ce médicament peut être pris en charge ou remboursé par l'Assurance Maladie dans les cas suivants :<br><br>- SIDA ( dit VIH de type 1), en association avec une faible dose de ritonavir   ou pour obtenir les posologies adaptées au traitement du SIDA (du type VIH-1) chez les adultes et la population pédiatrique à partir de l'âge de 3 ans et pesant au moins 40 kg selon certaines conditions ; JOURNAL OFFICIEL ; 13/08/09
+63372843	4950105	1 flacon(s) polyéthylène haute densité (PEHD) avec fermeture de sécurité enfant de 30 comprimé(s) (Distributeur parallèle : BB Farma)	Présentation active	Déclaration de commercialisation	31/10/2022	3400949501052	oui	100 %	192,68	193,70	1,02	
 63373571	3023997	plaquette(s) PVC polychlortrifluoroéthylène aluminium de 30 comprimé(s)	Présentation active	Déclaration de commercialisation	03/06/2022	3400930239971	oui	65 %	16,02	17,04	1,02	
 63373571	3024000	plaquette(s) PVC polychlortrifluoroéthylène aluminium de 60 comprimé(s)	Présentation active	Déclaration de commercialisation	29/09/2022	3400930240007	oui	65 %	31,63	32,65	1,02	
 63374431	3023820	plaquette(s) OPA : polyamide orienté aluminium PVC-Aluminium de 20 comprimé(s)	Présentation active	Déclaration de commercialisation	30/03/2022	3400930238202	non					
@@ -7935,7 +7935,7 @@
 63811710	3794489	plaquette(s) PVC-Aluminium de 30 gélule(s)	Présentation active	Déclaration de commercialisation	24/08/2007	3400937944892	oui	65%	3,01	4,03	1,02	
 63811710	3815062	plaquette(s) PVC-Aluminium de 90 gélule(s)	Présentation active	Déclaration de commercialisation	16/05/2008	3400938150629	oui	65%	8,06	10,82	2,76	
 63812043	3740536	plaquette(s) thermoformée(s) PVC-Aluminium de 28 comprimé(s)	Présentation active	Déclaration de commercialisation	30/10/2006	3400937405362	oui	65%	4,23	5,25	1,02	
-63812730	3012549	flacon(s) polyéthylène haute densité (PEHD) avec fermeture de sécurité enfant de 30 comprimé(s)	Présentation active	Déclaration de commercialisation	30/08/2019	3400930125496	oui	100%	160,24	161,26	1,02	
+63812730	3012549	flacon(s) polyéthylène haute densité (PEHD) avec fermeture de sécurité enfant de 30 comprimé(s)	Présentation active	Déclaration de commercialisation	30/08/2019	3400930125496	oui	100%	156,38	157,40	1,02	
 63813120	3015998	plaquette(s) OPA : polyamide orienté aluminium PVC-Aluminium de 30 comprimés	Présentation active	Déclaration de commercialisation	03/04/2019	3400930159989	oui	65%	13,21	14,23	1,02	
 63813120	3016630	plaquette(s) OPA : polyamide orienté aluminium PVC-Aluminium de 90 comprimé(s)	Présentation active	Déclaration de commercialisation	03/04/2019	3400930166307	oui	65%	37,42	40,18	2,76	
 63813519	3471881	flacon(s) polyéthylène haute densité (PEHD) avec fermeture de sécurité enfant de 32 comprimé(s)	Présentation active	Déclaration d'arrêt de commercialisation	31/12/2023	3400934718816	non	65%	7,62	8,64	1,02	
@@ -8720,7 +8720,7 @@
 64226115	3031066	1 stylo prérempli en verre de 0,5 ml	Présentation active	Déclaration de commercialisation	24/06/2025	3400930310663	oui	65%	1,145,89	1,146,91	1,02	
 64226300	3580630	plaquette(s) papier aluminium PVC (ACLAR RX) polytrifluorochloroéthylène de 3 comprimé(s) avec applicateur(s) buccal(aux) en plastique	Présentation active	Déclaration de commercialisation	02/09/2002	3400935806307	oui	65%	18,17	19,19	1,02	
 64226503	4919438	3 plaquette(s) PVC-Aluminium de 24 comprimé(s) - 3 plaquette(s) PVC-Aluminium de 4 comprimé(s)	Présentation active	Déclaration d'arrêt de commercialisation	28/05/2025	3400949194384	non					
-64226688	3017166	1 flacon(s) polyéthylène haute densité (PEHD) avec fermeture de sécurité enfant de 30 comprimé(s)	Présentation active	Déclaration d'arrêt de commercialisation	30/10/2025	3400930171660	non	100%	160,24	161,26	1,02	
+64226688	3017166	1 flacon(s) polyéthylène haute densité (PEHD) avec fermeture de sécurité enfant de 30 comprimé(s)	Présentation active	Déclaration d'arrêt de commercialisation	30/10/2025	3400930171660	non	100%	156,38	157,40	1,02	
 64226827	3330465	plaquette(s) thermoformée(s) PVC-aluminium de 16  comprimé(s)	Présentation active	Déclaration de commercialisation	19/12/1991	3400933304652	oui	65%	1,72	2,74	1,02	
 64227441	3716466	plaquette(s) polyamide aluminium PVC-Aluminium de 30 comprimé(s)	Présentation active	Déclaration de commercialisation	06/04/2006	3400937164665	oui	65%	3,33	4,35	1,02	
 64227441	3739958	plaquette(s) polyamide aluminium PVC-Aluminium de 90 comprimé(s)	Présentation active	Déclaration de commercialisation	02/11/2009	3400937399586	oui	65%	9,23	11,99	2,76	
@@ -10692,7 +10692,7 @@
 65125261	3594135	plaquette(s) thermoformée(s) PVC-aluminium de 30  gélule(s)	Présentation active	Déclaration de commercialisation	08/07/2013	3400935941350	non					
 65125998	3274241	tube(s) polypropylène de 100 comprimé(s) avec fermeture de sécurité enfant	Présentation active	Déclaration d'arrêt de commercialisation	20/09/2021	3400932742417	non					
 65126598	3762271	1 flacon(s) en verre de 100 ml	Présentation active	Déclaration de commercialisation	02/09/2008	3400937622714	oui	65%	14,02	15,04	1,02	Ce médicament peut être pris en charge ou remboursé par l'Assurance Maladie dans les cas suivants :<br><br>- Infections entraînées par des bactéries dites bacille Gram négatif, chez l'adulte : respiratoires, ORL, rénales, urinaires, gynécologiques, du ventre (du pelvis), des os, des articulations, digestives, ou de la peau.<br>- Maladie du charbon (chez les personnes qui sont déjà malades) chez les adultes et enfants<br>- Infections bronchiques chez les enfants atteints de mucoviscidose. ; JOURNAL OFFICIEL ; 13/03/08
-65127376	3018457	plaquette(s) PVC PVDC aluminium de 60 comprimé(s)	Présentation active	Déclaration de commercialisation	25/11/2020	3400930184578	oui	100%	256,03	257,05	1,02	
+65127376	3018457	plaquette(s) PVC PVDC aluminium de 60 comprimé(s)	Présentation active	Déclaration de commercialisation	25/11/2020	3400930184578	oui	100%	249,85	250,87	1,02	
 65129174	3845985	plaquette(s) thermoformée(s) PVC-Aluminium de 28 comprimé(s)	Présentation active	Déclaration de commercialisation	18/06/2012	3400938459852	oui	65%	26,97	27,99	1,02	Ce médicament peut être pris en charge ou remboursé par l'Assurance Maladie dans les cas suivants :<br><br>- douleurs cancéreuses sévères<br>- douleurs sévères neuropathiques<br>- traitement des fortes douleurs de l'arthrose du genou ou de la hanche et de la lombalgie chronique, en dernier recours, lorsque les solutions chirurgicales sont envisagées ou que la pose de prothèses orthopédiques est contre-indiquée ou refusée par le malade ; JOURNAL OFFICIEL ; 13/04/16
 65130778	3073100	10 plaquette(s) PVC-Aluminium de 10 comprimé(s)	Présentation active	Déclaration d'arrêt de commercialisation	03/10/2022	3400930731000	non	65%	4,55	5,57	1,02	
 65130778	3073117	2 plaquette(s) PVC-Aluminium de 10 comprimé(s)	Présentation active	Déclaration d'arrêt de commercialisation	03/10/2022	3400930731178	non	65%	2,14	3,16	1,02	
@@ -10835,7 +10835,7 @@
 65198590	3369651	1 flacon(s) compte-gouttes polyéthylène basse densité (PEBD) de 10 ml	Présentation active	Déclaration de commercialisation	19/01/1996	3400933696511	oui	65%	1,35	2,37	1,02	
 65198779	2747134	plaquette(s) aluminium de 30 comprimé(s)	Présentation active	Déclaration de commercialisation	18/12/2013	3400927471346	oui	65%	3,75	4,77	1,02	
 65198779	2747186	plaquette(s) aluminium de 90 comprimé(s)	Présentation active	Déclaration de commercialisation	18/12/2013	3400927471865	oui	65%	10,85	13,61	2,76	
-65199404	3008832	1 flacon polyéthylène haute densité (PEHD) avec fermeture de sécurité enfant de 30 comprimé(s)	Présentation active	Déclaration de commercialisation	08/03/2019	3400930088326	oui	100%	160,24	161,26	1,02	
+65199404	3008832	1 flacon polyéthylène haute densité (PEHD) avec fermeture de sécurité enfant de 30 comprimé(s)	Présentation active	Déclaration de commercialisation	08/03/2019	3400930088326	oui	100%	156,38	157,40	1,02	
 65200162	3014892	plaquette(s) aluminium de 30 comprimé(s)	Présentation active	Déclaration de commercialisation	27/07/2020	3400930148921	oui	65%	3,64	4,66	1,02	
 65200162	3014896	plaquette(s) aluminium de 90 comprimé(s)	Présentation active	Déclaration de commercialisation	28/10/2020	3400930148969	oui	65%	10,53	13,29	2,76	
 65200340	3001724	plaquette(s) polyamide aluminium PVC-Aluminium de 28 comprimé(s)	Présentation active	Déclaration d'arrêt de commercialisation	30/01/2024	3400930017241	non	65 %	17,42	18,44	1,02	
@@ -11517,7 +11517,7 @@
 65542746	3768339	plaquette(s) thermoformée(s) aluminium de 90 comprimé(s)	Présentation active	Déclaration de commercialisation	08/09/2008	3400937683395	oui	65%	9,23	11,99	2,76	
 65543531	3827674	plaquette(s) thermoformée(s) PVC polyéthylène PVDC aluminium de 30 comprimé(s)	Présentation active	Déclaration de commercialisation	29/07/2011	3400938276749	oui	100%	53,80	54,82	1,02	
 65543887	5505702	1 flacon(s) en verre de 5000 mg - 1 flacon(s) en verre de 95 ml avec dispositif(s) de transfert 20/20 (dispositif Mix2Vial)	Présentation active	Déclaration de commercialisation	30/08/2019	3400955057024	oui					
-65545105	3017157	1 flacon polyéthylène haute densité (PEHD) avec fermeture de sécurité enfant de 60 comprimés	Présentation active	Déclaration d'arrêt de commercialisation	28/02/2026	3400930171578	non	100%	160,24	161,26	1,02	
+65545105	3017157	1 flacon polyéthylène haute densité (PEHD) avec fermeture de sécurité enfant de 60 comprimés	Présentation active	Déclaration d'arrêt de commercialisation	28/02/2026	3400930171578	non	100%	156,38	157,40	1,02	
 65545347	3681360	20 ampoule(s) polypropylène de 20 ml	Présentation active	Déclaration de commercialisation	15/02/2006	3400936813601	oui					
 65545347	5665454	50 ampoule(s) polypropylène de 10 ml	Présentation active	Déclaration de commercialisation	05/01/2006	3400956654543	oui					
 65545646	3006034	plaquette(s) PVC aluminium de 56 gélule(s)	Présentation active	Déclaration d'arrêt de commercialisation	14/04/2023	3400930060346	non	65%	14,44	15,46	1,02	
@@ -11602,7 +11602,7 @@
 65581090	3023132	flacon(s) polyéthylène haute densité (PEHD) de 14 gélule(s) avec fermeture de sécurité enfant	Présentation active	Déclaration de commercialisation	23/01/2023	3400930231326	oui	65 %	1,53	2,55	1,02	
 65581090	3023133	flacon(s) polyéthylène haute densité (PEHD) de 28 gélule(s) avec fermeture de sécurité enfant	Présentation active	Déclaration de commercialisation	27/01/2023	3400930231333	oui	65 %	2,72	3,74	1,02	
 65581507	3007201	1 flacon(s) en verre de 2,5 ml avec spatule(s) intégrée au bouchon avec 30 limes et 30 lingettes nettoyantes.	Présentation active	Déclaration de commercialisation	06/04/2017	3400930072011	non					
-65582420	3017162	1 flacon(s) polyéthylène haute densité (PEHD) avec fermeture de sécurité enfant de 60 comprimé(s)	Présentation active	Déclaration d'arrêt de commercialisation	30/08/2025	3400930171622	non	100%	256,03	257,05	1,02	
+65582420	3017162	1 flacon(s) polyéthylène haute densité (PEHD) avec fermeture de sécurité enfant de 60 comprimé(s)	Présentation active	Déclaration d'arrêt de commercialisation	30/08/2025	3400930171622	non	100%	249,85	250,87	1,02	
 65582819	3717307	50 ampoule(s) polypropylène de 10 ml	Présentation active	Déclaration de commercialisation	02/05/2006	3400937173070	oui					
 65583611	3700726	plaquette(s) aluminium de 30 comprimé(s)	Présentation active	Déclaration de commercialisation	10/01/2006	3400937007269	oui	65%	3,33	4,35	1,02	
 65583611	3700761	pilulier(s) polyéthylène haute densité (PEHD) de 30 comprimé(s)	Présentation active	Déclaration de commercialisation	14/04/2014	3400937007610	oui	65%	3,33	4,35	1,02	
@@ -11894,7 +11894,7 @@
 65683309	3657893	20 récipient(s) unidose(s) polyéthylène basse densité (PEBD) de 2 mL	Présentation active	Déclaration de commercialisation	14/11/2018	3400936578937	oui	65%	4,21	5,23	1,02	
 65683309	3657901	50 récipient(s) unidose(s) polyéthylène basse densité (PEBD) de 2 mL	Présentation active	Déclaration de commercialisation	19/01/2006	3400936579019	oui	65%	10,28	11,30	1,02	
 65683679	3028919	60 plaquettes prédécoupées unitaires OPA : polyamide orienté aluminium PVC-Aluminium de 1 capsule	Présentation active	Déclaration de commercialisation	09/04/2026	3400930289198	oui	30 %	640,89	641,91	1,02	
-65685993	3008830	1 flacon polyéthylène haute densité (PEHD) avec fermeture de sécurité enfant de 60 comprimé(s)	Présentation active	Déclaration de commercialisation	08/03/2019	3400930088302	oui	100%	256,03	257,05	1,02	
+65685993	3008830	1 flacon polyéthylène haute densité (PEHD) avec fermeture de sécurité enfant de 60 comprimé(s)	Présentation active	Déclaration de commercialisation	08/03/2019	3400930088302	oui	100%	249,85	250,87	1,02	
 65686611	3012467	1 sachet(s) Dose 1 polytéréphtalate (PET) polyéthylène aluminium extrusion de résine de 114,22 g - 1 sachet(s) A Dose 2 polytéréphtalate (PET) polyéthylène aluminium extrusion de résine de 46,26 g - 1 sachet(s) B Dose 2 polytéréphtalate (PET) polyéthylène	Présentation active	Déclaration de commercialisation	07/08/2024	3400930124673	non					
 65687211	3284653	6 récipient(s) unidose(s) de 140  ml avec canule(s) polyéthylène	Présentation active	Déclaration d'arrêt de commercialisation	30/09/2022	3400932846535	non					
 65687211	3296627	2 récipient(s) unidose(s) de 140  ml avec canule(s) polyéthylène	Présentation active	Déclaration d'arrêt de commercialisation	31/07/2022	3400932966271	non					
@@ -14205,7 +14205,7 @@
 66823618	3500341	6 seringue(s) préremplie(s) en verre de 0,6  ml	Présentation active	Déclaration de commercialisation	08/01/1999	3400935003416	oui	65%	248,11	249,13	1,02	
 66824150	3635118	plaquette aluminium de 1 gélule de 125 mg et de 2 gélule(s) de 80 mg	Présentation active	Déclaration de commercialisation	01/09/2004	3400936351189	oui	65%	39,46	40,48	1,02	
 66824150	4950083	plaquette aluminium de 1 gélule de 125 mg et de 2 gélule(s) de 80 mg (Distributeur parallèle : BB FARMA)	Présentation active	Déclaration de commercialisation	07/09/2022	3400949500833	oui	65 %	37,51	38,53	1,02	
-66824474	3012766	flacon(s) polyéthylène haute densité (PEHD) avec fermeture de sécurité enfant de 30 comprimé(s)	Présentation active	Déclaration de commercialisation	05/11/2018	3400930127667	oui	100%	160,24	161,26	1,02	
+66824474	3012766	flacon(s) polyéthylène haute densité (PEHD) avec fermeture de sécurité enfant de 30 comprimé(s)	Présentation active	Déclaration de commercialisation	05/11/2018	3400930127667	oui	100%	156,38	157,40	1,02	
 66824638	3418869	plaquette(s) thermoformée(s) PVC aluminium de 30 comprimé(s)	Présentation active	Déclaration de commercialisation	19/03/1998	3400934188695	non					
 66824638	4192114	plaquette(s) thermoformée(s) PVC aluminium de 50 comprimé(s)	Présentation active	Déclaration de commercialisation	08/08/2011	3400941921148	non					
 66826137	2226263	plaquette(s) PVC PVDC aluminium de 30 comprimé(s)	Présentation active	Déclaration de commercialisation	15/11/2012	3400922262635	oui	65%	3,88	4,90	1,02	
@@ -14853,7 +14853,7 @@
 67127720	5803666	1 flacon(s) en verre suremballée(s)/surpochée(s) de 40 ml	Présentation active	Déclaration de commercialisation	10/04/2012	3400958036668	oui					
 67128295	3031341	plaquette(s) PVC PVDC aluminium de 60 comprimé(s)	Présentation active	Déclaration de commercialisation	05/09/2025	3400930313411	oui	65 %	36,22	37,24	1,02	
 67128676	4902834	plaquette(s) thermoformée(s) polyamide PVC-Aluminium de 28 comprimé(s)	Présentation active	Arrêt de commercialisation (le médicament n'a plus d'autorisation)	17/10/2024	3400949028344	non	65%	9,32	10,34	1,02	
-67128815	3959513	flacon(s) polyéthylène haute densité (PEHD) avec fermeture de sécurité enfant de 480 comprimé(s)	Présentation active	Déclaration de commercialisation	25/05/2010	3400939595139	oui	100%	462,57	463,59	0,00	
+67128815	3959513	flacon(s) polyéthylène haute densité (PEHD) avec fermeture de sécurité enfant de 480 comprimé(s)	Présentation active	Déclaration de commercialisation	25/05/2010	3400939595139	oui	100%	324,16	325,18	1,02	
 67129301	3021990	1 flacon en verre brun de 3 mL  + 1 seringue + 1 adaptateur pour flacon + 1 aiguille	Présentation active	Déclaration de commercialisation	01/07/2021	3400930219904	oui	100 %	789,03	790,05	1,02	
 67129447	3026914	plaquette(s) OPA : polyamide orienté aluminium PVC-Aluminium de 28 comprimé(s)	Présentation active	Déclaration de commercialisation	30/08/2024	3400930269145	oui	65 %	262,98	264,00	1,02	
 67130200	5594642	12 flacon(s) en verre de 250 ml	Présentation active	Déclaration de commercialisation	19/09/1996	3400955946427	oui					
@@ -15505,7 +15505,7 @@
 67420125	5509816	10 ampoule(s) en verre de 5 ml	Présentation active	Déclaration de commercialisation	27/12/2024	3400955098164	oui					
 67421348	2783816	1 plaquette(s) PVC PVDC aluminium de 21 comprimé(s)	Présentation active	Déclaration d'arrêt de commercialisation	28/12/2023	3400927838163	non	65%	1,59	2,61	1,02	
 67421348	2783822	3 plaquette(s) PVC PVDC aluminium de 21 comprimé(s)	Présentation active	Déclaration d'arrêt de commercialisation	05/07/2023	3400927838224	non	65%	3,76	4,78	1,02	
-67422090	3012706	flacon(s) polyéthylène haute densité (PEHD) avec fermeture de sécurité enfant de 60 comprimé(s)	Présentation active	Déclaration de commercialisation	30/08/2019	3400930127063	oui	100%	160,24	161,26	1,02	
+67422090	3012706	flacon(s) polyéthylène haute densité (PEHD) avec fermeture de sécurité enfant de 60 comprimé(s)	Présentation active	Déclaration de commercialisation	30/08/2019	3400930127063	oui	100%	156,38	157,40	1,02	
 67422400	3612531	plaquette(s) thermoformée(s) PVC aluminium de 30 comprimé(s)	Présentation active	Déclaration de commercialisation	28/12/2011	3400936125315	oui	65%	3,88	4,90	1,02	
 67422400	3720491	plaquette(s) thermoformée(s) PVC aluminium de 90 comprimé(s)	Présentation active	Déclaration de commercialisation	23/04/2019	3400937204910	oui	65%	10,74	13,50	2,76	
 67423363	3023464	plaquette(s) aluminium de 28 comprimé(s)	Présentation active	Déclaration de commercialisation	12/07/2022	3400930234648	oui	65 %	17,42	18,44	1,02	
@@ -16475,7 +16475,7 @@
 67874804	3787472	plaquette(s) PVC PVDC aluminium de 84 comprimé(s)	Présentation active	Déclaration d'arrêt de commercialisation	22/02/2022	3400937874724	non	65%	10,13	12,89	2,76	
 67874804	3787489	plaquette(s) PVC PVDC aluminium de 90 comprimé(s)	Présentation active	Déclaration de commercialisation	30/06/2023	3400937874892	oui	65 %	10,85	13,61	2,76	
 67875361	3021138	4 plaquette(s) polychlortrifluoroéthylène PVC papier aluminium suremballée(s)/surpochée(s) de 14 comprimés	Présentation active	Déclaration de commercialisation	06/07/2021	3400930211380	oui	65 %	8,564,10	8,565,12	1,02	Ce médicament peut être pris en charge ou remboursé par l'Assurance Maladie dans les cas suivants :<br><br>- Mucoviscidose, chez les personnes de 12 ans et plus, dans certains cas très précisément définis. ; JOURNAL OFFICIEL ; 03/07/21
-67875450	3931408	1 flacon(s) polyéthylène haute densité (PEHD) avec fermeture de sécurité enfant de 60 comprimé(s)	Présentation active	Déclaration de commercialisation	14/09/2009	3400939314082	oui	100%	462,57	463,59	1,02	
+67875450	3931408	1 flacon(s) polyéthylène haute densité (PEHD) avec fermeture de sécurité enfant de 60 comprimé(s)	Présentation active	Déclaration de commercialisation	14/09/2009	3400939314082	oui	100%	324,16	325,18	1,02	
 67876328	3433811	6 ampoule(s) en verre de 0,1  ml avec embout nasal polypropylène	Présentation active	Déclaration de commercialisation	01/09/1999	3400934338113	oui	65%	19,58	20,60	1,02	
 67876869	3304114	1 flacon(s) polyéthylène de 30 ml	Présentation active	Déclaration de commercialisation	19/05/1988	3400933041144	oui	30%	3,58	4,60	1,02	
 67876901	3091500	plaquette(s) thermoformée(s) PVC-aluminium de 30  gélule(s)	Présentation active	Déclaration de commercialisation	19/01/1969	3400930915004	oui	65%	14,25	15,27	1,02	
@@ -16804,7 +16804,7 @@
 68035506	3015712	plaquette(s) aluminium de 14 comprimé(s)	Présentation active	Déclaration de commercialisation	02/12/2019	3400930157121	oui	65%	2,23	3,25	1,02	
 68035506	3015713	plaquette(s) aluminium de 28 comprimé(s)	Présentation active	Déclaration de commercialisation	02/12/2019	3400930157138	oui	65%	4,10	5,12	1,02	
 68035748	3979496	plaquette(s) thermoformée(s) PVC PVDC aluminium de 40 comprimé(s)	Présentation active	Déclaration de commercialisation	06/06/2011	3400939794969	non					
-68035755	3018458	plaquette(s) PVC PVDC aluminium de 30 comprimé(s)	Présentation active	Déclaration de commercialisation	19/11/2020	3400930184585	oui	100%	160,24	161,26	1,02	
+68035755	3018458	plaquette(s) PVC PVDC aluminium de 30 comprimé(s)	Présentation active	Déclaration de commercialisation	19/11/2020	3400930184585	oui	100%	156,38	157,40	1,02	
 68036070	3414512	1 flacon(s) polyéthylène haute densité (PEHD) avec fermeture de sécurité enfant de 240 ml avec seringue(s) doseuse(s) polypropylène	Présentation active	Déclaration de commercialisation	09/08/1996	3400934145124	oui	100%	45,85	46,87	1,02	
 68036348	3895368	60 récipient(s) unidose(s) polyéthylène basse densité (PEBD) de 2,5 ml	Présentation active	Déclaration de commercialisation	14/08/2009	3400938953688	oui	65%	10,81	11,83	1,02	
 68037368	3352969	plaquette(s) PVC PVDC aluminium de 100 comprimé(s)	Présentation active	Déclaration de commercialisation	19/12/1994	3400933529697	oui	65%	5,00	6,02	1,02	
@@ -17090,7 +17090,7 @@
 68174071	3658438	60 récipient(s) unidose(s) polyéthylène de 2,5 ml	Présentation active	Déclaration de commercialisation	31/01/2006	3400936584389	oui	65%	9,74	10,76	1,02	
 68174324	3296917	1 tube(s) aluminium verni de 15  g avec applicateur(s) styrène acrylonitrile	Présentation active	Déclaration de commercialisation	19/04/1992	3400932969173	oui	30%	3,98	5,00	1,02	
 68174566	3001609	plaquette(s) thermoformée(s) PVC-Aluminium de 56 (28×30 mg + 28×60 mg) comprimés	Présentation active	Déclaration de commercialisation	19/07/2016	3400930016091	oui	30%	646,68	647,70	1,02	Ce médicament peut être pris en charge ou remboursé par l'Assurance Maladie dans les cas suivants :<br><br>Polykystose rénale autosomique dominante authentifiée chez les patients adultes  et progresseurs (c'est-à-dire avec un certain nombre de critères concernant la fonction rénale), le but recherché étant de ralentir la progression du développement des kystes et de l'insuffisance rénale ; JOURNAL OFFICIEL ; 14/01/20
-68175216	3012761	flacon(s) polyéthylène haute densité (PEHD) avec fermeture de sécurité enfant de 60 comprimé(s)	Présentation active	Déclaration de commercialisation	05/11/2018	3400930127612	oui	100%	256,03	257,05	1,02	
+68175216	3012761	flacon(s) polyéthylène haute densité (PEHD) avec fermeture de sécurité enfant de 60 comprimé(s)	Présentation active	Déclaration de commercialisation	05/11/2018	3400930127612	oui	100%	249,85	250,87	1,02	
 68175764	4900169	plaquette(s) thermoformée(s) PVC aluminium de 6 comprimé(s)	Présentation active	Déclaration de commercialisation	07/05/2018	3400949001699	oui	65%	7,75	8,77	1,02	Ce médicament peut être pris en charge ou remboursé par l'Assurance Maladie dans les cas suivants :<br><br>· angines causées par le streptocoque A bêta-hémolytique<br>· bronchites chroniques aggravées,<br>· infections de la bouche. ; JOURNAL OFFICIEL ; 12/07/17
 68176656	3019306	1 flacon(s) compte-gouttes polyéthylène basse densité (PEBD) de 10 ml avec système de sécurité	Présentation active	Déclaration d'arrêt de commercialisation	01/08/2023	3400930193068	non					
 68176802	3253115	plaquette(s) PVC-Aluminium de 30 comprimé(s)	Présentation active	Déclaration de commercialisation	19/06/1992	3400932531158	oui	65%	1,18	2,20	1,02	
@@ -17145,7 +17145,7 @@
 68204461	3007745	5 poche(s) en polypropylène SEBS : styrène-éthylène-butylène-styrène copolyester-éther suremballée(s)/surpochée(s) à 3 compartiments de 625 mL (250 mL de solution d’acides aminés + 125 mL d’émulsion lipidique + 250 mL de solution de glucose)	Présentation active	Déclaration de commercialisation	28/02/2019	3400930077450	oui	65%	84,21	85,23	1,02	
 68204461	3007746	5 poche(s) en polypropylène SEBS : styrène-éthylène-butylène-styrène copolyester-éther suremballée(s)/surpochée(s) à 3 compartiments de 1250 mL (500 mL de solution d’acides aminés + 250 mL d’émulsion lipidique + 500 mL de solution de glucose)	Présentation active	Déclaration de commercialisation	16/04/2019	3400930077467	oui	65%	138,16	139,18	1,02	
 68204461	3007747	5 poche(s) en polypropylène SEBS : styrène-éthylène-butylène-styrène copolyester-éther suremballée(s)/surpochée(s) à 3 compartiments de 1875 mL (750 mL de solution d’acides aminés + 375 mL d’émulsion lipidique + 750 mL de solution de glucose)	Présentation active	Déclaration de commercialisation	03/04/2019	3400930077474	oui	65%	154,80	155,82	1,02	
-68205182	3016464	1 flacon(s) polyéthylène haute densité (PEHD) avec fermeture de sécurité enfant polypropylène de 30 comprimé(s)	Présentation active	Déclaration de commercialisation	20/03/2019	3400930164648	oui	100%	160,24	161,26	1,02	
+68205182	3016464	1 flacon(s) polyéthylène haute densité (PEHD) avec fermeture de sécurité enfant polypropylène de 30 comprimé(s)	Présentation active	Déclaration de commercialisation	20/03/2019	3400930164648	oui	100%	156,38	157,40	1,02	
 68206925	5506287	1 flacon(s) en verre de 400 mg - 1 ampoule(s) en verre de 4 ml	Présentation active	Déclaration de commercialisation	15/11/2019	3400955062875	oui					
 68208043	4925640	plaquette(s) thermoformée(s) PVC aluminium de 28 comprimé(s)	Présentation active	Déclaration de commercialisation	11/05/2015	3400949256402	non					
 68209070	3880214	plaquette(s) PVC polyéthylène PVDC aluminium papier avec fermeture de sécurité enfant de 21 comprimé(s)	Présentation active	Déclaration de commercialisation	29/07/2009	3400938802146	oui	65%	7,90	8,92	1,02	
@@ -17167,7 +17167,7 @@
 68220145	3723934	plaquette(s) PVC-Aluminium de 84 comprimé(s)	Présentation active	Déclaration de commercialisation	23/04/2007	3400937239349	oui	65%	16,67	19,43	2,76	
 68220323	3018143	plaquette(s) PVC polyéthylène PVDC aluminium de 28 comprimé(s)	Présentation active	Déclaration de commercialisation	12/07/2021	3400930181430	oui	65%	8,31	9,33	1,02	
 68220693	2173029	10 ampoule(s) en verre de 5 ml	Présentation active	Déclaration de commercialisation	17/01/2012	3400921730296	oui					
-68220711	3012139	30 plaquette(s) PVC (ACLAR RX) polytrifluorochloroéthylène PVC-Aluminium de 1 comprimé(s)	Présentation active	Déclaration de commercialisation	26/02/2019	3400930121399	oui	100%	160,24	161,26	1,02	
+68220711	3012139	30 plaquette(s) PVC (ACLAR RX) polytrifluorochloroéthylène PVC-Aluminium de 1 comprimé(s)	Présentation active	Déclaration de commercialisation	26/02/2019	3400930121399	oui	100%	156,38	157,40	1,02	
 68220857	3765890	plaquette(s) thermoformée(s) PVC PVDC aluminium de 30 comprimé(s)	Présentation active	Déclaration de commercialisation	25/10/2011	3400937658904	oui	65%	3,94	4,96	1,02	
 68220857	3765921	plaquette(s) thermoformée(s) PVC PVDC aluminium de 90 comprimé(s)	Présentation active	Déclaration de commercialisation	11/10/2011	3400937659215	oui	65%	10,90	13,66	2,76	
 68222947	3021318	1 flacon(s) polyéthylène avec fermeture de sécurité de 125 ml	Présentation active	Déclaration de commercialisation	20/09/2021	3400930213186	oui					
@@ -17378,7 +17378,7 @@
 68320156	5775964	1 bouteille(s) aluminium de 40 l	Présentation active	Déclaration de commercialisation	29/06/2011	3400957759643	oui					
 68320252	3574598	plaquette(s) thermoformée(s) PVC-Aluminium de 28 comprimé(s)	Présentation active	Déclaration d'arrêt de commercialisation	07/12/2023	3400935745989	non	65%	1,17	2,19	1,02	
 68320252	3574606	plaquette(s) thermoformée(s) PVC-Aluminium de 30 comprimé(s)	Présentation active	Déclaration d'arrêt de commercialisation	03/07/2023	3400935746061	non	65%	1,23	2,25	1,02	
-68320366	3015757	1 flacon polyéthylène haute densité (PEHD) avec fermeture de sécurité enfant de 30 comprimés	Présentation active	Déclaration d'arrêt de commercialisation	31/12/2021	3400930157572	non	100%	160,24	161,26	1,02	
+68320366	3015757	1 flacon polyéthylène haute densité (PEHD) avec fermeture de sécurité enfant de 30 comprimés	Présentation active	Déclaration d'arrêt de commercialisation	31/12/2021	3400930157572	non	100%	156,38	157,40	1,02	
 68321824	2793111	plaquette(s) aluminium de 14 comprimé(s)	Présentation active	Déclaration d'arrêt de commercialisation	31/01/2025	3400927931116	non	65%	2,23	3,25	1,02	
 68321824	2793128	plaquette(s) aluminium de 28 comprimé(s)	Présentation active	Déclaration d'arrêt de commercialisation	25/07/2024	3400927931284	non	65%	4,10	5,12	1,02	
 68322100	2683807	plaquette(s) PVC-Aluminium de 20 comprimé(s)	Présentation active	Déclaration de commercialisation	29/03/2013	3400926838072	oui	65%	1,69	2,71	1,02	
@@ -17764,7 +17764,7 @@
 68492540	3260807	plaquette(s) PVC-Aluminium de 100 comprimé(s)	Présentation active	Déclaration de commercialisation	13/08/2012	3400932608072	oui					
 68492540	3512545	plaquette(s) PVC-Aluminium de 30 comprimé(s)	Présentation active	Déclaration de commercialisation	31/05/2000	3400935125453	oui	65%	10,33	11,35	1,02	
 68492540	3729606	plaquette(s) PVC-Aluminium de 90 comprimé(s)	Présentation active	Déclaration de commercialisation	08/01/2007	3400937296069	non	65%	10,53	13,29	2,76	Ce médicament peut être pris en charge ou remboursé par l'Assurance Maladie dans les cas suivants :<br><br>¿ Hyperaldostéronisme primaire ou réactionnel à un traitement diurétique<br>¿ Hypertension artérielle ; JOURNAL OFFICIEL ; 01/11/06
-68493158	3012708	flacon(s) polyéthylène haute densité (PEHD) avec fermeture de sécurité enfant de 60 comprimé(s)	Présentation active	Déclaration de commercialisation	30/08/2019	3400930127087	oui	100%	256,03	257,05	1,02	
+68493158	3012708	flacon(s) polyéthylène haute densité (PEHD) avec fermeture de sécurité enfant de 60 comprimé(s)	Présentation active	Déclaration de commercialisation	30/08/2019	3400930127087	oui	100%	249,85	250,87	1,02	
 68493610	3027834	plaquette(s) PVC aluminium de 30 comprimé(s)	Présentation active	Déclaration de commercialisation	23/02/2026	3400930278345	oui	65%	13,25	14,27	1,02	
 68494153	3014917	3 plaquettes calendaires PVC PVDC aluminium de 21 comprimé(s)	Présentation active	Déclaration d'arrêt de commercialisation	31/03/2025	3400930149171	non	65 %	3,76	4,78	1,02	
 68494783	3012817	flacon(s) polyéthylène haute densité (PEHD) avec fermeture de sécurité enfant de 30 comprimé(s)	Présentation active	Déclaration d'arrêt de commercialisation	15/02/2025	3400930128176	non	65%	2,15	3,17	1,02	
@@ -19928,7 +19928,7 @@
 69530022	3741122	10 sachet(s)-dose(s) papier polyéthylène aluminium de 5,405 g	Présentation active	Déclaration de commercialisation	28/10/2013	3400937411226	non					
 69530271	3027115	1 flacon en verre de 1,2 mL	Présentation active	Déclaration de commercialisation	30/08/2024	3400930271155	oui					
 69530780	3022961	8 sachetspolytéréphtalate (PET) aluminium polyéthylène de 12 ml	Présentation active	Déclaration de commercialisation	01/04/2022	3400930229613	oui					
-69531462	3016463	2 flacon(s) polyéthylène haute densité (PEHD) avec fermeture de sécurité enfant polypropylène de 30 comprimé(s)	Présentation active	Déclaration de commercialisation	20/03/2019	3400930164631	oui	100%	256,03	257,05	1,02	
+69531462	3016463	2 flacon(s) polyéthylène haute densité (PEHD) avec fermeture de sécurité enfant polypropylène de 30 comprimé(s)	Présentation active	Déclaration de commercialisation	20/03/2019	3400930164631	oui	100%	249,85	250,87	1,02	
 69531658	3015909	plaquette(s) PVC PVDC aluminium de 5 comprimé(s)	Présentation active	Déclaration d'arrêt de commercialisation	06/11/2023	3400930159095	non	65%	6,55	7,57	1,02	
 69531658	3015910	plaquette(s) PVC PVDC aluminium de 7 comprimé(s)	Présentation active	Déclaration d'arrêt de commercialisation	20/03/2023	3400930159101	non	65%	9,14	10,16	1,02	
 69531658	5505908	5 plaquette(s) PVC PVDC aluminium de 10 comprimé(s)	Présentation active	Déclaration d'arrêt de commercialisation	05/02/2024	3400955059080	non					
@@ -20627,7 +20627,7 @@
 69872677	3810969	plaquette(s) aluminium de 7 gélule(s)	Présentation active	Déclaration d'arrêt de commercialisation	25/03/2022	3400938109696	non	65%	1,27	2,29	1,02	
 69872677	3810975	plaquette(s) aluminium de 14 gélule(s)	Présentation active	Déclaration d'arrêt de commercialisation	30/03/2022	3400938109757	non	65%	2,23	3,25	1,02	
 69872677	3810998	plaquette(s) aluminium de 28 gélule(s)	Présentation active	Déclaration de commercialisation	12/12/2007	3400938109986	oui	65%	4,10	5,12	1,02	
-69873754	3015755	1 flacon(s) polyéthylène haute densité (PEHD) avec fermeture de sécurité enfant de 60 comprimé(s)	Présentation active	Déclaration d'arrêt de commercialisation	31/12/2021	3400930157558	non	100%	160,24	161,26	1,02	
+69873754	3015755	1 flacon(s) polyéthylène haute densité (PEHD) avec fermeture de sécurité enfant de 60 comprimé(s)	Présentation active	Déclaration d'arrêt de commercialisation	31/12/2021	3400930157558	non	100%	156,38	157,40	1,02	
 69875082	3850199	1 flacon(s) polyéthylène haute densité (PEHD) de 68,3 g avec seringue(s) pour administration orale polyéthylène haute densité (PEHD) polypropylène	Présentation active	Déclaration de commercialisation	25/07/2008	3400938501995	oui	65%	5,18	6,20	1,02	
 69875342	3027048	plaquette(s) PVC PVDC aluminium de 28 (2 x 14) comprimé(s)	Présentation active	Déclaration d'arrêt de commercialisation	01/09/2025	3400930270486	non	65 %	11,74	12,76	1,02	
 69875342	3027049	plaquette(s) PVC PVDC aluminium de 84 (6 x 14) comprimé(s)	Présentation active	Déclaration de commercialisation	04/10/2023	3400930270493	oui	65%	33,25	36,01	2,76	
