@@ -1783,7 +1783,6 @@
 60834807	3886702	plaquette(s) PVC polyéthylène PVDC aluminium de 84 comprimé(s)	Présentation active	Déclaration d'arrêt de commercialisation	28/02/2026	3400938867022	non	65%	7,61	10,37	2,76	
 60836288	3026549	1 flacon en verre de poudre	Présentation active	Déclaration de commercialisation	21/02/2024	3400930265499	oui					
 60836690	2661504	1 tube(s) aluminium verni de 30 g	Présentation active	Déclaration de commercialisation	18/04/2013	3400926615048	oui	30%	2,50	3,52	1,02	
-60838150	3005826	plaquette(s) PVC-Aluminium de 30 comprimé(s)	Présentation active	Déclaration d'arrêt de commercialisation	23/07/2021	3400930058268	non	65%	13,80	14,82	1,02	
 60839455	5834394	1 flacon(s) en verre de 3000 UI - 1 seringue(s) préremplie(s) en verre de 5 ml avec piston(s) avec adaptateur(s) pour flacon avec nécessaire(s) avec tampon(s) alcoolisé(s) avec pansement(s) et une compresse de gaze	Présentation active	Déclaration de commercialisation	04/11/2013	3400958343940	oui					
 60840614	3494497	plaquette(s) thermoformée(s) PVC aluminium de 40 comprimé(s)	Présentation active	Déclaration d'arrêt de commercialisation	31/03/2022	3400934944970	non					
 60840614	3494505	plaquette(s) thermoformée(s) PVC aluminium de 80 comprimé(s)	Présentation active	Déclaration d'arrêt de commercialisation	31/03/2022	3400934945052	non					
