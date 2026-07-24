@@ -8084,8 +8084,8 @@
 63897780	3961875	plaquette(s) aluminium de 90 gélule(s)	Présentation active	Déclaration de commercialisation	28/12/2009	3400939618753	oui	65%	12,10	14,86	2,76	Ce médicament peut être pris en charge ou remboursé par l'Assurance Maladie dans le cas suivant :<br><br>- Baisse du taux de cholestérol dans certaines formes d'hypercholestérolémies, en complément d'un régime adapté et assidu. ; JOURNAL OFFICIEL ; 04/05/06
 63898099	2741982	flacon(s) polyéthylène haute densité (PEHD) de 30 comprimé(s)	Présentation active	Déclaration de commercialisation	01/10/2013	3400927419829	oui	100%	3,648,05	3,649,07	1,02	
 63898512	3295409	plaquette(s) thermoformée(s) PVC PVDC aluminium de 30  comprimé(s)	Présentation active	Déclaration de commercialisation	19/11/1991	3400932954094	oui	65%	18,04	19,06	1,02	
-63899393	3032728	10 flacons en verre de 2 mL	Présentation active	Déclaration de commercialisation	23/04/2026	3400930327289	oui					
-63899393	3032731	10 flacons en verre de 4 mL	Présentation active	Déclaration de commercialisation	23/04/2026	3400930327319	oui					
+63899393	3032728	10 flacons en verre de 2 mL	Présentation active	Déclaration de commercialisation	23/04/2026	3400930327289	oui	65 %	35,54	1,02		
+63899393	3032731	10 flacons en verre de 4 mL	Présentation active	Déclaration de commercialisation	23/04/2026	3400930327319	oui	65 %	67,10	1,02		
 63901015	3848771	plaquette(s) thermoformée(s) PVC polychlortrifluoroéthylène aluminium polytéréphtalate (PET) papier de 10 gélule(s)	Présentation active	Déclaration de commercialisation	30/05/2008	3400938487718	oui	100%	798,84	799,86	1,02	
 63901314	3028147	plaquette(s) OPA : polyamide orienté aluminium PVC polyéthylène de 30 comprimé(s)	Présentation active	Déclaration de commercialisation	03/06/2024	3400930281475	oui	65 %	30,12	31,14	1,02	
 63902334	3535836	1 flacon(s) en verre brun avec compte-gouttes polyéthylène avec fermeture de sécurité enfant de 10 ml	Présentation active	Déclaration de commercialisation	06/05/2003	3400935358363	oui	65%	1,89	2,91	1,02	
