@@ -9104,7 +9104,6 @@
 64408331	3017791	plaquette(s) PVC polyéthylène PVDC aluminium de 30 comprimé(s)	Présentation active	Déclaration de commercialisation	10/06/2021	3400930177914	oui	65%	3,18	4,20	1,02	
 64408331	3017792	plaquette(s) PVC polyéthylène PVDC aluminium de 90 comprimé(s)	Présentation active	Déclaration de commercialisation	05/05/2021	3400930177921	oui	65%	9,04	11,80	2,76	
 64408662	3025650	plaquette(s) thermoformée(s) PVC-Aluminium de 30  comprimé(s)	Présentation active	Déclaration de commercialisation	19/01/1968	3400930256503	non	65%	9,61	10,63	1,02	
-64408662	5590012	plaquette(s) thermoformée(s) PVC-Aluminium de 50  comprimé(s)	Présentation active	Déclaration d'arrêt de commercialisation	26/07/2021	3400955900122	non					
 64408915	3024825	1 cartouche en verre de 2,4 mL en stylo pré-rempli	Présentation active	Déclaration de commercialisation	05/09/2022	3400930248256	oui	65 %	199,39	200,41	1,02	
 64409077	3007516	plaquette(s) PVC PVDC aluminium de 18 comprimé(s)	Présentation active	Déclaration de commercialisation	18/06/2018	3400930075166	non					
 64409255	2737957	plaquette(s) PVC-Aluminium de 30 comprimé(s)	Présentation active	Déclaration de commercialisation	02/09/2013	3400927379574	oui	65%	4,95	5,97	1,02	
@@ -14385,7 +14384,6 @@
 66902357	3010771	plaquette(s) thermoformée(s) PVC aluminium de 6 gélule(s)	Présentation active	Déclaration de commercialisation	07/12/2020	3400930107713	oui	30 %	14,09	15,11	1,02	
 66902357	3951730	plaquette(s) thermoformée(s) PVC-Aluminium de 1 gélule(s)	Présentation active	Déclaration de commercialisation	16/09/2014	3400939517308	oui	30%	2,56	3,58	1,02	
 66902841	2755872	plaquette(s) polyamide aluminium PVC-Aluminium de 28 comprimé(s)	Présentation active	Déclaration de commercialisation	02/06/2014	3400927558726	oui	65%	3,85	4,87	1,02	
-66902987	2776176	1 flacon(s) en verre de 100 ml	Présentation active	Déclaration d'arrêt de commercialisation	26/07/2021	3400927761768	non					
 66903224	3022337	21 plaquette(s) thermoformée(s) PVC (ACLAR RX) polytrifluorochloroéthylène aluminium de 1 gélule(s)	Présentation active	Déclaration de commercialisation	18/02/2022	3400930223376	oui					
 66903224	3023095	7 plaquette(s) thermoformée(s) PVC (ACLAR RX) polytrifluorochloroéthylène aluminium de 1 gélule(s)	Présentation active	Déclaration de commercialisation	18/02/2022	3400930230954	oui					
 66903295	3010265	1 flacon(s) polyéthylène haute densité (PEHD) avec fermeture de sécurité enfant de 100 comprimé(s)	Présentation active	Déclaration de commercialisation	05/12/2017	3400930102657	oui	65%	46,61	47,63	1,02	
