@@ -14801,7 +14801,6 @@
 67104999	3193844	plaquette(s) thermoformée(s) PVC aluminium de 30 comprimé(s)	Présentation active	Déclaration de commercialisation	03/06/2019	3400931938446	oui					
 67105161	3017687	plaquette(s) PVC PVDC aluminium de 30 gélule(s)	Présentation active	Arrêt de commercialisation (le médicament n'a plus d'autorisation)	03/07/2024	3400930176870	non	65%	3,42	4,44	1,02	
 67105745	3555514	plaquette(s) thermoformée(s) PVC-aluminium de 30 comprimé(s)	Présentation active	Déclaration d'arrêt de commercialisation	29/07/2021	3400935555144	non					
-67105745	3555520	plaquette(s) thermoformée(s) PVC-aluminium de 90 comprimé(s)	Présentation active	Déclaration d'arrêt de commercialisation	27/07/2021	3400935555205	non					
 67107098	3884620	plaquette(s) PVC PVDC aluminium de 30 comprimé(s)	Présentation active	Déclaration d'arrêt de commercialisation	30/10/2025	3400938846201	non	65%	3,94	4,96	1,02	
 67107269	3010263	1 flacon(s) polyéthylène haute densité (PEHD) avec fermeture de sécurité enfant de 100 comprimé(s)	Présentation active	Déclaration de commercialisation	05/12/2017	3400930102633	oui	65%	45,18	46,20	1,02	
 67108093	3008664	1 flacon(s) en verre de 70 mg	Présentation active	Déclaration de commercialisation	15/01/2020	3400930086643	oui					
