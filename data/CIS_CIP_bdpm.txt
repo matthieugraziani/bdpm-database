@@ -4178,7 +4178,6 @@
 61944313	3139543	1 tube(s) aluminium verni de 30 g	Présentation active	Déclaration de commercialisation	20/10/2014	3400931395430	non					
 61945162	3712505	plaquette(s) thermoformée(s) PVC PVDC aluminium de 90 comprimé(s)	Présentation active	Déclaration de commercialisation	30/09/2008	3400937125055	oui	65%	10,15	12,91	2,76	
 61945162	3839559	plaquette(s) thermoformée(s) PVC PVDC aluminium de 30 comprimé(s)	Présentation active	Déclaration de commercialisation	03/02/2010	3400938395594	oui	65%	3,70	4,72	1,02	
-61945454	3025014	20 tube(s) aluminium de 3,5 g	Présentation abrogée	Déclaration de commercialisation	14/02/2025	3400930250143	non					
 61945454	5506828	20 tube(s) aluminium de 3,5 g ( abrogée le 24/04/2024)	Présentation abrogée	Déclaration de commercialisation	09/03/2020	3400955068280	non					
 61946403	3020885	plaquette(s) PVC aluminium de 30 comprimé(s)	Présentation active	Déclaration de commercialisation	22/03/2021	3400930208854	oui	65 %	1,70	2,72	1,02	
 61946403	3032780	plaquette(s) PVC aluminium de 84 comprimé(s)	Présentation active	Déclaration de commercialisation	04/03/2026	3400930327807	oui					
@@ -4492,7 +4491,6 @@
 62096580	3701631	1 flacon(s) pressurisé(s) aluminium de 200 doses avec valve(s) doseuse(s) avec embout(s) buccal(aux)	Présentation active	Déclaration de commercialisation	20/04/2007	3400937016315	oui	65%	14,88	15,90	1,02	
 62098492	3831109	1 tube(s) aluminium verni de 30 g	Présentation active	Déclaration de commercialisation	02/04/2008	3400938311099	oui	30%	1,72	2,74	1,02	
 62099847	5500137	1 flacon(s) en verre de 26,3 ml	Présentation active	Déclaration d'arrêt de commercialisation	15/09/2021	3400955001379	non					
-62099847	5500139	1 flacon(s) en verre de 52,6 ml	Présentation active	Déclaration d'arrêt de commercialisation	28/07/2021	3400955001393	non					
 62102962	3699331	1 flacon(s) en verre de 1 dose(s) - 1 seringue(s) préremplie(s) en verre de 0,5 ml avec deux aiguille(s) séparées	Présentation active	Déclaration de commercialisation	20/03/2024	3400936993310	non					
 62102962	3699348	10 flacon(s) en verre de 1 dose(s) - 10 seringue(s) préremplie(s) en verre de 0,5 ml avec deux aiguille(s) séparées	Présentation active	Déclaration d'arrêt de commercialisation	02/04/2024	3400936993488	non					
 62103459	3021229	1 flacon(s) en verre de 4 ml	Présentation active	Déclaration de commercialisation	01/06/2021	3400930212295	oui					
@@ -6166,7 +6164,6 @@
 62943125	3712818	plaquette(s) aluminium de 28 gélule(s)	Présentation active	Déclaration de commercialisation	04/10/2019	3400937128186	oui	65%	2,85	3,87	1,02	
 62944394	3012726	1 flacon(s) en verre de 24 ml	Présentation active	Déclaration de commercialisation	29/09/2020	3400930127261	oui					
 62944693	3186301	plaquette(s) thermoformée(s) PVC-aluminium de 10 lyophilisat(s)	Présentation active	Déclaration de commercialisation	19/04/1978	3400931863014	oui	15%	1,43	2,45	1,02	
-62945806	3794928	plaquette(s) PVC aluminium de 35 comprimé(s)	Présentation active	Déclaration d'arrêt de commercialisation	28/07/2021	3400937949286	non	65%	29,59	30,61	1,02	
 62946153	4197198	plaquette(s) PVC PVDC aluminium de 30 comprimé(s)	Présentation active	Déclaration de commercialisation	16/10/2013	3400941971983	oui	65%	3,64	4,66	1,02	
 62946153	4197229	plaquette(s) PVC PVDC aluminium de 90 comprimé(s)	Présentation active	Déclaration de commercialisation	16/10/2013	3400941972294	oui	65%	10,53	13,29	2,76	
 62946452	5727907	1 flacon(s) en verre de 50 ml	Présentation active	Déclaration de commercialisation	06/03/2009	3400957279073	oui					
