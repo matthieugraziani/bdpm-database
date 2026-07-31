@@ -3890,7 +3890,6 @@
 61810086	3001674	flacon(s) polyéthylène haute densité (PEHD) avec fermeture de sécurité enfant de 30 comprimé(s)	Présentation active	Déclaration d'arrêt de commercialisation	30/09/2025	3400930016749	non	65%	10,34	11,36	1,02	
 61810086	4939926	plaquette(s) thermoformée(s) aluminium de 28 comprimé(s)	Présentation active	Déclaration de commercialisation	28/09/2011	3400949399260	oui	65%	9,66	10,68	1,02	
 61810983	4168653	flacon(s) polyéthylène haute densité (PEHD) avec fermeture de sécurité enfant de 28 gélule(s)	Présentation active	Déclaration de commercialisation	11/02/2013	3400941686535	oui	65%	11,67	12,69	1,02	
-61813890	3936707	1 tube(s) aluminium de 15 g	Présentation active	Déclaration d'arrêt de commercialisation	31/07/2021	3400939367071	non					
 61814540	3011757	flacon(s) polyéthylène haute densité (PEHD) avec fermeture de sécurité enfant de 30 comprimé(s)	Présentation active	Déclaration d'arrêt de commercialisation	08/08/2024	3400930117576	non	100%	225,35	226,37	1,02	
 61814736	3032652	1 seringue(s) préremplie(s) en verre de 1 ml avec protège-aiguille	Présentation active	Déclaration de commercialisation	04/05/2026	3400930326527	oui	65%	1,145,89	1,146,91	1,02	
 61815891	3692145	28 plaquette(s) formée(s) à froid aluminium de 1 comprimé(s)	Présentation active	Déclaration de commercialisation	14/09/2006	3400936921450	oui	65%	23,83	24,85	1,02	
@@ -9524,7 +9523,6 @@
 64610518	3838442	20 poche(s) (ECOBAG) polypropylène polyéthylène polyester suremballée(s)/surpochée(s) de 500 ml	Présentation active	Arrêt de commercialisation (le médicament n'a plus d'autorisation)	03/10/2022	3400938384420	non					
 64610621	3015360	plaquette(s) PVC-Aluminium de 100 comprimé(s)	Présentation active	Déclaration de commercialisation	22/12/2023	3400930153604	oui	65 %	27,39	28,41	1,02	
 64611260	5502282	1 Boite de 1 flacon de 250 UI (en verre)  + 1 seringue préremplie de 5 ml (50 UI/mL) + 1 piston de seringue + 1 adaptateur pour flacon + 1 kit de perfusion + 2 tampons alcoolisés + 2 pansements + 1 compresse de gaze	Présentation active	Déclaration de commercialisation	19/02/2018	3400955022824	oui					
-64611965	3815932	1 flacon(s) polyéthylène haute densité (PEHD) de 125 ml avec une pompe	Présentation active	Déclaration d'arrêt de commercialisation	31/07/2021	3400938159325	non					
 64612088	5510424	10 flacon(s) en verre de 5 ml	Présentation active	Déclaration de commercialisation	19/05/2025	3400955104247	oui					
 64612088	5713874	5 ampoule(s) en verre de 2,5 ml	Présentation active	Déclaration d'arrêt de commercialisation	15/09/2023	3400957138745	non					
 64612088	5713880	5 ampoule(s) en verre de 5 ml	Présentation active	Déclaration d'arrêt de commercialisation	06/11/2023	3400957138806	non					
