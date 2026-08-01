@@ -845,7 +845,6 @@
 60427957	3640674	5 flacon(s) en verre de 5 ml	Présentation active	Déclaration de commercialisation	15/04/2005	3400936406742	oui	100%	1,643,08	1,644,10	1,02	
 60428977	3014760	1 flacon(s) polyéthylène haute densité (PEHD) avec fermeture de sécurité enfant de 12,24 g avec seringue(s) pour administration orale	Présentation active	Déclaration de commercialisation	25/04/2025	3400930147603	oui	65%	4,41	5,43	1,02	
 60429851	4900320	3 plaquette(s) PVC PVDC aluminium de 10 capsule(s)	Présentation active	Déclaration de commercialisation	28/02/2020	3400949003204	oui	30%	12,90	13,92	1,02	
-60430095	4171460	plaquette(s) thermoformée(s) PVC-Aluminium de 56 gélule(s)	Présentation active	Déclaration d'arrêt de commercialisation	01/08/2021	3400941714603	non	65%	5,04	6,06	1,02	
 60430095	4179674	plaquette(s) thermoformée(s) PVC PVDC aluminium de 56 gélule(s)	Présentation active	Déclaration de commercialisation	26/07/2021	3400941796746	oui	65%	5,08	6,10	1,02	
 60433166	3011393	30 plaquette(s) OPA : polyamide orienté aluminium PVC de 1 comprimé(s)	Présentation active	Déclaration de commercialisation	29/05/2018	3400930113936	oui	100%	41,09	42,11	1,02	
 60433344	3009401	28 plaquette(s) PVC (ACLAR RX) polytrifluorochloroéthylène aluminium de 1 comprimé(s)	Présentation active	Déclaration de commercialisation	26/05/2021	3400930094013	oui					
