@@ -17787,7 +17787,6 @@
 68512046	3529623	plaquette(s) PVC-Aluminium de 90 comprimé(s)	Présentation active	Déclaration d'arrêt de commercialisation	04/10/2022	3400935296238	non	65%	5,41	8,17	2,76	
 68513251	2789747	12 sachet(s) polytéréphtalate (PET) aluminium polyéthylène de 12,5 ml	Présentation active	Déclaration de commercialisation	01/10/2015	3400927897474	oui					
 68513504	3057147	1 flacon(s) en verre brun de 30  ml avec compte-gouttes	Présentation active	Déclaration de commercialisation	19/01/1952	3400930571477	oui	65%	2,90	3,92	1,02	
-68513504	5500569	1 flacon(s) en verre brun de 125  ml avec compte-gouttes	Présentation active	Déclaration d'arrêt de commercialisation	03/08/2021	3400955005698	non					
 68513632	3015643	1 flacon(s) pressurisé(s) aluminium de 120 dose(s) avec valve(s) doseuse(s)	Présentation active	Déclaration de commercialisation	15/02/2024	3400930156438	oui	65%	17,64	18,66	1,02	
 68513842	3026236	plaquette(s) PVC-Aluminium de 10 comprimé(s)	Présentation active	Déclaration de commercialisation	27/09/2023	3400930262368	oui	65 %	2,50	3,52	1,02	
 68513842	3874739	plaquette(s) PVC-Aluminium de 30 comprimé(s)	Présentation active	Déclaration de commercialisation	23/05/2019	3400938747393	oui	65%	6,89	7,91	1,02	
@@ -18949,7 +18948,6 @@
 69098705	3670391	plaquette(s) PVC-Aluminium de 30 comprimé(s)	Présentation active	Déclaration de commercialisation	14/10/2005	3400936703919	oui	65%	2,95	3,97	1,02	
 69098705	3712356	plaquette(s) PVC-Aluminium de 90 comprimé(s)	Présentation active	Déclaration de commercialisation	05/04/2023	3400937123563	oui	65%	7,88	10,64	2,76	
 69098993	5500639	1 flacon(s) en verre de 500 UI - 1 flacon(s) en verre de 5 ml avec matériel pour injection intraveineuse avec dispositif(s) de transfert avec nécessaire(s)  perfusion avec seringue jetable avec 2 tampon(s) alcoolisé(s)	Présentation active	Déclaration de commercialisation	27/12/2016	3400955006398	oui					
-69099757	3585900	8 sachet(s) aluminium de 1 dispositif(s)	Présentation active	Déclaration d'arrêt de commercialisation	03/08/2021	3400935859006	non	65%	5,87	6,89	1,02	
 69100387	3881892	plaquette(s) PVC PVDC aluminium de 8 comprimé(s)	Présentation active	Déclaration de commercialisation	02/02/2009	3400938818925	oui	65%	6,32	7,34	1,02	
 69101592	3916053	plaquette(s) PVC-Aluminium de 30 comprimé(s)	Présentation active	Déclaration de commercialisation	25/01/2010	3400939160535	oui	65%	4,79	5,81	1,02	
 69101592	3924147	plaquette(s) PVC-Aluminium de 90 comprimé(s)	Présentation active	Déclaration de commercialisation	18/02/2010	3400939241470	oui	65%	14,19	16,95	2,76	
