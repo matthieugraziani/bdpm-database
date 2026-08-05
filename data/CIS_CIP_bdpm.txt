@@ -8007,8 +8007,6 @@
 63855735	3889296	plaquette(s) aluminium de 21 comprimé(s)	Présentation active	Déclaration d'arrêt de commercialisation	09/12/2025	3400938892963	non	65%	2,23	3,25	1,02	
 63857177	3014116	4 plaquette(s) unitaires PVC PVDC aluminium de 1 comprimé(s)	Présentation active	Déclaration de commercialisation	07/11/2018	3400930141168	oui					
 63857177	3014117	8 plaquette(s) unitaires PVC PVDC aluminium de 1 comprimé(s)	Présentation active	Déclaration de commercialisation	07/11/2018	3400930141175	oui					
-63857227	4900382	plaquette(s) polychlortrifluoroéthylène PVC-Aluminium de 30 comprimé(s)	Présentation active	Déclaration d'arrêt de commercialisation	06/08/2021	3400949003822	non					
-63857227	4900383	plaquette(s) polychlortrifluoroéthylène PVC-Aluminium de 90 comprimé(s)	Présentation active	Déclaration d'arrêt de commercialisation	06/08/2021	3400949003839	non					
 63857729	3273046	plaquette(s) thermoformée(s) PVC acétate de polyvinyle aluminium polyéthylène de 1  ovule(s)	Présentation active	Déclaration d'arrêt de commercialisation	11/05/2023	3400932730469	non					
 63857992	3004107	10 flacon(s) en verre de 1348 mg	Présentation active	Déclaration d'arrêt de commercialisation	21/01/2026	3400930041079	non	65%	141,77	142,79	1,02	
 63858119	4991387	plaquette(s) polyamide aluminium PVC acétate de polyvinyle de 10 comprimé(s)	Présentation active	Déclaration d'arrêt de commercialisation	12/11/2025	3400949913879	non	30%	1,45	2,47	1,02	
