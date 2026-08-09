@@ -12968,7 +12968,6 @@
 66197032	4902768	plaquette(s) thermoformée(s) de 30 comprimé(s)	Présentation active	Arrêt de commercialisation (le médicament n'a plus d'autorisation)	07/08/2024	3400949027682	non	65%	5,29	6,31	1,02	
 66197477	2800242	30 sachet(s) papier polytéréphtalate (PET) aluminium polyacrylonitrile avec fermeture de sécurité enfant de 1 dispositif(s)	Présentation active	Déclaration de commercialisation	07/08/2015	3400928002426	non					
 66198173	3006170	4 plaquette(s) aluminium de 7 comprimé(s)	Présentation active	Déclaration d'arrêt de commercialisation	30/03/2023	3400930061701	non	100%	6,599,20	6,600,22	1,02	
-66198255	3354649	60 récipient(s) unidose(s) polyéthylène de 0,25 ml suremballée(s)/surpochée(s) (6 sachets aluminium de 10 unidoses)	Présentation active	Déclaration d'arrêt de commercialisation	10/08/2021	3400933546496	non	65%	6,01	7,03	1,02	
 66198796	3298939	plaquette(s) thermoformée(s) PVC-Aluminium de 20  gélule(s)	Présentation active	Déclaration d'arrêt de commercialisation	15/08/2022	3400932989393	non	30%	3,30	4,32	1,02	
 66202052	3771637	1 flacon(s) pressurisé(s) aluminium de 200 dose(s) avec valve(s) doseuse(s) avec embout(s) buccal(aux)	Présentation active	Déclaration de commercialisation	29/11/2006	3400937716376	oui	65%	14,78	15,80	1,02	
 66202611	3024339	8 ampoule(s) en verre de 1 ml	Présentation active	Déclaration de commercialisation	31/07/2023	3400930243398	non					
