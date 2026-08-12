@@ -7194,7 +7194,6 @@
 63431170	3783250	pilulier(s) polypropylène de 60 gélule(s)	Présentation active	Déclaration de commercialisation	03/05/2007	3400937832502	oui	65%	338,60	339,62	1,02	
 63431640	3007697	plaquette(s) PVC-Aluminium polyéthylène PVDC de 30 comprimé(s)	Présentation active	Déclaration de commercialisation	27/10/2017	3400930076972	oui	100%	134,42	135,44	1,02	
 63431715	2232128	plaquette(s) PVC-Aluminium de 12 comprimé(s)	Présentation active	Déclaration de commercialisation	01/02/2013	3400922321288	oui	65%	8,92	9,94	1,02	
-63432557	3675336	plaquette(s) PVC-Aluminium PVDC de 30 comprimé(s)	Présentation active	Déclaration d'arrêt de commercialisation	13/08/2021	3400936753365	non	65%	1,95	2,97	1,02	
 63432799	3009681	1 flacon(s) polyéthylène basse densité (PEBD) de 5 ml avec embout(s) polyéthylène basse densité (PEBD)	Présentation active	Déclaration de commercialisation	16/12/2020	3400930096819	oui	65%	5,54	6,56	1,02	
 63434686	3006731	1 flacon(s) polyéthylène haute densité (PEHD) avec fermeture de sécurité enfant de 28 comprimé(s)	Présentation active	Déclaration de commercialisation	11/04/2017	3400930067314	oui	100%	7,484,08	7,485,10	1,02	
 63434704	2779163	28 plaquette(s) PVC PVDC aluminium avec fermeture de sécurité enfant de 1 comprimé(s)	Présentation active	Déclaration de commercialisation	19/02/2018	3400927791635	oui	65%	24,29	25,31	1,02	
