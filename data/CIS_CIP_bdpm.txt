@@ -17148,7 +17148,6 @@
 68192016	3009765	2 seringue(s) préremplie(s) en verre de 0,8 ml	Présentation active	Déclaration de commercialisation	24/02/2021	3400930097656	oui	65%	10,99	12,01	1,02	
 68192016	3009767	10 seringue(s) préremplie(s) en verre de 0,8 ml	Présentation active	Déclaration de commercialisation	15/04/2022	3400930097670	oui	65%	54,30	55,32	1,02	
 68194106	5503173	1 flacon(s) en verre brun de 25 mg	Présentation active	Déclaration d'arrêt de commercialisation	31/05/2023	3400955031734	non					
-68194106	5503178	1 flacon(s) en verre brun de 100 mg	Présentation active	Déclaration d'arrêt de commercialisation	14/08/2021	3400955031789	non					
 68194451	3381126	8 sachet(s) papier aluminium de 1 dispositif(s)	Présentation active	Déclaration d'arrêt de commercialisation	19/08/2022	3400933811266	non	65%	5,87	6,89	1,02	
 68195838	3021265	1 cartouche en verre dans stylo pré-rempli de 0,25 mL + 4 aiguille(s)	Présentation active	Déclaration de commercialisation	04/05/2022	3400930212653	oui	100 %	34,61	35,63	1,02	
 68196071	3007185	flacon(s) polyéthylène haute densité (PEHD) de 30 comprimé(s)	Présentation active	Déclaration de commercialisation	03/10/2017	3400930071854	oui	65%	1,64	2,66	1,02	
