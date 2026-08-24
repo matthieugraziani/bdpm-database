@@ -7916,7 +7916,6 @@
 63807217	3009185	10 seringue(s) préremplie(s) polycyclooléfine de 15 ml	Présentation active	Déclaration de commercialisation	06/11/2017	3400930091852	oui					
 63807217	3009186	1 seringue(s) préremplie(s) polycyclooléfine de 20 ml	Présentation active	Déclaration d'arrêt de commercialisation	15/07/2024	3400930091869	non					
 63807217	3009187	10 seringue(s) préremplie(s) polycyclooléfine de 20 ml	Présentation active	Déclaration de commercialisation	06/11/2017	3400930091876	oui					
-63808123	2800503	plaquette(s) aluminium de 14 comprimé(s)	Présentation active	Déclaration d'arrêt de commercialisation	25/08/2021	3400928005038	non	65%	2,20	3,22	1,02	
 63809467	2747393	plaquette(s) aluminium de 30 comprimé(s)	Présentation active	Déclaration de commercialisation	18/12/2013	3400927473937	oui	65%	3,75	4,77	1,02	
 63809467	2747430	plaquette(s) aluminium de 90 comprimé(s)	Présentation active	Déclaration de commercialisation	18/12/2013	3400927474309	oui	65%	10,85	13,61	2,76	
 63810633	3030695	28 plaquette(s) PVC PVDC aluminium de 1 comprimé(s)	Présentation active	Déclaration de commercialisation	01/07/2025	3400930306956	oui	65%	24,29	25,31	1,02	
@@ -11224,7 +11223,6 @@
 65397514	3031012	1 seringue(s) préremplie(s) en verre de 1 ml avec dispositif(s) de sécurité de l'aiguille	Présentation active	Déclaration de commercialisation	10/12/2025	3400930310120	oui	65%	93,91	94,93	1,02	
 65398438	3619645	plaquette(s) thermoformée(s) aluminium de 20 comprimé(s)	Présentation active	Déclaration d'arrêt de commercialisation	20/11/2023	3400936196452	non	65%	3,23	4,25	1,02	
 65399255	3004190	plaquette(s) OPA : polyyamide orienté aluminium PVC de 8 comprimé(s)	Présentation active	Déclaration d'arrêt de commercialisation	31/12/2024	3400930041901	non	65%	4,13	5,15	1,02	
-65400896	3420168	plaquette(s) PVC aluminium de 60 comprimé(s)	Présentation active	Déclaration d'arrêt de commercialisation	25/08/2021	3400934201684	non	100%	70,44	71,46	1,02	
 65401076	3260842	1 flacon(s) compte-gouttes de 10  ml	Présentation active	Déclaration de commercialisation	27/08/1984	3400932608423	oui	65%	7,03	8,05	1,02	
 65401119	3858396	1 pilulier(s) polypropylène de 30 comprimé(s)	Présentation active	Déclaration de commercialisation	04/11/2009	3400938583960	oui	65%	8,67	9,69	1,02	
 65401119	3858433	3 pilulier(s) polypropylène de 30 comprimé(s)	Présentation active	Déclaration de commercialisation	04/11/2009	3400938584332	oui	65%	24,59	27,35	2,76	
