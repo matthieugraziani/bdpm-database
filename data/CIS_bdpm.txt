@@ -325,6 +325,7 @@
 69609936	ADAPALENE/PEROXYDE DE BENZOYLE BAILLEUL 0,1 %/2,5 %, gel	gel	cutanée	Autorisation active	Procédure de reconnaissance mutuelle	Commercialisée	24/06/2025			 LABORATOIRES BAILLEUL (LUXEMBOURG)	Non
 61783479	ADAPALENE/PEROXYDE DE BENZOYLE BAILLEUL 0,3 %/2,5 %, gel	gel	cutanée	Autorisation active	Procédure de reconnaissance mutuelle	Commercialisée	24/06/2025			 LABORATOIRES BAILLEUL (LUXEMBOURG)	Non
 67549248	ADAPALENE/PEROXYDE DE BENZOYLE ZENTIVA 0,1 %/2,5 %, gel	gel	cutanée	Autorisation active	Procédure décentralisée	Commercialisée	25/03/2025			 ZENTIVA FRANCE	Non
+68013246	ADAPALENE/PEROXYDE DE BENZOYLE ZENTIVA 0,3 %/2,5 %, gel	gel	cutanée	Autorisation active	Procédure décentralisée	Commercialisée	25/03/2025			 ZENTIVA FRANCE	Non
 69422057	ADARTREL 0,25 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation active	Procédure de reconnaissance mutuelle	Commercialisée	30/06/2004			 GLAXOSMITHKLINE	Non
 69982928	ADARTREL 0,50 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation active	Procédure de reconnaissance mutuelle	Commercialisée	30/06/2004			 GLAXOSMITHKLINE	Non
 67276995	ADARTREL 2 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation active	Procédure de reconnaissance mutuelle	Commercialisée	30/06/2004			 GLAXOSMITHKLINE	Non
@@ -552,9 +553,9 @@
 62043268	ALLIUM SATIVUM BOIRON, degré de dilution compris entre 2CH et 30CH ou entre 4DH et 60DH	 comprimé et solution(s) et granules et poudre et pommade	cutanée;orale;sublinguale	Autorisation active	Enreg homéo (Proc. Nat.)	Commercialisée	14/02/2011			 BOIRON	Non
 64257445	ALLIUM SATIVUM LEHNING, degré de dilution compris entre 2CH et 30CH ou entre 4DH et 60DH	 comprimé et solution(s) et granules et poudre et pommade	cutanée;orale;sublinguale	Autorisation active	Enreg homéo (Proc. Nat.)	Commercialisée	06/04/2011			 LEHNING	Non
 62138435	ALLIUM URSINUM BOIRON, degré de dilution compris entre 2CH et 30CH ou entre 4DH et 60DH	 comprimé et solution(s) et granules et poudre et pommade	cutanée;orale;sublinguale	Autorisation active	Enreg homéo (Proc. Nat.)	Commercialisée	21/05/2013			 BOIRON	Non
-68320252	ALLOPURINOL ARROW 100 mg, comprimé	comprimé	orale	Autorisation active	Procédure nationale	Non commercialisée	31/08/2001	Warning disponibilité		 ARROW GENERIQUES	Non
-62674422	ALLOPURINOL ARROW 200 mg, comprimé	comprimé	orale	Autorisation active	Procédure nationale	Non commercialisée	31/08/2001	Warning disponibilité		 ARROW GENERIQUES	Non
-67794532	ALLOPURINOL ARROW 300 mg, comprimé	comprimé	orale	Autorisation active	Procédure nationale	Non commercialisée	31/08/2001	Warning disponibilité		 ARROW GENERIQUES	Non
+68320252	ALLOPURINOL ARROW 100 mg, comprimé	comprimé	orale	Autorisation abrogée	Procédure nationale	Non commercialisée	31/08/2001	Warning disponibilité		 ARROW GENERIQUES	Non
+62674422	ALLOPURINOL ARROW 200 mg, comprimé	comprimé	orale	Autorisation abrogée	Procédure nationale	Non commercialisée	31/08/2001	Warning disponibilité		 ARROW GENERIQUES	Non
+67794532	ALLOPURINOL ARROW 300 mg, comprimé	comprimé	orale	Autorisation abrogée	Procédure nationale	Non commercialisée	31/08/2001	Warning disponibilité		 ARROW GENERIQUES	Non
 64661021	ALLOPURINOL ARROW LAB 100 mg, comprimé	comprimé	orale	Autorisation active	Procédure nationale	Commercialisée	10/10/2019			 ARROW GENERIQUES	Non
 65481357	ALLOPURINOL ARROW LAB 200 mg, comprimé	comprimé	orale	Autorisation active	Procédure nationale	Commercialisée	10/10/2019			 ARROW GENERIQUES	Non
 69273791	ALLOPURINOL ARROW LAB 300 mg, comprimé	comprimé	orale	Autorisation active	Procédure nationale	Commercialisée	10/10/2019			 ARROW GENERIQUES	Non
@@ -570,7 +571,7 @@
 66363543	ALLOPURINOL SANDOZ 100 mg, comprimé	comprimé	orale	Autorisation active	Procédure nationale	Commercialisée	18/03/1980			 SANDOZ	Non
 65670322	ALLOPURINOL SANDOZ 200 mg, comprimé	comprimé	orale	Autorisation active	Procédure nationale	Commercialisée	09/11/1999			 SANDOZ	Non
 62194918	ALLOPURINOL SANDOZ 300 mg, comprimé	comprimé	orale	Autorisation active	Procédure nationale	Commercialisée	14/02/1983			 SANDOZ	Non
-63278098	ALLOPURINOL SUN 100 mg, comprimé	comprimé	orale	Autorisation active	Procédure nationale	Non commercialisée	25/11/1997	Warning disponibilité		 SUN PHARMA FRANCE	Non
+63278098	ALLOPURINOL SUN 100 mg, comprimé	comprimé	orale	Autorisation archivée	Procédure nationale	Non commercialisée	25/11/1997	Warning disponibilité		 SUN PHARMA FRANCE	Non
 60120709	ALLOPURINOL SUN 200 mg, comprimé	comprimé	orale	Autorisation abrogée	Procédure nationale	Non commercialisée	25/11/1997	Warning disponibilité		 SUN PHARMA FRANCE	Non
 63215258	ALLOPURINOL SUN 300 mg, comprimé	comprimé	orale	Autorisation abrogée	Procédure nationale	Non commercialisée	25/11/1997	Warning disponibilité		 SUN PHARMA FRANCE	Non
 61664126	ALLOPURINOL TEVA 100 mg, comprimé	comprimé	orale	Autorisation active	Procédure décentralisée	Commercialisée	10/12/2010			 TEVA SANTE	Non
@@ -729,8 +730,8 @@
 62947013	AMINOPLASMAL 25, solution pour perfusion	solution pour perfusion	intraveineuse	Autorisation active	Procédure de reconnaissance mutuelle	Commercialisée	14/11/2014			 B BRAUN MELSUNGEN	Non
 63183821	AMINOPLASMAL 8, solution pour perfusion	solution pour perfusion	intraveineuse	Autorisation active	Procédure de reconnaissance mutuelle	Commercialisée	26/09/2005			 B BRAUN MELSUNGEN	Non
 64743130	AMINOSTAB, solution injectable pour perfusion en flacon	solution pour perfusion	intraveineuse	Autorisation active	Procédure nationale	Commercialisée	26/09/1990			 FRESENIUS KABI FRANCE	Non
-61960303	AMINOVEN 10 POUR CENT, solution pour perfusion	solution pour perfusion	intraveineuse	Autorisation active	Procédure nationale	Commercialisée	28/07/1999			 FRESENIUS KABI FRANCE	Non
-69667989	AMINOVEN 5 POUR CENT, solution pour perfusion	solution pour perfusion	intraveineuse	Autorisation active	Procédure nationale	Commercialisée	28/07/1999			 FRESENIUS KABI FRANCE	Non
+61960303	AMINOVEN 10 POUR CENT, solution pour perfusion	solution pour perfusion	intraveineuse	Autorisation active	Procédure nationale	Non commercialisée	28/07/1999	Warning disponibilité		 FRESENIUS KABI FRANCE	Non
+69667989	AMINOVEN 5 POUR CENT, solution pour perfusion	solution pour perfusion	intraveineuse	Autorisation active	Procédure nationale	Non commercialisée	28/07/1999	Warning disponibilité		 FRESENIUS KABI FRANCE	Non
 69364999	AMIODARONE ALMUS 200 mg, comprimé sécable	comprimé sécable	orale	Autorisation active	Procédure nationale	Commercialisée	12/03/2001			 BIOGARAN	Non
 60514006	AMIODARONE ARROW 200 mg, comprimé sécable	comprimé sécable	orale	Autorisation abrogée	Procédure nationale	Non commercialisée	11/05/2001	Warning disponibilité		 ARROW GENERIQUES	Non
 61270633	AMIODARONE ARROW LAB 200 mg, comprimé sécable	comprimé sécable	orale	Autorisation active	Procédure nationale	Commercialisée	28/05/2019			 ARROW GENERIQUES	Non
@@ -1026,7 +1027,7 @@
 61545645	ANANTHERUM MURICATUM BOIRON, degré de dilution compris entre 2CH et 30CH ou entre 4DH et 60DH	 comprimé et solution(s) et granules et poudre et pommade	cutanée;orale;sublinguale	Autorisation active	Enreg homéo (Proc. Nat.)	Commercialisée	13/08/2013			 BOIRON	Non
 62031508	ANAPEN 150 microgrammes/0,3 ml, solution injectable en seringue préremplie	solution injectable	intramusculaire	Autorisation active	Procédure de reconnaissance mutuelle	Commercialisée	27/03/2003			 BIOPROJET	Non
 62538162	ANAPEN 300 microgrammes/0,3 ml, solution injectable en seringue préremplie	solution injectable	intramusculaire	Autorisation active	Procédure de reconnaissance mutuelle	Commercialisée	27/03/2003			 BIOPROJET	Non
-66223317	ANAPEN 500 microgrammes/0,3 ml, solution injectable en seringue préremplie	solution injectable	intramusculaire	Autorisation active	Procédure décentralisée	Commercialisée	20/11/2018			 BIOPROJET	Non
+66223317	ANAPEN 500 microgrammes/0,3 mL, solution injectable en seringue préremplie	solution injectable	intramusculaire	Autorisation active	Procédure décentralisée	Commercialisée	20/11/2018			 BIOPROJET	Non
 60002283	ANASTROZOLE ACCORD 1 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation active	Procédure de reconnaissance mutuelle	Commercialisée	28/10/2010			 ACCORD HEALTHCARE FRANCE	Non
 69997905	ANASTROZOLE ARROW 1 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation active	Procédure décentralisée	Non commercialisée	27/03/2009	Warning disponibilité		 ARROW GENERIQUES	Non
 64163818	ANASTROZOLE ARROW LAB 1 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation active	Procédure décentralisée	Commercialisée	07/12/2020			 EUGIA PHARMA (MALTA) (MALTE)	Non
@@ -1124,6 +1125,8 @@
 67565882	APRANAX 750 mg, comprimé	comprimé	orale	Autorisation active	Procédure nationale	Commercialisée	10/08/1992			 ATNAHS PHARMA NETHERLANDS (PAYS-BAS)	Non
 62717375	APREMILAST ACCORD 10 mg, comprimé pelliculé, APREMILAST ACCORD 20 mg, comprimé pelliculé, APREMILAST ACCORD 30 mg, comprimé pelliculé	comprimé pelliculé et  comprimé pelliculé et  comprimé pelliculé pelliculé	orale	Autorisation active	Procédure centralisée	Commercialisée	19/04/2024		EU/1/24/1796	 ACCORD HEALTHCARE (ESPAGNE)	Non
 66253470	APREMILAST ACCORD 30 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation active	Procédure centralisée	Commercialisée	19/04/2024		EU/1/24/1796	 ACCORD HEALTHCARE (ESPAGNE)	Non
+64131941	APREMILAST ARROW 10 mg, comprimé pelliculé. APREMILAST ARROW 20 mg, comprimé pelliculé. APREMILAST ARROW 30 mg, comprimé pelliculé. Pack d'initiation de traitement	comprimé pelliculé et  comprimé pelliculé et  comprimé pelliculé	orale	Autorisation active	Procédure décentralisée	Commercialisée	07/01/2026			 ARROW GENERIQUES	Non
+67201117	APREMILAST ARROW 30 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation active	Procédure décentralisée	Commercialisée	07/01/2026			 ARROW GENERIQUES	Non
 60948045	APREMILAST BIOGARAN 10 mg, comprimé pelliculé, APREMILAST BIOGARAN 20 mg, comprimé pelliculé, APREMILAST BIOGARAN 30 mg, comprimé pelliculé	comprimé pelliculé et  comprimé pelliculé et  comprimé pelliculé	orale	Autorisation active	Procédure décentralisée	Commercialisée	28/02/2024			 BIOGARAN	Non
 64453547	APREMILAST BIOGARAN 30 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation active	Procédure décentralisée	Commercialisée	28/02/2024			 BIOGARAN	Non
 68558570	APREMILAST GNR 10 mg, comprimé pelliculé, APREMILAST GNR 20 mg, comprimé pelliculé, APREMILAST GNR 30 mg, comprimé pelliculé	comprimé pelliculé et  comprimé pelliculé et  comprimé pelliculé	orale	Autorisation active	Procédure de reconnaissance mutuelle	Commercialisée	14/08/2025			 SANDOZ	Non
@@ -1301,13 +1304,13 @@
 61105471	ARKOGELULES BARDANE, gélule	gélule	orale	Autorisation archivée	Enreg phyto (Proc. Nat.)	Non commercialisée	06/02/2017	Warning disponibilité		 ARKOPHARMA	Non
 62675093	ARKOGELULES BUSSEROLE, gélule	gélule	orale	Autorisation active	Enreg phyto (Proc. Nat.)	Non commercialisée	09/02/2017	Warning disponibilité		 ARKOPHARMA	Non
 60107932	ARKOGELULES CHARBON VEGETAL, gélule	gélule	orale	Autorisation archivée	Procédure nationale	Non commercialisée	24/07/1997	Warning disponibilité		 ARKOPHARMA	Non
-69812153	ARKOGELULES ESCHSCHOLTZIA, gélule	gélule	orale	Autorisation active	Enreg phyto (Proc. Nat.)	Non commercialisée	07/07/2017	Warning disponibilité		 ARKOPHARMA	Non
+69812153	ARKOGELULES ESCHSCHOLTZIA, gélule	gélule	orale	Autorisation active	Enreg phyto (Proc. Nat.)	Non commercialisée	07/07/2017	Warning disponibilité		 ARKOMEDICA	Non
 63353608	ARKOGELULES MATE, gélule	gélule	orale	Autorisation active	Enreg phyto (Proc. Nat.)	Non commercialisée	29/05/2017	Warning disponibilité		 ARKOPHARMA	Non
 69958368	ARKOGELULES MELISSE, gélule	gélule	orale	Autorisation active	Enreg phyto (Proc. Nat.)	Non commercialisée	03/02/2017	Warning disponibilité		 ARKOPHARMA	Non
-60448702	ARKOGELULES MILLEPERTUIS, gélule	gélule	orale	Autorisation active	Procédure nationale	Non commercialisée	22/07/2002	Warning disponibilité		 ARKOPHARMA	Non
+60448702	ARKOGELULES MILLEPERTUIS, gélule	gélule	orale	Autorisation active	Procédure nationale	Non commercialisée	22/07/2002	Warning disponibilité		 ARKOMEDICA	Non
 61224956	ARKOGELULES ORTHOSIPHON, gélule	gélule	orale	Autorisation active	Enreg phyto (Proc. Nat.)	Non commercialisée	03/01/2018	Warning disponibilité		 ARKOPHARMA	Non
 65534169	ARKOGELULES REINE DES PRES, gélule	gélule	orale	Autorisation active	Enreg phyto (Proc. Nat.)	Non commercialisée	21/07/2017	Warning disponibilité		 ARKOPHARMA	Non
-64879963	ARKOGELULES VALERIANE, gélule	gélule	orale	Autorisation active	Enreg phyto (Proc. Nat.)	Non commercialisée	29/05/2017	Warning disponibilité		 ARKOPHARMA	Non
+64879963	ARKOGELULES VALERIANE, gélule	gélule	orale	Autorisation active	Enreg phyto (Proc. Nat.)	Non commercialisée	29/05/2017	Warning disponibilité		 ARKOMEDICA	Non
 61782427	ARLUNIS 2 mg/0,625 mg, comprimé sécable	comprimé sécable	orale	Autorisation active	Procédure de reconnaissance mutuelle	Non commercialisée	25/11/1997	Warning disponibilité		 LES LABORATOIRES SERVIER	Non
 68627340	ARLUNIS 4 mg/1,25 mg, comprimé	comprimé	orale	Autorisation active	Procédure de reconnaissance mutuelle	Commercialisée	25/11/1997			 LES LABORATOIRES SERVIER	Non
 61806426	ARMISARTE 25 mg/ml, solution à diluer pour perfusion	solution à diluer pour perfusion	intraveineuse	Autorisation active	Procédure centralisée	Non commercialisée	18/01/2016	Warning disponibilité	EU/1/15/1063	 ACTAVIS GROUP PTC (ISLANDE)	Non
@@ -1409,7 +1412,7 @@
 67831952	ASPIRINE UPSA VITAMINEE C TAMPONNEE EFFERVESCENTE, comprimé effervescent	comprimé effervescent(e)	orale	Autorisation active	Procédure nationale	Commercialisée	14/12/1995			 UPSA	Non
 64647032	ASPRO 320 mg, comprimé	comprimé	orale	Autorisation active	Procédure nationale	Non commercialisée	14/12/1995	Warning disponibilité		 BAYER HEALTHCARE	Non
 68985138	ASPRO 500 EFFERVESCENT, comprimé effervescent	comprimé effervescent(e)	orale	Autorisation active	Procédure nationale	Commercialisée	06/12/1976			 BAYER HEALTHCARE	Non
-60493619	ASPRO CAFEINE 500 mg/50 mg, comprimé effervescent sécable	comprimé effervescent(e) sécable	orale	Autorisation active	Procédure nationale	Non commercialisée	24/10/1995	Warning disponibilité		 BAYER HEALTHCARE	Non
+60493619	ASPRO CAFEINE 500 mg/50 mg, comprimé effervescent sécable	comprimé effervescent(e) sécable	orale	Autorisation archivée	Procédure nationale	Non commercialisée	24/10/1995	Warning disponibilité		 BAYER HEALTHCARE	Non
 63022355	ASTACUS FLUVIATILIS BOIRON, degré de dilution compris entre 4CH et 30CH ou entre 8DH et 60DH	 comprimé et solution(s) et granules et poudre et pommade	cutanée;orale;sublinguale	Autorisation active	Enreg homéo (Proc. Nat.)	Commercialisée	05/03/2020			 BOIRON	Non
 64161190	ASTERIAS RUBENS BOIRON, degré de dilution compris entre 4CH et 30CH ou entre 8DH et 60DH	 comprimé et solution(s) et granules et poudre et pommade	cutanée;orale;sublinguale	Autorisation active	Enreg homéo (Proc. Nat.)	Commercialisée	17/09/2019			 BOIRON	Non
 68494153	ASTERLUNA 100 microgrammes/20 microgrammes, comprimé pelliculé	comprimé pelliculé	orale	Autorisation active	Procédure décentralisée	Non commercialisée	01/06/2018	Warning disponibilité		 EXELTIS HEALTHCARE (ESPAGNE)	Non
@@ -1653,6 +1656,9 @@
 67461944	AXEPIM 0,5 g, poudre pour solution injectable	poudre pour solution injectable	intramusculaire;intraveineuse	Autorisation abrogée	Procédure nationale	Non commercialisée	27/07/1993	Warning disponibilité		 BRISTOL MYERS SQUIBB	Non
 60804995	AXEPIM 1 g, poudre pour solution injectable	poudre pour solution injectable	intramusculaire;intraveineuse	Autorisation abrogée	Procédure nationale	Non commercialisée	27/07/1993	Warning disponibilité		 BRISTOL MYERS SQUIBB	Non
 67288175	AXEPIM 2 g, poudre pour solution injectable	poudre pour solution injectable	intramusculaire;intraveineuse	Autorisation abrogée	Procédure nationale	Non commercialisée	27/07/1993	Warning disponibilité		 BRISTOL MYERS SQUIBB	Non
+65255582	AXITINIB ACCORD 1 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation active	Procédure centralisée	Commercialisée	19/09/2024		EU/1/24/1847	 ACCORD HEALTHCARE (ESPAGNE)	Non
+62218162	AXITINIB ACCORD 3 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation active	Procédure centralisée	Commercialisée	19/09/2024		EU/1/24/1847	 ACCORD HEALTHCARE (ESPAGNE)	Non
+67655372	AXITINIB ACCORD 5 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation active	Procédure centralisée	Commercialisée	19/09/2024		EU/1/24/1847	 ACCORD HEALTHCARE (ESPAGNE)	Non
 68722151	AXITINIB BIOGARAN 1 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation active	Procédure nationale	Commercialisée	29/02/2024			 BIOGARAN	Non
 60733886	AXITINIB BIOGARAN 3 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation active	Procédure nationale	Commercialisée	29/02/2024			 BIOGARAN	Non
 65208522	AXITINIB BIOGARAN 5 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation active	Procédure nationale	Commercialisée	29/02/2024			 BIOGARAN	Non
@@ -1929,7 +1935,7 @@
 62972963	BETASERC 24 mg, comprimé	comprimé	orale	Autorisation active	Procédure nationale	Commercialisée	28/12/2000			 VIATRIS MEDICAL	Non
 64409255	BETAXOLOL BIOGARAN 20 mg, comprimé pelliculé sécable	comprimé pelliculé sécable	orale	Autorisation active	Procédure nationale	Commercialisée	12/04/2013			 BIOGARAN	Non
 61846762	BETAXOLOL EG 20 mg, comprimé pelliculé sécable	comprimé pelliculé sécable	orale	Autorisation active	Procédure nationale	Non commercialisée	26/03/2013	Warning disponibilité		 EG LABO - LABORATOIRES EUROGENERICS	Non
-63591495	BETAXOLOL SANDOZ 20 mg, comprimé pelliculé sécable	comprimé pelliculé sécable	orale	Autorisation active	Procédure nationale	Commercialisée	12/04/2013			 SANDOZ	Non
+63591495	BETAXOLOL SANDOZ 20 mg, comprimé pelliculé sécable	comprimé pelliculé sécable	orale	Autorisation active	Procédure nationale	Non commercialisée	12/04/2013	Warning disponibilité		 SANDOZ	Non
 63760582	BETAXOLOL TEVA SANTE 20 mg, comprimé pelliculé sécable	comprimé pelliculé sécable	orale	Autorisation active	Procédure décentralisée	Commercialisée	06/03/2013			 TEVA SANTE	Non
 67056604	BETAXOLOL VIATRIS 20 mg, comprimé pelliculé sécable	comprimé pelliculé sécable	orale	Autorisation active	Procédure nationale	Commercialisée	12/04/2013			 VIATRIS SANTE	Non
 65726080	BETESIL 2,250 mg, emplâtre médicamenteux	emplâtre médicamenteux(se)	cutanée	Autorisation active	Procédure de reconnaissance mutuelle	Commercialisée	29/01/2018			 IBSA PHARMA SAS	Non
@@ -2390,6 +2396,7 @@
 60204573	BUPRENORPHINE ARROW 6 mg, comprimé sublingual	comprimé	sublinguale	Autorisation active	Procédure nationale	Commercialisée	25/04/2008			 ARROW GENERIQUES	Non
 65021818	BUPRENORPHINE ARROW 8 mg, comprimé sublingual	comprimé	sublinguale	Autorisation active	Procédure nationale	Commercialisée	31/01/2006			 ARROW GENERIQUES	Non
 68962100	BUPRENORPHINE BIOGARAN 0,4 mg, comprimé sublingual	comprimé	sublinguale	Autorisation active	Procédure nationale	Commercialisée	17/11/2008			 BIOGARAN	Non
+60489193	BUPRENORPHINE BIOGARAN 1 mg, comprimé sublingual	comprimé	sublinguale	Autorisation active	Procédure nationale	Commercialisée	10/12/2008			 BIOGARAN	Non
 62927306	BUPRENORPHINE BIOGARAN 2 mg, comprimé sublingual	comprimé	sublinguale	Autorisation active	Procédure nationale	Commercialisée	20/11/2008			 BIOGARAN	Non
 62767225	BUPRENORPHINE BIOGARAN 8 mg, comprimé sublingual	comprimé	sublinguale	Autorisation active	Procédure nationale	Commercialisée	20/11/2008			 BIOGARAN	Non
 67032076	BUPRENORPHINE EG 0,4 mg, comprimé sublingual	comprimé	sublinguale	Autorisation archivée	Procédure nationale	Non commercialisée	13/09/2012	Warning disponibilité		 EG LABO - LABORATOIRES EUROGENERICS	Non
@@ -2757,7 +2764,7 @@
 65751500	CARMYNE 40 mg/5 mL, solution injectable	solution injectable	intraveineuse	Autorisation active	Procédure de reconnaissance mutuelle	Commercialisée	12/08/2013			 SERB	Non
 63153582	CAROMINTHE, solution buvable en gouttes	solution buvable en gouttes	orale	Autorisation active	Procédure nationale	Commercialisée	17/12/2015			 LEHNING	Non
 68365525	CARTEOL 1 %, collyre en solution	collyre en solution	ophtalmique	Autorisation active	Procédure nationale	Non commercialisée	20/02/1985	Warning disponibilité		 LABORATOIRE CHAUVIN	Non
-64341893	CARTEOL 2 %, collyre en solution	collyre en solution	ophtalmique	Autorisation active	Procédure nationale	Commercialisée	20/02/1985			 LABORATOIRE CHAUVIN	Non
+64341893	CARTEOL 2 %, collyre en solution	collyre en solution	ophtalmique	Autorisation active	Procédure nationale	Non commercialisée	20/02/1985	Warning disponibilité		 LABORATOIRE CHAUVIN	Non
 69261892	CARTEOL L.P. 1 %, collyre à libération prolongée	collyre à libération prolongée	ophtalmique	Autorisation active	Procédure de reconnaissance mutuelle	Commercialisée	26/10/2001			 LABORATOIRE CHAUVIN	Non
 66751955	CARTEOL L.P. 1 %, collyre à libération prolongée en récipient unidose	collyre à libération prolongée	ophtalmique	Autorisation active	Procédure de reconnaissance mutuelle	Commercialisée	23/10/2002			 LABORATOIRE CHAUVIN	Non
 66831579	CARTEOL L.P. 2 % sans conservateur, collyre en solution à libération prolongée	collyre en solution à libération prolongée	ophtalmique	Autorisation active	Procédure décentralisée	Commercialisée	09/07/2024			 LABORATOIRE CHAUVIN	Non
@@ -3094,7 +3101,7 @@
 65999620	CHELIDONIUM MAJUS LEHNING, degré de dilution compris entre 3CH et 30CH ou entre 5DH et 60DH	 comprimé et solution(s) et granules et poudre et pommade	cutanée;orale;sublinguale	Autorisation active	Enreg homéo (Proc. Nat.)	Commercialisée	12/04/2012			 LEHNING	Non
 62111598	CHELIDONIUM MAJUS radix WELEDA, degré de dilution compris entre 3CH et 30CH ou entre 5DH et 60DH	granules et  solution en gouttes en gouttes et  crème	cutanée;orale;sublinguale	Autorisation active	Enreg homéo (Proc. Nat.)	Commercialisée	05/07/2019			 WELEDA	Non
 69946056	CHELONE GLABRA BOIRON, degré de dilution compris entre 4CH et 30CH ou entre 7DH et 60DH	 comprimé et solution(s) et granules et poudre et pommade	cutanée;orale;sublinguale	Autorisation active	Enreg homéo (Proc. Nat.)	Commercialisée	18/03/2019			 BOIRON	Non
-67716786	CHENODEOXYCHOLIC ACID LEADIANT 250 mg, gélule	gélule	orale	Autorisation active	Procédure centralisée	Commercialisée	10/04/2017		EU/1/16/1110	 LEADIANT (ALLEMAGNE)	Oui
+67716786	CHENODEOXYCHOLIC ACID LEADIANT 250 mg, gélules	gélule	orale	Autorisation active	Procédure centralisée	Commercialisée	10/04/2017		EU/1/16/1110	 LEADIANT BIOSCIENCES IRELAND (IRLANDE)	Oui
 68873121	CHENOPODIUM ANTHELMINTICUM BOIRON, degré de dilution compris entre 3CH et 30CH ou entre 6DH et 60DH	 comprimé et solution(s) et granules et poudre et pommade	cutanée;orale;sublinguale	Autorisation active	Enreg homéo (Proc. Nat.)	Commercialisée	23/12/2020			 BOIRON	Non
 67756752	CHIBRO CADRON, collyre en flacon	collyre	ophtalmique	Autorisation active	Procédure nationale	Commercialisée	02/09/1992			 THEA	Non
 67859371	CHIBRO-PROSCAR 5 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation active	Autorisation d'importation parallèle	Commercialisée	08/02/2018			 DIFARMED (ESPAGNE)	Non
@@ -3238,7 +3245,7 @@
 61406236	CICADERMA, pommade	pommade	cutanée	Autorisation active	Procédure nationale	Commercialisée	07/04/2011			 BOIRON	Non
 64828545	CICLETANINE BIOGARAN 50 mg, gélule	gélule	orale	Autorisation active	Procédure nationale	Commercialisée	12/11/2010			 BIOGARAN	Non
 67517243	CICLETANINE TEVA 50 mg, gélule	gélule	orale	Autorisation active	Procédure nationale	Commercialisée	30/11/2010			 TEVA SANTE	Non
-67163702	CICLETANINE VIATRIS 50 mg, gélule	gélule	orale	Autorisation active	Procédure nationale	Commercialisée	14/10/2010			 VIATRIS SANTE	Non
+67163702	CICLETANINE VENIPHARM 50 mg, gélule	gélule	orale	Autorisation active	Procédure nationale	Commercialisée	14/10/2010			 VENIPHARM	Non
 66640136	CICLOPIROX BIOGARAN 8 %, vernis à ongles médicamenteux	vernis à ongles médicamenteux(se)	cutanée	Autorisation active	Procédure nationale	Commercialisée	10/10/2008			 BIOGARAN	Non
 63273126	CICLOPIROX OLAMINE ARROW 1%, crème	crème	cutanée	Autorisation active	Procédure nationale	Commercialisée	02/12/2021			 ARROW GENERIQUES	Non
 64330943	CICLOPIROX OLAMINE ARROW 1,5 %, shampooing	shampooing	cutanée	Autorisation active	Procédure nationale	Commercialisée	27/03/2019			 ARROW GENERIQUES	Non
@@ -3514,7 +3521,6 @@
 62129151	CLOXACILLINE STRAGEN 1 g, poudre pour solution injectable/pour perfusion	poudre pour solution injectable ou pour perfusion	intraveineuse	Autorisation active	Procédure nationale	Commercialisée	16/12/2019			 STRAGEN-FRANCE	Non
 65934042	CLOXACILLINE STRAGEN 2 g, poudre pour solution injectable/pour perfusion	poudre pour solution injectable pour perfusion	intraveineuse	Autorisation active	Procédure nationale	Commercialisée	13/08/2020			 STRAGEN-FRANCE	Non
 67705206	CLOXACILLINE STRAGEN 500 mg, poudre pour solution injectable	poudre pour solution injectable	intraveineuse	Autorisation abrogée	Procédure nationale	Non commercialisée	13/08/2020	Warning disponibilité		 STRAGEN-FRANCE	Non
-60618275	CLOXACILLINE SUBSTIPHARM 500 mg, gélule	gélule	orale	Autorisation active	Procédure nationale	Non commercialisée	18/07/2013	Warning disponibilité		 SUBSTIPHARM	Non
 61690968	CLOXACILLINE VIATRIS 500 mg, gélule	gélule	orale	Autorisation active	Procédure nationale	Commercialisée	18/07/2013			 VIATRIS SANTE	Non
 69391170	CLOXACILLINE ZENTIVA 500 mg, gélule	gélule	orale	Autorisation active	Procédure nationale	Non commercialisée	18/07/2013	Warning disponibilité		 ZENTIVA FRANCE	Non
 68735825	CLOZAPINE ACCORD 100 mg, comprimé sécable	comprimé sécable	orale	Autorisation active	Procédure décentralisée	Commercialisée	05/06/2018			 ACCORD HEALTHCARE FRANCE	Non
@@ -3592,7 +3598,7 @@
 63813519	COLOKIT, comprimé	comprimé	orale	Autorisation abrogée	Procédure nationale	Non commercialisée	18/03/2010	Warning disponibilité		 LABORATOIRES MAYOLY SPINDLER	Non
 63013865	COLON BOIRON, degré de dilution compris entre 4CH et 30CH ou entre 8DH et 60DH	 comprimé et solution(s) et granules et poudre et pommade	cutanée;orale;sublinguale	Autorisation active	Enreg homéo (Proc. Nat.)	Commercialisée	08/06/2020			 BOIRON	Non
 68317509	COLON WELEDA, degré de dilution compris entre 4CH et 30CH ou entre 8DH et 60DH	granules et  solution en gouttes en gouttes et  crème	cutanée;orale;sublinguale	Autorisation active	Enreg homéo (Proc. Nat.)	Commercialisée	28/05/2019			 WELEDA	Non
-63486220	COLOPEG, poudre pour solution buvable	poudre pour solution buvable	orale	Autorisation active	Procédure nationale	Commercialisée	04/08/1986			 BOUCHARA-RECORDATI	Non
+63486220	COLOPEG, poudre pour solution buvable	poudre pour solution buvable	orale	Autorisation active	Procédure nationale	Commercialisée	04/08/1986			 GRIMBERG	Non
 63070147	COLPERMIN 187 mg, gélule gastro-résistante	gélule gastro-résistant(e)	orale	Autorisation active	Procédure décentralisée	Commercialisée	30/11/2018			 TILLOTTS PHARMA (ALLEMAGNE)	Non
 61564097	COLPOTROPHINE 1 POUR CENT, crème	crème	vaginale	Autorisation active	Procédure nationale	Commercialisée	23/12/1996			 THERAMEX IRELAND (IRLANDE)	Non
 62972842	COLPOTROPHINE, capsule vaginale	capsule	vaginale	Autorisation active	Procédure nationale	Commercialisée	23/12/1996			 THERAMEX IRELAND (IRLANDE)	Non
@@ -3839,7 +3845,6 @@
 67353712	CYNOMEL 0,025 mg, comprimé sécable	comprimé sécable	orale	Autorisation active	Procédure nationale	Commercialisée	16/12/1997			 SANOFI WINTHROP INDUSTRIE	Non
 65052653	CYPRIPEDIUM PUBESCENS BOIRON, degré de dilution compris entre 4CH et 30CH ou entre 8DH et 60DH	 comprimé et solution(s) et granules et poudre et pommade	cutanée;orale;sublinguale	Autorisation active	Enreg homéo (Proc. Nat.)	Commercialisée	11/05/2016			 BOIRON	Non
 65735122	CYPRIPEDIUM PUBESCENS LEHNING, degré de dilution compris entre 4CH et 30CH ou entre 7DH et 60DH	 comprimé et solution(s) et granules et poudre et pommade	cutanée;orale;sublinguale	Autorisation active	Enreg homéo (Proc. Nat.)	Commercialisée	11/05/2016			 LEHNING	Non
-65400896	CYPROTERONE BIOGARAN 100 mg, comprimé sécable	comprimé sécable	orale	Autorisation archivée	Procédure nationale	Non commercialisée	27/12/1996	Warning disponibilité		 BAYER HEALTHCARE	Non
 62028953	CYPROTERONE BIOGARAN 50 mg, comprimé sécable	comprimé sécable	orale	Autorisation archivée	Procédure nationale	Non commercialisée	27/12/1996	Warning disponibilité		 BAYER HEALTHCARE	Non
 67941726	CYPROTERONE MYLAN 100 mg, comprimé sécable	comprimé sécable	orale	Autorisation abrogée	Procédure nationale	Non commercialisée	25/07/2005	Warning disponibilité		 MYLAN SAS	Non
 62450997	CYPROTERONE MYLAN 50 mg, comprimé	comprimé	orale	Autorisation abrogée	Procédure nationale	Non commercialisée	22/04/1996	Warning disponibilité		 MYLAN SAS	Non
@@ -3970,6 +3975,9 @@
 67774362	DARUNAVIR ZENTIVA 800 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation active	Procédure décentralisée	Commercialisée	19/02/2018			 ZENTIVA FRANCE	Non
 60047225	DARZALEX 1800 mg, solution injectable	solution injectable	sous-cutanée	Autorisation active	Procédure centralisée	Commercialisée	03/06/2020		EU/1/16/1101	 JANSSEN CILAG INTERNATIONAL NV	Non
 67352140	DARZALEX 20 mg/mL, solution à diluer pour perfusion	solution à diluer pour perfusion	intraveineuse	Autorisation active	Procédure centralisée	Commercialisée	20/05/2016		EU/1/16/1101	 JANSSEN CILAG INTERNATIONAL NV	Non
+60202743	DASATINIB ACCORD HEALTHCARE 100 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation active	Procédure centralisée	Commercialisée	26/07/2024		EU/1/24/1839	 ACCORD HEALTHCARE (ESPAGNE)	Non
+68715769	DASATINIB ACCORD HEALTHCARE 50 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation active	Procédure centralisée	Commercialisée	26/07/2024		EU/1/24/1839	 ACCORD HEALTHCARE (ESPAGNE)	Non
+67898926	DASATINIB ACCORD HEALTHCARE 70 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation active	Procédure centralisée	Commercialisée	26/07/2024		EU/1/24/1839	 ACCORD HEALTHCARE (ESPAGNE)	Non
 63054335	DASATINIB BIOGARAN 100 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation active	Procédure nationale	Commercialisée	13/01/2021			 BIOGARAN	Non
 61881382	DASATINIB BIOGARAN 140 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation active	Procédure nationale	Commercialisée	13/01/2021			 BIOGARAN	Non
 69832939	DASATINIB BIOGARAN 20 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation active	Procédure nationale	Commercialisée	13/01/2021			 BIOGARAN	Non
@@ -4056,7 +4064,7 @@
 66567713	DEFERASIROX TEVA 180 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation active	Procédure décentralisée	Commercialisée	24/08/2020			 TEVA SANTE	Non
 63003134	DEFERASIROX TEVA 360 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation active	Procédure décentralisée	Commercialisée	24/08/2020			 TEVA SANTE	Non
 69417640	DEFERASIROX TEVA 90 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation active	Procédure décentralisée	Commercialisée	24/08/2020			 TEVA SANTE	Non
-64315140	DEFERASIROX TEVA 900 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation active	Procédure décentralisée	Commercialisée	17/02/2022			 TEVA SANTE	Non
+64315140	DEFERASIROX TEVA 900 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation active	Procédure décentralisée	Non commercialisée	17/02/2022	Warning disponibilité		 TEVA SANTE	Non
 66147613	DEFERASIROX ZENTIVA 180 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation active	Procédure décentralisée	Commercialisée	27/05/2020			 ZENTIVA FRANCE	Non
 61786361	DEFERASIROX ZENTIVA 360 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation active	Procédure décentralisée	Commercialisée	27/05/2020			 ZENTIVA FRANCE	Non
 60122699	DEFERASIROX ZENTIVA 90 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation active	Procédure décentralisée	Commercialisée	27/05/2020			 ZENTIVA FRANCE	Non
@@ -4243,8 +4251,8 @@
 65569394	DIARFIX 100 mg, gélule	gélule	orale	Autorisation active	Procédure nationale	Commercialisée	06/08/2010			 BIOPROJET	Non
 62229155	DIASEPTYL 0,5 %, solution pour application cutanée	solution pour application	cutanée	Autorisation active	Procédure nationale	Commercialisée	22/02/2005			 PIERRE FABRE MEDICAMENT	Non
 68276279	DIASTROLIB 2 mg, lyophilisat oral	lyophilisat	orale	Autorisation active	Procédure nationale	Commercialisée	10/03/2006			 TEVA SANTE	Non
-69998003	DIAZEPAM ACCORD 10 mg, comprimé	comprimé	orale	Autorisation active	Procédure décentralisée	Commercialisée	15/02/2018			 ACCORD HEALTHCARE FRANCE	Non
-68685952	DIAZEPAM ACCORD 5 mg, comprimé	comprimé	orale	Autorisation active	Procédure décentralisée	Commercialisée	13/02/2018			 ACCORD HEALTHCARE FRANCE	Non
+69998003	DIAZEPAM ACCORD 10 mg, comprimé	comprimé	orale	Autorisation active	Procédure décentralisée	Non commercialisée	15/02/2018	Warning disponibilité		 ACCORD HEALTHCARE FRANCE	Non
+68685952	DIAZEPAM ACCORD 5 mg, comprimé	comprimé	orale	Autorisation active	Procédure décentralisée	Non commercialisée	13/02/2018	Warning disponibilité		 ACCORD HEALTHCARE FRANCE	Non
 61437096	DIAZEPAM ARROW 10 mg, comprimé sécable	comprimé sécable	orale	Autorisation active	Procédure nationale	Commercialisée	23/10/2013			 ARROW GENERIQUES	Non
 61569856	DIAZEPAM RENAUDIN 10 mg/2 ml, solution injectable	solution injectable	intramusculaire;intraveineuse;rectale	Autorisation active	Procédure nationale	Commercialisée	08/01/2002			 LABORATOIRE RENAUDIN	Non
 68176802	DIAZEPAM TEVA 10 mg, comprimé	comprimé	orale	Autorisation active	Procédure nationale	Commercialisée	28/01/1982			 TEVA SANTE	Non
@@ -4317,7 +4325,6 @@
 61917063	DIGOXINE NATIVELLE 5 microgrammes/0,1 ml, solution buvable en gouttes	solution buvable en gouttes	orale	Autorisation active	Procédure nationale	Commercialisée	20/02/1989			 TEOFARMA	Non
 65458013	DIGOXINE NATIVELLE ADULTES 0,50 mg/2 ml, solution injectable IV	solution injectable	intraveineuse	Autorisation active	Procédure nationale	Commercialisée	03/07/1989			 TEOFARMA	Non
 62436200	DILANTIN 250 mg/5 ml, solution injectable	solution injectable	intraveineuse	Autorisation active	Procédure nationale	Commercialisée	09/07/1997			 ESTEVE PHARMACEUTICALS	Non
-61848891	DILATRANE 1 POUR CENT, sirop	sirop	orale	Autorisation active	Procédure nationale	Non commercialisée	16/12/1997	Warning disponibilité		 SERP	Non
 64447761	DILATRANE 100 mg, gélule à libération prolongée	gélule à libération prolongée	orale	Autorisation active	Procédure nationale	Commercialisée	07/07/1997			 SERP	Non
 62481804	DILATRANE 200 mg, gélule à libération prolongée	gélule à libération prolongée	orale	Autorisation active	Procédure nationale	Commercialisée	07/07/1997			 SERP	Non
 65265758	DILATRANE 300 mg, gélule à libération prolongée	gélule à libération prolongée	orale	Autorisation active	Procédure nationale	Commercialisée	04/02/1985			 SERP	Non
@@ -4552,7 +4559,8 @@
 69833133	DOXORUBICINE TEVA 50 mg/25 mL, solution injectable	solution injectable	intraveineuse;intravésicale	Autorisation active	Procédure nationale	Commercialisée	26/02/1996			 TEVA SANTE	Non
 61722191	DOXY 100 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation active	Procédure nationale	Commercialisée	22/07/1982			 ELERTE	Non
 67061569	DOXY 50 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation active	Procédure nationale	Commercialisée	18/07/1994			 ELERTE	Non
-67164569	DOXYCYCLINE ARROW 100 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation active	Procédure nationale	Commercialisée	12/02/2003			 ARROW GENERIQUES	Non
+67164569	DOXYCYCLINE ARROW 100 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation active	Procédure nationale	Non commercialisée	12/02/2003	Warning disponibilité		 ARROW GENERIQUES	Non
+60349519	DOXYCYCLINE ARROW LAB 100 mg, comprimé sécable	comprimé sécable	orale	Autorisation active	Procédure nationale	Commercialisée	22/04/2004			 ARROW GENERIQUES	Non
 65203952	DOXYCYCLINE BIOGARAN 100 mg, comprimé pelliculé sécable	comprimé pelliculé sécable	orale	Autorisation active	Procédure nationale	Commercialisée	17/01/2000			 BIOGARAN	Non
 61895503	DOXYCYCLINE PHARMACIE CENTRALE DES ARMEES 100 mg, comprimé	comprimé	orale	Autorisation active	Procédure nationale	Commercialisée	26/05/2009			 PHARMACIE CENTRALE DES ARMEES- PCA	Non
 60982364	DOXYCYCLINE SANDOZ 100 mg, comprimé sécable	comprimé sécable	orale	Autorisation active	Procédure nationale	Commercialisée	20/03/1998			 SANDOZ	Non
@@ -4567,7 +4575,6 @@
 67657117	DOXYLAMINE TEVA CONSEIL 15 mg, comprimé pelliculé sécable	comprimé pelliculé sécable	orale	Autorisation active	Procédure nationale	Commercialisée	06/09/2012			 TEVA SANTE	Non
 66335825	DOXYLAMINE VIATRIS CONSEIL 15 mg, comprimé pelliculé sécable	comprimé pelliculé sécable	orale	Autorisation active	Procédure nationale	Commercialisée	16/11/2012			 VIATRIS SANTE	Non
 67453787	DOXYLAMINE ZENTIVA CONSEIL 15 mg, comprimé pelliculé sécable	comprimé pelliculé sécable	orale	Autorisation active	Procédure nationale	Commercialisée	07/12/2016			 ZENTIVA FRANCE	Non
-60349519	DOXYLIS 100 mg, comprimé sécable	comprimé sécable	orale	Autorisation active	Procédure nationale	Commercialisée	22/04/2004			 EXPANSCIENCE	Non
 63307856	DOXYPALU 100 mg, comprimé	comprimé	orale	Autorisation active	Procédure nationale	Commercialisée	10/01/2000			 LABORATOIRES BAILLEUL (LUXEMBOURG)	Non
 61411863	DOXYPALU 50 mg, comprimé	comprimé	orale	Autorisation abrogée	Procédure nationale	Non commercialisée	10/01/2000	Warning disponibilité		 LABORATOIRES BAILLEUL (LUXEMBOURG)	Non
 62736411	DOZURSO 250 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation active	Procédure décentralisée	Non commercialisée	21/05/2015	Warning disponibilité		 LABORATOIRES MAYOLY SPINDLER	Non
@@ -4693,6 +4700,7 @@
 66278897	DYNASTAT 40 mg, poudre pour solution injectable	poudre pour solution injectable	intramusculaire;intraveineuse	Autorisation active	Procédure centralisée	Non commercialisée	22/03/2002	Warning disponibilité	EU/1/02/209	 PFIZER EUROPE MA EEIG (BELGIQUE)	Non
 68029058	DYNEXAN 2 %, crème buccale	crème	gingivale;voie buccale autre	Autorisation active	Procédure nationale	Commercialisée	30/11/1999			 KREUSSLER & CO ALLEMAGNE	Non
 69589818	DYNEXANGIVAL 1 %, crème buccale	crème	gingivale;voie buccale autre	Autorisation active	Procédure nationale	Commercialisée	22/12/2010			 KREUSSLER & CO ALLEMAGNE	Non
+60390334	DYRUPEG 6 mg, solution injectable en seringue préremplie	solution injectable	sous-cutanée	Autorisation active	Procédure centralisée	Commercialisée	28/03/2025		EU/1/25/1914	 CURATEQ BIOLOGICS (MALTE)	Oui
 62446447	DYSALFA 1 mg, comprimé	comprimé	orale	Autorisation active	Procédure nationale	Commercialisée	07/01/1997			 AMDIPHARM	Non
 66227027	DYSALFA 5 mg, comprimé	comprimé	orale	Autorisation active	Procédure nationale	Commercialisée	07/01/1997			 AMDIPHARM	Non
 68125163	DYSCRASITE WELEDA, degré de dilution compris entre 3CH et 30CH ou entre 6DH et 60DH	 crème et solution et granules et poudre et pommade	cutanée;orale;sublinguale	Autorisation active	Enreg homéo (Proc. Nat.)	Commercialisée	16/10/2019			 WELEDA	Non
@@ -4785,6 +4793,7 @@
 60382686	EFAVIRENZ/EMTRICITABINE/TENOFOVIR DISOPROXIL BGR 600 mg/200 mg/245 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation active	Procédure nationale	Commercialisée	13/06/2025			 BIOGARAN	Non
 67491478	EFAVIRENZ/EMTRICITABINE/TENOFOVIR DISOPROXIL BIOGARAN 600 mg/200 mg/245 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation suspendue	Procédure nationale	Non commercialisée	06/10/2017	Alerte		 BIOGARAN	Non
 65198334	EFAVIRENZ/EMTRICITABINE/TENOFOVIR DISOPROXIL EG 600 mg/200 mg/245 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation suspendue	Procédure décentralisée	Non commercialisée	08/01/2018	Alerte		 EG LABO - LABORATOIRES EUROGENERICS	Non
+65620892	EFAVIRENZ/EMTRICITABINE/TENOFOVIR DISOPROXIL EG LABO 600 mg/200 mg/245 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation active	Procédure de reconnaissance mutuelle	Commercialisée	13/05/2025			 EG LABO - LABORATOIRES EUROGENERICS	Non
 61004700	EFAVIRENZ/EMTRICITABINE/TENOFOVIR DISOPROXIL KRKA 600 mg/200 mg/245 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation active	Procédure centralisée	Commercialisée	08/02/2018		EU/1/17/1263	 KRKA (SLOVENIE)	Non
 62474215	EFAVIRENZ/EMTRICITABINE/TENOFOVIR DISOPROXIL MYLAN 600 mg/200 mg/245 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation active	Procédure centralisée	Commercialisée	05/09/2017		EU/1/17/1222	 MYLAN PHARMACEUTICALS (IRLANDE)	Non
 61814540	EFAVIRENZ/EMTRICITABINE/TENOFOVIR DISOPROXIL SANDOZ 600 mg/200 mg/245 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation suspendue	Procédure décentralisée	Non commercialisée	16/11/2017	Alerte		 SANDOZ	Non
@@ -4878,7 +4887,6 @@
 64036190	ELONVA 150 microgrammes, solution injectable	solution injectable	sous-cutanée	Autorisation active	Procédure centralisée	Commercialisée	25/01/2010		EU/1/09/609	 ORGANON (HOLLANDE)	Non
 61941057	ELOXATINE 5 mg/ml, solution à diluer pour perfusion	solution à diluer pour perfusion	intraveineuse	Autorisation active	Procédure de reconnaissance mutuelle	Non commercialisée	21/10/2004	Warning disponibilité		 SANOFI WINTHROP INDUSTRIE	Non
 65312065	ELREXFIO 40 mg/mL, solution injectable	solution injectable	sous-cutanée	Autorisation active	Procédure centralisée	Commercialisée	07/12/2023		EU/1/23/1770	 PFIZER EUROPE MA EEIG (BELGIQUE)	Oui
-64562169	ELSEP 2 mg/ml, solution à diluer pour perfusion	solution à diluer pour perfusion	intraveineuse	Autorisation abrogée	Procédure de reconnaissance mutuelle	Non commercialisée	29/10/2003	Warning disponibilité		 MEDA PHARMA	Non
 69325195	ELTROMBOPAG ACCORD 25 mg, comprimé pelliculé	comprimé	orale	Autorisation active	Procédure centralisée	Commercialisée	28/03/2025		EU/1/24/1903	 ACCORD HEALTHCARE (ESPAGNE)	Non
 63437166	ELTROMBOPAG ACCORD 50 mg, comprimé pelliculé	comprimé	orale	Autorisation active	Procédure centralisée	Commercialisée	28/03/2025		EU/1/24/1903	 ACCORD HEALTHCARE (ESPAGNE)	Non
 63330805	ELTROMBOPAG ACCORD 75 mg, comprimé pelliculé	comprimé	orale	Autorisation active	Procédure centralisée	Commercialisée	28/03/2025		EU/1/24/1903	 ACCORD HEALTHCARE (ESPAGNE)	Non
@@ -4917,7 +4925,6 @@
 69055928	ELUSANES ORTIE, gélule	gélule	orale	Autorisation abrogée	Enreg phyto (Proc. Nat.)	Non commercialisée	02/05/2017	Warning disponibilité		 PIERRE FABRE MEDICAMENT	Non
 62588208	ELUSANES REINE DES PRES, gélule	gélule	orale	Autorisation abrogée	Enreg phyto (Proc. Nat.)	Non commercialisée	09/02/2017	Warning disponibilité		 PIERRE FABRE MEDICAMENT	Non
 63262126	ELUSANES VALERIANE, gélule	gélule	orale	Autorisation archivée	Enreg phyto (Proc. Nat.)	Non commercialisée	13/08/2013	Warning disponibilité		 PIERRE FABRE MEDICAMENT	Non
-68070304	ELUSANES VIGNE ROUGE, gélule	gélule	orale	Autorisation archivée	Enreg phyto (Proc. Nat.)	Non commercialisée	04/07/2017	Warning disponibilité		 PIERRE FABRE MEDICAMENT	Non
 62645381	ELVORINE 100 mg/10 mL, solution injectable	solution injectable	intramusculaire;intraveineuse	Autorisation active	Procédure nationale	Non commercialisée	09/07/1997	Warning disponibilité		 PFIZER HOLDING FRANCE	Non
 63784708	ELVORINE 175 mg/17,5 mL, solution injectable	solution injectable	intramusculaire;intraveineuse	Autorisation active	Procédure nationale	Non commercialisée	09/07/1997	Warning disponibilité		 PFIZER HOLDING FRANCE	Non
 65261375	ELVORINE 25 mg/2,5 mL, solution injectable	solution injectable	intramusculaire;intraveineuse	Autorisation active	Procédure nationale	Non commercialisée	09/07/1997	Warning disponibilité		 PFIZER HOLDING FRANCE	Non
@@ -4938,6 +4945,7 @@
 60247507	EMTRICITABINE/TENOFOVIR DISOPROXIL ARROW 200 mg/245 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation active	Procédure décentralisée	Commercialisée	13/01/2020			 ARROW GENERIQUES	Non
 63146673	EMTRICITABINE/TENOFOVIR DISOPROXIL BIOGARAN 200 mg/245 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation active	Procédure nationale	Commercialisée	23/12/2016			 BIOGARAN	Non
 69543888	EMTRICITABINE/TENOFOVIR DISOPROXIL EG 200 mg/245 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation active	Procédure décentralisée	Commercialisée	30/01/2017			 EG LABO - LABORATOIRES EUROGENERICS	Non
+60265505	EMTRICITABINE/TENOFOVIR DISOPROXIL EVOLUGEN 200 mg/245 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation active	Procédure nationale	Commercialisée	29/01/2026			 EVOLUPHARM	Non
 65646855	EMTRICITABINE/TENOFOVIR DISOPROXIL KRKA 200 mg/245 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation active	Procédure centralisée	Commercialisée	08/12/2016		EU/1/16/1151	 KRKA (SLOVENIE)	Non
 62778588	EMTRICITABINE/TENOFOVIR DISOPROXIL KRKA D.D. 200 mg/245 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation active	Procédure centralisée	Non commercialisée	28/04/2017	Warning disponibilité	EU/1/17/1182	 KRKA (SLOVENIE)	Non
 68486060	EMTRICITABINE/TENOFOVIR DISOPROXIL SANDOZ 200 mg/245 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation active	Procédure décentralisée	Commercialisée	28/12/2017			 SANDOZ	Non
@@ -5011,6 +5019,7 @@
 62554177	ENDOXAN 50 mg, comprimé enrobé	comprimé enrobé	orale	Autorisation active	Procédure nationale	Commercialisée	20/01/1998			 BAXTER	Non
 64635418	ENDOXAN 500 mg, poudre pour solution injectable	poudre et  solvant pour solution injectable	intramusculaire;intraveineuse	Autorisation active	Procédure nationale	Commercialisée	31/12/1997			 BAXTER	Non
 61300756	ENERZAIR BREEZHALER 114 microgrammes/46 microgrammes/136 microgrammes, poudre pour inhalation en gélule	poudre pour inhalation en gélule	inhalée	Autorisation active	Procédure centralisée	Commercialisée	03/07/2020		EU/1/20/1438	 NOVARTIS EUROPHARM (IRLANDE)	Non
+61116813	ENFLONSIA 105 mg, solution injectable en seringue préremplie	solution injectable	intramusculaire	Autorisation active	Procédure centralisée	Commercialisée	15/04/2026		EU/1/25/1984	 MERCK SHARP & DOHME (PAYS-BAS)	Oui
 65782652	ENGERIX B 10 microgrammes/0,5 mL, suspension injectable en seringue préremplie. Vaccin de l'hépatite B (ADNr), (adsorbé) (VHB)	suspension injectable	intramusculaire;sous-cutanée	Autorisation active	Procédure de reconnaissance mutuelle	Commercialisée	12/10/1994			 GLAXOSMITHKLINE	Non
 62279329	ENGERIX B 20 microgrammes/1 mL, suspension injectable en seringue préremplie. Vaccin de l'hépatite B (ADNr), (adsorbé) (VHB)	suspension injectable	intramusculaire;sous-cutanée	Autorisation active	Procédure de reconnaissance mutuelle	Commercialisée	30/12/1994			 GLAXOSMITHKLINE	Non
 63648081	ENHERTU 100 mg, poudre pour solution à diluer pour perfusion	poudre pour solution à diluer pour perfusion	intraveineuse	Autorisation active	Procédure centralisée	Commercialisée	18/01/2021		EU/1/20/1508	 DAIICHI SANKYO EUROPE (ALLEMAGNE)	Oui
@@ -5476,6 +5485,7 @@
 62460176	EVEROLIMUS ZENTIVA 10 mg, comprimé	comprimé	orale	Autorisation active	Procédure décentralisée	Commercialisée	09/07/2018			 ZENTIVA FRANCE	Non
 61601738	EVEROLIMUS ZENTIVA 2,5 mg, comprimé	comprimé	orale	Autorisation active	Procédure décentralisée	Commercialisée	09/07/2018			 ZENTIVA FRANCE	Non
 65605189	EVEROLIMUS ZENTIVA 5 mg, comprimé	comprimé	orale	Autorisation active	Procédure décentralisée	Commercialisée	09/07/2018			 ZENTIVA FRANCE	Non
+67451302	EVFRAXY 60 mg, solution injectable en seringue préremplie	solution injectable	sous-cutanée	Autorisation active	Procédure centralisée	Commercialisée	30/06/2025		EU/1/25/1946	 BIOSIMILAR COLLABORATIONS IRELAND (IRLANDE)	Oui
 63665312	EVICEL, solution pour colle	solution et  solution pour colle	épilésionnelle	Autorisation abrogée	Procédure centralisée	Non commercialisée	06/10/2008	Warning disponibilité	EU/1/08/473	 OMRIX BIOPHARMACEUTICALS (BELGIQUE)	Non
 63578537	EVIPLERA 200 mg/25 mg/245 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation active	Procédure centralisée	Commercialisée	28/11/2011		EU/1/11/737	 GILEAD SCIENCES IRELAND UC (IRLANDE)	Non
 67365141	EVISTA 60 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation active	Procédure centralisée	Commercialisée	05/08/1998		EU/1/98/073	 SUBSTIPHARM	Non
@@ -5506,7 +5516,7 @@
 66471451	EXEMESTANE CRISTERS 25 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation active	Procédure décentralisée	Commercialisée	08/11/2011			 CRISTERS	Non
 64867174	EXEMESTANE EG 25 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation active	Procédure décentralisée	Commercialisée	12/11/2010			 EG LABO - LABORATOIRES EUROGENERICS	Non
 64310677	EXEMESTANE EVOLUGEN 25 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation active	Procédure nationale	Commercialisée	14/04/2025			 EVOLUPHARM	Non
-65262018	EXEMESTANE PFIZER 25 mg, comprimé enrobé	comprimé enrobé	orale	Autorisation active	Procédure décentralisée	Commercialisée	05/01/2012			 PFIZER HOLDING FRANCE	Non
+65262018	EXEMESTANE PFIZER 25 mg, comprimé enrobé	comprimé enrobé	orale	Autorisation active	Procédure décentralisée	Non commercialisée	05/01/2012	Warning disponibilité		 PFIZER HOLDING FRANCE	Non
 60207459	EXEMESTANE SANDOZ 25 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation active	Procédure décentralisée	Commercialisée	28/10/2010			 SANDOZ	Non
 66922032	EXEMESTANE TEVA 25 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation active	Procédure décentralisée	Commercialisée	26/07/2010			 TEVA SANTE	Non
 63733514	EXEMESTANE VIATRIS 25 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation active	Procédure décentralisée	Commercialisée	11/02/2011			 VIATRIS SANTE	Non
@@ -5534,6 +5544,7 @@
 66242602	EXTRANASE 900 nK, comprimé enrobé gastro-résistant	comprimé enrobé gastro-résistant(e)	orale	Autorisation abrogée	Procédure nationale	Non commercialisée	27/01/1997	Warning disponibilité		 ROTTAPHARM	Non
 66121209	EXTRANEAL, solution pour dialyse péritonéale	solution pour dialyse péritonéale	intrapéritonéale	Autorisation active	Procédure de reconnaissance mutuelle	Commercialisée	05/09/1997			 VANTIVE	Non
 64127028	EYDENZELT 40 mg/mL, solution injectable en flacon	solution injectable	intravitréenne	Autorisation active	Procédure centralisée	Commercialisée	12/02/2025		EU/1/24/1895	 CELLTRION HEALTHCARE HUNGARY (HONGRIE)	Oui
+67516821	EYDENZELT 40 mg/mL, solution injectable en seringue préremplie	solution injectable	intravitréenne	Autorisation active	Procédure centralisée	Commercialisée	12/02/2025		EU/1/24/1895	 CELLTRION HEALTHCARE HUNGARY (HONGRIE)	Oui
 69166985	EYLEA 114,3 mg/mL, solution injectable	solution injectable	intravitréenne	Autorisation active	Procédure centralisée	Non commercialisée	05/01/2024	Warning disponibilité	EU/1/12/797	 BAYER AG (ALLEMAGNE)	Non
 67140625	EYLEA 114,3 mg/mL, solution injectable en seringue préremplie	solution injectable	intravitréenne	Autorisation active	Procédure centralisée	Commercialisée	31/08/2024		EU/1/12/797	 BAYER AG (ALLEMAGNE)	Non
 68795701	EYLEA 40 mg/mL, solution injectable en flacon	solution injectable	intravitréenne	Autorisation active	Procédure centralisée	Non commercialisée	22/11/2012	Warning disponibilité	EU/1/12/797	 BAYER AG (ALLEMAGNE)	Non
@@ -5629,8 +5640,13 @@
 60014894	FAMENPAX, comprimé orodispersible	comprimé orodispersible	sublinguale	Autorisation active	Procédure nationale	Commercialisée	20/09/2012			 LEHNING	Non
 60005856	FAMOTIDINE EG 20 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation active	Procédure de reconnaissance mutuelle	Commercialisée	22/12/1999			 EG LABO - LABORATOIRES EUROGENERICS	Non
 67557907	FAMOTIDINE EG 40 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation active	Procédure de reconnaissance mutuelle	Commercialisée	22/12/1999			 EG LABO - LABORATOIRES EUROGENERICS	Non
+66395434	FAMPRIDINE ACCORD 10 mg, comprimé à libération prolongée	comprimé à libération prolongée	orale	Autorisation active	Procédure centralisée	Commercialisée	24/09/2020		EU/1/20/1477	 ACCORD HEALTHCARE (ESPAGNE)	Non
+69333498	FAMPRIDINE ARROW LP 10 mg, comprimé à libération prolongée	comprimé à libération prolongée	orale	Autorisation active	Procédure décentralisée	Commercialisée	07/06/2022			 ARROW GENERIQUES	Non
+65297930	FAMPRIDINE BIOGARAN LP 10 mg, comprimé à libération prolongée	comprimé à libération prolongée	orale	Autorisation active	Procédure nationale	Commercialisée	23/10/2023			 BIOGARAN	Non
+60185105	FAMPRIDINE EG LP 10 mg, comprimé à libération prolongée	comprimé à libération prolongée	orale	Autorisation active	Procédure décentralisée	Commercialisée	03/08/2022			 EG LABO - LABORATOIRES EUROGENERICS	Non
 67942073	FAMPRIDINE TEVA LP 10 mg, comprimé à libération prolongée	comprimé à libération prolongée	orale	Autorisation active	Procédure décentralisée	Commercialisée	29/07/2021			 TEVA SANTE	Non
 65262139	FAMPRIDINE VIATRIS LP 10 mg, comprimé à libération prolongée	comprimé à libération prolongée	orale	Autorisation active	Procédure décentralisée	Commercialisée	19/11/2021			 VIATRIS SANTE	Non
+66756906	FAMPRIDINE ZENTIVA LP 10 mg, comprimé à libération prolongée	comprimé à libération prolongée	orale	Autorisation active	Procédure décentralisée	Commercialisée	07/06/2022			 ZENTIVA FRANCE	Non
 62483787	FAMPYRA 10 mg, comprimé à libération prolongée	comprimé à libération prolongée	orale	Autorisation active	Procédure centralisée	Commercialisée	20/07/2011		EU/1/11/699	 MERZ THERAPEUTICS	Non
 60433369	FARESTON 60 mg, comprimé	comprimé	orale	Autorisation active	Procédure centralisée	Commercialisée	14/02/1996		EU/1/96/004	 ORION CORPORATION	Non
 69608841	FARMORUBICINE 10 mg, poudre pour solution pour perfusion	poudre pour solution pour perfusion	intraveineuse	Autorisation active	Procédure nationale	Commercialisée	05/03/1990			 PFIZER HOLDING FRANCE	Non
@@ -5672,8 +5688,6 @@
 68345387	FEIBA 100 U/mL, poudre et solvant pour solution injectable	poudre et  solvant pour solution injectable	intraveineuse	Autorisation active	Procédure nationale	Commercialisée	24/04/2025			 BAXALTA INNOVATIONS (AUTRICHE)	Non
 67621498	FEIBA 50 U/ml, poudre et solvant pour solution injectable	poudre et  solvant pour solution injectable	intraveineuse	Autorisation active	Procédure nationale	Commercialisée	29/03/2000			 BAXALTA INNOVATIONS (AUTRICHE)	Non
 67633600	FELDENE 20 mg, gélule	gélule	orale	Autorisation active	Procédure nationale	Non commercialisée	04/03/1983	Warning disponibilité		 PFIZER HOLDING FRANCE	Non
-65898475	FELDENE 20 mg, suppositoire	suppositoire	rectale	Autorisation archivée	Procédure nationale	Non commercialisée	19/05/1983	Warning disponibilité		 PFIZER HOLDING FRANCE	Non
-65182102	FELDENE 20 mg/1 ml, solution injectable en ampoule (IM)	solution injectable	intramusculaire	Autorisation archivée	Procédure nationale	Non commercialisée	17/02/1986	Warning disponibilité		 PFIZER HOLDING FRANCE	Non
 67214342	FELDENE DISPERSIBLE 20 mg, comprimé dispersible sécable	comprimé dispersible sécable	orale	Autorisation active	Procédure nationale	Non commercialisée	26/07/1989	Warning disponibilité		 PFIZER HOLDING FRANCE	Non
 64209532	FELDSPATH QUADRATIQUE BOIRON, degré de dilution compris entre 3CH et 30CH ou entre 6DH et 60DH	 comprimé et solution(s) et granules et poudre et pommade	cutanée;orale;sublinguale	Autorisation active	Enreg homéo (Proc. Nat.)	Commercialisée	14/10/2019			 BOIRON	Non
 69451322	FELODIPINE SANDOZ L.P. 5 mg, comprimé pelliculé à libération prolongée	comprimé pelliculé à libération prolongée	orale	Autorisation active	Procédure nationale	Commercialisée	25/01/2007			 SANDOZ	Non
@@ -6075,7 +6089,6 @@
 63485289	FLUORESCEINE SODIQUE FAURE 10 POUR CENT, solution injectable	solution injectable	intraveineuse	Autorisation active	Procédure nationale	Commercialisée	30/05/1995			 SERB (BELGIQUE)	Non
 69421254	FLUORICUM ACIDUM BOIRON, degré de dilution compris entre 2CH et 30CH ou entre 4DH et 60DH	 comprimé et solution(s) et granules et poudre et pommade	cutanée;orale;sublinguale	Autorisation active	Enreg homéo (Proc. Nat.)	Commercialisée	03/11/2009			 BOIRON	Non
 61921930	FLUORICUM ACIDUM LEHNING, degré de dilution compris entre 2CH et 30CH ou entre 4DH et 60DH	 comprimé et solution(s) et granules et poudre et pommade	cutanée;orale;sublinguale	Autorisation active	Enreg homéo (Proc. Nat.)	Commercialisée	03/11/2009			 LEHNING	Non
-60773795	FLUORICUM ACIDUM WELEDA, degré de dilution compris entre 2CH et 30CH ou entre 4DH et 60DH	granules et  poudre et  solution en gouttes en gouttes	orale;sublinguale	Autorisation active	Enreg homéo (Proc. Nat.)	Commercialisée	03/11/2009			 WELEDA	Non
 62696002	FLUORITE WELEDA, degré de dilution compris entre 3CH et 30CH ou entre 5DH et 60DH	granules et  poudre et  solution en gouttes en gouttes	orale;sublinguale	Autorisation active	Enreg homéo (Proc. Nat.)	Commercialisée	04/05/2020			 WELEDA	Non
 67519027	FLUOROCHOL 222 MBq/mL, solution injectable	solution injectable	intraveineuse	Autorisation active	Procédure de reconnaissance mutuelle	Commercialisée	16/09/2015			 ADVANCED ACCELERATOR APPLICATIONS MOLECULAR IMAGING FRANCE	Non
 61720870	FLUOROCHOLINE (18F) 1,5 GBq/mL SIEMENS HEALTHCARE, solution injectable	solution injectable	intraveineuse	Autorisation active	Procédure nationale	Commercialisée	21/06/2017			 SIEMENS HEALTHCARE (ALLEMAGNE)	Oui
@@ -6123,8 +6136,6 @@
 62912304	FLUVASTATINE ARROW L.P. 80 mg, comprimé pelliculé à libération prolongée	comprimé pelliculé à libération prolongée	orale	Autorisation active	Procédure nationale	Non commercialisée	22/05/2009	Warning disponibilité		 ARROW GENERIQUES	Non
 63897780	FLUVASTATINE BIOGARAN 20 mg, gélule	gélule	orale	Autorisation active	Procédure nationale	Commercialisée	27/08/2009			 BIOGARAN	Non
 66946962	FLUVASTATINE BIOGARAN 40 mg, gélule	gélule	orale	Autorisation active	Procédure nationale	Commercialisée	27/08/2009			 BIOGARAN	Non
-66605982	FLUVASTATINE CEVIDRA 20 mg, gélule	gélule	orale	Autorisation active	Procédure décentralisée	Non commercialisée	21/07/2008	Warning disponibilité		 DOUBLE-E PHARMA (IRLANDE)	Non
-65550846	FLUVASTATINE CEVIDRA 40 mg, gélule	gélule	orale	Autorisation active	Procédure décentralisée	Non commercialisée	21/07/2008	Warning disponibilité		 DOUBLE-E PHARMA (IRLANDE)	Non
 62756595	FLUVASTATINE SANDOZ 20 mg, gélule	gélule	orale	Autorisation active	Procédure décentralisée	Commercialisée	23/01/2008			 SANDOZ	Non
 64300843	FLUVASTATINE SANDOZ 40 mg, gélule	gélule	orale	Autorisation active	Procédure décentralisée	Commercialisée	23/01/2008			 SANDOZ	Non
 68067589	FLUVASTATINE SANDOZ LP 80 mg, comprimé pelliculé à libération prolongée	comprimé pelliculé à libération prolongée	orale	Autorisation active	Procédure décentralisée	Non commercialisée	19/08/2008	Warning disponibilité		 SANDOZ	Non
@@ -6369,9 +6380,9 @@
 66148843	GABAPENTINE EVOLUGEN 100 mg, gélule	gélule	orale	Autorisation active	Procédure nationale	Commercialisée	16/03/2006			 EVOLUPHARM	Non
 68267102	GABAPENTINE EVOLUGEN 300 mg, gélule	gélule	orale	Autorisation active	Procédure nationale	Commercialisée	16/03/2006			 EVOLUPHARM	Non
 64869104	GABAPENTINE EVOLUGEN 400 mg, gélule	gélule	orale	Autorisation active	Procédure nationale	Commercialisée	31/05/2005			 EVOLUPHARM	Non
+62086554	GABAPENTINE EVOLUGEN PHARMA 100 mg, gélule	gélule	orale	Autorisation active	Procédure nationale	Commercialisée	15/04/2025			 EVOLUPHARM	Non
 61343184	GABAPENTINE MYLAN 600 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation abrogée	Procédure nationale	Non commercialisée	04/10/2006	Warning disponibilité		 MYLAN SAS	Non
 67035859	GABAPENTINE MYLAN 800 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation abrogée	Procédure nationale	Non commercialisée	04/10/2006	Warning disponibilité		 MYLAN SAS	Non
-60028050	GABAPENTINE RANBAXY 400 mg, gélule	gélule	orale	Autorisation abrogée	Procédure nationale	Non commercialisée	21/11/2007	Warning disponibilité		 RANBAXY PHARMACIE GENERIQUES	Non
 67077744	GABAPENTINE SANDOZ 100 mg, gélule	gélule	orale	Autorisation active	Procédure nationale	Commercialisée	16/11/2023			 SANDOZ	Non
 66738819	GABAPENTINE SANDOZ 300 mg, gélule	gélule	orale	Autorisation active	Procédure nationale	Commercialisée	16/11/2023			 SANDOZ	Non
 69904598	GABAPENTINE SANDOZ 400 mg, gélule	gélule	orale	Autorisation active	Procédure nationale	Commercialisée	24/07/2024			 SANDOZ	Non
@@ -6483,7 +6494,7 @@
 66530743	GEFITINIB SANDOZ 250 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation active	Procédure décentralisée	Non commercialisée	01/08/2018	Warning disponibilité		 SANDOZ	Non
 61571533	GEFITINIB TEVA 250 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation active	Procédure décentralisée	Commercialisée	18/10/2018			 TEVA (PAYS-BAS)	Non
 67522920	GEFITINIB ZENTIVA 250 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation active	Procédure décentralisée	Non commercialisée	30/11/2018	Warning disponibilité		 ZENTIVA FRANCE	Non
-65010088	GEL DE CALAMINE THERICA, gel pour application locale	gel pour application	cutanée	Autorisation active	Procédure nationale	Commercialisée	12/12/1995			 LABORATOIRES BAILLEUL (LUXEMBOURG)	Non
+65010088	GEL DE CALAMINE THERICA, gel pour application locale	gel pour application	cutanée	Autorisation active	Procédure nationale	Non commercialisée	12/12/1995	Warning disponibilité		 LABORATOIRES BAILLEUL (LUXEMBOURG)	Non
 64902013	GEL LARMES, gel ophtalmique	gel	ophtalmique	Autorisation active	Procédure nationale	Commercialisée	15/06/1989			 THEA	Non
 68754843	GEL LARMES, gel ophtalmique en récipient unidose	gel	ophtalmique	Autorisation active	Procédure nationale	Commercialisée	21/02/1992			 THEA	Non
 60293846	GEL RECTOPANBILINE, gel rectal	gel	rectale	Autorisation active	Procédure nationale	Commercialisée	04/06/1992			 COOPER (ABRÉGÉ DE COOPERATION PHARMACEUTIQUE FRANCAISE)	Non
@@ -6502,7 +6513,6 @@
 61448203	GELUTROPHYL 200 mg, gélule	gélule	orale	Autorisation active	Procédure nationale	Commercialisée	29/11/1996			 JOLLY JATEL	Non
 65432869	GEMCITABINE ACCORD 100 mg/ml, solution à diluer pour perfusion	solution à diluer pour perfusion	intraveineuse	Autorisation active	Procédure nationale	Commercialisée	30/12/2011			 ACCORD HEALTHCARE FRANCE	Non
 64622919	GEMCITABINE ACCORD 1000 mg, poudre pour solution pour perfusion	poudre pour solution pour perfusion	intraveineuse	Autorisation abrogée	Procédure nationale	Non commercialisée	22/04/2008	Warning disponibilité		 ACCORD HEALTHCARE FRANCE	Non
-64077205	GEMCITABINE ACCORD 2000 mg, poudre pour solution pour perfusion	poudre pour solution pour perfusion	intraveineuse	Autorisation abrogée	Procédure nationale	Non commercialisée	17/02/2010	Warning disponibilité		 ACCORD HEALTHCARE FRANCE	Non
 69753527	GEMCITABINE ARROW 40 mg/mL, solution à diluer pour perfusion	solution à diluer pour perfusion	intraveineuse	Autorisation active	Procédure nationale	Commercialisée	27/04/2010			 EUGIA PHARMA (MALTA) (MALTE)	Non
 63693564	GEMCITABINE HIKMA 38 mg/mL, solution à diluer pour perfusion	solution à diluer pour perfusion	intraveineuse	Autorisation active	Procédure décentralisée	Commercialisée	29/06/2020			 HIKMA FARMACEUTICA (PORTUGAL)	Non
 62454764	GEMCITABINE HOSPIRA 38 mg/mL, solution à diluer pour perfusion	solution à diluer pour perfusion	intraveineuse	Autorisation active	Procédure décentralisée	Commercialisée	14/04/2011			 PFIZER HOLDING FRANCE	Non
@@ -6546,7 +6556,7 @@
 66565790	GESTODENE/ETHINYLESTRADIOL EG LABO 60 microgrammes/15 microgrammes, comprimé pelliculé	comprimé pelliculé et  comprimé pelliculé	orale	Autorisation active	Procédure nationale	Commercialisée	20/06/2024			 EG LABO - LABORATOIRES EUROGENERICS	Non
 62700550	GESTODENE/ETHINYLESTRADIOL EG LABO 75 microgrammes/ 20 microgrammes, comprimé	comprimé	orale	Autorisation active	Procédure nationale	Commercialisée	04/04/2023			 EG LABO - LABORATOIRES EUROGENERICS	Non
 67259309	GESTODENE/ETHINYLESTRADIOL EG LABO 75 microgrammes/ 30 microgrammes, comprimé	comprimé	orale	Autorisation active	Procédure nationale	Commercialisée	04/04/2023			 EG LABO - LABORATOIRES EUROGENERICS	Non
-66774427	GESTODENE/ETHINYLESTRADIOL TEVA 75 microgrammes /30 microgrammes, comprimé enrobé	comprimé enrobé	orale	Autorisation active	Procédure de reconnaissance mutuelle	Commercialisée	05/07/2007			 TEVA SANTE	Non
+66774427	GESTODENE/ETHINYLESTRADIOL TEVA 75 microgrammes /30 microgrammes, comprimé enrobé	comprimé enrobé	orale	Autorisation active	Procédure de reconnaissance mutuelle	Non commercialisée	05/07/2007	Warning disponibilité		 TEVA SANTE	Non
 63591253	GESTODENE/ETHINYLESTRADIOL TEVA 75 microgrammes/20 microgrammes, comprimé enrobé	comprimé enrobé	orale	Autorisation abrogée	Procédure de reconnaissance mutuelle	Non commercialisée	05/07/2007	Warning disponibilité		 TEVA SANTE	Non
 60719986	GESTODENE/ETHINYLESTRADIOL VIATRIS 60 microgrammes/15 microgrammes, comprimé pelliculé	comprimé pelliculé et  comprimé pelliculé	orale	Autorisation active	Procédure nationale	Commercialisée	28/06/2010			 EXELTIS SANTE	Non
 68188295	GESTODENE/ETHINYLESTRADIOL VIATRIS 75 microgrammes/20 microgrammes, comprimé enrobé	comprimé enrobé	orale	Autorisation active	Procédure nationale	Commercialisée	05/06/2006			 EXELTIS SANTE	Non
@@ -6821,7 +6831,7 @@
 60853558	HARPAGOPHYTUM BOIRON, degré de dilution compris entre 2CH et 30CH ou entre 4DH et 60DH	 comprimé et solution(s) et granules et poudre et pommade	cutanée;orale;sublinguale	Autorisation active	Enreg homéo (Proc. Nat.)	Commercialisée	21/05/2013			 BOIRON	Non
 65849122	HARPAGOPHYTUM LEHNING, degré de dilution compris entre 2CH et 30CH ou entre 4DH et 60DH	 comprimé et solution(s) et granules et poudre et pommade	cutanée;orale;sublinguale	Autorisation active	Enreg homéo (Proc. Nat.)	Commercialisée	21/05/2013			 LEHNING	Non
 64426906	HARVONI 90 mg/400 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation active	Procédure centralisée	Non commercialisée	17/11/2014	Warning disponibilité	EU/1/14/958	 GILEAD SCIENCES IRELAND UC (IRLANDE)	Non
-69071035	HAVLANE, comprimé sécable	comprimé sécable	orale	Autorisation active	Procédure nationale	Commercialisée	10/07/1981			 SANOFI WINTHROP INDUSTRIE	Non
+69071035	HAVLANE, comprimé sécable	comprimé sécable	orale	Autorisation active	Procédure nationale	Commercialisée	10/07/1981			 TEOFARMA	Non
 60386414	HAVRIX 1440 U/1 mL ADULTES, suspension injectable en seringue préremplie. Vaccin de l'hépatite A (inactivé, adsorbé)	suspension injectable	intramusculaire;sous-cutanée	Autorisation active	Procédure de reconnaissance mutuelle	Commercialisée	18/08/1994			 GLAXOSMITHKLINE	Non
 60152436	HAVRIX NOURRISSONS ET ENFANTS 720 U/0,5 mL, suspension injectable en seringue préremplie. Vaccin de l'hépatite A (inactivé, adsorbé)	suspension injectable	intramusculaire;sous-cutanée	Autorisation active	Procédure de reconnaissance mutuelle	Commercialisée	06/08/1998			 GLAXOSMITHKLINE	Non
 64646891	HBVAXPRO 10 microgrammes, suspension injectable en seringue préremplie. Vaccin de l'hépatite B (ADNr)	suspension injectable	intramusculaire;sous-cutanée	Autorisation active	Procédure centralisée	Non commercialisée	27/04/2001	Warning disponibilité	EU/1/01/183	 MERCK SHARP & DOHME (PAYS-BAS)	Non
@@ -6962,7 +6972,6 @@
 63713344	HUMEX RHUME, comprimé et gélule	comprimé et  gélule	orale	Autorisation active	Procédure nationale	Non commercialisée	22/09/1997	Warning disponibilité		 LABORATOIRES URGO HEALTHCARE	Non
 66974004	HUMEX TOUX SECHE OXOMEMAZINE 0,33 mg/ml SANS SUCRE, solution buvable édulcorée à l'acésulfame potassique	solution buvable	orale	Autorisation active	Procédure nationale	Commercialisée	22/07/2010			 LABORATOIRES URGO HEALTHCARE	Non
 61704802	HUMEX TOUX SECHE OXOMEMAZINE 0,33 mg/ml, sirop	sirop	orale	Autorisation active	Procédure nationale	Commercialisée	08/07/2010			 LABORATOIRES URGO HEALTHCARE	Non
-61697350	HUMEXLIB ETAT GRIPPAL PARACETAMOL/VITAMINE C/PHENIRAMINE 500 mg/200 mg/25 mg SANS SUCRE, poudre pour solution buvable en sachet édulcorée à l'aspartam	poudre pour solution buvable	orale	Autorisation active	Procédure nationale	Non commercialisée	21/12/2015	Warning disponibilité		 LABORATOIRES URGO HEALTHCARE	Non
 61541629	HUMEXLIB ETAT GRIPPAL PARACETAMOL/VITAMINE C/PHENIRAMINE 500 mg/200 mg/25 mg, poudre pour solution buvable en sachet	poudre pour solution buvable	orale	Autorisation active	Procédure nationale	Non commercialisée	27/02/2014	Warning disponibilité		 LABORATOIRES URGO HEALTHCARE	Non
 68144352	HUMEXLIB PARACETAMOL CHLORPHENAMINE 500 mg/4 mg, gélule	gélule	orale	Autorisation active	Procédure nationale	Commercialisée	07/02/1991			 LABORATOIRES URGO HEALTHCARE	Non
 62975984	HUMIRA 20 mg, solution injectable en seringue préremplie	solution injectable	sous-cutanée	Autorisation active	Procédure centralisée	Commercialisée	08/12/2017		EU/1/03/256	 ABBVIE DEUTSCHLAND (ALLEMAGNE)	Non
@@ -7120,7 +7129,7 @@
 62480969	ICOMAS 0,3%, 0,3%, 0,3%, gaz médicinal comprimé	gaz	inhalée	Autorisation active	Procédure de reconnaissance mutuelle	Commercialisée	03/07/2025			 LINDE SVERIGE (SUEDE)	Non
 65837903	IDACIO 40 mg, solution injectable en seringue préremplie	solution injectable	sous-cutanée	Autorisation active	Procédure centralisée	Commercialisée	02/04/2019		EU/1/19/1356	 FRESENIUS KABI DEUTSCHLAND (ALLEMAGNE)	Non
 64202598	IDACIO 40 mg, solution injectable en stylo prérempli	solution injectable	sous-cutanée	Autorisation active	Procédure centralisée	Commercialisée	02/04/2019		EU/1/19/1356	 FRESENIUS KABI DEUTSCHLAND (ALLEMAGNE)	Non
-63592177	IDACIO 40 mg/0,8 ml, solution injectable pour usage pédiatrique	solution injectable	sous-cutanée	Autorisation active	Procédure centralisée	Non commercialisée	02/04/2019	Warning disponibilité	EU/1/19/1356	 FRESENIUS KABI DEUTSCHLAND (ALLEMAGNE)	Non
+63592177	IDACIO 40 mg/0,8 ml, solution injectable pour usage pédiatrique	solution injectable	sous-cutanée	Autorisation archivée	Procédure centralisée	Non commercialisée	02/04/2019	Warning disponibilité	EU/1/19/1356	 FRESENIUS KABI DEUTSCHLAND (ALLEMAGNE)	Non
 66099467	IDARUBICINE ACCORD 10 mg/10 ml, solution pour perfusion	solution pour perfusion	intraveineuse	Autorisation active	Procédure de reconnaissance mutuelle	Non commercialisée	05/07/2018	Warning disponibilité		 ACCORD HEALTHCARE FRANCE	Non
 64304400	IDARUBICINE ACCORD 20 mg/20 ml, solution pour perfusion	solution pour perfusion	intraveineuse	Autorisation active	Procédure de reconnaissance mutuelle	Non commercialisée	05/07/2018	Warning disponibilité		 ACCORD HEALTHCARE FRANCE	Non
 60635068	IDARUBICINE ACCORD 5 mg/5 ml, solution pour perfusion	solution pour perfusion	intraveineuse	Autorisation active	Procédure de reconnaissance mutuelle	Commercialisée	05/07/2018			 ACCORD HEALTHCARE FRANCE	Non
@@ -7164,8 +7173,8 @@
 66544554	IMATINIB BGR 400 mg, comprimé pelliculé sécable	comprimé pelliculé sécable	orale	Autorisation active	Procédure nationale	Commercialisée	04/08/2016			 BIOGARAN	Non
 65074589	IMATINIB CRISTERS 100 mg, comprimé pelliculé sécable	comprimé pelliculé sécable	orale	Autorisation active	Procédure nationale	Commercialisée	17/07/2017			 CRISTERS	Non
 61447770	IMATINIB CRISTERS 400 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation active	Procédure nationale	Commercialisée	17/07/2017			 CRISTERS	Non
-64911770	IMATINIB EG 100 mg, comprimé pelliculé sécable	comprimé pelliculé sécable	orale	Autorisation active	Procédure décentralisée	Commercialisée	05/09/2016			 EG LABO - LABORATOIRES EUROGENERICS	Non
-62304120	IMATINIB EG 400 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation active	Procédure décentralisée	Commercialisée	05/09/2016			 EG LABO - LABORATOIRES EUROGENERICS	Non
+64911770	IMATINIB EG 100 mg, comprimé pelliculé sécable	comprimé pelliculé sécable	orale	Autorisation active	Procédure décentralisée	Non commercialisée	05/09/2016	Warning disponibilité		 EG LABO - LABORATOIRES EUROGENERICS	Non
+62304120	IMATINIB EG 400 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation active	Procédure décentralisée	Non commercialisée	05/09/2016	Warning disponibilité		 EG LABO - LABORATOIRES EUROGENERICS	Non
 65235067	IMATINIB EG LABO 100 mg, comprimé pelliculé sécable	comprimé pelliculé sécable	orale	Autorisation active	Procédure décentralisée	Commercialisée	24/12/2024			 EG LABO - LABORATOIRES EUROGENERICS	Non
 68535739	IMATINIB EG LABO 400 mg, comprimé pelliculé sécable	comprimé pelliculé	orale	Autorisation active	Procédure décentralisée	Commercialisée	24/12/2024			 EG LABO - LABORATOIRES EUROGENERICS	Non
 66554616	IMATINIB HCS 100 mg, comprimé pelliculé sécable	comprimé pelliculé sécable	orale	Autorisation active	Procédure décentralisée	Commercialisée	04/08/2016			 HCS (BELGIQUE)	Non
@@ -7188,6 +7197,8 @@
 69196284	IMBRUVICA 420 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation active	Procédure centralisée	Commercialisée	29/06/2018		EU/1/14/945	 JANSSEN CILAG INTERNATIONAL NV	Non
 66940571	IMBRUVICA 560 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation active	Procédure centralisée	Commercialisée	29/06/2018		EU/1/14/945	 JANSSEN CILAG INTERNATIONAL NV	Non
 69966525	IMCIVREE 10 mg/ml, solution injectable	solution injectable	sous-cutanée	Autorisation active	Procédure centralisée	Commercialisée	16/07/2021		EU/1/21/1564	 RHYTHM PHARMACEUTICALS NETHERLANDS (PAYS-BAS)	Non
+68020319	IMDYLLTRA 1 mg, poudre pour solution à diluer et solution pour solution pour perfusion	poudre à diluer à diluer et  solution pour solution pour solution	intraveineuse	Autorisation active	Procédure centralisée	Commercialisée	29/05/2026		EU/1/26/2033	 AMGEN EUROPE	Oui
+68852725	IMDYLLTRA 10 mg, poudre pour solution à diluer et solution pour solution pour perfusion	poudre à diluer à diluer et  solution pour solution pour solution	intraveineuse	Autorisation active	Procédure centralisée	Commercialisée	29/05/2026		EU/1/26/2033	 AMGEN EUROPE	Oui
 65787731	IMENOR 10 mg, comprimé sécable	comprimé sécable	orale	Autorisation active	Procédure de reconnaissance mutuelle	Commercialisée	17/11/2020			 ORION CORPORATION	Non
 67791835	IMENOR 2,5 mg, comprimé	comprimé	orale	Autorisation active	Procédure de reconnaissance mutuelle	Commercialisée	17/11/2020			 ORION CORPORATION	Non
 60819417	IMETH 10 mg, comprimé sécable	comprimé sécable	orale	Autorisation active	Procédure décentralisée	Non commercialisée	13/11/2008	Warning disponibilité		 NORDIC PHARMA	Non
@@ -7269,7 +7280,6 @@
 60897889	INDUCTOS 1,5 mg/ml, poudre, solvant et matrice pour matrice implantable	poudre et  solvant et  matrice pour matrice implantable	implantation	Autorisation active	Procédure centralisée	Commercialisée	09/09/2002		EU/1/02/226	 MEDTRONIC BIOPHARMA (PAYS-BAS)	Non
 60371679	INEGY 10 mg/20 mg, comprimé	comprimé	orale	Autorisation active	Procédure de reconnaissance mutuelle	Commercialisée	28/07/2005			 ORGANON FRANCE	Non
 60061709	INEGY 10 mg/20 mg, comprimé	comprimé	orale	Autorisation abrogée	Autorisation d'importation parallèle	Non commercialisée	30/04/2019	Warning disponibilité		 BB FARMA (ITALIE)	Non
-63857227	INEGY 10 mg/20 mg, comprimé	comprimé	orale	Autorisation abrogée	Autorisation d'importation parallèle	Non commercialisée	16/01/2020	Warning disponibilité		 PHARMA LAB	Non
 65722573	INEGY 10 mg/20 mg, comprimé	comprimé	orale	Autorisation abrogée	Autorisation d'importation parallèle	Non commercialisée	22/11/2018	Warning disponibilité		 DIFARMED (ESPAGNE)	Non
 65057814	INEGY 10 mg/40 mg, comprimé	comprimé	orale	Autorisation active	Procédure de reconnaissance mutuelle	Commercialisée	28/07/2005			 ORGANON FRANCE	Non
 61238347	INEGY 10 mg/40 mg, comprimé	comprimé	orale	Autorisation abrogée	Autorisation d'importation parallèle	Non commercialisée	30/04/2019	Warning disponibilité		 BB FARMA (ITALIE)	Non
@@ -7468,7 +7478,6 @@
 62727234	IRBESARTAN/HYDROCHLOROTHIAZIDE EVOLUGEN PHARMA 300 mg/25 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation active	Procédure nationale	Commercialisée	06/12/2013			 EVOLUPHARM	Non
 67399371	IRBESARTAN/HYDROCHLOROTHIAZIDE MYLAN PHARMA 150 mg/12,5 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation abrogée	Procédure décentralisée	Non commercialisée	15/11/2011	Warning disponibilité		 MYLAN SAS	Non
 61956276	IRBESARTAN/HYDROCHLOROTHIAZIDE MYLAN PHARMA 300 mg/12,5 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation abrogée	Procédure décentralisée	Non commercialisée	15/11/2011	Warning disponibilité		 MYLAN SAS	Non
-68373205	IRBESARTAN/HYDROCHLOROTHIAZIDE MYLAN PHARMA 300 mg/25 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation abrogée	Procédure décentralisée	Non commercialisée	15/11/2011	Warning disponibilité		 MYLAN SAS	Non
 61120530	IRBESARTAN/HYDROCHLOROTHIAZIDE SANDOZ 150 mg/12,5 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation active	Procédure décentralisée	Commercialisée	21/10/2010			 SANDOZ	Non
 66650493	IRBESARTAN/HYDROCHLOROTHIAZIDE SANDOZ 300 mg/12,5 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation active	Procédure décentralisée	Commercialisée	30/09/2011			 SANDOZ	Non
 67934781	IRBESARTAN/HYDROCHLOROTHIAZIDE SANDOZ 300 mg/25 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation active	Procédure décentralisée	Commercialisée	21/10/2010			 SANDOZ	Non
@@ -7547,7 +7556,7 @@
 69167489	IVABRADINE SANDOZ 7,5 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation active	Procédure décentralisée	Commercialisée	02/10/2017			 SANDOZ	Non
 60980317	IVABRADINE TEVA 5 mg, comprimé pelliculé sécable	comprimé pelliculé sécable	orale	Autorisation active	Procédure décentralisée	Commercialisée	29/07/2024			 TEVA (PAYS-BAS)	Non
 64506544	IVABRADINE TEVA 7,5 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation active	Procédure décentralisée	Commercialisée	29/07/2024			 TEVA (PAYS-BAS)	Non
-66693651	IVABRADINE TEVA SANTE 5 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation active	Procédure décentralisée	Commercialisée	26/04/2017			 TEVA (PAYS-BAS)	Non
+66693651	IVABRADINE TEVA SANTE 5 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation active	Procédure décentralisée	Non commercialisée	26/04/2017	Warning disponibilité		 TEVA (PAYS-BAS)	Non
 65511544	IVABRADINE TEVA SANTE 7,5 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation active	Procédure décentralisée	Non commercialisée	26/04/2017	Warning disponibilité		 TEVA (PAYS-BAS)	Non
 65514241	IVABRADINE VIATRIS 5 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation active	Procédure décentralisée	Commercialisée	11/01/2017			 VIATRIS SANTE	Non
 65781618	IVABRADINE VIATRIS 7,5 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation active	Procédure décentralisée	Commercialisée	11/01/2017			 VIATRIS SANTE	Non
@@ -7753,7 +7762,7 @@
 62701346	KETOCONAZOLE ARROW 2 %, gel en récipient-unidose	gel	cutanée	Autorisation active	Procédure nationale	Commercialisée	05/02/2008			 ARROW GENERIQUES	Non
 66227874	KETOCONAZOLE ARROW 2 %, gel en sachet-dose	gel	cutanée	Autorisation active	Procédure nationale	Commercialisée	08/02/2008			 ARROW GENERIQUES	Non
 68638760	KETOCONAZOLE BIOGARAN 2 %, crème	crème	cutanée	Autorisation active	Procédure nationale	Commercialisée	27/02/2019			 BIOGARAN	Non
-69323162	KETOCONAZOLE BIOGARAN 2 %, gel en récipient unidose	gel	cutanée	Autorisation active	Procédure nationale	Commercialisée	14/02/2008			 BIOGARAN	Non
+69323162	KETOCONAZOLE BIOGARAN 2 %, gel en récipient unidose	gel	cutanée	Autorisation active	Procédure nationale	Non commercialisée	14/02/2008	Warning disponibilité		 BIOGARAN	Non
 60034936	KETOCONAZOLE BIOGARAN 2 %, gel en sachet-dose	gel	cutanée	Autorisation active	Procédure nationale	Commercialisée	14/02/2008			 BIOGARAN	Non
 67320057	KETOCONAZOLE CRISTERS 2 %, gel en récipient-unidose	gel	cutanée	Autorisation active	Procédure nationale	Commercialisée	08/10/2008			 CRISTERS	Non
 64825983	KETOCONAZOLE CRISTERS 2 %, gel en sachet-dose	gel	cutanée	Autorisation active	Procédure nationale	Commercialisée	08/10/2008			 CRISTERS	Non
@@ -8025,9 +8034,7 @@
 61090941	LANSOPRAZOLE EVOLUGEN 30 mg, gélule gastro-résistante	gélule gastro-résistant(e)	orale	Autorisation active	Procédure nationale	Commercialisée	27/09/2010			 EVOLUPHARM	Non
 63727664	LANSOPRAZOLE KRKA 15 mg, gélule gastro-résistante	gélule gastro-résistant(e)	orale	Autorisation active	Procédure nationale	Commercialisée	07/11/2008			 KRKA (SLOVENIE)	Non
 68266705	LANSOPRAZOLE KRKA 30 mg, gélule gastro-résistante	gélule gastro-résistant(e)	orale	Autorisation active	Procédure nationale	Commercialisée	07/11/2008			 KRKA (SLOVENIE)	Non
-64429756	LANSOPRAZOLE SANDOZ 15 mg, comprimé orodispersible	comprimé orodispersible	orale	Autorisation archivée	Procédure nationale	Non commercialisée	25/07/2014	Warning disponibilité		 SANDOZ	Non
 64803410	LANSOPRAZOLE SANDOZ 15 mg, gélule gastro-résistante	gélule gastro-résistant(e)	orale	Autorisation active	Procédure nationale	Commercialisée	20/07/2007			 SANDOZ	Non
-62385791	LANSOPRAZOLE SANDOZ 30 mg, comprimé orodispersible	comprimé orodispersible	orale	Autorisation archivée	Procédure nationale	Non commercialisée	25/07/2014	Warning disponibilité		 SANDOZ	Non
 60449672	LANSOPRAZOLE SANDOZ 30 mg, gélule gastro-résistante	gélule gastro-résistant(e)	orale	Autorisation active	Procédure nationale	Commercialisée	20/07/2007			 SANDOZ	Non
 61387348	LANSOPRAZOLE TEVA SANTE 15 mg, gélule gastro-résistante	gélule gastro-résistant(e)	orale	Autorisation active	Procédure nationale	Commercialisée	20/07/2007			 TEVA SANTE	Non
 65874385	LANSOPRAZOLE TEVA SANTE 30 mg, gélule gastro-résistante	gélule gastro-résistant(e)	orale	Autorisation active	Procédure nationale	Commercialisée	23/07/2007			 TEVA SANTE	Non
@@ -8199,10 +8206,10 @@
 67439809	LEPIDOLITE BOIRON, degré de dilution compris entre 3CH et 30CH ou entre 6DH et 60DH	 comprimé et solution(s) et granules et poudre et pommade	cutanée;orale;sublinguale	Autorisation active	Enreg homéo (Proc. Nat.)	Commercialisée	15/01/2021			 BOIRON	Non
 62552920	LEPONEX 100 mg, comprimé sécable	comprimé sécable	orale	Autorisation active	Procédure de reconnaissance mutuelle	Commercialisée	20/06/1991			 VIATRIS MEDICAL	Non
 67513540	LEPONEX 25 mg, comprimé sécable	comprimé sécable	orale	Autorisation active	Procédure de reconnaissance mutuelle	Commercialisée	20/06/1991			 VIATRIS MEDICAL	Non
-68876092	LEPTAX 1000 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation active	Procédure décentralisée	Non commercialisée	13/04/2018	Warning disponibilité		 HAC PHARMA	Non
-64736787	LEPTAX 250 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation active	Procédure décentralisée	Non commercialisée	13/04/2018	Warning disponibilité		 HAC PHARMA	Non
-69736549	LEPTAX 500 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation active	Procédure décentralisée	Non commercialisée	13/04/2018	Warning disponibilité		 HAC PHARMA	Non
-60248000	LEPTAX 750 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation active	Procédure décentralisée	Non commercialisée	13/04/2018	Warning disponibilité		 HAC PHARMA	Non
+68876092	LEPTAX 1000 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation archivée	Procédure décentralisée	Non commercialisée	13/04/2018	Warning disponibilité		 HAC PHARMA	Non
+64736787	LEPTAX 250 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation archivée	Procédure décentralisée	Non commercialisée	13/04/2018	Warning disponibilité		 HAC PHARMA	Non
+69736549	LEPTAX 500 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation archivée	Procédure décentralisée	Non commercialisée	13/04/2018	Warning disponibilité		 HAC PHARMA	Non
+60248000	LEPTAX 750 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation archivée	Procédure décentralisée	Non commercialisée	13/04/2018	Warning disponibilité		 HAC PHARMA	Non
 66631817	LEPTICUR 10 mg, comprimé	comprimé	orale	Autorisation active	Procédure nationale	Commercialisée	26/06/1989			 LABORATOIRES DELBERT	Non
 63531498	LEPTICUR 10 mg/2 ml, solution injectable	solution injectable	intramusculaire;intraveineuse	Autorisation active	Procédure nationale	Commercialisée	22/10/1986			 LABORATOIRES DELBERT	Non
 68594221	LEPTOPROL 5 mg, implant en seringue pré-remplie	implant	sous-cutanée	Autorisation active	Procédure décentralisée	Commercialisée	06/10/2015			 SANDOZ	Non
@@ -8438,7 +8445,7 @@
 67202404	LEVOTHYROX 63 microgrammes, comprimé sécable	comprimé sécable	orale	Autorisation active	Procédure nationale	Commercialisée	29/03/2024			 MERCK SANTE	Non
 62080626	LEVOTHYROX 75 microgrammes, comprimé sécable	comprimé sécable	orale	Autorisation active	Procédure nationale	Commercialisée	26/01/1988			 MERCK SANTE	Non
 63409505	LEVOTHYROX 88 microgrammes, comprimé sécable	comprimé sécable	orale	Autorisation active	Procédure nationale	Commercialisée	20/09/2018			 MERCK SANTE	Non
-62469022	LEVOTONINE, gélule	gélule	orale	Autorisation active	Procédure nationale	Commercialisée	20/02/1981			 PANPHARMA	Non
+62469022	LEVOTONINE 100 mg, gélule	gélule	orale	Autorisation active	Procédure nationale	Commercialisée	20/02/1981			 PANPHARMA	Non
 64216338	LEVULOSE BIOSEDRA 5 POUR CENT, solution pour perfusion	solution pour perfusion	intraveineuse	Autorisation active	Procédure nationale	Commercialisée	09/02/1998			 FRESENIUS KABI FRANCE	Non
 64458633	LEVULOSE HYPERTONIQUE BIOSEDRA 10 POUR CENT, solution pour perfusion	solution pour perfusion	intraveineuse	Autorisation active	Procédure nationale	Commercialisée	09/02/1998			 FRESENIUS KABI FRANCE	Non
 64061667	LEVUNIQUE 1,5 mg comprimé	comprimé	orale	Autorisation active	Procédure décentralisée	Commercialisée	01/06/2018			 EXELTIS SANTE	Non
@@ -8601,9 +8608,9 @@
 69340304	LOGIFLOX 400 mg, comprimé pelliculé sécable	comprimé pelliculé sécable	orale	Autorisation abrogée	Procédure nationale	Non commercialisée	09/09/1994	Warning disponibilité		 BIOCODEX BENELUX (BELGIQUE)	Non
 61950444	LOGIMAX 5 mg/47,5 mg, comprimé pelliculé à libération prolongée	comprimé pelliculé à libération prolongée	orale	Autorisation active	Procédure nationale	Commercialisée	14/11/1994			 RECORDATI INDUSTRIA CHIMICA E FARMACEUTICA (ITALIE)	Non
 63824615	LOGIRENE, comprimé sécable	comprimé sécable	orale	Autorisation active	Procédure nationale	Commercialisée	10/07/1987			 LABORATOIRE XO	Non
-69243759	LOJUXTA 10 mg, gélule	gélule	orale	Autorisation active	Procédure centralisée	Commercialisée	31/07/2013		EU/1/13/851	 CHIESI FARMACEUTICI	Oui
-69565055	LOJUXTA 20 mg, gélule	gélule	orale	Autorisation active	Procédure centralisée	Commercialisée	31/07/2013		EU/1/13/851	 CHIESI FARMACEUTICI	Oui
-69851117	LOJUXTA 5 mg, gélule	gélule	orale	Autorisation active	Procédure centralisée	Commercialisée	31/07/2013		EU/1/13/851	 CHIESI FARMACEUTICI	Oui
+69243759	LOJUXTA 10 mg, gélules	gélule	orale	Autorisation active	Procédure centralisée	Commercialisée	31/07/2013		EU/1/13/851	 CHIESI FARMACEUTICI	Oui
+69565055	LOJUXTA 20 mg, gélules	gélule	orale	Autorisation active	Procédure centralisée	Commercialisée	31/07/2013		EU/1/13/851	 CHIESI FARMACEUTICI	Oui
+69851117	LOJUXTA 5 mg, gélules	gélule	orale	Autorisation active	Procédure centralisée	Commercialisée	31/07/2013		EU/1/13/851	 CHIESI FARMACEUTICI	Oui
 64247885	LOKELMA 10 g, poudre pour suspension buvable	poudre pour suspension buvable	orale	Autorisation active	Procédure centralisée	Commercialisée	22/03/2018		EU/1/17/1173	 ASTRAZENECA AB	Non
 64737437	LOKELMA 5 g, poudre pour suspension buvable	poudre pour suspension buvable	orale	Autorisation active	Procédure centralisée	Commercialisée	22/03/2018		EU/1/17/1173	 ASTRAZENECA AB	Non
 67421348	LOLISTREL 100 microgrammes/20 microgrammes, comprimé enrobé	comprimé enrobé	orale	Autorisation active	Procédure nationale	Non commercialisée	26/03/2014	Warning disponibilité		 EXELTIS SANTE	Non
@@ -8765,7 +8772,7 @@
 66375524	LUMOBRY 0,25 mg/mL, collyre en solution	collyre en solution	ophtalmique	Autorisation active	Procédure décentralisée	Commercialisée	15/09/2022			 LABORATOIRE CHAUVIN	Non
 63966283	LUMYKRAS 120 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation active	Procédure centralisée	Non commercialisée	06/01/2022	Warning disponibilité	EU/1/21/1603	 AMGEN EUROPE	Oui
 63301732	LUNPLORO 0,3% /0,3% /0,3%, gaz médicinal comprimé	gaz	inhalée	Autorisation active	Procédure décentralisée	Commercialisée	16/11/2023			 AIR LIQUIDE SANTE INTERNATIONAL	Non
-60823764	LUTATHERA 370 MBq/ml, solution pour perfusion	solution pour perfusion	intraveineuse	Autorisation active	Procédure centralisée	Commercialisée	26/09/2017		EU/1/17/1226	 ADVANCED ACCELERATOR APPLICATIONS	Non
+60823764	LUTATHERA 370 MBq/ml, solution pour perfusion	solution pour perfusion	intraveineuse	Autorisation active	Procédure centralisée	Commercialisée	26/09/2017		EU/1/17/1226	 NOVARTIS EUROPHARM (IRLANDE)	Non
 62298137	LUTEINUM BOIRON, degré de dilution compris entre 4CH et 30CH ou entre 8DH et 60DH	 comprimé et solution(s) et granules et poudre et pommade	cutanée;orale;sublinguale	Autorisation active	Enreg homéo (Proc. Nat.)	Commercialisée	13/05/2020			 BOIRON	Non
 68005267	LUTEINUM WELEDA, degré de dilution compris entre 4CH et 30CH ou entre 8DH et 60DH	 crème et solution et granules et poudre	cutanée;orale;sublinguale	Autorisation active	Enreg homéo (Proc. Nat.)	Commercialisée	09/05/2019			 WELEDA	Non
 63443190	LUTENYL 3,75 mg, comprimé	comprimé	orale	Autorisation abrogée	Procédure nationale	Non commercialisée	10/09/2004	Warning disponibilité		 THERAMEX IRELAND (IRLANDE)	Non
@@ -8939,7 +8946,6 @@
 69791143	MEDIATENSYL LP 30 mg, gélule à libération prolongée	gélule à libération prolongée	orale	Autorisation active	Procédure nationale	Commercialisée	25/02/1988			 CHEPLAPHARM ARZNEIMITTEL (ALLEMAGNE)	Non
 69704761	MEDIATENSYL LP 60 mg, gélule à libération prolongée	gélule à libération prolongée	orale	Autorisation active	Procédure nationale	Commercialisée	25/02/1988			 CHEPLAPHARM ARZNEIMITTEL (ALLEMAGNE)	Non
 64324919	MEDIBRONC ADULTES, solution buvable en flacon	solution buvable	orale	Autorisation archivée	Procédure nationale	Non commercialisée	16/07/1991	Warning disponibilité		 P&G HEALTH FRANCE	Non
-65548788	MEDIBRONC ENFANTS, sirop en flacon	sirop	orale	Autorisation archivée	Procédure nationale	Non commercialisée	16/07/1991	Warning disponibilité		 P&G HEALTH FRANCE	Non
 63000533	MEDIKINET 10 mg, gélule à libération modifiée	gélule à libération modifiée	orale	Autorisation active	Procédure décentralisée	Commercialisée	18/07/2011			 MEDICE ARZNEIMITTEL PÜTTER (ALLEMAGNE)	Non
 63657828	MEDIKINET 20 mg, gélule à libération modifiée	gélule à libération modifiée	orale	Autorisation active	Procédure décentralisée	Commercialisée	18/07/2011			 MEDICE ARZNEIMITTEL PÜTTER (ALLEMAGNE)	Non
 66592983	MEDIKINET 30 mg, gélule à libération modifiée	gélule à libération modifiée	orale	Autorisation active	Procédure décentralisée	Commercialisée	18/07/2011			 MEDICE ARZNEIMITTEL PÜTTER (ALLEMAGNE)	Non
@@ -8986,7 +8992,6 @@
 65855762	MELOXICAM ZENTIVA 7,5 mg, comprimé	comprimé	orale	Autorisation active	Procédure de reconnaissance mutuelle	Commercialisée	07/02/2006			 ZENTIVA FRANCE	Non
 62252467	MELPHALAN SUN 50 mg, poudre et solvant pour solution injectable/pour perfusion	poudre et  solvant pour solution injectable pour perfusion	intraveineuse	Autorisation active	Procédure décentralisée	Commercialisée	21/09/2018			 SUN PHARMACEUTICAL INDUSTRIES EUROPE (PAYS BAS)	Non
 65547063	MELPHALAN TILLOMED 50 mg/10 mL, poudre et solvant pour solution injectable/pour perfusion	poudre et  solvant pour solution injectable pour perfusion	intraveineuse	Autorisation active	Procédure nationale	Commercialisée	24/12/2019			 TILLOMED PHARMA (ALLEMAGNE)	Non
-66589617	MEMANTINE ALMUS 10 mg, comprimé pelliculé sécable	comprimé pelliculé sécable	orale	Autorisation archivée	Procédure nationale	Non commercialisée	20/02/2013	Warning disponibilité		 BIOGARAN	Non
 64980720	MEMANTINE ALMUS 20 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation archivée	Procédure nationale	Non commercialisée	20/02/2013	Warning disponibilité		 BIOGARAN	Non
 60151124	MEMANTINE ARROW LAB 10 mg, comprimé pelliculé sécable	comprimé pelliculé sécable	orale	Autorisation active	Procédure décentralisée	Commercialisée	10/03/2014			 ARROW GENERIQUES	Non
 60986117	MEMANTINE ARROW LAB 20 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation active	Procédure décentralisée	Commercialisée	10/03/2014			 ARROW GENERIQUES	Non
@@ -9026,7 +9031,6 @@
 66957058	MEPHITIS PUTORIUS BOIRON, degré de dilution compris entre 4CH et 30CH ou entre 8DH et 60DH	 comprimé et solution(s) et granules et poudre et pommade	cutanée;orale;sublinguale	Autorisation active	Enreg homéo (Proc. Nat.)	Commercialisée	01/12/2020			 BOIRON	Non
 68083369	MEPIVACAINE B. BRAUN 10 mg/ml, solution injectable	solution injectable	infiltration;intradermique;intramusculaire;péridurale;périneurale;sous-cutanée	Autorisation active	Procédure de reconnaissance mutuelle	Commercialisée	06/07/2001			 B BRAUN MELSUNGEN	Non
 69942798	MEPIVACAINE B. BRAUN 20 mg/ml, solution injectable	solution injectable	péridurale;périneurale	Autorisation active	Procédure de reconnaissance mutuelle	Commercialisée	06/07/2001			 B BRAUN MELSUNGEN	Non
-61759695	MEPSEVII 2 mg/ml, solution à diluer pour perfusion	solution à diluer pour perfusion	intraveineuse	Autorisation active	Procédure centralisée	Non commercialisée	23/08/2018	Warning disponibilité	EU/1/18/1301	 ULTRAGENYX GERMANY (ALLEMAGNE)	Oui
 68461541	MERCALM, comprimé pelliculé sécable	comprimé pelliculé sécable	orale	Autorisation active	Procédure nationale	Commercialisée	16/12/1997			 LABORATOIRES MAJORELLE	Non
 69374160	MERCILON, comprimé	comprimé	orale	Autorisation active	Procédure nationale	Commercialisée	27/01/1988			 ORGANON FRANCE	Non
 64591509	MERCRYL SOLUTION MOUSSANTE, solution pour application cutanée	solution pour application	cutanée	Autorisation active	Procédure nationale	Commercialisée	19/11/1998			 MENARINI FRANCE	Non
@@ -9080,7 +9084,6 @@
 63563250	METFORMINE ACCORD 500 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation active	Procédure décentralisée	Commercialisée	27/08/2021			 ACCORD HEALTHCARE FRANCE	Non
 63472758	METFORMINE ACCORD 850 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation active	Procédure décentralisée	Commercialisée	27/08/2021			 ACCORD HEALTHCARE FRANCE	Non
 69065160	METFORMINE ALMUS 1000 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation active	Procédure décentralisée	Commercialisée	28/09/2018			 ALMUS FRANCE	Non
-69476418	METFORMINE ALMUS 500 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation suspendue	Procédure décentralisée	Non commercialisée	28/09/2018	Alerte		 ALMUS FRANCE	Non
 62640174	METFORMINE ALMUS 850 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation active	Procédure décentralisée	Commercialisée	28/09/2018			 ALMUS FRANCE	Non
 63146246	METFORMINE ARROW LAB 1000 mg, comprimé pelliculé sécable	comprimé pelliculé sécable	orale	Autorisation active	Procédure de reconnaissance mutuelle	Commercialisée	27/03/2009			 ARROW GENERIQUES	Non
 69448283	METFORMINE ARROW LAB 500 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation active	Procédure de reconnaissance mutuelle	Commercialisée	27/03/2009			 ARROW GENERIQUES	Non
@@ -9104,7 +9107,6 @@
 65305327	METFORMINE SANDOZ 1000 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation active	Procédure de reconnaissance mutuelle	Commercialisée	16/11/2017			 SANDOZ	Non
 61073372	METFORMINE SANDOZ 500 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation active	Procédure de reconnaissance mutuelle	Commercialisée	02/11/2009			 SANDOZ	Non
 64873679	METFORMINE SANDOZ 850 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation active	Procédure de reconnaissance mutuelle	Commercialisée	02/11/2009			 SANDOZ	Non
-63432557	METFORMINE SUN 850 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation archivée	Procédure nationale	Non commercialisée	09/02/1999	Warning disponibilité		 SUN PHARMA FRANCE	Non
 63119726	METFORMINE TEVA 1000 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation active	Procédure de reconnaissance mutuelle	Commercialisée	22/03/2005			 TEVA SANTE	Non
 62844369	METFORMINE TEVA 500 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation active	Procédure de reconnaissance mutuelle	Commercialisée	25/05/1999			 TEVA SANTE	Non
 66895877	METFORMINE TEVA 850 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation active	Procédure de reconnaissance mutuelle	Commercialisée	25/05/1999			 TEVA SANTE	Non
@@ -9625,9 +9627,8 @@
 66227034	NAABAK 4,9 POUR CENT, collyre en solution	collyre en solution	ophtalmique	Autorisation active	Procédure nationale	Commercialisée	07/09/1992			 THEA	Non
 69171021	NAAXIA, collyre	collyre	ophtalmique	Autorisation active	Procédure nationale	Non commercialisée	06/10/1983	Warning disponibilité		 THEA	Non
 60600334	NAAXIAFREE 4,9 %, collyre en solution	collyre en solution	ophtalmique	Autorisation active	Procédure nationale	Non commercialisée	07/09/1992	Warning disponibilité		 THEA	Non
-60774655	NABUCOX 1 g, comprimé dispersible	comprimé dispersible	orale	Autorisation active	Procédure nationale	Commercialisée	30/04/1990			 EXPANSCIENCE	Non
-64224915	NABUCOX 500 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation active	Procédure nationale	Commercialisée	30/04/1990			 EXPANSCIENCE	Non
-67195461	NAFTIDROFURYL ZENTIVA 200 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation active	Procédure nationale	Non commercialisée	24/11/2005	Warning disponibilité		 ZENTIVA FRANCE	Non
+60774655	NABUCOM 1 g, comprimé dispersible	comprimé dispersible	orale	Autorisation active	Procédure nationale	Commercialisée	30/04/1990			 ARROW GENERIQUES	Non
+64224915	NABUCOM 500 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation active	Procédure nationale	Commercialisée	30/04/1990			 ARROW GENERIQUES	Non
 61621776	NAFTILUX 200 mg, gélule	gélule	orale	Autorisation active	Procédure nationale	Commercialisée	09/07/1982			 THERABEL LUCIEN PHARMA	Non
 66966299	NAGLAZYME 1 mg/ml, solution à diluer pour perfusion	solution à diluer pour perfusion	intraveineuse	Autorisation active	Procédure centralisée	Commercialisée	24/01/2006		EU/1/05/324	 BIOMARIN INTERNATIONAL LIMITED (IRLANDE)	Non
 65276345	NAJA TRIPUDIANS BOIRON, degré de dilution compris entre 4CH et 30CH ou entre 8DH et 60DH	 comprimé et solution(s) et granules et poudre et pommade	cutanée;orale;sublinguale	Autorisation active	Enreg homéo (Proc. Nat.)	Commercialisée	18/01/2021			 BOIRON	Non
@@ -9639,7 +9640,7 @@
 64456251	NALOXONE VIATRIS 0,4 mg/1 ml, solution injectable en ampoule	solution injectable	intraveineuse	Autorisation active	Procédure nationale	Commercialisée	31/12/1993			 VIATRIS SANTE	Non
 67115586	NALTREXONE ACCORD 50 mg, comprimé pelliculé sécable	comprimé pelliculé sécable	orale	Autorisation active	Procédure nationale	Commercialisée	22/07/2010			 ACCORD HEALTHCARE FRANCE	Non
 60370919	NALTREXONE VIATRIS 50 mg, comprimé pelliculé sécable	comprimé pelliculé sécable	orale	Autorisation active	Procédure de reconnaissance mutuelle	Commercialisée	05/01/2005			 VIATRIS SANTE	Non
-67638864	NAMUSCLA 167 mg, gélule	gélule	orale	Autorisation active	Procédure centralisée	Commercialisée	18/12/2018		EU/1/18/1325	 LUPIN EUROPE (ALLEMAGNE)	Non
+67638864	NAMUSCLA 167 mg, gélules	gélule	orale	Autorisation active	Procédure centralisée	Commercialisée	18/12/2018		EU/1/18/1325	 LUPIN EUROPE (ALLEMAGNE)	Non
 62308389	NANOCIS 0,24 mg trousse pour préparation radiopharmaceutique	trousse et  trousse pour préparation radiopharmaceutique	intradermique;orale;péri-aréolaire;péritumorale;sous-cutanée;sous-muqueuse	Autorisation active	Procédure nationale	Non commercialisée	29/12/1981	Warning disponibilité		 CIS BIO INTERNATIONAL	Non
 64276082	NAPHTALINUM BOIRON, degré de dilution compris entre 4CH et 30CH ou entre 8DH et 60DH	 comprimé et solution(s) et granules et poudre et pommade	cutanée;orale;sublinguale	Autorisation active	Enreg homéo (Proc. Nat.)	Commercialisée	18/03/2021			 BOIRON	Non
 66488924	NAPHTALINUM LEHNING, degré de dilution compris entre 4CH et 30CH ou entre 7DH et 60DH	 comprimé et solution(s) et granules et poudre et pommade	cutanée;orale;sublinguale	Autorisation active	Enreg homéo (Proc. Nat.)	Commercialisée	23/05/2019			 LEHNING	Non
@@ -9889,10 +9890,11 @@
 69005619	NICOTINE EG 14 mg/24 h, dispositif transdermique	dispositif	transdermique	Autorisation active	Procédure nationale	Commercialisée	20/05/2008			 HALEON FRANCE	Non
 67906013	NICOTINE EG 21 mg/24 h, dispositif transdermique	dispositif	transdermique	Autorisation active	Procédure nationale	Commercialisée	20/05/2008			 HALEON FRANCE	Non
 69681960	NICOTINE EG 7 mg/24 h, dispositif transdermique	dispositif	transdermique	Autorisation active	Procédure nationale	Commercialisée	20/05/2008			 HALEON FRANCE	Non
+63527514	NICOTINE EG LABO MENTHE 2 mg SANS SUCRE, gomme à mâcher médicamenteuse édulcorée au xylitol	gomme à mâcher médicamenteux(se)	voie buccale autre	Autorisation active	Procédure nationale	Commercialisée	14/04/2023			 EG LABO - LABORATOIRES EUROGENERICS	Non
 69656188	NICOTINE EG LABO MENTHE 4 mg SANS SUCRE, gomme à mâcher médicamenteuse édulcorée au xylitol	gomme à mâcher médicamenteux(se)	voie buccale autre	Autorisation active	Procédure nationale	Commercialisée	14/04/2023			 EG LABO - LABORATOIRES EUROGENERICS	Non
 67666657	NICOTINE EUROGENERICS CITRON 2 mg SANS SUCRE, gomme à mâcher médicamenteuse édulcorée au xylitol, à l'acésulfame potassique, au sucralose et au maltitol	gomme à mâcher médicamenteux(se)	voie buccale autre	Autorisation active	Procédure décentralisée	Commercialisée	17/07/2017			 FERTIN PHARMA (DANEMARK)	Non
 67523118	NICOTINE EUROGENERICS CITRON 4 mg SANS SUCRE, gomme à mâcher médicamenteuse édulcorée au xylitol, à l'acésulfame potassique, au sucralose et au maltitol	gomme à mâcher médicamenteux(se)	voie buccale autre	Autorisation active	Procédure décentralisée	Non commercialisée	17/07/2017	Warning disponibilité		 FERTIN PHARMA (DANEMARK)	Non
-65443214	NICOTINE EUROGENERICS MENTHE 2 mg SANS SUCRE, gomme à mâcher médicamenteuse édulcorée au xylitol, à l'acésulfame potassique, au sucralose et au maltitol	gomme à mâcher médicamenteux(se)	voie buccale autre	Autorisation active	Procédure décentralisée	Commercialisée	17/07/2017			 FERTIN PHARMA (DANEMARK)	Non
+65443214	NICOTINE EUROGENERICS MENTHE 2 mg SANS SUCRE, gomme à mâcher médicamenteuse édulcorée au xylitol, à l'acésulfame potassique, au sucralose et au maltitol	gomme à mâcher médicamenteux(se)	voie buccale autre	Autorisation active	Procédure décentralisée	Non commercialisée	17/07/2017	Warning disponibilité		 FERTIN PHARMA (DANEMARK)	Non
 60545083	NICOTINE EUROGENERICS MENTHE 4 mg SANS SUCRE, gomme à mâcher médicamenteuse édulcorée au xylitol, à l'acésulfame potassique, au sucralose et au maltitol	gomme à mâcher médicamenteux(se)	voie buccale autre	Autorisation active	Procédure décentralisée	Non commercialisée	17/07/2017	Warning disponibilité		 FERTIN PHARMA (DANEMARK)	Non
 60052222	NICOTINELL 1 mg/dose, solution pour pulvérisation buccale	solution pour pulvérisation	voie buccale autre	Autorisation active	Procédure décentralisée	Commercialisée	07/07/2023			 REDDY PHARMA	Non
 68085562	NICOTINELL FRUIT 2 mg SANS SUCRE, gomme à mâcher médicamenteuse	gomme à mâcher médicamenteux(se)	voie buccale autre	Autorisation active	Procédure de reconnaissance mutuelle	Commercialisée	16/12/2003			 REDDY PHARMA	Non
@@ -10314,8 +10316,8 @@
 68573412	OLMETEC 10 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation active	Procédure de reconnaissance mutuelle	Commercialisée	06/08/2003			 DAIICHI SANKYO FRANCE	Non
 67258011	OLMETEC 20 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation active	Procédure de reconnaissance mutuelle	Commercialisée	06/08/2003			 DAIICHI SANKYO FRANCE	Non
 66152197	OLMETEC 40 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation active	Procédure de reconnaissance mutuelle	Commercialisée	06/08/2003			 DAIICHI SANKYO FRANCE	Non
-63788717	OLUMIANT 2 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation active	Procédure centralisée	Commercialisée	13/02/2017		EU/1/16/1170	 ELI LILLY NEDERLAND (PAY-BAS)	Non
-61751780	OLUMIANT 4 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation active	Procédure centralisée	Commercialisée	13/02/2017		EU/1/16/1170	 ELI LILLY NEDERLAND (PAY-BAS)	Non
+63788717	OLUMIANT 2 mg, comprimés pelliculés	comprimé pelliculé	orale	Autorisation active	Procédure centralisée	Commercialisée	13/02/2017		EU/1/16/1170	 ELI LILLY NEDERLAND (PAY-BAS)	Non
+61751780	OLUMIANT 4 mg, comprimés pelliculés	comprimé pelliculé	orale	Autorisation active	Procédure centralisée	Commercialisée	13/02/2017		EU/1/16/1170	 ELI LILLY NEDERLAND (PAY-BAS)	Non
 60339254	OMACOR 1000 mg, capsule molle	capsule molle	orale	Autorisation active	Autorisation d'importation parallèle	Commercialisée	28/07/2021			 BB FARMA (ITALIE)	Non
 69248521	OMACOR 1000 mg, capsule molle	capsule molle	orale	Autorisation active	Procédure de reconnaissance mutuelle	Commercialisée	02/10/1995			 BASF	Non
 60511953	OMACOR, capsule molle	capsule molle	orale	Autorisation active	Autorisation d'importation parallèle	Commercialisée	13/01/2014			 CRISTERS	Non
@@ -10371,6 +10373,7 @@
 69603381	OMLYCLO 150 mg, solution injectable en seringue préremplie	solution injectable	sous-cutanée	Autorisation active	Procédure centralisée	Commercialisée	16/05/2024		EU/1/24/1817	 CELLTRION HEALTHCARE HUNGARY (HONGRIE)	Oui
 62401391	OMLYCLO 150 mg, solution injectable en stylo prérempli	solution injectable	sous-cutanée	Autorisation active	Procédure centralisée	Commercialisée	11/09/2025		EU/1/24/1817	 CELLTRION HEALTHCARE HUNGARY (HONGRIE)	Oui
 65804497	OMLYCLO 300 mg, solution injectable en seringue préremplie	solution injectable	sous-cutanée	Autorisation active	Procédure centralisée	Commercialisée	10/11/2025		EU/1/24/1817	 CELLTRION HEALTHCARE HUNGARY (HONGRIE)	Oui
+62515797	OMLYCLO 300 mg, solution injectable en stylo prérempli	solution injectable	sous-cutanée	Autorisation active	Procédure centralisée	Commercialisée	19/03/2026		EU/1/24/1817	 CELLTRION HEALTHCARE HUNGARY (HONGRIE)	Oui
 66107946	OMLYCLO 75 mg, solution injectable en seringue préremplie	solution injectable	sous-cutanée	Autorisation active	Procédure centralisée	Commercialisée	16/05/2024		EU/1/24/1817	 CELLTRION HEALTHCARE HUNGARY (HONGRIE)	Oui
 60909042	OMLYCLO 75 mg, solution injectable en stylo prérempli	solution injectable	sous-cutanée	Autorisation active	Procédure centralisée	Commercialisée	11/09/2025		EU/1/24/1817	 CELLTRION HEALTHCARE HUNGARY (HONGRIE)	Oui
 63688752	OMNIPAQUE 180 mg d'I/mL, solution injectable	solution injectable	intrathécale	Autorisation active	Procédure nationale	Commercialisée	16/04/1984			 GE HEALTHCARE	Non
@@ -10429,7 +10432,6 @@
 69948153	OPHTACALMFREE 2 %, collyre en solution	collyre en solution	ophtalmique	Autorisation active	Procédure nationale	Commercialisée	12/01/2010			 LABORATOIRE CHAUVIN	Non
 61945454	OPHTESIC 20 mg/g, gel ophtalmique en récipient unidose	gel	ophtalmique	Autorisation active	Procédure décentralisée	Commercialisée	07/08/2019			 LABORATOIRES DOLIAGE DEVELOPPEMENT	Non
 69512818	OPHTIM 0,25 POUR CENT (0,625 mg/0,25 ml), collyre en récipient unidose	collyre	ophtalmique	Autorisation archivée	Procédure nationale	Non commercialisée	19/08/1992	Warning disponibilité		 THEA	Non
-66198255	OPHTIM 0,50 POUR CENT (1,25 mg/0,25 ml), collyre en récipient unidose	collyre	ophtalmique	Autorisation archivée	Procédure nationale	Non commercialisée	19/08/1992	Warning disponibilité		 THEA	Non
 62903796	OPIUM BOIRON, degré de dilution compris entre 4CH et 30CH ou entre 8DH et 60DH	 comprimé et solution(s) et granules et poudre et pommade	cutanée;orale;sublinguale	Autorisation active	Enreg homéo (Proc. Nat.)	Commercialisée	21/10/2021			 BOIRON	Non
 62265048	OPIUM LEHNING, degré de dilution compris entre 2CH et 30CH ou entre 4DH et 60DH	 comprimé et solution(s) et granules et poudre et pommade	cutanée;orale;sublinguale	Autorisation active	Enreg homéo (Proc. Nat.)	Commercialisée	27/06/2019			 LEHNING	Non
 61996139	OPRYMEA 0,18 mg, comprimé	comprimé	orale	Autorisation active	Procédure centralisée	Commercialisée	12/09/2008		EU/1/08/469	 KRKA (SLOVENIE)	Non
@@ -10438,7 +10440,7 @@
 64027031	OPRYMEA 0,7 mg, comprimé	comprimé	orale	Autorisation active	Procédure centralisée	Commercialisée	12/09/2008		EU/1/08/469	 KRKA (SLOVENIE)	Non
 68994742	OPRYMEA 1,05 mg, comprimé à libération prolongée	comprimé à libération prolongée	orale	Autorisation active	Procédure centralisée	Commercialisée	11/11/2013		EU/1/08/469	 KRKA (SLOVENIE)	Non
 67319215	OPRYMEA 2,1 mg, comprimé à libération prolongée	comprimé à libération prolongée	orale	Autorisation active	Procédure centralisée	Commercialisée	11/11/2013		EU/1/08/469	 KRKA (SLOVENIE)	Non
-60019101	OPTICRON 2 POUR CENT, collyre	collyre	ophtalmique	Autorisation active	Procédure nationale	Commercialisée	06/10/1983			 COOPER (ABRÉGÉ DE COOPERATION PHARMACEUTIQUE FRANCAISE)	Non
+60019101	OPTICRON 2 POUR CENT, collyre	collyre	ophtalmique	Autorisation active	Procédure nationale	Non commercialisée	06/10/1983	Warning disponibilité		 COOPER (ABRÉGÉ DE COOPERATION PHARMACEUTIQUE FRANCAISE)	Non
 67385005	OPTICRON UNIDOSE, collyre en récipient unidose	collyre	ophtalmique	Autorisation active	Procédure nationale	Commercialisée	16/11/1988			 COOPER (ABRÉGÉ DE COOPERATION PHARMACEUTIQUE FRANCAISE)	Non
 63071085	OPTIDRIL 30 microgrammes/150 microgrammes, comprimé pelliculé	comprimé pelliculé et  comprimé pelliculé	orale	Autorisation active	Procédure nationale	Commercialisée	31/10/2012			 LABORATOIRES MAJORELLE	Non
 67470459	OPTIJECT 300 mg d'I/mL, solution injectable ou pour perfusion	solution injectable ou pour perfusion	intraartérielle;intraveineuse	Autorisation active	Procédure de reconnaissance mutuelle	Commercialisée	28/03/1996			 GUERBET	Non
@@ -10619,7 +10621,7 @@
 69096857	OXYBATE DE SODIUM REIG JOFRE 500 mg/mL, solution buvable	solution buvable	orale	Autorisation active	Procédure décentralisée	Commercialisée	05/12/2018			 LABORATORIO REIG JOFRE (ESPAGNE)	Non
 65512429	OXYBOLDINE CITRON SANS SUCRE, comprimé effervescent édulcoré à la saccharine sodique	comprimé effervescent(e)	orale	Autorisation active	Procédure nationale	Commercialisée	30/03/2018			 COOPER (ABRÉGÉ DE COOPERATION PHARMACEUTIQUE FRANCAISE)	Non
 61235109	OXYBOLDINE, comprimé effervescent	comprimé effervescent(e)	orale	Autorisation active	Procédure nationale	Commercialisée	25/09/1995			 COOPER (ABRÉGÉ DE COOPERATION PHARMACEUTIQUE FRANCAISE)	Non
-61198689	OXYBUTYNINE ACCORD 5 mg, comprimé sécable	comprimé sécable	orale	Autorisation active	Procédure décentralisée	Non commercialisée	16/11/2012	Warning disponibilité		 ACCORD HEALTHCARE FRANCE	Non
+61198689	OXYBUTYNINE ACCORD 5 mg, comprimé sécable	comprimé sécable	orale	Autorisation abrogée	Procédure décentralisée	Non commercialisée	16/11/2012	Warning disponibilité		 ACCORD HEALTHCARE FRANCE	Non
 63309558	OXYBUTYNINE BIOGARAN 5 mg, comprimé sécable	comprimé sécable	orale	Autorisation active	Procédure nationale	Commercialisée	28/05/2002			 BIOGARAN	Non
 60620486	OXYBUTYNINE EG 5 mg, comprimé sécable	comprimé sécable	orale	Autorisation active	Procédure nationale	Commercialisée	06/01/1999			 EG LABO - LABORATOIRES EUROGENERICS	Non
 64280159	OXYBUTYNINE TEVA 5 mg, comprimé sécable	comprimé sécable	orale	Autorisation active	Procédure nationale	Commercialisée	28/05/2002			 TEVA SANTE	Non
@@ -10640,10 +10642,10 @@
 61243351	OXYCODONE BIOGARAN LP 10 mg, comprimé pelliculé à libération prolongée	comprimé pelliculé à libération prolongée	orale	Autorisation active	Procédure décentralisée	Non commercialisée	22/05/2014	Warning disponibilité		 BIOGARAN	Non
 66744380	OXYCODONE BIOGARAN LP 15 mg, comprimé pelliculé à libération prolongée	comprimé pelliculé à libération prolongée	orale	Autorisation active	Procédure décentralisée	Non commercialisée	22/05/2014	Warning disponibilité		 BIOGARAN	Non
 68426120	OXYCODONE BIOGARAN LP 20 mg, comprimé pelliculé à libération prolongée	comprimé pelliculé à libération prolongée	orale	Autorisation active	Procédure décentralisée	Non commercialisée	22/05/2014	Warning disponibilité		 BIOGARAN	Non
-68167080	OXYCODONE BIOGARAN LP 30 mg, comprimé pelliculé à libération prolongée	comprimé pelliculé à libération prolongée	orale	Autorisation active	Procédure décentralisée	Commercialisée	22/05/2014			 BIOGARAN	Non
+68167080	OXYCODONE BIOGARAN LP 30 mg, comprimé pelliculé à libération prolongée	comprimé pelliculé à libération prolongée	orale	Autorisation active	Procédure décentralisée	Non commercialisée	22/05/2014	Warning disponibilité		 BIOGARAN	Non
 66146970	OXYCODONE BIOGARAN LP 40 mg, comprimé pelliculé à libération prolongée	comprimé pelliculé à libération prolongée	orale	Autorisation active	Procédure décentralisée	Non commercialisée	22/05/2014	Warning disponibilité		 BIOGARAN	Non
 69894054	OXYCODONE BIOGARAN LP 5 mg, comprimé pelliculé à libération prolongée	comprimé pelliculé à libération prolongée	orale	Autorisation active	Procédure décentralisée	Non commercialisée	22/05/2014	Warning disponibilité		 BIOGARAN	Non
-63434704	OXYCODONE BIOGARAN LP 60 mg, comprimé pelliculé à libération prolongée	comprimé pelliculé à libération prolongée	orale	Autorisation active	Procédure décentralisée	Commercialisée	22/05/2014			 BIOGARAN	Non
+63434704	OXYCODONE BIOGARAN LP 60 mg, comprimé pelliculé à libération prolongée	comprimé pelliculé à libération prolongée	orale	Autorisation active	Procédure décentralisée	Non commercialisée	22/05/2014	Warning disponibilité		 BIOGARAN	Non
 60694853	OXYCODONE BIOGARAN LP 80 mg, comprimé pelliculé à libération prolongée	comprimé pelliculé à libération prolongée	orale	Autorisation active	Procédure décentralisée	Non commercialisée	22/05/2014	Warning disponibilité		 BIOGARAN	Non
 69690354	OXYCODONE DELBERT 10 mg/mL, solution injectable	solution injectable	intraveineuse;sous-cutanée	Autorisation active	Procédure nationale	Non commercialisée	02/05/2018	Warning disponibilité		 LABORATOIRES DELBERT	Non
 66915066	OXYCODONE DELBERT 50 mg/mL, solution injectable	solution injectable	intraveineuse;sous-cutanée	Autorisation active	Procédure nationale	Non commercialisée	02/05/2018	Warning disponibilité		 LABORATOIRES DELBERT	Non
@@ -10761,6 +10763,9 @@
 60153075	PALFORZIA 300 mg, poudre orale en sachet	poudre	orale	Autorisation active	Procédure centralisée	Commercialisée	17/12/2020		EU/1/20/1495	 STALLERGENES	Non
 66133528	PALIPERIDONE BGR 100 mg, suspension injectable à libération prolongée en seringue préremplie	suspension injectable à libération prolongée	intramusculaire	Autorisation active	Procédure décentralisée	Commercialisée	22/07/2025			 BIOGARAN	Non
 66273327	PALIPERIDONE BGR 150 mg, suspension injectable à libération prolongée en seringue préremplie	suspension injectable à libération prolongée	intramusculaire	Autorisation active	Procédure décentralisée	Commercialisée	22/07/2025			 BIOGARAN	Non
+62539218	PALIPERIDONE BGR 25 mg, suspension injectable à libération prolongée en seringue préremplie	suspension injectable à libération prolongée	intramusculaire	Autorisation active	Procédure décentralisée	Commercialisée	22/07/2025			 BIOGARAN	Non
+65133272	PALIPERIDONE BGR 50 mg, suspension injectable à libération prolongée en seringue préremplie	suspension injectable à libération prolongée	intramusculaire	Autorisation active	Procédure décentralisée	Commercialisée	22/07/2025			 BIOGARAN	Non
+61609521	PALIPERIDONE BGR 75 mg, suspension injectable à libération prolongée en seringue préremplie	suspension injectable à libération prolongée	intramusculaire	Autorisation active	Procédure décentralisée	Commercialisée	22/07/2025			 BIOGARAN	Non
 62262276	PALIPERIDONE BIOGARAN 100 mg, suspension injectable à libération prolongée en seringue préremplie	suspension injectable à libération prolongée	intramusculaire	Autorisation active	Procédure décentralisée	Non commercialisée	20/10/2021	Warning disponibilité		 BIOGARAN	Non
 65907383	PALIPERIDONE BIOGARAN 150 mg, suspension injectable à libération prolongée en seringue préremplie	suspension injectable à libération prolongée	intramusculaire	Autorisation active	Procédure décentralisée	Non commercialisée	20/10/2021	Warning disponibilité		 BIOGARAN	Non
 62620200	PALIPERIDONE BIOGARAN 25 mg, suspension injectable à libération prolongée en seringue préremplie	suspension injectable à libération prolongée	intramusculaire	Autorisation active	Procédure décentralisée	Non commercialisée	20/10/2021	Warning disponibilité		 BIOGARAN	Non
@@ -10856,7 +10861,7 @@
 68849298	PARACETAMOL ARROW 500 mg, gélule	gélule	orale	Autorisation active	Procédure nationale	Non commercialisée	14/05/2010	Warning disponibilité		 ARROW GENERIQUES	Non
 64762433	PARACETAMOL ARROW 500 mg, poudre pour solution buvable en sachet-dose	poudre pour solution buvable	orale	Autorisation abrogée	Procédure nationale	Non commercialisée	23/10/2008	Warning disponibilité		 ARROW GENERIQUES	Non
 67226661	PARACETAMOL ARROW CONSEIL 1000 mg, comprimé	comprimé	orale	Autorisation active	Procédure nationale	Commercialisée	25/06/2019			 ARROW GENERIQUES	Non
-68803920	PARACETAMOL ARROW CONSEIL 500 mg, comprimé	comprimé	orale	Autorisation active	Procédure nationale	Commercialisée	14/05/2010			 ARROW GENERIQUES	Non
+68803920	PARACETAMOL ARROW CONSEIL 500 mg, comprimé	comprimé	orale	Autorisation active	Procédure nationale	Non commercialisée	14/05/2010	Warning disponibilité		 ARROW GENERIQUES	Non
 67763832	PARACETAMOL ARROW LAB 1000 mg, poudre pour solution buvable	poudre pour solution buvable	orale	Autorisation active	Procédure nationale	Commercialisée	21/10/2019			 ARROW GENERIQUES	Non
 66482622	PARACETAMOL ARROW LAB 300 mg, poudre pour solution buvable	poudre pour solution buvable	orale	Autorisation active	Procédure nationale	Commercialisée	21/10/2019			 ARROW GENERIQUES	Non
 60705584	PARACETAMOL ARROW LAB 500 mg poudre pour solution buvable	poudre pour solution buvable	orale	Autorisation active	Procédure nationale	Commercialisée	21/10/2019			 ARROW GENERIQUES	Non
@@ -10876,13 +10881,11 @@
 60557071	PARACETAMOL BIOGARAN CONSEIL 1000 mg, comprimé	comprimé	orale	Autorisation active	Procédure nationale	Commercialisée	15/03/2023			 BIOGARAN	Non
 64182380	PARACETAMOL BIOGARAN CONSEIL 500 mg, comprimé	comprimé	orale	Autorisation active	Procédure nationale	Commercialisée	15/03/2023			 BIOGARAN	Non
 62771825	PARACETAMOL CODEINE ARROW 500 mg/30 mg, comprimé effervescent sécable	comprimé effervescent(e) sécable	orale	Autorisation abrogée	Procédure nationale	Non commercialisée	24/11/2003	Warning disponibilité		 ARROW GENERIQUES	Non
-69355295	PARACETAMOL CODEINE BIOGARAN 500 mg/30 mg, comprimé effervescent sécable	comprimé effervescent(e) sécable	orale	Autorisation archivée	Procédure nationale	Non commercialisée	20/12/2002	Warning disponibilité		 BIOGARAN	Non
-62541023	PARACETAMOL CODEINE EG 500 mg/30 mg, comprimé effervescent sécable	comprimé effervescent(e) sécable	orale	Autorisation abrogée	Procédure nationale	Non commercialisée	24/11/2003	Warning disponibilité		 EG LABO - LABORATOIRES EUROGENERICS	Non
 67806479	PARACETAMOL CODEINE FRILAB 500 mg/30 mg, comprimé effervescent sécable	comprimé effervescent(e) sécable	orale	Autorisation active	Procédure nationale	Non commercialisée	07/11/2008	Warning disponibilité		 LABORATOIRES FRILAB	Non
 64436633	PARACETAMOL CRISTERS 1 g, comprimé sécable	comprimé sécable	orale	Autorisation active	Procédure nationale	Commercialisée	25/10/2007			 CRISTERS	Non
 66266717	PARACETAMOL CRISTERS 1000 mg, comprimé effervescent sécable	comprimé effervescent(e) sécable	orale	Autorisation active	Procédure nationale	Commercialisée	18/04/2016			 CRISTERS	Non
 64503085	PARACETAMOL CRISTERS 500 mg, comprimé	comprimé	orale	Autorisation active	Procédure nationale	Commercialisée	25/10/2007			 CRISTERS	Non
-69411153	PARACETAMOL CRISTERS 500 mg, gélule	gélule	orale	Autorisation active	Procédure nationale	Non commercialisée	03/01/2012	Warning disponibilité		 CRISTERS	Non
+69411153	PARACETAMOL CRISTERS 500 mg, gélule	gélule	orale	Autorisation archivée	Procédure nationale	Non commercialisée	03/01/2012	Warning disponibilité		 CRISTERS	Non
 65418129	PARACETAMOL CRISTERS PHARMA 500 mg, gélule	gélule	orale	Autorisation active	Procédure nationale	Commercialisée	25/11/1997			 CRISTERS	Non
 62772966	PARACETAMOL EG 1 g, comprimé	comprimé	orale	Autorisation active	Procédure nationale	Commercialisée	10/03/2004			 EG LABO - LABORATOIRES EUROGENERICS	Non
 67755020	PARACETAMOL EG 1000 mg, comprimé effervescent sécable	comprimé effervescent(e) sécable	orale	Autorisation active	Procédure nationale	Non commercialisée	13/09/2004	Warning disponibilité		 EG LABO - LABORATOIRES EUROGENERICS	Non
@@ -10904,7 +10907,7 @@
 65765012	PARACETAMOL SANDOZ 500 mg, comprimé effervescent	comprimé effervescent(e)	orale	Autorisation abrogée	Procédure nationale	Non commercialisée	21/01/2013	Warning disponibilité		 SANDOZ	Non
 67034675	PARACETAMOL SANDOZ 500 mg, gélule	gélule	orale	Autorisation active	Procédure nationale	Commercialisée	02/03/2004			 SANDOZ	Non
 63187008	PARACETAMOL SUN 1 g, comprimé sécable	comprimé sécable	orale	Autorisation abrogée	Procédure nationale	Non commercialisée	12/11/2007	Warning disponibilité		 SUN PHARMA FRANCE	Non
-65621649	PARACETAMOL TEVA 1 g, comprimé	comprimé	orale	Autorisation active	Procédure nationale	Commercialisée	10/03/2004			 TEVA SANTE	Non
+65621649	PARACETAMOL TEVA 1 g, comprimé	comprimé	orale	Autorisation active	Procédure nationale	Non commercialisée	10/03/2004	Warning disponibilité		 TEVA SANTE	Non
 68249079	PARACETAMOL TEVA 500 mg, comprimé	comprimé	orale	Autorisation active	Procédure nationale	Commercialisée	01/04/1998			 TEVA SANTE	Non
 60091086	PARACETAMOL TEVA 500 mg, gélule	gélule	orale	Autorisation active	Procédure nationale	Commercialisée	03/01/2012			 TEVA SANTE	Non
 66937792	PARACETAMOL TEVA CONSEIL 500 mg, comprimé	comprimé	orale	Autorisation active	Procédure nationale	Non commercialisée	07/09/2000	Warning disponibilité		 TEVA SANTE	Non
@@ -10972,7 +10975,6 @@
 66176497	PAROXETINE EG 20 mg, comprimé pelliculé sécable	comprimé pelliculé sécable	orale	Autorisation active	Procédure nationale	Commercialisée	19/08/2005			 EG LABO - LABORATOIRES EUROGENERICS	Non
 69188939	PAROXETINE EVOLUGEN 20 mg, comprimé pelliculé sécable	comprimé pelliculé sécable	orale	Autorisation active	Procédure nationale	Non commercialisée	16/03/2006	Warning disponibilité		 EVOLUPHARM	Non
 60945451	PAROXETINE SANDOZ 20 mg, comprimé pelliculé sécable	comprimé pelliculé sécable	orale	Autorisation active	Procédure nationale	Commercialisée	06/08/2002			 SANDOZ	Non
-63808123	PAROXETINE SUN 20 mg, comprimé pelliculé sécable	comprimé pelliculé sécable	orale	Autorisation active	Procédure nationale	Non commercialisée	22/10/2014	Warning disponibilité		 SUN PHARMA FRANCE	Non
 65668830	PAROXETINE TEVA 20 mg, comprimé pelliculé sécable	comprimé pelliculé sécable	orale	Autorisation active	Procédure de reconnaissance mutuelle	Non commercialisée	12/08/2008	Warning disponibilité		 TEVA SANTE	Non
 61726243	PAROXETINE TEVA SANTE 20 mg, comprimé pelliculé sécable	comprimé pelliculé sécable	orale	Autorisation active	Procédure décentralisée	Commercialisée	15/03/2024			 TEVA (PAYS-BAS)	Non
 60546662	PAROXETINE VIATRIS 20 mg, comprimé pelliculé sécable	comprimé pelliculé sécable	orale	Autorisation active	Procédure nationale	Commercialisée	06/08/2002			 VIATRIS SANTE	Non
@@ -11321,6 +11323,7 @@
 67726780	PIPERACILLINE/TAZOBACTAM KALCEKS 4 g/0,5 g, poudre pour solution pour perfusion	poudre pour solution pour perfusion	intraveineuse	Autorisation active	Procédure décentralisée	Non commercialisée	06/01/2023	Warning disponibilité		 AS KALCEKS (LETTONIE)	Non
 63803382	PIPERACILLINE/TAZOBACTAM PANPHARMA 2 g/250 mg, poudre pour solution pour perfusion	poudre pour solution pour perfusion	intraveineuse	Autorisation active	Procédure nationale	Commercialisée	15/05/2009			 PANPHARMA	Non
 63012514	PIPERACILLINE/TAZOBACTAM PANPHARMA 4 g/500 mg, poudre pour solution pour perfusion	poudre pour solution pour perfusion	intraveineuse	Autorisation active	Procédure nationale	Commercialisée	15/05/2009			 PANPHARMA	Non
+63789146	PIPERACILLINE/TAZOBACTAM QILU 2 g/0,25 g, poudre pour solution pour perfusion	poudre pour solution pour perfusion	intraveineuse	Autorisation active	Procédure décentralisée	Commercialisée	24/03/2023			 QILU PHARMA SPAIN (ESPAGNE)	Non
 65844666	PIPERACILLINE/TAZOBACTAM QILU 4 g/0,5 g, poudre pour solution pour perfusion	poudre pour solution pour perfusion	intraveineuse	Autorisation active	Procédure décentralisée	Commercialisée	24/03/2023			 QILU PHARMA SPAIN (ESPAGNE)	Non
 60606515	PIPERACILLINE/TAZOBACTAM REIG JOFRE 2 g/0,25 g, poudre pour solution pour perfusion	poudre pour solution pour perfusion	intraveineuse	Autorisation active	Procédure de reconnaissance mutuelle	Commercialisée	24/07/2024			 LABORATORIO REIG JOFRE (ESPAGNE)	Non
 69320440	PIPERACILLINE/TAZOBACTAM REIG JOFRE 4 g/0,5 g, poudre pour solution pour perfusion	poudre pour solution pour perfusion	intraveineuse	Autorisation active	Procédure de reconnaissance mutuelle	Commercialisée	24/07/2024			 LABORATORIO REIG JOFRE (ESPAGNE)	Non
@@ -11361,7 +11364,6 @@
 68659391	PIROXICAM BIOGARAN 10 mg, gélule	gélule	orale	Autorisation active	Procédure nationale	Commercialisée	11/04/1997			 BIOGARAN	Non
 69052120	PIROXICAM BIOGARAN 20 mg, gélule	gélule	orale	Autorisation active	Procédure nationale	Commercialisée	11/04/1997			 BIOGARAN	Non
 62096096	PIROXICAM EG 20 mg, gélule	gélule	orale	Autorisation active	Procédure nationale	Commercialisée	30/12/1997			 EG LABO - LABORATOIRES EUROGENERICS	Non
-62408891	PIROXICAM PFIZER 20 mg/1 ml, solution injectable en ampoule (IM)	solution injectable	intramusculaire	Autorisation archivée	Procédure nationale	Non commercialisée	13/10/1995	Warning disponibilité		 PFIZER HOLDING FRANCE	Non
 65592763	PIROXICAM TEVA 20 mg, gélule	gélule	orale	Autorisation active	Procédure nationale	Non commercialisée	30/12/1997	Warning disponibilité		 TEVA SANTE	Non
 69721369	PIROXICAM TEVA 20 mg/1 ml, solution injectable (IM)	solution injectable	intramusculaire	Autorisation active	Procédure nationale	Non commercialisée	02/06/1998	Warning disponibilité		 TEVA SANTE	Non
 67785736	PIROXICAM VIATRIS 20 mg, comprimé dispersible sécable	comprimé dispersible sécable	orale	Autorisation active	Procédure nationale	Commercialisée	29/03/1999			 VIATRIS SANTE	Non
@@ -11821,7 +11823,7 @@
 67210778	PRONTADOL ADULTES 500 mg/50 mg, comprimé	comprimé	orale	Autorisation active	Procédure nationale	Commercialisée	25/06/2019			 MAYOLY PHARMA FRANCE	Non
 61644230	PRONTALGINE, comprimé	comprimé	orale	Autorisation active	Procédure nationale	Commercialisée	29/09/1997			 MAYOLY PHARMA FRANCE	Non
 67377300	PROPAFENONE ACCORD 300 mg, comprimé pelliculé sécable	comprimé pelliculé sécable	orale	Autorisation active	Procédure décentralisée	Commercialisée	21/09/2017			 ACCORD HEALTHCARE FRANCE	Non
-65033756	PROPAFENONE VIATRIS 300 mg, comprimé pelliculé sécable	comprimé pelliculé sécable	orale	Autorisation active	Procédure nationale	Commercialisée	01/08/2019			 VIATRIS SANTE	Non
+65033756	PROPAFENONE VIATRIS 300 mg, comprimé pelliculé sécable	comprimé pelliculé sécable	orale	Autorisation active	Procédure nationale	Non commercialisée	01/08/2019	Warning disponibilité		 VIATRIS SANTE	Non
 60580369	PROPECIA 1 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation archivée	Procédure de reconnaissance mutuelle	Non commercialisée	23/12/1998	Warning disponibilité		 ORGANON FRANCE	Non
 60297517	PROPESS 10 mg, système de diffusion vaginal	système de diffusion	vaginale	Autorisation active	Procédure nationale	Commercialisée	03/02/1999			 FERRING (FRANCE)	Non
 69713543	PROPIONATE DE FLUTICASONE TEVA 125 microgrammes/dose, suspension pour inhalation en flacon pressurisé	suspension pour inhalation	inhalée	Autorisation active	Procédure décentralisée	Commercialisée	17/10/2018			 TEVA (PAYS-BAS)	Non
@@ -11875,7 +11877,7 @@
 67857477	PROSOFT, comprimé enrobé	comprimé enrobé	orale	Autorisation active	Procédure nationale	Commercialisée	24/10/2005			 R&D PHARMA (MONACO)	Non
 63775876	PROSPAN SANS SUCRE, sirop édulcoré au sorbitol	sirop	orale	Autorisation active	Procédure nationale	Commercialisée	28/08/1997			 ENGELHARD ARZNEIMITTEL	Non
 60750412	PROSTATE BOIRON, degré de dilution compris entre 4CH et 30CH ou entre 8DH et 60DH	 comprimé et solution(s) et granules et poudre et pommade	cutanée;orale;sublinguale	Autorisation active	Enreg homéo (Proc. Nat.)	Commercialisée	18/12/2020			 BOIRON	Non
-63885956	PROSTATEP 500 MBq/mL, solution injectable	solution injectable	intraveineuse	Autorisation active	Procédure nationale	Commercialisée	01/12/2016			 CURIUM PET FRANCE	Non
+63885956	PROSTATEP 500 MBq/mL, solution injectable	solution injectable	intraveineuse	Autorisation active	Procédure de reconnaissance mutuelle	Commercialisée	01/12/2016			 CURIUM PET FRANCE	Non
 61601542	PROSTIGMINE 0,5 mg/1 ml, solution injectable	solution injectable	intramusculaire;intraveineuse;sous-cutanée	Autorisation active	Procédure nationale	Commercialisée	04/03/1998			 VIATRIS MEDICAL	Non
 60621264	PROSTINE E2 1 mg/3 g, gel vaginal	gel	vaginale	Autorisation active	Procédure nationale	Commercialisée	08/09/1992			 PFIZER HOLDING FRANCE	Non
 63145144	PROSTINE E2 2 mg/3 g, gel vaginal	gel	vaginale	Autorisation active	Procédure nationale	Commercialisée	08/09/1992			 PFIZER HOLDING FRANCE	Non
@@ -12061,7 +12063,7 @@
 64034289	RADELUMIN 1300 MBq/mL, solution injectable	solution injectable	intraveineuse	Autorisation active	Procédure de reconnaissance mutuelle	Commercialisée	09/12/2021			 ABX ADVANCED BIOCHEMICAL COMPOUNDS BIOMEDIZINISCHE FORSCHUNGSREAGENZIEN (ALLEMAGNE)	Oui
 68085911	RADELUMIN 2000 MBq/mL, solution injectable	solution injectable	intraveineuse	Autorisation active	Procédure de reconnaissance mutuelle	Commercialisée	17/06/2022			 ABX ADVANCED BIOCHEMICAL COMPOUNDS BIOMEDIZINISCHE FORSCHUNGSREAGENZIEN (ALLEMAGNE)	Oui
 65903335	RADIOGARDASE 500 mg, gélule	gélule	orale	Autorisation active	Procédure nationale	Commercialisée	30/03/2016			 SERB (BELGIQUE)	Non
-67940065	RADIOSELECTAN URINAIRE 30 POUR CENT (146 mg d'Iode/ml), solution injectable	solution injectable	intraartérielle;intraveineuse	Autorisation active	Procédure nationale	Non commercialisée	08/12/1997	Warning disponibilité		 BAYER HEALTHCARE	Non
+67940065	RADIOSELECTAN URINAIRE 30 POUR CENT (146 mg d'Iode/ml), solution injectable	solution injectable	intraartérielle;intraveineuse	Autorisation abrogée	Procédure nationale	Non commercialisée	08/12/1997	Warning disponibilité		 BAYER HEALTHCARE	Non
 65550433	RADIUM BROMATUM BOIRON, degré de dilution compris entre 7CH et 30CH ou entre 14DH et 60DH	 comprimé et solution(s) et granules et poudre et pommade	cutanée;orale;sublinguale	Autorisation active	Enreg homéo (Proc. Nat.)	Commercialisée	04/09/2020			 BOIRON	Non
 61542325	RALOXIFENE ARROW 60 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation active	Procédure décentralisée	Commercialisée	30/12/2015			 ARROW GENERIQUES	Non
 67760715	RALOXIFENE BIOGARAN 60 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation active	Procédure nationale	Commercialisée	14/09/2011			 BIOGARAN	Non
@@ -12166,7 +12168,6 @@
 62612837	RAXONE 150 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation active	Procédure centralisée	Commercialisée	08/09/2015		EU/1/15/1020	 CHIESI FARMACEUTICI	Oui
 64939766	REACTINE 10 mg, comprimé pelliculé sécable	comprimé pelliculé sécable	orale	Autorisation active	Procédure de reconnaissance mutuelle	Commercialisée	21/05/2007			 KENVUE FRANCE	Non
 64093184	REANUTRIFLEX E, émulsion pour perfusion	émulsion pour perfusion	intraveineuse	Autorisation active	Procédure décentralisée	Commercialisée	30/01/2019			 B BRAUN MELSUNGEN	Non
-62824950	REANUTRIFLEX LIPIDE G 144/N 8, émulsion pour perfusion	émulsion pour perfusion	intraveineuse	Autorisation abrogée	Procédure de reconnaissance mutuelle	Non commercialisée	21/12/1999	Warning disponibilité		 B BRAUN MELSUNGEN	Non
 68204461	REANUTRIFLEX OMEGA E, émulsion pour perfusion	émulsion pour perfusion	intraveineuse	Autorisation active	Procédure décentralisée	Commercialisée	23/08/2017			 B BRAUN MELSUNGEN	Non
 62932118	REANUTRIFLEX OMEGA, émulsion pour perfusion	émulsion pour perfusion	intraveineuse	Autorisation active	Procédure décentralisée	Commercialisée	23/08/2017			 B BRAUN MELSUNGEN	Non
 60274212	REANUTRIFLEX, émulsion pour perfusion	émulsion pour perfusion	intraveineuse	Autorisation active	Procédure décentralisée	Commercialisée	31/01/2019			 B BRAUN MELSUNGEN	Non
@@ -12355,12 +12356,11 @@
 65263629	RHAMNUS FRANGULA BOIRON, degré de dilution compris entre 2CH à 30CH et 4DH à 60DH	 comprimé et solution(s) et granules et poudre et pommade	cutanée;orale;sublinguale	Autorisation active	Enreg homéo (Proc. Nat.)	Commercialisée	26/09/2016			 BOIRON	Non
 62296848	RHEOFLUX 3500 mg, poudre pour solution buvable en sachet-dose	poudre pour solution buvable	orale	Autorisation active	Procédure nationale	Non commercialisée	03/08/1993	Warning disponibilité		 ETHYX PHARMACEUTICALS	Non
 64272162	RHEOFLUX 3500 mg/7 ml, solution buvable en ampoule	solution buvable	orale	Autorisation active	Procédure nationale	Non commercialisée	03/08/1993	Warning disponibilité		 ETHYX PHARMACEUTICALS	Non
-64779564	RHINADVIL MAUX DE GORGE TIXOCORTOL/CHLORHEXIDINE, suspension pour pulvérisation buccale	suspension pour pulvérisation	voie buccale autre	Autorisation archivée	Procédure nationale	Non commercialisée	01/03/2000	Warning disponibilité		 HALEON FRANCE	Non
 69445376	RHINADVIL RHUME IBUPROFENE/PSEUDOEPHEDRINE, comprimé enrobé	comprimé enrobé	orale	Autorisation active	Procédure de reconnaissance mutuelle	Non commercialisée	19/07/1991	Warning disponibilité		 HALEON FRANCE	Non
 64947510	RHINADVILCAPS RHUME IBUPROFENE/PSEUDOEPHEDRINE 200 mg/30 mg, capsule molle	capsule molle	orale	Autorisation active	Procédure décentralisée	Non commercialisée	21/11/2017	Warning disponibilité		 HALEON FRANCE	Non
 63444050	RHINALLERGY, comprimé à sucer	comprimé à sucer	orale	Autorisation active	Procédure nationale	Commercialisée	27/02/2001			 BOIRON	Non
 66178523	RHINEA, solution buvable en récipient unidose	solution buvable	orale	Autorisation active	Procédure nationale	Commercialisée	13/12/2021			 LG HOMEO	Non
-69290698	RHINEDRINE, solution pour pulvérisation nasale	solution pour pulvérisation	nasale	Autorisation active	Procédure nationale	Commercialisée	28/06/1996			 COOPER (ABRÉGÉ DE COOPERATION PHARMACEUTIQUE FRANCAISE)	Non
+69290698	RHINEDRINE, solution pour pulvérisation nasale	solution pour pulvérisation	nasale	Autorisation active	Procédure nationale	Non commercialisée	28/06/1996	Warning disponibilité		 COOPER (ABRÉGÉ DE COOPERATION PHARMACEUTIQUE FRANCAISE)	Non
 69864367	RHINO SULFURYL, solution nasale pour pulvérisation	solution pour pulvérisation	nasale	Autorisation active	Procédure nationale	Commercialisée	03/12/1996			 LEGRAS	Non
 61741918	RHINOCORT 64 microgrammes/dose, suspension pour pulvérisation nasale	suspension pour pulvérisation	nasale	Autorisation active	Procédure nationale	Commercialisée	28/07/1999			 KENVUE FRANCE	Non
 69241765	RHINOFEBRAL JOUR ET NUIT, poudre pour solution buvable en sachet édulcorée à l'aspartam	poudre buvable buvable et  poudre buvable buvable	orale	Autorisation active	Procédure nationale	Commercialisée	15/01/2019			 KENVUE FRANCE	Non
@@ -12439,8 +12439,8 @@
 65852428	RINVOQ 15 mg, comprimé à libération prolongée	comprimé à libération prolongée	orale	Autorisation active	Procédure centralisée	Commercialisée	16/12/2019		EU/1/19/1404	 ABBVIE DEUTSCHLAND (ALLEMAGNE)	Non
 62457931	RINVOQ 30 mg, comprimé à libération prolongée	comprimé à libération prolongée	orale	Autorisation active	Procédure centralisée	Commercialisée	20/08/2021		EU/1/19/1404	 ABBVIE DEUTSCHLAND (ALLEMAGNE)	Non
 66709721	RINVOQ 45 mg, comprimé à libération prolongée	comprimé à libération prolongée	orale	Autorisation active	Procédure centralisée	Commercialisée	22/07/2022		EU/1/19/1404	 ABBVIE DEUTSCHLAND (ALLEMAGNE)	Non
-66887599	RISEDRONATE ACCORD 35 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation active	Procédure de reconnaissance mutuelle	Non commercialisée	02/11/2010	Warning disponibilité		 ACCORD HEALTHCARE FRANCE	Non
-67880440	RISEDRONATE ACCORD 75 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation active	Procédure décentralisée	Non commercialisée	03/02/2012	Warning disponibilité		 ACCORD HEALTHCARE FRANCE	Non
+66887599	RISEDRONATE ACCORD 35 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation abrogée	Procédure de reconnaissance mutuelle	Non commercialisée	02/11/2010	Warning disponibilité		 ACCORD HEALTHCARE FRANCE	Non
+67880440	RISEDRONATE ACCORD 75 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation abrogée	Procédure décentralisée	Non commercialisée	03/02/2012	Warning disponibilité		 ACCORD HEALTHCARE FRANCE	Non
 68859538	RISEDRONATE ALTER 35 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation abrogée	Procédure nationale	Non commercialisée	24/11/2011	Warning disponibilité		 LABORATOIRES ALTER	Non
 66864885	RISEDRONATE ARROW 35 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation active	Procédure de reconnaissance mutuelle	Commercialisée	21/10/2011			 ARROW GENERIQUES	Non
 69825930	RISEDRONATE ARROW 75 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation active	Procédure nationale	Commercialisée	08/03/2011			 ARROW GENERIQUES	Non
@@ -12462,7 +12462,6 @@
 60335291	RISEDRONATE ZYDUS FRANCE 35 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation active	Procédure nationale	Commercialisée	26/10/2018			 ZYDUS FRANCE	Non
 68156080	RISEDRONATE ZYDUS FRANCE 75 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation active	Procédure nationale	Commercialisée	26/10/2018			 ZYDUS FRANCE	Non
 64822161	RISORDAN 10 mg/10 ml, solution injectable (IV, intracoronaire) en ampoule	solution injectable	intracoronaire;intraveineuse	Autorisation active	Procédure nationale	Non commercialisée	23/03/1981	Warning disponibilité		 SANOFI WINTHROP INDUSTRIE	Non
-66327091	RISORDAN 20 mg, comprimé sécable	comprimé sécable	orale	Autorisation abrogée	Procédure nationale	Non commercialisée	17/11/1980	Warning disponibilité		 SANOFI AVENTIS FRANCE	Non
 63605525	RISPERDAL 1 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation active	Procédure de reconnaissance mutuelle	Commercialisée	02/05/1995			 JANSSEN CILAG	Non
 69505147	RISPERDAL 1 mg/ml, solution buvable	solution buvable	orale	Autorisation active	Procédure de reconnaissance mutuelle	Commercialisée	28/08/1997			 JANSSEN CILAG	Non
 60260497	RISPERDAL 2 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation active	Procédure de reconnaissance mutuelle	Commercialisée	02/05/1995			 JANSSEN CILAG	Non
@@ -12905,8 +12904,8 @@
 68034920	SAXIFRAGA GRANULATA BOIRON, degré de dilution compris entre 4CH et 30CH ou entre 8DH et 60DH	 comprimé et solution(s) et granules et poudre et pommade	cutanée;orale;sublinguale	Autorisation active	Enreg homéo (Proc. Nat.)	Commercialisée	08/02/2021			 BOIRON	Non
 66128246	SCANDONEST 20 mg/mL ADRENALINEE au 1/100 000, solution injectable à usage dentaire	solution injectable	dentaire	Autorisation active	Procédure nationale	Commercialisée	10/07/1995			 SEPTODONT	Non
 66701169	SCANDONEST 30 mg/mL, solution injectable à usage dentaire	solution injectable	infiltration;périneurale	Autorisation active	Procédure de reconnaissance mutuelle	Commercialisée	10/07/1995			 SEPTODONT	Non
-67826243	SCEMBLIX 20 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation active	Procédure centralisée	Commercialisée	25/08/2022		EU/1/22/1670	 NOVARTIS EUROPHARM (IRLANDE)	Oui
-65990614	SCEMBLIX 40 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation active	Procédure centralisée	Commercialisée	25/08/2022		EU/1/22/1670	 NOVARTIS EUROPHARM (IRLANDE)	Oui
+67826243	SCEMBLIX 20 mg, comprimés pelliculés	comprimé pelliculé	orale	Autorisation active	Procédure centralisée	Commercialisée	25/08/2022		EU/1/22/1670	 NOVARTIS EUROPHARM (IRLANDE)	Oui
+65990614	SCEMBLIX 40 mg, comprimés pelliculés	comprimé pelliculé	orale	Autorisation active	Procédure centralisée	Commercialisée	25/08/2022		EU/1/22/1670	 NOVARTIS EUROPHARM (IRLANDE)	Oui
 65381143	SCILLA MARITIMA BOIRON, degré de dilution compris entre 3CH et 30CH ou entre 6DH et 60DH	 comprimé et solution(s) et granules et poudre et pommade	cutanée;orale;sublinguale	Autorisation active	Enreg homéo (Proc. Nat.)	Commercialisée	08/02/2021			 BOIRON	Non
 68516450	SCINTIMUN 1 mg trousse pour préparation radiopharmaceutique	trousse et  trousse pour préparation radiopharmaceutique	intraveineuse	Autorisation active	Procédure centralisée	Commercialisée	11/01/2010		EU/1/09/602	 TELIX INNOVATIONS (BELGIQUE)	Non
 68648128	SCLEREMO IV, solution injectable	solution injectable	intraveineuse	Autorisation active	Procédure nationale	Non commercialisée	28/08/1987	Warning disponibilité		 LABORATOIRES BAILLEUL (LUXEMBOURG)	Non
@@ -13205,7 +13204,7 @@
 67128676	SINGULAIR 10 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation abrogée	Autorisation d'importation parallèle	Non commercialisée	23/09/2014	Warning disponibilité		 BB FARMA (ITALIE)	Non
 68069647	SINGULAIR 10 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation abrogée	Autorisation d'importation parallèle	Non commercialisée	26/05/2015	Warning disponibilité		 DIFARMED (ESPAGNE)	Non
 64561462	SINGULAIR 4 mg, comprimé à croquer	comprimé à croquer	orale	Autorisation active	Procédure de reconnaissance mutuelle	Commercialisée	27/03/2009			 ORGANON FRANCE	Non
-63842168	SINGULAIR 4 mg, granulés	granulés	orale	Autorisation active	Procédure de reconnaissance mutuelle	Commercialisée	27/03/2009			 ORGANON FRANCE	Non
+63842168	SINGULAIR 4 mg, granulés	granulés	orale	Autorisation active	Procédure de reconnaissance mutuelle	Non commercialisée	27/03/2009	Warning disponibilité		 ORGANON FRANCE	Non
 65324797	SINGULAIR 5 mg, comprimé à croquer	comprimé à croquer	orale	Autorisation active	Procédure de reconnaissance mutuelle	Commercialisée	20/03/1998			 ORGANON FRANCE	Non
 64708962	SINGULAIR 5 mg, comprimé à croquer	comprimé à croquer	orale	Autorisation abrogée	Autorisation d'importation parallèle	Non commercialisée	26/05/2015	Warning disponibilité		 DIFARMED (ESPAGNE)	Non
 61510352	SINTROM 4 mg, comprimé quadrisécable	comprimé quadrisécable	orale	Autorisation active	Procédure nationale	Commercialisée	06/12/1990			 MERUS LABS LUXCO II (LUXEMBOURG)	Non
@@ -13427,9 +13426,9 @@
 60282846	SPEDIFEN 200 mg, comprimé	comprimé	orale	Autorisation active	Procédure nationale	Commercialisée	23/01/2003			 ZAMBON FRANCE	Non
 60292573	SPEDIFEN 400 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation active	Procédure nationale	Commercialisée	12/11/2003			 ZAMBON FRANCE	Non
 60776617	SPEDIFEN 400 mg, granulés pour solution buvable en sachet-dose	granulés pour solution buvable	orale	Autorisation active	Procédure nationale	Commercialisée	20/10/1999			 ZAMBON FRANCE	Non
-68366495	SPEDRA 100 mg, comprimé	comprimé	orale	Autorisation active	Procédure centralisée	Commercialisée	21/06/2013		EU/1/13/841	 MENARINI INTERNATIONAL OPERATIONS LUXEMBOURG	Non
-66839572	SPEDRA 200 mg, comprimés	comprimé	orale	Autorisation active	Procédure centralisée	Commercialisée	21/06/2013		EU/1/13/841	 MENARINI INTERNATIONAL OPERATIONS LUXEMBOURG	Non
-63294049	SPEDRA 50 mg, comprimés	comprimé	orale	Autorisation active	Procédure centralisée	Commercialisée	21/06/2013		EU/1/13/841	 MENARINI INTERNATIONAL OPERATIONS LUXEMBOURG	Non
+68366495	SPEDRA 100 mg, comprimés	comprimé	orale	Autorisation active	Procédure centralisée	Commercialisée	21/06/2013		EU/1/13/841	 PHOENIX LABS (IRLANDE)	Non
+66839572	SPEDRA 200 mg, comprimés	comprimé	orale	Autorisation active	Procédure centralisée	Commercialisée	21/06/2013		EU/1/13/841	 PHOENIX LABS (IRLANDE)	Non
+63294049	SPEDRA 50 mg, comprimés	comprimé	orale	Autorisation active	Procédure centralisée	Commercialisée	21/06/2013		EU/1/13/841	 PHOENIX LABS (IRLANDE)	Non
 60808470	SPEVIGO 150 mg, solution injectable en seringue préremplie	solution injectable	sous-cutanée	Autorisation active	Procédure centralisée	Commercialisée	25/09/2024		EU/1/22/1688	 LEO PHARMA A/S (DANEMARK)	Oui
 68586623	SPEVIGO 300 mg, solution injectable en seringue préremplie	solution injectable	sous-cutanée	Autorisation active	Procédure centralisée	Commercialisée	14/08/2025		EU/1/22/1688	 LEO PHARMA A/S (DANEMARK)	Oui
 68300246	SPEVIGO 450 mg, solution à diluer pour perfusion	solution à diluer pour perfusion	intraveineuse	Autorisation active	Procédure centralisée	Commercialisée	09/12/2022		EU/1/22/1688	 LEO PHARMA A/S (DANEMARK)	Oui
@@ -13936,7 +13935,7 @@
 64784789	TAVANIC 500 mg, comprimé pelliculé sécable	comprimé pelliculé sécable	orale	Autorisation active	Procédure de reconnaissance mutuelle	Commercialisée	30/12/1998			 SANOFI WINTHROP INDUSTRIE	Non
 62637153	TAVLESSE 100 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation active	Procédure centralisée	Commercialisée	09/01/2020		EU/1/19/1405	 INSTITUTO GRIFOLS	Non
 65212047	TAVLESSE 150 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation active	Procédure centralisée	Commercialisée	09/01/2020		EU/1/19/1405	 INSTITUTO GRIFOLS	Non
-69292539	TAVNEOS 10 mg, gélule	gélule	orale	Autorisation active	Procédure centralisée	Commercialisée	11/01/2022		EU/1/21/1605	 VIFOR FRESENIUS MEDICAL CARE RENAL PHARMA FRANCE	Oui
+69292539	TAVNEOS 10 mg, gélule	gélule	orale	Autorisation abrogée	Procédure centralisée	Non commercialisée	11/01/2022	Warning disponibilité	EU/1/21/1605	 VIFOR FRESENIUS MEDICAL CARE RENAL PHARMA FRANCE	Oui
 60509781	TAXOTERE 160 mg/8 ml, solution à diluer pour perfusion	solution à diluer pour perfusion	intraveineuse	Autorisation active	Procédure centralisée	Non commercialisée	27/04/2010	Warning disponibilité	EU/1/95/002	 SANOFI WINTHROP INDUSTRIE	Non
 66545275	TAXUS BACCATA BOIRON, degré de dilution compris entre 4CH et 30CH ou entre 8DH et 60DH	 comprimé et solution(s) et granules et poudre et pommade	cutanée;orale;sublinguale	Autorisation active	Enreg homéo (Proc. Nat.)	Commercialisée	15/04/2020			 BOIRON	Non
 67873780	TAZOCILLINE 2 g/0,25 g, poudre pour solution pour perfusion	poudre pour solution pour perfusion	intraveineuse	Autorisation active	Procédure de reconnaissance mutuelle	Commercialisée	02/07/1992			 PFIZER HOLDING FRANCE	Non
@@ -14476,7 +14475,6 @@
 60712956	TRAMADOL/PARACETAMOL EVOLUGEN PHARMA 37,5 mg/325 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation active	Procédure nationale	Commercialisée	27/11/2013			 EVOLUPHARM	Non
 60152411	TRAMADOL/PARACETAMOL KRKA 37,5 mg/325 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation active	Procédure décentralisée	Commercialisée	26/04/2013			 KRKA (SLOVENIE)	Non
 69925400	TRAMADOL/PARACETAMOL SANDOZ 37,5 mg/325 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation active	Procédure décentralisée	Commercialisée	20/04/2012			 LABORATOIRES GRUNENTHAL	Non
-66355660	TRAMADOL/PARACETAMOL SUBSTIPHARM 37,5 mg/325 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation abrogée	Procédure nationale	Non commercialisée	04/04/2013	Warning disponibilité		 SUBSTIPHARM	Non
 69621899	TRAMADOL/PARACETAMOL SUN 37,5 mg/325 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation abrogée	Procédure nationale	Non commercialisée	15/02/2013	Warning disponibilité		 SUN PHARMA FRANCE	Non
 68322100	TRAMADOL/PARACETAMOL TEVA 37.5 mg/325 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation active	Procédure décentralisée	Commercialisée	15/02/2013			 TEVA SANTE	Non
 67698690	TRAMADOL/PARACETAMOL VIATRIS 37,5 mg/325 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation active	Procédure décentralisée	Commercialisée	20/04/2012			 LABORATOIRES GRUNENTHAL	Non
@@ -14761,12 +14759,11 @@
 68578562	UN-ALFA 1 microgramme/0,5 ml, solution injectable IV en ampoule	solution injectable	intraveineuse	Autorisation active	Procédure nationale	Commercialisée	23/09/1991			 CHEPLAPHARM ARZNEIMITTEL (ALLEMAGNE)	Non
 65482434	UN-ALFA 2 microgrammes/1 ml, solution injectable IV en ampoule	solution injectable	intraveineuse	Autorisation active	Procédure nationale	Commercialisée	23/09/1991			 CHEPLAPHARM ARZNEIMITTEL (ALLEMAGNE)	Non
 69057530	UNACIM INJECTABLE 0,5 g/1 g, poudre pour usage parentéral	poudre pour usage parentéral	intramusculaire;intraveineuse	Autorisation active	Procédure nationale	Commercialisée	09/04/1987			 PFIZER HOLDING FRANCE	Non
-64892672	UNACIM INJECTABLE 1 g, poudre et solution pour usage parentéral	poudre et  solution pour usage parentéral	intramusculaire	Autorisation archivée	Procédure nationale	Non commercialisée	11/12/1991	Warning disponibilité		 PFIZER HOLDING FRANCE	Non
 60195010	UNIFLOX, comprimé pelliculé sécable	comprimé pelliculé sécable	orale	Autorisation active	Procédure nationale	Non commercialisée	16/09/1993	Warning disponibilité		 BAYER HEALTHCARE	Non
 65367581	UNIFLUID 6 mg/ 0,4 ml, collyre en solution en récipient unidose	collyre en solution	ophtalmique	Autorisation archivée	Procédure nationale	Non commercialisée	03/03/1992	Warning disponibilité		 THEA	Non
 64403195	UNILARM, collyre en récipient unidose	collyre	ophtalmique	Autorisation abrogée	Procédure nationale	Non commercialisée	27/07/1990	Warning disponibilité		 EUROPHTA	Non
-69871657	UNIPEXIL 2 POUR CENT, solution pour application cutanée	solution pour application	cutanée	Autorisation active	Procédure nationale	Non commercialisée	13/10/1998	Warning disponibilité		 GIFRER BARBEZAT	Non
-61156302	UNIPEXIL 5 %, solution pour application cutanée	solution pour application	cutanée	Autorisation active	Procédure nationale	Non commercialisée	20/02/2013	Warning disponibilité		 GIFRER BARBEZAT	Non
+69871657	UNIPEXIL 2 POUR CENT, solution pour application cutanée	solution pour application	cutanée	Autorisation archivée	Procédure nationale	Non commercialisée	13/10/1998	Warning disponibilité		 GIFRER BARBEZAT	Non
+61156302	UNIPEXIL 5 %, solution pour application cutanée	solution pour application	cutanée	Autorisation archivée	Procédure nationale	Non commercialisée	20/02/2013	Warning disponibilité		 GIFRER BARBEZAT	Non
 67460721	UNIVAGIL LP 150 mg, ovule à libération prolongée	ovule à libération prolongée	vaginale	Autorisation active	Procédure nationale	Non commercialisée	20/02/2015	Warning disponibilité		 LABORATOIRES FRILAB	Non
 65558693	UPFEN 200 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation abrogée	Procédure nationale	Non commercialisée	19/05/1989	Warning disponibilité		 UPSA	Non
 60878038	UPLIZNA 100 mg, solution à diluer pour perfusion	solution à diluer pour perfusion	intraveineuse	Autorisation active	Procédure centralisée	Commercialisée	25/04/2022		EU/1/21/1602	 AMGEN EUROPE	Oui
@@ -14942,7 +14939,7 @@
 65262744	VALSARTAN/HYDROCHLOROTHIAZIDE EG 80 mg/12,5 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation active	Procédure nationale	Commercialisée	10/12/2010			 EG LABO - LABORATOIRES EUROGENERICS	Non
 65065818	VALSARTAN/HYDROCHLOROTHIAZIDE EVOLUGEN 160 mg/12,5 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation active	Procédure nationale	Non commercialisée	16/10/2013	Warning disponibilité		 EVOLUPHARM	Non
 69115058	VALSARTAN/HYDROCHLOROTHIAZIDE EVOLUGEN 80 mg/12,5 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation active	Procédure nationale	Non commercialisée	12/03/2012	Warning disponibilité		 EVOLUPHARM	Non
-69148058	VALSARTAN/HYDROCHLOROTHIAZIDE KRKA 80 mg/12,5 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation active	Procédure décentralisée	Commercialisée	22/07/2011			 KRKA (SLOVENIE)	Non
+69148058	VALSARTAN/HYDROCHLOROTHIAZIDE KRKA 80 mg/12,5 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation active	Procédure décentralisée	Non commercialisée	22/07/2011	Warning disponibilité		 KRKA (SLOVENIE)	Non
 66566668	VALSARTAN/HYDROCHLOROTHIAZIDE RANBAXY 160 mg/12,5 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation active	Procédure nationale	Non commercialisée	14/05/2010	Warning disponibilité		 RANBAXY PHARMACIE GENERIQUES	Non
 67863626	VALSARTAN/HYDROCHLOROTHIAZIDE SANDOZ 160 mg/12,5 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation active	Procédure décentralisée	Commercialisée	21/07/2010			 SANDOZ	Non
 68522318	VALSARTAN/HYDROCHLOROTHIAZIDE SANDOZ 160 mg/25 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation active	Procédure décentralisée	Commercialisée	21/07/2010			 SANDOZ	Non
@@ -14992,6 +14989,8 @@
 66750643	VARDENAFIL VIATRIS 10 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation active	Procédure décentralisée	Commercialisée	29/12/2017			 VIATRIS SANTE	Non
 60635520	VARDENAFIL VIATRIS 20 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation active	Procédure décentralisée	Commercialisée	29/12/2017			 VIATRIS SANTE	Non
 61033068	VARDENAFIL VIATRIS 5 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation active	Procédure décentralisée	Commercialisée	29/12/2017			 VIATRIS SANTE	Non
+64912922	VARENICLINE ARROW 0,5 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation active	Procédure décentralisée	Commercialisée	25/06/2025			 ARROW GENERIQUES	Non
+67607242	VARENICLINE ARROW 1 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation active	Procédure décentralisée	Commercialisée	25/06/2025			 ARROW GENERIQUES	Non
 66374714	VARENICLINE TEVA 0,5 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation active	Procédure décentralisée	Commercialisée	22/05/2024			 TEVA (PAYS-BAS)	Non
 65838453	VARENICLINE TEVA 0,5 mg, comprimé pelliculé. VARENICLINE TEVA 1 mg, comprimé pelliculé	comprimé pelliculé et  comprimé pelliculé	orale	Autorisation active	Procédure décentralisée	Commercialisée	22/05/2024			 TEVA (PAYS-BAS)	Non
 62500507	VARENICLINE TEVA 1 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation active	Procédure décentralisée	Commercialisée	22/05/2024			 TEVA (PAYS-BAS)	Non
@@ -15141,6 +15140,7 @@
 63028543	VESPULA ALBEY VENIN DE GUÊPE 120 microgrammes, poudre et solvant pour solution injectable	poudre et  solvant pour solution injectable	intradermique;sous-cutanée	Autorisation active	Procédure nationale	Commercialisée	05/02/1986			 STALLERGENES	Non
 61375043	VESPULA ALBEY VENIN DE GUÊPE 550 microgrammes, poudre et solvant pour solution injectable	poudre et  solvant et  solvant pour solution injectable	intradermique;sous-cutanée	Autorisation active	Procédure nationale	Commercialisée	07/02/1984			 STALLERGENES	Non
 68243464	VESSIE BOIRON, degré de dilution compris entre 4CH et 30CH ou entre 8DH et 60DH	 comprimé et solution(s) et granules et poudre et pommade	cutanée;orale;sublinguale	Autorisation active	Enreg homéo (Proc. Nat.)	Commercialisée	01/12/2020			 BOIRON	Non
+62478758	VEVIZYE 1 mg/mL, collyre en solution	collyre en solution	ophtalmique	Autorisation active	Procédure centralisée	Commercialisée	19/09/2024		EU/1/24/1857	 THEA	Non
 69749137	VEYVONDI 1 300 UI poudre et solvant pour solution injectable	poudre et  solvant pour solution injectable	intraveineuse	Autorisation active	Procédure centralisée	Commercialisée	31/08/2018		EU/1/18/1298	 BAXALTA INNOVATIONS (AUTRICHE)	Non
 65346733	VEYVONDI 650 UI poudre et solvant pour solution injectable	poudre et  solvant pour solution injectable	intraveineuse	Autorisation active	Procédure centralisée	Commercialisée	31/08/2018		EU/1/18/1298	 BAXALTA INNOVATIONS (AUTRICHE)	Non
 61120893	VFEND 200 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation active	Procédure centralisée	Commercialisée	19/03/2002		EU/1/02/212	 PFIZER EUROPE MA EEIG (BELGIQUE)	Non
@@ -15151,7 +15151,7 @@
 64669331	VIAGRA 100 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation active	Procédure centralisée	Commercialisée	14/09/1998		EU/1/98/077	 UPJOHN (PAYS-BAS)	Non
 68107934	VIAGRA 25 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation active	Procédure centralisée	Commercialisée	14/09/1998		EU/1/98/077	 UPJOHN (PAYS-BAS)	Non
 63593884	VIAGRA 50 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation active	Procédure centralisée	Commercialisée	14/09/1998		EU/1/98/077	 UPJOHN (PAYS-BAS)	Non
-64612743	VIAGRA 50 mg, film orodispersible	film orodispersible	orale	Autorisation active	Procédure centralisée	Commercialisée	09/02/2024		EU/1/98/077	 UPJOHN (PAYS-BAS)	Non
+64612743	VIAGRA 50 mg, film orodispersible	film orodispersible	orale	Autorisation active	Procédure centralisée	Non commercialisée	09/02/2024	Warning disponibilité	EU/1/98/077	 UPJOHN (PAYS-BAS)	Non
 60040572	VIALEBEX 200 g/L Nouveau-nés et nourrissons, solution pour perfusion	solution pour perfusion	intraveineuse	Autorisation active	Procédure nationale	Commercialisée	22/10/1996			 LFB-BIOMEDICAMENTS	Non
 63585962	VIALEBEX 200 g/L, solution pour perfusion	solution pour perfusion	intraveineuse	Autorisation active	Procédure de reconnaissance mutuelle	Commercialisée	30/12/1994			 LFB-BIOMEDICAMENTS	Non
 63610885	VIALEBEX 40 g/L, solution pour perfusion	solution pour perfusion	intraveineuse	Autorisation active	Procédure nationale	Commercialisée	30/12/1994			 LFB-BIOMEDICAMENTS	Non
@@ -15360,7 +15360,7 @@
 62601043	VOTUBIA 5 mg, comprimé dispersible	comprimé dispersible	orale	Autorisation active	Procédure centralisée	Commercialisée	15/11/2013		EU/1/11/710	 NOVARTIS EUROPHARM (IRLANDE)	Non
 67253128	VOXPAX, comprimé à croquer	comprimé à croquer	sublinguale	Autorisation active	Procédure nationale	Commercialisée	23/11/2018			 LEHNING	Non
 60787186	VOXZOGO 0,4 mg, poudre et solvant pour solution injectable	poudre et  solvant pour solution injectable	sous-cutanée	Autorisation active	Procédure centralisée	Commercialisée	26/08/2021		EU/1/21/1577	 BIOMARIN INTERNATIONAL LIMITED (IRLANDE)	Non
-64530919	VOXZOGO 0,56 mg, poudre et solvant pour solution injectable	poudre et  solvant pour solution injectable	sous-cutanée	Autorisation active	Procédure centralisée	Commercialisée	26/08/2021		EU/1/21/1577	 BIOMARIN INTERNATIONAL LIMITED (IRLANDE)	Oui
+64530919	VOXZOGO 0,56 mg, poudre et solvant pour solution injectable	poudre et  solvant pour solution injectable	sous-cutanée	Autorisation active	Procédure centralisée	Commercialisée	26/08/2021		EU/1/21/1577	 BIOMARIN INTERNATIONAL LIMITED (IRLANDE)	Non
 68092884	VOXZOGO 1,2 mg, poudre et solvant pour solution injectable	poudre et  solvant pour solution injectable	sous-cutanée	Autorisation active	Procédure centralisée	Commercialisée	26/08/2021		EU/1/21/1577	 BIOMARIN INTERNATIONAL LIMITED (IRLANDE)	Non
 63631648	VOYDEYA 100 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation active	Procédure centralisée	Commercialisée	19/04/2024		EU/1/24/1792	 ALEXION EUROPE	Oui
 62480378	VOYDEYA 50 mg + 100 mg, comprimé pelliculé	comprimé pelliculé et  comprimé pelliculé	orale	Autorisation active	Procédure centralisée	Commercialisée	19/04/2024		EU/1/24/1792	 ALEXION EUROPE	Oui
@@ -15462,6 +15462,7 @@
 66932795	XADAGO 100 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation active	Procédure centralisée	Commercialisée	24/02/2015		EU/1/14/984	 ZAMBON (ITALIE)	Non
 61882445	XADAGO 50 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation active	Procédure centralisée	Commercialisée	24/02/2015		EU/1/14/984	 ZAMBON (ITALIE)	Non
 64599534	XAGRID 0,5 mg, gélule	gélule	orale	Autorisation active	Procédure centralisée	Commercialisée	16/11/2004		EU/1/04/295	 TAKEDA PHARMACEUTICALS INTERNATIONAL (IRLANDE)	Non
+60407082	XALACOM 50 microgrammes/5 mg par mL, collyre en solution en récipient unidose	collyre en solution	ophtalmique	Autorisation active	Procédure décentralisée	Commercialisée	18/07/2025			 VIATRIS MEDICAL	Non
 63781007	XALACOM 50 microgrammes/mL + 5 mg/mL, collyre en solution	collyre en solution	ophtalmique	Autorisation active	Procédure de reconnaissance mutuelle	Commercialisée	11/09/2001			 VIATRIS UP	Non
 60047271	XALATAN 50 microgrammes/mL, collyre en solution	collyre en solution	ophtalmique	Autorisation active	Procédure de reconnaissance mutuelle	Commercialisée	24/07/1997			 VIATRIS UP	Non
 62161131	XALATAN 50 microgrammes/mL, collyre en solution en récipient unidose	collyre en solution	ophtalmique	Autorisation active	Procédure décentralisée	Commercialisée	26/05/2023			 VIATRIS MEDICAL	Non
@@ -15481,6 +15482,7 @@
 60443609	XATRAL LP 10 mg, comprimé à libération prolongée	comprimé à libération prolongée	orale	Autorisation active	Procédure nationale	Commercialisée	30/11/1999			 SANOFI WINTHROP INDUSTRIE	Non
 61889938	XATRAL LP 10 mg, comprimé à libération prolongée	comprimé à libération prolongée	orale	Autorisation active	Autorisation d'importation parallèle	Commercialisée	16/10/2012			 DIFARMED (ESPAGNE)	Non
 62415971	XATRAL LP 10 mg, comprimé à libération prolongée	comprimé à libération prolongée	orale	Autorisation abrogée	Autorisation d'importation parallèle	Non commercialisée	22/08/2011	Warning disponibilité		 BB FARMA (ITALIE)	Non
+69177113	XBONZY 120 mg, solution injectable	solution injectable	sous-cutanée	Autorisation active	Procédure centralisée	Commercialisée	17/11/2025		EU/1/25/1982	 REDDY HOLDING (ALLEMAGNE)	Oui
 65678041	XBRYK 120 mg, solution injectable	solution injectable	sous-cutanée	Autorisation active	Procédure centralisée	Commercialisée	12/02/2025		EU/1/24/1889	 SAMSUNG BIOEPIS NL (PAYS-BAS)	Oui
 65602428	XELEVIA 100 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation active	Procédure centralisée	Non commercialisée	21/03/2007	Warning disponibilité	EU/1/07/382	 MERCK SHARP & DOHME (PAYS-BAS)	Non
 60131132	XELEVIA 50 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation active	Procédure centralisée	Non commercialisée	21/03/2007	Warning disponibilité	EU/1/07/382	 MERCK SHARP & DOHME (PAYS-BAS)	Non
@@ -15582,6 +15584,7 @@
 64304674	YELLOX 0,9 mg/ml, collyre en solution	collyre en solution	ophtalmique	Autorisation active	Procédure centralisée	Commercialisée	18/05/2011		EU/1/11/692	 BAUSCH + LOMB IRELAND (IRLANDE)	Non
 65008219	YERBALAXA, plantes pour tisane en sachet dose	plante(s) pour tisane	orale	Autorisation active	Procédure nationale	Commercialisée	13/01/1997			 LABORATOIRES IPHYM	Non
 66532840	YERVOY 5 mg/mL, solution à diluer pour perfusion	solution à diluer pour perfusion	intraveineuse	Autorisation active	Procédure centralisée	Commercialisée	13/07/2011		EU/1/11/698	 BRISTOL-MYERS SQUIBB / PFIZER EEIG (IRLANDE)	Non
+65865920	YESAFILI 40 mg/ml, solution injectable en seringue préremplie	solution injectable	intravitréenne	Autorisation active	Procédure centralisée	Commercialisée	05/06/2025		EU/1/23/1751	 BIOSIMILAR COLLABORATIONS IRELAND (IRLANDE)	Oui
 63887327	YESCARTA 0,4 - 2 x 100 000 000 cellules, dispersion pour perfusion	dispersion pour perfusion	intraveineuse	Autorisation active	Procédure centralisée	Commercialisée	23/08/2018		EU/1/18/1299	 KITE PHARMA EU (PAYS-BAS)	Oui
 67693597	YESINTEK 130 mg, solution à diluer pour perfusion	solution à diluer pour perfusion	intraveineuse	Autorisation active	Procédure centralisée	Commercialisée	14/02/2025		EU/1/24/1892	 BIOSIMILAR COLLABORATIONS IRELAND (IRLANDE)	Oui
 61339773	YESINTEK 45 mg, solution injectable en seringue préremplie	solution injectable	sous-cutanée	Autorisation active	Procédure centralisée	Commercialisée	14/02/2025		EU/1/24/1892	 BIOSIMILAR COLLABORATIONS IRELAND (IRLANDE)	Oui
@@ -15616,7 +15619,6 @@
 63996294	ZALASTA 7,5 mg, comprimé	comprimé	orale	Autorisation active	Procédure centralisée	Commercialisée	27/09/2007		EU/1/07/415	 KRKA (SLOVENIE)	Non
 60327615	ZALDIAR 37,5 mg/325 mg, comprimé pelliculé	comprimé pelliculé	orale	Autorisation active	Procédure de reconnaissance mutuelle	Commercialisée	05/04/2002			 LABORATOIRES GRUNENTHAL	Non
 64382274	ZALERG 0,25 mg/ml, collyre en solution	collyre en solution	ophtalmique	Autorisation active	Procédure décentralisée	Commercialisée	15/07/2010			 THEA	Non
-67486972	ZALERGONIUM 0,25 mg/ml, collyre en solution	collyre en solution	ophtalmique	Autorisation archivée	Procédure de reconnaissance mutuelle	Non commercialisée	16/02/2001	Warning disponibilité		 THEA	Non
 60089217	ZALTRAP 25 mg/ml, solution à diluer pour perfusion	solution à diluer pour perfusion	intraveineuse	Autorisation active	Procédure centralisée	Commercialisée	01/02/2013		EU/1/12/814	 SANOFI WINTHROP INDUSTRIE	Non
 66147346	ZAMELINE 1 mg/mL, collyre en solution	collyre en solution	ophtalmique	Autorisation active	Procédure décentralisée	Commercialisée	19/07/2022			 THEA	Non
 66357533	ZAMUDOL LP 100 mg, gélule à libération prolongée	gélule à libération prolongée	orale	Autorisation active	Procédure de reconnaissance mutuelle	Commercialisée	15/04/1998			 VIATRIS MEDICAL	Non
