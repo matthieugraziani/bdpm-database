@@ -27,6 +27,30 @@ jobs:
         run: |
           python -u update_bdpm.py
 
+      - name: Generate Metadata JSON
+        run: |
+          python -c '
+          import json, subprocess, datetime, pathlib, hashlib
+
+          # Récupère le dernier tag Git (ex: v1.0), sinon "v1.0" par défaut
+          try:
+              tag = subprocess.check_output(["git", "describe", "--tags", "--always"]).decode("utf-8").strip()
+          except Exception:
+              tag = "v1.0"
+
+          now = datetime.datetime.now(datetime.timezone.utc).isoformat()
+          
+          meta = {
+              "signature": hashlib.sha256(tag.encode()).hexdigest(),
+              "updated_at": now,
+              "version": tag
+          }
+          
+          pathlib.Path("data").mkdir(parents=True, exist_ok=True)
+          with open("data/.bdpm_meta.json", "w", encoding="utf-8") as f:
+              json.dump(meta, f, indent=2)
+          '
+
       - name: Commit database
         run: |
           git config user.name github-actions
@@ -36,5 +60,5 @@ jobs:
 
           git diff --cached --quiet && exit 0
 
-          git commit -m "BDPM auto update"
+          git commit -m "BDPM auto update & metadata sync"
           git push
