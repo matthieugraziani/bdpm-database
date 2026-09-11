@@ -134,7 +134,7 @@ except (ValueError, sqlite3.DatabaseError, FileNotFoundError, OSError) as e:
 # SIDEBAR MÉTADONNÉES
 # ---------------------------------------------------
 meta_file = Path(__file__).resolve().parent / "data" / ".bdpm_meta.json"
-st.sidebar.title("🧬 BDPM-Database v1.0")
+st.sidebar.title("🧬 BDPM-Database")
 
 if meta_file.exists():
     try:
@@ -142,7 +142,12 @@ if meta_file.exists():
             meta = json.load(f)
         st.sidebar.markdown("### 📊 État du système")
         st.sidebar.caption("**Source :** BDPM Officielle (ANSM)")
-        st.sidebar.caption(f"**Version :** {meta.get('version', 'Inconnue')}")
+        
+        # Extraction de la date de mise à jour pour l'afficher proprement
+        updated_at = meta.get('updated_at', '')
+        version_display = updated_at.split('T')[0] if updated_at else meta.get('version', 'Inconnue')
+        
+        st.sidebar.caption(f"**Version :** {version_display}")
     except (OSError, json.JSONDecodeError, ValueError):
         st.sidebar.warning("⚠️ Erreur de lecture des métadonnées")
 else:
