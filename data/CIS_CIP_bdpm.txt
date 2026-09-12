@@ -5293,7 +5293,7 @@
 62500731	2781562	1 pilulier(s) polypropylène de 30 comprimé(s)	Présentation active	Déclaration de commercialisation	04/05/2016	3400927815621	oui	65%	9,57	10,59	1,02	
 62500731	2781579	3 pilulier(s) polypropylène de 30 comprimé(s)	Présentation active	Déclaration de commercialisation	02/06/2025	3400927815799	oui	65%	27,19	29,95	2,76	
 62500756	2684882	plaquette(s) PVC polyéthylène PVDC aluminium de 28 gélule(s)	Présentation active	Déclaration de commercialisation	15/03/2016	3400926848828	non					
-62501139	3029462	plaquette(s) PVC polyéthylène PVDC aluminium de 56 gélule(s)	Présentation active	Déclaration de commercialisation	28/08/2024	3400930294628	non					
+62501139	3029462	plaquette(s) PVC polyéthylène PVDC aluminium de 56 gélule(s)	Présentation active	Déclaration de commercialisation	28/08/2024	3400930294628	non	65 %	26,097,10	1,02		
 62501705	5508310	0,5 g en flacon(s) en verre de 15 ml , boîte de 10	Présentation active	Déclaration de commercialisation	01/09/2022	3400955083108	oui					
 62501705	5633371	0,5 g en flacon(s) en verre de 15 ml , boîte de 25	Présentation active	Déclaration d'arrêt de commercialisation	30/09/2022	3400956333714	non					
 62503389	3674555	plaquette(s) thermoformée(s) PVC-Aluminium de 30 gélule(s)	Présentation active	Déclaration de commercialisation	20/12/2005	3400936745551	oui	65%	5,01	6,03	1,02	
