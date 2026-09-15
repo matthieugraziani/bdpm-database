@@ -4486,7 +4486,6 @@
 62096413	3776511	10 flacon(s) en verre	Présentation active	Déclaration de commercialisation	06/07/2007	3400937765114	oui					
 62096580	3701631	1 flacon(s) pressurisé(s) aluminium de 200 doses avec valve(s) doseuse(s) avec embout(s) buccal(aux)	Présentation active	Déclaration de commercialisation	20/04/2007	3400937016315	oui	65%	14,88	15,90	1,02	
 62098492	3831109	1 tube(s) aluminium verni de 30 g	Présentation active	Déclaration de commercialisation	02/04/2008	3400938311099	oui	30%	1,72	2,74	1,02	
-62099847	5500137	1 flacon(s) en verre de 26,3 ml	Présentation active	Déclaration d'arrêt de commercialisation	15/09/2021	3400955001379	non					
 62102962	3699331	1 flacon(s) en verre de 1 dose(s) - 1 seringue(s) préremplie(s) en verre de 0,5 ml avec deux aiguille(s) séparées	Présentation active	Déclaration de commercialisation	20/03/2024	3400936993310	non					
 62102962	3699348	10 flacon(s) en verre de 1 dose(s) - 10 seringue(s) préremplie(s) en verre de 0,5 ml avec deux aiguille(s) séparées	Présentation active	Déclaration d'arrêt de commercialisation	02/04/2024	3400936993488	non					
 62103459	3021229	1 flacon(s) en verre de 4 ml	Présentation active	Déclaration de commercialisation	01/06/2021	3400930212295	oui					
