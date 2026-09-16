@@ -5292,7 +5292,7 @@
 62500731	2781562	1 pilulier(s) polypropylène de 30 comprimé(s)	Présentation active	Déclaration de commercialisation	04/05/2016	3400927815621	oui	65%	9,57	10,59	1,02	
 62500731	2781579	3 pilulier(s) polypropylène de 30 comprimé(s)	Présentation active	Déclaration de commercialisation	02/06/2025	3400927815799	oui	65%	27,19	29,95	2,76	
 62500756	2684882	plaquette(s) PVC polyéthylène PVDC aluminium de 28 gélule(s)	Présentation active	Déclaration de commercialisation	15/03/2016	3400926848828	non					
-62501139	3029462	plaquette(s) PVC polyéthylène PVDC aluminium de 56 gélule(s)	Présentation active	Déclaration de commercialisation	28/08/2024	3400930294628	non	65 %	26,097,10	1,02		
+62501139	3029462	plaquette(s) PVC polyéthylène PVDC aluminium de 56 gélule(s)	Présentation active	Déclaration de commercialisation	28/08/2024	3400930294628	non	65 %	26,097,10	26,098,10	1,02	
 62501705	5508310	0,5 g en flacon(s) en verre de 15 ml , boîte de 10	Présentation active	Déclaration de commercialisation	01/09/2022	3400955083108	oui					
 62501705	5633371	0,5 g en flacon(s) en verre de 15 ml , boîte de 25	Présentation active	Déclaration d'arrêt de commercialisation	30/09/2022	3400956333714	non					
 62503389	3674555	plaquette(s) thermoformée(s) PVC-Aluminium de 30 gélule(s)	Présentation active	Déclaration de commercialisation	20/12/2005	3400936745551	oui	65%	5,01	6,03	1,02	
@@ -15346,7 +15346,6 @@
 67350239	3694210	plaquette(s) PVC aluminium de 90 gélule(s)	Présentation active	Déclaration de commercialisation	18/04/2006	3400936942103	oui	65%	21,76	22,78	1,02	
 67351070	2663035	plaquette(s) aluminium polyamide PVC-Aluminium PVC acétate de polyvinyle de 30 comprimé(s)	Présentation active	Déclaration de commercialisation	16/11/2013	3400926630355	oui	65%	3,75	4,77	1,02	
 67351070	2663041	plaquette(s) aluminium polyamide PVC-Aluminium PVC acétate de polyvinyle de 90 comprimé(s)	Présentation active	Déclaration de commercialisation	23/06/2014	3400926630416	oui	65%	10,85	13,61	2,76	
-67351273	3008520	plaquette(s) aluminium PVC de 56 gélule(s)	Présentation active	Déclaration d'arrêt de commercialisation	16/09/2021	3400930085202	non	65%	14,44	15,46	1,02	
 67351394	2795802	12 sachet(s) polytéréphtalate (PET) aluminium polyéthylène de 10 ml	Présentation active	Déclaration de commercialisation	28/05/2015	3400927958021	non					
 67351558	3018250	30 plaquette(s) PVC polychlortrifluoroéthylène aluminium unidose(s) de 1 comprimé(s)	Présentation active	Déclaration de commercialisation	01/02/2021	3400930182505	oui	100 %	2,903,67	2,904,69	1,02	Ce médicament peut être pris en charge ou remboursé par l'Assurance Maladie dans les cas suivants :<br><br>- Macroglobulinémie de Waldenström chez les patients chez lesquels un autre traitement a déjà été essayé<br>- Lymphome à cellules du manteau en rechute ou résistant à d'autres traitement   <br>- Leucémie lymphoïde chronique (LLC), en respectant certains critères précisément définis. ; JOURNAL OFFICIEL ; 01/08/17
 67351693	5500403	1 flacon(s) en verre - 1 seringue(s) préremplie(s) en verre de 2,5 ml avec aiguille(s) avec tampon(s) alcoolisé(s) avec dispositif(s) de transfert	Présentation active	Déclaration de commercialisation	09/03/2016	3400955004035	oui					
