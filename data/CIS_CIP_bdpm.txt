@@ -7428,7 +7428,6 @@
 63549069	3001061	2 seringue(s) préremplie(s) en verre de 1 ml avec aiguille(s)	Présentation active	Déclaration de commercialisation	08/07/2016	3400930010617	oui	65%	948,23	949,25	1,02	
 63549158	3616167	plaquette(s) PVC-Aluminium de 30 comprimé(s)	Présentation active	Déclaration de commercialisation	12/06/2003	3400936161672	oui	65%	2,66	3,68	1,02	
 63551287	5508807	5 flacon(s) en verre brun de 4 ml	Présentation active	Déclaration de commercialisation	07/03/2023	3400955088073	oui					
-63551390	2782343	plaquette(s) aluminium de 28 comprimé(s)	Présentation active	Déclaration d'arrêt de commercialisation	22/09/2021	3400927823435	non	65%	3,86	4,88	1,02	
 63552179	3754685	28 ampoule(s) en verre de 2 ml	Présentation active	Déclaration de commercialisation	26/01/2007	3400937546850	non					
 63552695	3464125	plaquette(s) PVC-Aluminium de 30 comprimé(s)	Présentation active	Déclaration de commercialisation	26/09/2005	3400934641251	oui	65%	1,20	2,22	1,02	
 63553167	3028922	plaquettes aluminium PVC-Aluminium OPA : polyamide orienté de 28 comprimés	Présentation active	Déclaration de commercialisation	24/09/2024	3400930289228	oui	100 %	902,14	903,16	1,02	
