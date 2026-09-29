@@ -6007,7 +6007,6 @@
 62872607	3950386	plaquette(s) PVC PVDC aluminium de 30 comprimé(s)	Présentation active	Déclaration de commercialisation	17/08/2012	3400939503868	oui	65%	3,75	4,77	1,02	
 62872607	3950452	plaquette(s) PVC PVDC aluminium de 90 comprimé(s)	Présentation active	Déclaration de commercialisation	17/08/2012	3400939504520	oui	65%	10,85	13,61	2,76	
 62874405	3547650	tube(s) polypropylène de 60 comprimé(s)	Présentation active	Déclaration de commercialisation	23/12/2008	3400935476500	oui	65%	5,29	6,31	1,02	
-62875749	3674472	plaquette(s) thermoformée(s) PVC-Aluminium de 30 gélule(s)	Présentation active	Déclaration d'arrêt de commercialisation	29/09/2021	3400936744721	non	65%	3,40	4,42	1,02	
 62876801	3006082	plaquette(s) thermoformée(s) PVC polychlortrifluoroéthylène PVC-Aluminium de 14 gélule(s)	Présentation active	Déclaration de commercialisation	02/05/2017	3400930060827	oui	65%	15,911,32	15,912,34	1,02	
 62877102	3763098	plaquette(s) thermoformée(s) PVC PVDC aluminium de 30 gomme(s)	Présentation active	Déclaration de commercialisation	02/01/2007	3400937630986	oui					
 62877102	3763112	plaquette(s) thermoformée(s) PVC PVDC aluminium de 105 gomme(s)	Présentation active	Déclaration de commercialisation	02/01/2007	3400937631129	oui	65%	11,24	12,26	1,02	
@@ -9638,7 +9637,6 @@
 64669331	3484317	plaquette(s) thermoformée(s) PVC-Aluminium de 4 comprimé(s)	Présentation active	Déclaration de commercialisation	15/10/1998	3400934843174	oui					
 64669331	3484323	plaquette(s) thermoformée(s) PVC-Aluminium de 8 comprimé(s)	Présentation active	Déclaration de commercialisation	15/10/1998	3400934843235	oui					
 64669331	3484346	plaquette(s) thermoformée(s) PVC-Aluminium de 12 comprimé(s)	Présentation active	Déclaration de commercialisation	14/06/2010	3400934843464	oui					
-64669819	5502227	1 flacon (verre brun) de 25 ml contenant 25 mg de poudre	Présentation active	Arrêt de commercialisation (le médicament n'a plus d'autorisation)	29/09/2021	3400955022275	non					
 64670426	3020775	plaquette(s) unidose(s) polyamide aluminium PVC-Aluminium de 10 x 1 gélule (en dose unitaire) + 1 inhalateur	Présentation active	Déclaration d'arrêt de commercialisation	31/12/2022	3400930207758	non					
 64670426	3020777	plaquette(s) unidose(s) polyamide aluminium PVC-Aluminium de 30 x 1 gélule (en dose unitaire) + 1 inhalateur	Présentation active	Déclaration de commercialisation	12/05/2021	3400930207772	oui	65 %	22,67	23,69	1,02	
 64671670	3645370	plaquette(s) PVC-Aluminium de 10 comprimé(s)	Présentation active	Déclaration d'arrêt de commercialisation	14/10/2025	3400936453708	non	65%	3,13	4,15	1,02	
