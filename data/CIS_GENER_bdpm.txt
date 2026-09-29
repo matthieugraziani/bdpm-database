@@ -2904,13 +2904,13 @@
 508	OMEPRAZOLE SODIQUE équivalant à OMEPRAZOLE 40 mg - MOPRAL 40 mg, poudre pour solution pour perfusion	69138295	1	2
 508	OMEPRAZOLE SODIQUE équivalant à OMEPRAZOLE 40 mg - MOPRAL 40 mg, poudre pour solution pour perfusion	61193902	1	3
 508	OMEPRAZOLE SODIQUE équivalant à OMEPRAZOLE 40 mg - MOPRAL 40 mg, poudre pour solution pour perfusion	67234658	1	4
-509	ONDANSETRON (CHLORHYDRATE D') DIHYDRATE équivalant à 2 mg/ml d'ONDANSETRON - ZOPHREN 2 mg/ml, solution injectable en ampoule (I.V.).	65991171	0	1
-509	ONDANSETRON (CHLORHYDRATE D') DIHYDRATE équivalant à 2 mg/ml d'ONDANSETRON - ZOPHREN 2 mg/ml, solution injectable en ampoule (I.V.).	69422609	1	2
-509	ONDANSETRON (CHLORHYDRATE D') DIHYDRATE équivalant à 2 mg/ml d'ONDANSETRON - ZOPHREN 2 mg/ml, solution injectable en ampoule (I.V.).	61301630	1	3
-509	ONDANSETRON (CHLORHYDRATE D') DIHYDRATE équivalant à 2 mg/ml d'ONDANSETRON - ZOPHREN 2 mg/ml, solution injectable en ampoule (I.V.).	61443117	1	4
-509	ONDANSETRON (CHLORHYDRATE D') DIHYDRATE équivalant à 2 mg/ml d'ONDANSETRON - ZOPHREN 2 mg/ml, solution injectable en ampoule (I.V.).	61271062	1	5
-509	ONDANSETRON (CHLORHYDRATE D') DIHYDRATE équivalant à 2 mg/ml d'ONDANSETRON - ZOPHREN 2 mg/ml, solution injectable en ampoule (I.V.).	68262500	1	6
-509	ONDANSETRON (CHLORHYDRATE D') DIHYDRATE équivalant à 2 mg/ml d'ONDANSETRON - ZOPHREN 2 mg/ml, solution injectable en ampoule (I.V.).	63988721	1	7
+509	ONDANSETRON (CHLORHYDRATE D') DIHYDRATE équivalant à  ONDANSETRON 2 mg/mL - ZOPHREN 2 mg/ml, solution injectable en ampoule (I.V.).	65991171	0	1
+509	ONDANSETRON (CHLORHYDRATE D') DIHYDRATE équivalant à  ONDANSETRON 2 mg/mL - ZOPHREN 2 mg/ml, solution injectable en ampoule (I.V.).	69422609	1	2
+509	ONDANSETRON (CHLORHYDRATE D') DIHYDRATE équivalant à  ONDANSETRON 2 mg/mL - ZOPHREN 2 mg/ml, solution injectable en ampoule (I.V.).	61301630	1	3
+509	ONDANSETRON (CHLORHYDRATE D') DIHYDRATE équivalant à  ONDANSETRON 2 mg/mL - ZOPHREN 2 mg/ml, solution injectable en ampoule (I.V.).	61443117	1	4
+509	ONDANSETRON (CHLORHYDRATE D') DIHYDRATE équivalant à  ONDANSETRON 2 mg/mL - ZOPHREN 2 mg/ml, solution injectable en ampoule (I.V.).	61271062	1	5
+509	ONDANSETRON (CHLORHYDRATE D') DIHYDRATE équivalant à  ONDANSETRON 2 mg/mL - ZOPHREN 2 mg/ml, solution injectable en ampoule (I.V.).	68262500	1	6
+509	ONDANSETRON (CHLORHYDRATE D') DIHYDRATE équivalant à  ONDANSETRON 2 mg/mL - ZOPHREN 2 mg/ml, solution injectable en ampoule (I.V.).	63988721	1	7
 510	RISPERIDONE 0,5 mg - RISPERDALORO 0,5 mg, comprimé orodispersible.	67478160	0	1
 510	RISPERIDONE 0,5 mg - RISPERDALORO 0,5 mg, comprimé orodispersible.	62505785	1	2
 510	RISPERIDONE 0,5 mg - RISPERDALORO 0,5 mg, comprimé orodispersible.	62706119	1	3
@@ -3175,18 +3175,18 @@
 582	FOSINOPRIL SODIQUE 20 mg + HYDROCHLOROTHIAZIDE 12,5 mg - FOZIRETIC 20 mg/12,5 mg, comprimé sécable.	64061553	1	4
 582	FOSINOPRIL SODIQUE 20 mg + HYDROCHLOROTHIAZIDE 12,5 mg - FOZIRETIC 20 mg/12,5 mg, comprimé sécable.	64622680	1	5
 584	GRANISETRON (CHLORHYDRATE DE) équivalant à GRANISETRON 3 mg/3 ml - KYTRIL 3 mg/3 ml, solution injectable.	69000764	0	1
-587	CEFIXIME TRIHYDRATE équivalant à 200 mg CEFIXIME  - OROKEN 200 mg, comprimé pelliculé.	67393849	0	1
-587	CEFIXIME TRIHYDRATE équivalant à 200 mg CEFIXIME  - OROKEN 200 mg, comprimé pelliculé.	64821860	1	2
-587	CEFIXIME TRIHYDRATE équivalant à 200 mg CEFIXIME  - OROKEN 200 mg, comprimé pelliculé.	67490967	1	3
-587	CEFIXIME TRIHYDRATE équivalant à 200 mg CEFIXIME  - OROKEN 200 mg, comprimé pelliculé.	63309743	1	4
-587	CEFIXIME TRIHYDRATE équivalant à 200 mg CEFIXIME  - OROKEN 200 mg, comprimé pelliculé.	68809147	1	5
-587	CEFIXIME TRIHYDRATE équivalant à 200 mg CEFIXIME  - OROKEN 200 mg, comprimé pelliculé.	69100387	1	6
-587	CEFIXIME TRIHYDRATE équivalant à 200 mg CEFIXIME  - OROKEN 200 mg, comprimé pelliculé.	64076815	1	7
-587	CEFIXIME TRIHYDRATE équivalant à 200 mg CEFIXIME  - OROKEN 200 mg, comprimé pelliculé.	69410877	1	8
-587	CEFIXIME TRIHYDRATE équivalant à 200 mg CEFIXIME  - OROKEN 200 mg, comprimé pelliculé.	66944751	1	9
-587	CEFIXIME TRIHYDRATE équivalant à 200 mg CEFIXIME  - OROKEN 200 mg, comprimé pelliculé.	69692540	1	10
-587	CEFIXIME TRIHYDRATE équivalant à 200 mg CEFIXIME  - OROKEN 200 mg, comprimé pelliculé.	66928213	1	11
-587	CEFIXIME TRIHYDRATE équivalant à 200 mg CEFIXIME  - OROKEN 200 mg, comprimé pelliculé.	62217516	1	12
+587	CEFIXIME TRIHYDRATE équivalant à CEFIXIME 200 mg - OROKEN 200 mg, comprimé pelliculé.	67393849	0	1
+587	CEFIXIME TRIHYDRATE équivalant à CEFIXIME 200 mg - OROKEN 200 mg, comprimé pelliculé.	64821860	1	2
+587	CEFIXIME TRIHYDRATE équivalant à CEFIXIME 200 mg - OROKEN 200 mg, comprimé pelliculé.	67490967	1	3
+587	CEFIXIME TRIHYDRATE équivalant à CEFIXIME 200 mg - OROKEN 200 mg, comprimé pelliculé.	63309743	1	4
+587	CEFIXIME TRIHYDRATE équivalant à CEFIXIME 200 mg - OROKEN 200 mg, comprimé pelliculé.	68809147	1	5
+587	CEFIXIME TRIHYDRATE équivalant à CEFIXIME 200 mg - OROKEN 200 mg, comprimé pelliculé.	69100387	1	6
+587	CEFIXIME TRIHYDRATE équivalant à CEFIXIME 200 mg - OROKEN 200 mg, comprimé pelliculé.	64076815	1	7
+587	CEFIXIME TRIHYDRATE équivalant à CEFIXIME 200 mg - OROKEN 200 mg, comprimé pelliculé.	69410877	1	8
+587	CEFIXIME TRIHYDRATE équivalant à CEFIXIME 200 mg - OROKEN 200 mg, comprimé pelliculé.	66944751	1	9
+587	CEFIXIME TRIHYDRATE équivalant à CEFIXIME 200 mg - OROKEN 200 mg, comprimé pelliculé.	69692540	1	10
+587	CEFIXIME TRIHYDRATE équivalant à CEFIXIME 200 mg - OROKEN 200 mg, comprimé pelliculé.	66928213	1	11
+587	CEFIXIME TRIHYDRATE équivalant à CEFIXIME 200 mg - OROKEN 200 mg, comprimé pelliculé.	62217516	1	12
 588	OXCARBAZEPINE 150 mg - TRILEPTAL 150 mg, comprimé pelliculé.	69568788	0	1
 588	OXCARBAZEPINE 150 mg - TRILEPTAL 150 mg, comprimé pelliculé.	63089749	1	2
 588	OXCARBAZEPINE 150 mg - TRILEPTAL 150 mg, comprimé pelliculé.	66414482	1	3
@@ -7634,7 +7634,8 @@
 1368	PARACETAMOL 400 mg + CAFEINE 50 mg + CODEINE (PHOSPHATE DE) HEMIHYDRATE 20 mg - PRONTALGINE, comprimé	64409077	1	4
 1369	GANCICLOVIR SODIQUE 500 mg - CYMEVAN 500 mg, poudre pour solution à diluer pour perfusion	67147922	0	1
 1369	GANCICLOVIR SODIQUE 500 mg - CYMEVAN 500 mg, poudre pour solution à diluer pour perfusion	63078628	1	2
-1369	GANCICLOVIR SODIQUE 500 mg - CYMEVAN 500 mg, poudre pour solution à diluer pour perfusion	67580471	1	3
+1369	GANCICLOVIR SODIQUE 500 mg - CYMEVAN 500 mg, poudre pour solution à diluer pour perfusion	65806270	1	3
+1369	GANCICLOVIR SODIQUE 500 mg - CYMEVAN 500 mg, poudre pour solution à diluer pour perfusion	67580471	1	4
 1370	ABACAVIR (SULFATE D') équivalant à ABACAVIR 300 mg - ABACAVIR 300 mg - ZIAGEN 300 mg, comprimé pelliculé	68556562	0	1
 1370	ABACAVIR (SULFATE D') équivalant à ABACAVIR 300 mg - ABACAVIR 300 mg - ZIAGEN 300 mg, comprimé pelliculé	61876780	1	2
 1370	ABACAVIR (SULFATE D') équivalant à ABACAVIR 300 mg - ABACAVIR 300 mg - ZIAGEN 300 mg, comprimé pelliculé	63797011	1	3
@@ -9018,7 +9019,7 @@
 1592	LACOSAMIDE 50 mg + LACOSAMIDE 100 mg + LACOSAMIDE 150 mg LACOSAMIDE 200 mg  - VIMPAT 50/100/150/200 mg, comprimé pelliculé pack d'initiation du traitement	66920654	1	2
 1593	METRONIDAZOLE 500 mg pour 100 mL - FLAGYL 0,5 POUR CENT, solution injectable pour perfusion en poche	67965563	0	1
 1593	METRONIDAZOLE 500 mg pour 100 mL - FLAGYL 0,5 POUR CENT, solution injectable pour perfusion en poche	67207102	1	2
-1594	NABUMETONE 500 mg - NABUCOX 500 mg, comprimé pelliculé	64224915	0	1
+1594	NABUMETONE 500 mg - NABUCOM 500 mg, comprimé pelliculé	64224915	0	1
 1595	NICOTINE 14 mg/24 h - NICOPATCHLIB 14 mg/24 heures, dispositif transdermique	61634478	0	1
 1596	NICOTINE 21 mg/24 h - NICOPATCHLIB 21 mg/24 heures, dispositif transdermique	62155071	0	1
 1597	NICOTINE 7 mg/24 h - NICOPATCHLIB 7 mg/24 heures, dispositif transdermique	66413409	0	1
@@ -9907,8 +9908,8 @@
 1803	THIOTEPA 15 mg - TEPADINA 15 mg, poudre pour concentré pour solution pour perfusion	61087062	1	4
 1803	THIOTEPA 15 mg - TEPADINA 15 mg, poudre pour concentré pour solution pour perfusion	63215895	1	5
 1803	THIOTEPA 15 mg - TEPADINA 15 mg, poudre pour concentré pour solution pour perfusion	64287342	1	6
-1804	CEFIXIME TRIHYDRATE équivalent à 100 mg/5 ml CEFIXIME - OROKEN ENFANTS 100 mg/5 ml, poudre pour suspension buvable en flacon	66907450	0	1
-1804	CEFIXIME TRIHYDRATE équivalent à 100 mg/5 ml CEFIXIME - OROKEN ENFANTS 100 mg/5 ml, poudre pour suspension buvable en flacon	67547553	1	2
+1804	CEFIXIME TRIHYDRATE équivalent à CEFIXIME 100 mg/5 ml - OROKEN ENFANTS 100 mg/5 ml, poudre pour suspension buvable en flacon	66907450	0	1
+1804	CEFIXIME TRIHYDRATE équivalent à CEFIXIME 100 mg/5 ml - OROKEN ENFANTS 100 mg/5 ml, poudre pour suspension buvable en flacon	67547553	1	2
 1805	ISOPRENALINE (CHLORHYDRATE D') 0,2 mg/1 mL - ISUPREL 0,20 mg/1 ml, solution injectable en ampoule  (FLACON de 1 mL).	68886179	0	1
 1805	ISOPRENALINE (CHLORHYDRATE D') 0,2 mg/1 mL - ISUPREL 0,20 mg/1 ml, solution injectable en ampoule  (FLACON de 1 mL).	64163298	1	2
 1807	ACIDE FOLIQUE 0,4 mg - SPECIAFOLDINE 0,4 mg, comprimé	64732689	0	1
@@ -10161,8 +10162,8 @@
 1870	DIGOXINE 0,25 mg - DIGOXINE NATIVELLE 0,25 mg, comprimé	61285012	1	2
 1871	DIGOXINE 0,125 mg - HEMIGOXINE NATIVELLE 0,125 mg, comprimé	63593820	0	1
 1871	DIGOXINE 0,125 mg - HEMIGOXINE NATIVELLE 0,125 mg, comprimé	67008602	1	2
-1873	ESOMEPRAZOLE MAGNÉSIUM DIHYDRATÉ équivalent à ESOMEPRAZOLE 10 mg - INEXIUM 10 mg, granulés gastro-résistants pour suspension buvable en sachet	63451237	0	1
-1873	ESOMEPRAZOLE MAGNÉSIUM DIHYDRATÉ équivalent à ESOMEPRAZOLE 10 mg - INEXIUM 10 mg, granulés gastro-résistants pour suspension buvable en sachet	61578855	1	2
+1873	ESOMEPRAZOLE MAGNÉSIUM DIHYDRATÉ équivalent à ESOMEPRAZOLE 10 mg - INEXIUM 10 mg, granulés pour suspension buvable gastro-résistante en sachet	63451237	0	1
+1873	ESOMEPRAZOLE MAGNÉSIUM DIHYDRATÉ équivalent à ESOMEPRAZOLE 10 mg - INEXIUM 10 mg, granulés pour suspension buvable gastro-résistante en sachet	61578855	1	2
 1874	ENZALUTAMIDE 40 mg - XTANDI 40 mg, comprimé pelliculé	64093355	0	1
 1874	ENZALUTAMIDE 40 mg - XTANDI 40 mg, comprimé pelliculé	60562944	1	2
 1874	ENZALUTAMIDE 40 mg - XTANDI 40 mg, comprimé pelliculé	62233837	1	3
@@ -10698,6 +10699,7 @@
 2002	RALTEGRAVIR POTASSIQUE équivalent à RALTEGRAVIR 400 mg - ISENTRESS 400 mg, comprimé pelliculé	67486456	1	2
 2002	RALTEGRAVIR POTASSIQUE équivalent à RALTEGRAVIR 400 mg - ISENTRESS 400 mg, comprimé pelliculé	65062156	1	3
 2003	BETAMETHASONE (PHOSPHATE DISODIQUE DE) équivalent à BETAMETHASONE 4 mg/ 1 mL - CELESTENE 4 mg/1 ml, solution injectable	62243639	0	1
+2003	BETAMETHASONE (PHOSPHATE DISODIQUE DE) équivalent à BETAMETHASONE 4 mg/ 1 mL - CELESTENE 4 mg/1 ml, solution injectable	64712996	1	2
 2004	EDOXABAN (TOSILATE D') MONOHYDRATE équivalent à EDOXABAN 60 mg - LIXIANA 60 mg, comprimé pelliculé	66261727	0	1
 2004	EDOXABAN (TOSILATE D') MONOHYDRATE équivalent à EDOXABAN 60 mg - LIXIANA 60 mg, comprimé pelliculé	68881901	1	2
 2005	EDOXABAN (TOSILATE D') MONOHYDRATE équivalent à EDOXABAN 15 mg - LIXIANA 15 mg, comprimé pelliculé	65449516	0	1
@@ -10718,3 +10720,18 @@
 2012	CABOZANTINIB ((S)-MALATE DE) équivalent à CABOZANTINIB 20 mg - CABOMETYX 20 mg, comprimé pelliculé	62222207	1	2
 2013	HUILE DE SOJA RAFFINEE + TRIGLYCERIDES A CHAINE MOYENNE + HUILE D'OLIVE RAFFINEE + HUILE DE POISSON RICHE EN OMEGA-3 200 mg/ml - SMOFLIPID 200 mg/ml, émulsion pour perfusion	60650173	0	1
 2013	HUILE DE SOJA RAFFINEE + TRIGLYCERIDES A CHAINE MOYENNE + HUILE D'OLIVE RAFFINEE + HUILE DE POISSON RICHE EN OMEGA-3 200 mg/ml - SMOFLIPID 200 mg/ml, émulsion pour perfusion	65989875	1	2
+2014	TAFAMIDIS 61 mg - VYNDAQEL 61 mg, capsule molle	61420887	0	1
+2015	CARBETOCINE 100  microgrammes/ml, solution injectable - PABAL 100 microgrammes/ml, solution injectable	62023123	0	1
+2016	PALBOCICLIB 100 mg - IBRANCE 100 mg, comprimé pelliculé	63255441	0	1
+2017	PALBOCICLIB 75 mg - IBRANCE 75 mg, comprimé pelliculé	67063335	0	1
+2018	PALBOCICLIB 125 mg - IBRANCE 125 mg, comprimé pelliculé	66552120	0	1
+2019	SELEXIPAG 800 microgrammes - UPTRAVI 800 microgrammes, comprimé pelliculé	67667620	0	1
+2020	SELEXIPAG 600 microgrammes - UPTRAVI 600 microgrammes, comprimé pelliculé	62611475	0	1
+2021	SELEXIPAG 400 microgrammes - UPTRAVI 400 microgrammes, comprimé pelliculé	61387896	0	1
+2022	SELEXIPAG 200 microgrammes - UPTRAVI 200 microgrammes, comprimé pelliculé	61050007	0	1
+2023	SELEXIPAG 1000 microgrammes - UPTRAVI 1000 microgrammes, comprimé pelliculé	64003920	0	1
+2024	SELEXIPAG 1200 microgrammes - UPTRAVI 1200 microgrammes, comprimé pelliculé	63092880	0	1
+2025	SELEXIPAG 1600 microgrammes - UPTRAVI 1600 microgrammes, comprimé pelliculé	66157358	0	1
+2026	SELEXIPAG 1400 microgrammes - UPTRAVI 1400 microgrammes, comprimé pelliculé	63817001	0	1
+2027	EMPAGLIFLOZINE 12,5 mg + METFORMINE (CHLORHYDRATE DE) 1000 mg - SYNJARDY 12,5 mg/1000 mg, comprimé pelliculé	64866745	0	1
+2028	EMPAGLIFLOZINE  5 mg + METFORMINE (CHLORHYDRATE DE) 1000 mg - SYNJARDY 5 mg/1000 mg, comprimé pelliculé	60901946	0	1
