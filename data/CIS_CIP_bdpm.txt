@@ -5224,7 +5224,6 @@
 62461641	3019490	plaquette(s) PVC PVDC aluminium de 24 comprimé(s)	Présentation active	Déclaration de commercialisation	17/02/2021	3400930194904	non					
 62461641	3995822	plaquette(s) (ACLAR RX) polytrifluorochloroéthylène aluminium de 12 comprimé(s)	Présentation active	Déclaration de commercialisation	24/06/2013	3400939958224	non					
 62461940	3005970	28 plaquette(s) polyamide aluminium PVC de 1 comprimé(s)	Présentation active	Déclaration de commercialisation	30/09/2016	3400930059708	oui	65%	17,42	18,44	1,02	
-62462280	3362560	flacon(s) polyéthylène haute densité (PEHD) de 30 gélule(s)	Présentation active	Déclaration d'arrêt de commercialisation	06/10/2021	3400933625603	non					
 62463044	3693191	flacon(s) polyéthylène haute densité (PEHD) avec fermeture de sécurité enfant de 112 comprimé(s)	Présentation active	Déclaration de commercialisation	17/10/2005	3400936931916	oui	65%	110,61	111,63	1,02	
 62464573	3002922	1 seringue(s) préremplie(s) en verre de 0,5 ml avec 2 aiguilles	Présentation active	Déclaration d'arrêt de commercialisation	26/02/2025	3400930029220	non	65%	11,75	12,77	1,02	
 62464897	3032882	1 seringue préremplie en verre de 1 mL	Présentation active	Déclaration de commercialisation	15/05/2026	3400930328828	oui	65%	327,04	328,06	1,02	
@@ -9775,7 +9774,6 @@
 64714709	3815978	plaquette(s) PVC PVDC aluminium de 60 comprimé(s)	Présentation active	Déclaration de commercialisation	10/12/2007	3400938159783	oui	65%	8,11	9,13	1,02	Ce médicament peut être pris en charge ou remboursé par l'Assurance Maladie dans les cas suivants :<br><br>- Psychose et schizophrénie chez l'adulte<br>- Accès maniaques chez l'adulte atteint de trouble bipolaire<br>- Agressivité persistante dans le contexte d'un trouble de la conduite, chez les enfants âgés de 5 ans à 11 ans présentant un retard intellectuel ; JOURNAL OFFICIEL ; 25/08/06
 64715729	3000640	plaquette(s) PVC PVDC aluminium de 30 comprimé(s)	Présentation active	Déclaration de commercialisation	22/01/2020	3400930006405	oui	65%	1,67	2,69	1,02	
 64716254	3020234	20 récipient(s) unidose(s) polyéthylène basse densité (PEBD) de 2 ml en sachets polytéréphtalate (PET) aluminium polyéthylène de (4x5)	Présentation active	Déclaration de commercialisation	23/03/2021	3400930202340	oui	65 %	24,20	25,22	1,02	
-64718440	4996841	plaquette(s) aluminium de 14 comprimé(s)	Présentation active	Déclaration d'arrêt de commercialisation	06/10/2021	3400949968411	non	65%	1,89	2,91	1,02	
 64718440	4996887	plaquette(s) aluminium de 28 comprimé(s)	Présentation active	Déclaration de commercialisation	13/11/2012	3400949968879	oui	65%	3,43	4,45	1,02	
 64718764	3008007	1 flacon(s) polyéthylène haute densité (PEHD) avec fermeture de sécurité enfant de 60 comprimé(s)	Présentation active	Déclaration de commercialisation	19/06/2017	3400930080078	oui	65%	20,93	21,95	1,02	
 64718764	4165637	plaquette(s) PVC-Aluminium de 60 comprimé(s)	Présentation active	Déclaration de commercialisation	25/08/2011	3400941656378	oui	65%	20,93	21,95	1,02	
