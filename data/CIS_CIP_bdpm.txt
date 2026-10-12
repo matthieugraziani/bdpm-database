@@ -5247,7 +5247,7 @@
 62474215	3011236	1 flacon(s) polyéthylène haute densité (PEHD) avec fermeture de sécurité enfant de 30 comprimé(s)	Présentation active	Déclaration de commercialisation	26/04/2018	3400930112366	oui	100%	225,35	226,37	1,02	
 62475071	3026807	plaquette(s) PVC PVDC aluminium de 10 comprimé(s)	Présentation active	Déclaration de commercialisation	26/06/2024	3400930268070	oui	65 %	3,13	4,15	1,02	
 62475071	4937867	plaquette(s) PVC PVDC aluminium de 30 comprimé(s)	Présentation active	Déclaration de commercialisation	25/04/2014	3400949378678	oui	65%	8,88	9,90	1,02	
-62475406	3030511	1 cartouche(s) en verre dans stylo pré-rempli de 1,5 ml	Présentation active	Déclaration de commercialisation	10/02/2026	3400930305119	oui	100 %	10,226,20	1,02		
+62475406	3030511	1 cartouche(s) en verre dans stylo pré-rempli de 1,5 ml	Présentation active	Déclaration de commercialisation	10/02/2026	3400930305119	oui	100 %	10,226,20	10,227,20	1,02	
 62475527	3775368	plaquette(s) thermoformée(s) PVC-Aluminium de 7 comprimé(s)	Présentation active	Déclaration de commercialisation	20/07/2007	3400937753685	non					
 62476853	5624260	1 flacon(s) en verre de 0,9  ml	Présentation active	Déclaration de commercialisation	18/09/2000	3400956242603	oui					
 62476935	3028624	plaquette(s) OPA : polyamide orienté aluminium PVC de 30 comprimé(s)	Présentation active	Déclaration de commercialisation	13/09/2024	3400930286241	oui	65 %	10,43	11,45	1,02	
@@ -6035,7 +6035,7 @@
 62880365	2666789	plaquette(s) aluminium de 14 comprimé(s)	Présentation active	Déclaration d'arrêt de commercialisation	09/02/2022	3400926667894	non	65%	1,89	2,91	1,02	
 62880365	2666832	plaquette(s) aluminium de 28 comprimé(s)	Présentation active	Déclaration de commercialisation	12/06/2013	3400926668327	oui	65%	3,43	4,45	1,02	
 62880372	2241920	plaquette(s) aluminium de 28 comprimé(s)	Présentation active	Déclaration de commercialisation	26/02/2013	3400922419206	oui	65%	8,76	9,78	1,02	
-62881990	3030509	1 cartouche(s) en verre dans stylo pré-rempli de 1,5 ml	Présentation active	Déclaration de commercialisation	10/02/2026	3400930305096	oui	100 %	4,170,61	1,02		
+62881990	3030509	1 cartouche(s) en verre dans stylo pré-rempli de 1,5 ml	Présentation active	Déclaration de commercialisation	10/02/2026	3400930305096	oui	100 %	4,170,61	4,171,63	1,02	
 62882708	4168908	3 plaquette(s) PVC-Aluminium de 10 gélule(s)	Présentation active	Déclaration de commercialisation	06/01/2014	3400941689086	oui					
 62883226	3023508	plaquette(s) PVC polyéthylène PVDC aluminium de 30 comprimés	Présentation active	Déclaration d'arrêt de commercialisation	31/12/2024	3400930235089	non	100 %	32,44	33,46	1,02	
 62883607	3749980	plaquette(s) thermoformée(s) aluminium de 30 comprimé(s)	Présentation active	Déclaration d'arrêt de commercialisation	31/01/2022	3400937499804	non	30%	4,65	5,67	1,02	
