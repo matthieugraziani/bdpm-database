@@ -14411,7 +14411,6 @@
 66903345	3718330	plaquette(s) PVC PVDC aluminium de 30 comprimé(s)	Présentation active	Déclaration d'arrêt de commercialisation	12/06/2024	3400937183307	non	65%	3,64	4,66	1,02	
 66903345	3895233	plaquette(s) PVC PVDC aluminium de 90 comprimé(s)	Présentation active	Déclaration d'arrêt de commercialisation	12/06/2024	3400938952339	non	65%	10,53	13,29	2,76	
 66904340	3966097	plaquette(s) polyamide aluminium PVC de 14 comprimé(s)	Présentation active	Déclaration de commercialisation	27/01/2010	3400939660974	oui	65%	2,31	3,33	1,02	
-66904792	3594968	plaquette(s) thermoformée(s) PVC-aluminium de 30  comprimé(s)	Présentation active	Déclaration d'arrêt de commercialisation	14/10/2021	3400935949684	non	65%	3,69	4,71	1,02	
 66904792	3736575	plaquette(s) thermoformée(s) PVC-Aluminium de 90 comprimé(s)	Présentation active	Déclaration d'arrêt de commercialisation	01/09/2022	3400937365758	non	65%	10,12	12,88	2,76	
 66905182	3022023	30 plaquettes unitaires prédécoupées polyamide aluminium PVC-Aluminium polytéréphtalate (PET) avec fermeture de sécurité enfant de 1 comprimé(s)	Présentation active	Déclaration de commercialisation	04/08/2021	3400930220238	oui	65 %	74,41	75,43	1,02	
 66905809	3007742	5 poches en polypropylène SEBS : styrène-éthylène-butylène-styrène copolyester-éther suremballée (s)/surpochée(s) à 3 compartiments de 1250 mL (500 mL de solution d’acides aminés + 250 mL d’émulsion lipidique + 500 mL de solution de glucose)	Présentation active	Déclaration de commercialisation	20/03/2019	3400930077429	oui	65%	138,16	139,18	1,02	
