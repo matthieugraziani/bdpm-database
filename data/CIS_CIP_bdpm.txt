@@ -3554,7 +3554,6 @@
 61647575	2685025	plaquette(s) PVC polyéthylène PVDC aluminium de 28 gélule(s)	Présentation active	Déclaration de commercialisation	15/03/2016	3400926850258	non					
 61648467	3023540	plaquette(s) thermoformée(s) polychlortrifluoroéthylène PVC aluminium de 56 gélule(s)	Présentation active	Déclaration d'arrêt de commercialisation	06/01/2026	3400930235409	non	100 %	1,670,68	1,671,70	1,02	
 61648894	5506033	10 ampoule(s) en verre de 10 ml	Présentation active	Déclaration de commercialisation	26/09/2019	3400955060338	oui					
-61649487	3368344	1 flacon(s) PVC de 200 ml	Présentation active	Déclaration d'arrêt de commercialisation	18/10/2021	3400933683443	non					
 61649487	3368350	1 flacon(s) polyéthylène de 250 ml	Présentation active	Déclaration de commercialisation	07/07/2022	3400933683504	oui					
 61649487	3551551	1 flacon(s) PVC de 60 ml	Présentation active	Déclaration d'arrêt de commercialisation	15/11/2021	3400935515513	non					
 61649829	3688362	plaquette(s) PVC-Aluminium PVDC de 50 comprimé(s)	Présentation active	Déclaration d'arrêt de commercialisation	24/03/2025	3400936883628	non	65%	3,24	4,26	1,02	
@@ -8832,7 +8831,6 @@
 64292987	3274063	1 flacon(s) en verre avec gobelet(s) doseur(s) polypropylène de 100 ml	Présentation active	Déclaration de commercialisation	21/03/2006	3400932740635	non					
 64293046	3022673	plaquette(s) PVC (ACLAR RX) polytrifluorochloroéthylène aluminium de 21 comprimé(s)	Présentation active	Déclaration de commercialisation	21/12/2021	3400930226735	oui	65 %	7,90	8,92	1,02	
 64293046	3930076	plaquette(s) formée(s) à froid aluminium de 21 comprimé(s)	Présentation active	Déclaration d'arrêt de commercialisation	21/12/2021	3400939300764	non	65%	7,90	8,92	1,02	
-64293046	3930082	plaquette(s) formée(s) à froid aluminium de 28 comprimé(s)	Présentation active	Déclaration d'arrêt de commercialisation	18/10/2021	3400939300825	non					
 64294828	3721177	10 ampoule(s) bouteille en verre de 10 ml	Présentation active	Déclaration de commercialisation	08/07/2025	3400937211772	oui					
 64294828	5680614	100 ampoule(s) bouteille en verre de 10 ml	Présentation active	Déclaration d'arrêt de commercialisation	30/11/2025	3400956806140	non					
 64294828	5680666	50 ampoule(s) bouteille en verre de 20 ml	Présentation active	Déclaration d'arrêt de commercialisation	31/12/2023	3400956806669	non					
@@ -13637,7 +13635,6 @@
 66528824	3008052	plaquette(s) aluminium de 30 comprimé(s)	Présentation active	Déclaration de commercialisation	30/01/2020	3400930080528	oui	65%	3,88	4,90	1,02	
 66528824	3008055	plaquette(s) aluminium de 90 comprimé(s)	Présentation active	Déclaration de commercialisation	15/03/2021	3400930080559	oui	65%	10,74	13,50	2,76	
 66530729	3006652	plaquette(s) PVC aluminium polyamide de 30 comprimé(s)	Présentation active	Déclaration d'arrêt de commercialisation	18/01/2022	3400930066522	non	65%	3,18	4,20	1,02	
-66530729	3006653	plaquette(s) PVC aluminium polyamide de 90 comprimé(s)	Présentation active	Déclaration d'arrêt de commercialisation	18/10/2021	3400930066539	non	65%	9,04	11,80	2,76	
 66530743	3015501	30 plaquette(s) prédécoupées unitaires aluminium OPA : polyamide orienté PVC de 1 comprimé(s)	Présentation active	Déclaration d'arrêt de commercialisation	01/10/2025	3400930155011	non	100%	754,65	755,67	1,02	
 66531208	3017954	1 cartouche(s) en verre de 1,5 ml dans stylo pré-rempli multidose(s) en plastique	Présentation active	Déclaration de commercialisation	08/11/2019	3400930179543	oui	100 %	115,89	116,91	1,02	Ce médicament peut être pris en charge ou remboursé par l'Assurance Maladie dans les cas suivants :<br><br>Enfants :<br>- Retard de croissance entrainé par un manque d'hormone de croissance<br>- Retard de croissance chez les filles présentant une maladie hormonale (appelée Syndrome de Turner).<br>- Retard de croissance chez les enfants avant leur puberté dû à une maladie rénale.<br>- Retard de croissance chez les enfants nés petits et répondant à un certain nombre de critères, à l'âge de 4 ans ou plus.<br>- Syndrome de Noonan avec un certain retard de croissance<br><br>Adultes :<br>- Déficit en homone de croissance apparu dans l'enfance <br>- Déficit en homone de croissance apparu à l'âge adulte pour des raisons diverses (maladie de l'hypothalamus ou de l'hypophyse, traitement aux rayons du cerveau, lésion du cerveau due à une blessure) ; JOURNAL OFFICIEL ; 08/01/20
 66531838	2227417	1 tube(s) aluminium verni de 30 g	Présentation active	Déclaration de commercialisation	01/09/2012	3400922274171	oui					
