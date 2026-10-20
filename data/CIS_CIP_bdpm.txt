@@ -9742,7 +9742,6 @@
 64707020	3592610	plaquette(s) thermoformée(s) aluminium de 28  comprimé(s)	Présentation active	Déclaration d'arrêt de commercialisation	07/12/2022	3400935926104	non	65%	2,62	3,64	1,02	
 64707814	2698080	plaquette(s) PVC PVDC aluminium de 20 comprimé(s)	Présentation active	Déclaration de commercialisation	13/04/2016	3400926980801	oui	65%	1,69	2,71	1,02	
 64707814	5846167	plaquette(s) PVC PVDC aluminium de 60 comprimé(s)	Présentation active	Déclaration de commercialisation	15/05/2025	3400958461675	oui					
-64708108	3475850	4 plaquette(s) PVC de 14 gélule(s)	Présentation active	Déclaration d'arrêt de commercialisation	21/10/2021	3400934758508	non					
 64708300	3009085	30 récipient(s) unidose(s) polyéthylène basse densité (PEBD) de 1 ml	Présentation active	Déclaration d'arrêt de commercialisation	01/07/2025	3400930090855	non	65%	8,01	9,03	1,02	
 64708962	4900033	plaquette(s) thermoformée(s) PVC-Aluminium polyamide de 28 comprimé(s)	Présentation active	Arrêt de commercialisation (le médicament n'a plus d'autorisation)	17/10/2025	3400949000333	non	65%	9,32	10,34	1,02	
 64710550	4949557	plaquette(s) formée(s) à froid polyamide aluminium PVC-Aluminium de 14 comprimé(s)	Présentation active	Déclaration d'arrêt de commercialisation	02/11/2022	3400949495573	non	65%	1,89	2,91	1,02	
