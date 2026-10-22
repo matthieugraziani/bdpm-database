@@ -11933,7 +11933,6 @@
 65700541	5502720	1 flacon + 1 seringue préremplie (5 mL) + 1 adaptateur pour flacon + 1 nécessaire de ponction veineuse	Présentation active	Déclaration de commercialisation	04/11/2022	3400955027201	oui					
 65700616	3014621	plaquette(s) PVC PVDC aluminium de 30 comprimé(s)	Présentation active	Déclaration de commercialisation	26/06/2019	3400930146217	oui	30%	6,57	7,59	1,02	
 65700648	3026115	plaquette(s) PVC PVDC aluminium de 90 comprimé(s)	Présentation active	Déclaration de commercialisation	13/04/2023	3400930261156	oui	65 %	26,86	27,88	1,02	
-65701038	3063320	plaquette(s) PVC aluminium de 10 comprimé(s)	Présentation active	Arrêt de commercialisation (le médicament n'a plus d'autorisation)	22/10/2021	3400930633205	non	65%	1,62	2,64	1,02	
 65701216	3008878	flacon(s) polyéthylène haute densité (PEHD) de 16 gélule(s) avec fermeture de sécurité enfant	Présentation active	Déclaration de commercialisation	14/09/2017	3400930088784	oui	65%	1,16	2,18	1,02	
 65701216	3292227	plaquette(s) PVC-Aluminium de 16 gélule(s)	Présentation active	Déclaration de commercialisation	05/01/1998	3400932922277	oui	65%	1,16	2,18	1,02	
 65705588	3023285	plaquette(s) PVC PVDC aluminium de 30 comprimé(s)	Présentation active	Déclaration de commercialisation	02/06/2023	3400930232859	oui	65 %	65,08	66,10	1,02	
