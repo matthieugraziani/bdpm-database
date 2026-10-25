@@ -7966,7 +7966,6 @@
 63830290	3006300	20 sachet(s) aluminium polyéthylène polyester de 10 ml	Présentation active	Déclaration de commercialisation	02/09/2019	3400930063002	non					
 63830290	3762176	10 sachet(s) aluminium polyéthylène polyester de 10 ml	Présentation active	Déclaration de commercialisation	18/03/2016	3400937621762	non					
 63830486	3934507	plaquette(s) thermoformée(s) PVC-Aluminium de 30 gélule(s)	Présentation active	Déclaration d'arrêt de commercialisation	16/02/2026	3400939345079	non					
-63830632	3884494	plaquette(s) aluminium de 30 comprimé(s)	Présentation active	Déclaration d'arrêt de commercialisation	25/10/2021	3400938844948	non					
 63831823	2163611	plaquette(s) PVC polyéthylène PVDC aluminium de 30 comprimé(s)	Présentation active	Déclaration d'arrêt de commercialisation	21/11/2023	3400921636116	non	100%	32,44	33,46	1,02	
 63832373	2736900	2 sachet(s) papier kraft polyéthylène basse densité (PEBD) aluminium P-A-M-éthylène (SURLYN) de 1 film	Présentation active	Déclaration de commercialisation	23/09/2013	3400927369001	oui	65%	4,12	5,14	1,02	
 63832373	2736917	4 sachet(s) papier kraft polyéthylène basse densité (PEBD) aluminium P-A-M-éthylène (SURLYN) de 1 film	Présentation active	Déclaration de commercialisation	23/09/2013	3400927369179	oui	65%	8,06	9,08	1,02	
@@ -13235,7 +13234,6 @@
 66316885	2682788	1 flacon(s) pressurisé(s) polyéthylène aluminium de 100 ml	Présentation active	Déclaration de commercialisation	19/07/2013	3400926827885	oui	30%	2,62	3,64	1,02	
 66317033	3553165	tube(s) polypropylène de 30 comprimé(s)	Présentation active	Déclaration de commercialisation	20/08/2001	3400935531650	oui	65%	7,29	8,31	1,02	
 66317108	3897054	plaquette(s) thermoformée(s) PVC-Aluminium de 7 comprimé(s)	Présentation active	Déclaration de commercialisation	11/08/2026	3400938970548	non	65%	5,91	6,93	1,02	
-66317873	4993937	plaquette(s) thermoformée(s) PVC aluminium de 28 comprimé(s)	Présentation active	Déclaration d'arrêt de commercialisation	25/10/2021	3400949939374	non					
 66318142	3952669	plaquette(s) PVC PVDC aluminium de 7 gélule(s)	Présentation active	Déclaration de commercialisation	30/11/2009	3400939526690	oui	65%	14,65	15,67	1,02	
 66319116	3882555	1 tube(s) aluminium de 100 g	Présentation active	Déclaration de commercialisation	19/12/2008	3400938825558	oui	30%	2,49	3,51	1,02	
 66319269	4995439	plaquette(s) formée(s) à froid polyamide aluminium PVC-Aluminium de 90 comprimé(s)	Présentation active	Déclaration de commercialisation	06/04/2011	3400949954391	oui	65%	5,99	7,01	1,02	
