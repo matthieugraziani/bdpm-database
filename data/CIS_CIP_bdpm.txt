@@ -19106,7 +19106,6 @@
 69161632	5685178	1 flacon(s) en verre suremballée(s)/surpochée(s) de 50 ml	Présentation active	Déclaration de commercialisation	27/12/2007	3400956851782	oui					
 69161632	5689785	1 flacon(s) en verre suremballée(s)/surpochée(s) de 25 ml	Présentation active	Déclaration de commercialisation	27/12/2007	3400956897858	oui					
 69161760	3944813	5 flacon(s) en verre de 1 ml	Présentation active	Déclaration de commercialisation	17/11/2009	3400939448138	oui					
-69161828	3015118	1 flacon(s) polyéthylène haute densité (PEHD) de 16 g  (120 doses), avec pompe doseuse et applicateur nasal	Présentation active	Déclaration d'arrêt de commercialisation	26/10/2021	3400930151181	non	30%	4,46	5,48	1,02	
 69161828	3015119	1 flacon(s) polyéthylène haute densité (PEHD) de 18 g  (140 doses), avec pompe doseuse et applicateur nasal	Présentation active	Déclaration de commercialisation	19/10/2021	3400930151198	oui	30 %	4,46	5,48	1,02	
 69163238	3391946	plaquette(s) PVC-Aluminium avec distributeur(s) de 60 dose(s)	Présentation active	Déclaration de commercialisation	03/09/1997	3400933919467	oui	65%	14,40	15,42	1,02	
 69163754	4902366	1 pilulier(s) polypropylène de 30 comprimé(s)	Présentation active	Arrêt de commercialisation (le médicament n'a plus d'autorisation)	12/01/2024	3400949023660	non	65%	6,39	7,41	1,02	
