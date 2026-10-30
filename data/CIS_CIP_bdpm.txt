@@ -14190,7 +14190,7 @@
 66819566	3847932	3 plaquette(s) aluminium PVC PVDC de 21 comprimé(s)	Présentation active	Déclaration de commercialisation	21/04/2010	3400938479324	oui	65%	3,76	4,78	1,02	
 66820789	2200996	plaquette(s) PVC polyéthylène PVDC aluminium de 28 gélule(s)	Présentation active	Déclaration de commercialisation	16/05/2012	3400922009964	non					
 66820967	3021967	1 flacon(s) polyéthylène haute densité (PEHD) de 10 ml avec pompe	Présentation active	Déclaration de commercialisation	21/03/2022	3400930219676	oui	30 %	7,72	8,74	1,02	
-66822516	3026051	1 flacon en verre brun avec fermeture de sécurité enfant de 150 mL avec adaptateur pour flacon avec seringue pour administration orale graduée polyéthylène basse densité (PEBD)	Présentation active	Déclaration de commercialisation	23/12/2025	3400930260517	non					
+66822516	3026051	1 flacon en verre brun avec fermeture de sécurité enfant de 150 mL avec adaptateur pour flacon avec seringue pour administration orale graduée polyéthylène basse densité (PEBD)	Présentation active	Déclaration de commercialisation	23/12/2025	3400930260517	non	30 %	27,96	1,02		
 66822683	3026206	plaquette(s) PVC-Aluminium de 5 comprimé(s)	Présentation active	Déclaration de commercialisation	14/06/2024	3400930262061	oui	15 %	0,86	1,88	1,02	
 66822683	3645051	plaquette(s) PVC-Aluminium de 14 comprimé(s)	Présentation active	Déclaration de commercialisation	15/06/2004	3400936450516	oui	15%	1,58	2,60	1,02	
 66822683	3645097	pilulier(s) polyéthylène haute densité (PEHD) de 14 comprimé(s)	Présentation active	Déclaration de commercialisation	14/10/2013	3400936450974	oui	15%	1,58	2,60	1,02	
@@ -14651,7 +14651,6 @@
 67031476	3011737	30 plaquette(s) aluminium OPA : polyamide orienté PVC de 1 comprimé(s)	Présentation active	Déclaration de commercialisation	11/08/2021	3400930117378	oui	65 %	131,70	132,72	1,02	
 67031711	3298046	plaquette(s) PVC-Aluminium de 30 comprimé(s)	Présentation active	Déclaration de commercialisation	01/09/1997	3400932980468	oui	65%	6,05	7,07	1,02	
 67032044	5508672	1 flacon(s) en verre de 10 mL	Présentation active	Déclaration de commercialisation	13/07/2022	3400955086727	oui					
-67032076	2241593	plaquette(s) aluminium de 7 comprimé(s)	Présentation active	Déclaration d'arrêt de commercialisation	30/10/2021	3400922415932	non					
 67033783	3030593	1 flacon polyéthylène basse densité (PEBD) de 125 mL	Présentation active	Déclaration de commercialisation	05/05/2025	3400930305935	oui					
 67033783	3030594	1 flacon polyéthylène basse densité (PEBD) de 250 mL	Présentation active	Déclaration de commercialisation	05/05/2025	3400930305942	oui					
 67033783	3030595	1 flacon polyéthylène basse densité (PEBD) de 500 mL	Présentation active	Déclaration de commercialisation	05/05/2025	3400930305959	oui					
