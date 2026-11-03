@@ -15933,7 +15933,6 @@
 67643224	4196690	plaquette(s) thermoformée(s) PVC polyéthylène PVDC aluminium de 15 comprimé(s)	Présentation active	Déclaration de commercialisation	15/07/2015	3400941966903	oui	30%	1,77	2,79	1,02	
 67643224	4196744	plaquette(s) thermoformée(s) PVC polyéthylène PVDC aluminium de 30 comprimé(s)	Présentation active	Déclaration de commercialisation	15/07/2015	3400941967443	oui	30%	3,21	4,23	1,02	
 67643377	3345202	36 sachet(s) aluminium polyéthylène papier de 10  ml	Présentation active	Déclaration de commercialisation	19/08/1992	3400933452025	non					
-67644148	5001056	1 tube(s) métalloplastique de 7,5  g	Présentation active	Déclaration d'arrêt de commercialisation	03/11/2021	3400950010567	non					
 67644301	3003891	2 stylos préremplis en verre de 0,5 mL	Présentation active	Déclaration d'arrêt de commercialisation	28/02/2024	3400930038918	non	65%	62,33	63,35	1,02	
 67644397	3500312	1 seringue(s) préremplie(s) en verre de 0,3  ml	Présentation active	Déclaration de commercialisation	11/12/2006	3400935003126	oui					
 67644397	3500329	6 seringue(s) préremplie(s) en verre de 0,3  ml	Présentation active	Déclaration de commercialisation	08/01/1999	3400935003294	oui	65%	124,74	125,76	1,02	
@@ -20232,8 +20231,6 @@
 69694541	3018171	plaquette(s) thermoformée(s) aluminium PVC-Aluminium de 14 suppositoire(s)	Présentation active	Déclaration de commercialisation	04/02/2021	3400930181713	oui	65 %	18,62	19,64	1,02	
 69694737	3021745	1 flacon(s) en verre de 5 ml	Présentation active	Déclaration de commercialisation	06/06/2025	3400930217450	oui	65 %	115,53	116,55	1,02	
 69695547	3784249	plaquette(s) aluminium de 30 comprimé(s)	Présentation active	Déclaration de commercialisation	13/07/2007	3400937842495	oui	65%	3,64	4,66	1,02	
-69696186	4900125	plaquette(s) thermoformée(s) polychlortrifluoroéthylène PVC-Aluminium de 30 comprimé(s)	Présentation active	Arrêt de commercialisation (le médicament n'a plus d'autorisation)	03/11/2021	3400949001255	non	65%	51,71	52,73	1,02	
-69696186	4900126	plaquette(s) thermoformée(s) polychlortrifluoroéthylène PVC-Aluminium de 60 comprimé(s)	Présentation active	Arrêt de commercialisation (le médicament n'a plus d'autorisation)	03/11/2021	3400949001262	non	65%	103,01	104,03	1,02	
 69697199	3701341	10 ampoule(s) bouteille en verre de 1 ml	Présentation active	Déclaration de commercialisation	01/03/2006	3400937013413	oui					
 69699257	3848185	plaquette(s) aluminium de 30 comprimé(s)	Présentation active	Déclaration de commercialisation	17/09/2008	3400938481853	oui	65%	3,64	4,66	1,02	
 69699257	3848239	plaquette(s) aluminium de 90 comprimé(s)	Présentation active	Déclaration de commercialisation	17/09/2008	3400938482393	oui	65%	10,53	13,29	2,76	
