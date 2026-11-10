@@ -20905,4 +20905,4 @@
 69998996	3008771	10 ampoule(s) polypropylène de 10 ml	Présentation active	Déclaration de commercialisation	25/09/2017	3400930087718	oui					
 69999429	3602567	plaquette(s) PVC-Aluminium de 12 comprimé(s)	Présentation active	Déclaration de commercialisation	16/01/2003	3400936025677	non					
 69999429	3617161	plaquette(s) PVC-Aluminium de 24 comprimé(s)	Présentation active	Déclaration d'arrêt de commercialisation	31/03/2026	3400936171619	non					
-x2115276	3023925	1 flacon en verre de 5 mL ( abrogée le 30/01/2026) ( abrogée le 30/01/2026)	Présentation abrogée	Déclaration de commercialisation	29/11/2022	3400930239254	oui					
+62115276	3023925	1 flacon en verre de 5 mL ( abrogée le 30/01/2026) ( abrogée le 30/01/2026)	Présentation abrogée	Déclaration de commercialisation	29/11/2022	3400930239254	oui					
