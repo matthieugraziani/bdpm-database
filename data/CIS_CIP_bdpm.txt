@@ -1793,7 +1793,6 @@
 60830246	3605301	plaquette(s) PVC aluminium polyamide de 12 comprimé(s)	Présentation active	Déclaration de commercialisation	20/01/2005	3400936053014	non					
 60830260	3029290	1 cartouche en verre multidose(s) de 2,4 mL dans un stylo pré-rempli	Présentation active	Déclaration de commercialisation	06/11/2024	3400930292907	oui	65 %	176,10	177,12	1,02	
 60832521	3177288	1 flacon(s) en verre jaune(brun) de 13  ml avec applicateur aminoplaste polyéthylène basse densité (PEBD)	Présentation active	Déclaration de commercialisation	30/11/1969	3400931772880	non					
-60832521	3179821	1 flacon(s) en verre jaune(brun) de 45 ml	Présentation active	Déclaration d'arrêt de commercialisation	13/11/2021	3400931798217	non					
 60833559	3017313	1 flacon(s) polyéthylène basse densité (PEBD) de 5 ml avec embout(s) polyéthylène haute densité (PEHD) siliconé(e)	Présentation active	Déclaration de commercialisation	24/08/2022	3400930173138	oui	65 %	5,58	6,60	1,02	
 60834807	3886665	plaquette(s) PVC polyéthylène PVDC aluminium de 28 comprimé(s)	Présentation active	Déclaration d'arrêt de commercialisation	28/02/2026	3400938866650	non	65%	2,72	3,74	1,02	
 60834807	3886702	plaquette(s) PVC polyéthylène PVDC aluminium de 84 comprimé(s)	Présentation active	Déclaration d'arrêt de commercialisation	28/02/2026	3400938867022	non	65%	7,61	10,37	2,76	
