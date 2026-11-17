@@ -9878,7 +9878,6 @@
 64767583	3030885	1 poche(s) (COSINUS) EMBASE polyoléfine suremballée(s)/surpochée(s) de 1000 ml	Présentation active	Déclaration de commercialisation	02/01/2025	3400930308851	oui	65 %	2,99	4,01	1,02	
 64767583	3522822	1 poche(s) (COSINUS) PVC PVC plastifié suremballée(s)/surpochée(s) de 250 ml ( abrogée le 16/02/2026)	Présentation abrogée	Déclaration d'arrêt de commercialisation	19/02/2022	3400935228222	non	65%	1,86	2,88	1,02	
 64767583	3522839	1 poche(s) (COSINUS) PVC PVC plastifié suremballée(s)/surpochée(s) de 500 ml ( abrogée le 16/02/2026)	Présentation abrogée	Déclaration d'arrêt de commercialisation	28/02/2022	3400935228390	non					
-64767583	3522845	1 poche(s) (COSINUS) PVC PVC plastifié suremballée(s)/surpochée(s) de 1000 ml ( abrogée le 16/02/2026)	Présentation abrogée	Déclaration d'arrêt de commercialisation	17/11/2021	3400935228451	non	65%	2,71	3,73	1,02	
 64767583	3561302	1 poche(s) (COSINUS) polyoléfine suremballée(s)/surpochée(s) de 50 ml	Présentation active	Déclaration de commercialisation	14/09/2004	3400935613028	oui	65%	1,71	2,73	1,02	
 64767583	3561319	1 poche(s) (COSINUS) polyoléfine suremballée(s)/surpochée(s) de 100 ml	Présentation active	Déclaration de commercialisation	14/09/2004	3400935613196	oui	65%	1,92	2,94	1,02	
 64767583	3561331	1 poche(s) (COSINUS) polyoléfine suremballée(s)/surpochée(s) de 250 ml	Présentation active	Déclaration de commercialisation	14/09/2004	3400935613318	oui	65%	1,98	3,00	1,02	
