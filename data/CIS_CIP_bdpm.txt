@@ -362,7 +362,7 @@
 60173715	3024359	plaquette(s) OPA : polyamide orienté aluminium PVC-Aluminium de 30 gélule(s)	Présentation active	Déclaration d'arrêt de commercialisation	08/02/2024	3400930243596	non	65 %	4,41	5,43	1,02	
 60173964	3359492	plaquette(s) thermoformée(s) PVC-Aluminium de 14  gélule(s)	Présentation active	Déclaration de commercialisation	19/03/1994	3400933594923	non					
 60174895	3032772	1 flacon en verre de 0,1 mL avec 1 aiguille avec filtre	Présentation active	Déclaration de commercialisation	20/10/2026	3400930327722	non	100 %	247,76	248,78	1,02	
-60175591	3021214	1 flacon(s) en verre de 3 ml	Présentation active	Déclaration de commercialisation	15/07/2022	3400930212141	oui	65 %	1,231,01	1,232,03	1,02	
+60175591	3021214	1 flacon(s) en verre de 3 ml	Présentation active	Déclaration de commercialisation	15/07/2022	3400930212141	oui	65 %	946,24	947,26	1,02	
 60175716	3658177	10 récipient(s) unidose(s) polyéthylène de 2 ml	Présentation active	Déclaration de commercialisation	01/02/2006	3400936581777	oui	65%	3,74	4,76	1,02	
 60175972	3241968	100 récipient(s) unidose(s) matière plastique de 0,4  ml	Présentation active	Déclaration de commercialisation	19/03/1986	3400932419685	oui					
 60176597	5508809	1 flacon(s) en verre de 3 ml	Présentation active	Déclaration de commercialisation	10/05/2022	3400955088097	oui					
@@ -5303,7 +5303,7 @@
 62507697	3018914	plaquettes PVC-Aluminium polyamide PVC de 28 comprimés	Présentation active	Déclaration de commercialisation	02/03/2020	3400930189146	oui	65%	83,49	84,51	1,02	
 62507754	3013667	plaquettes aluminium polyamide PVC-Aluminium de 60 comprimés	Présentation active	Déclaration de commercialisation	05/11/2018	3400930136676	oui	100%	248,49	249,51	1,02	
 62507918	3003137	plaquette(s) thermoformée(s) PVC PVDC aluminium de 15 comprimé(s)	Présentation active	Déclaration d'arrêt de commercialisation	30/04/2022	3400930031377	non					
-62508169	3021217	1 flacon(s) en verre de 3 ml	Présentation active	Déclaration de commercialisation	15/07/2022	3400930212172	oui	65 %	3,550,69	3,551,71	1,02	
+62508169	3021217	1 flacon(s) en verre de 3 ml	Présentation active	Déclaration de commercialisation	15/07/2022	3400930212172	oui	65 %	2,737,08	2,738,10	1,02	
 62508863	3020376	plaquette(s) PVC-Aluminium de 60 comprimé(s)	Présentation active	Déclaration de commercialisation	18/11/2020	3400930203767	oui	65 %	40,49	41,51	1,02	
 62509748	3016857	1 flacon pulvérisateur en polyéthylène de 10 ml avec pompe doseuse avec embout nasal	Présentation active	Déclaration de commercialisation	09/04/2020	3400930168578	oui	30 %	1,79	2,81	1,02	
 62511293	3000410	plaquette(s) PVC PVDC aluminium de 60 comprimé(s)	Présentation active	Déclaration de commercialisation	26/07/2016	3400930004104	oui	65%	20,93	21,95	1,02	
@@ -16770,7 +16770,7 @@
 68006305	3024733	56 plaquettes prédécoupées unitaires OPA : polyamide orienté aluminium PVC de 1 comprimé(s)	Présentation active	Déclaration de commercialisation	19/09/2022	3400930247334	oui	65 %	24,50	25,52	1,02	
 68009657	3008846	plaquette(s) PVC PVDC aluminium de 30 comprimé(s)	Présentation active	Déclaration d'arrêt de commercialisation	24/03/2025	3400930088463	non					
 68009803	3665473	plaquette(s) thermoformée(s) PVC-Aluminium de 30 comprimé(s)	Présentation active	Déclaration de commercialisation	27/01/2005	3400936654730	oui	65%	1,26	2,28	1,02	
-68009803	3739622	plaquette(s) thermoformée(s) PVC-Aluminium de 90 comprimé(s)	Présentation active	Déclaration de commercialisation	17/10/2017	3400937396226	oui	65 %	3,12	1,02		
+68009803	3739622	plaquette(s) thermoformée(s) PVC-Aluminium de 90 comprimé(s)	Présentation active	Déclaration de commercialisation	17/10/2017	3400937396226	oui	65 %	3,12	4,14	1,02	
 68009899	3022938	1 flacon(s) en verre jaune(brun)  + 1 adaptateur pour flacon + 2 seringues orales ambrées graduées réutilisables de 1 mL + 2 seringue orales ambrées graduées réutilisables de 6 mL + 1 seringue orale ambrée graduée réutilisable de 12 mL	Présentation active	Déclaration de commercialisation	28/06/2021	3400930229385	oui	100%	7,658,22	7,659,24	1,02	
 68010307	3021648	4 seringue(s) préremplie(s) en verre de 0,5 ml dans stylo jetable	Présentation active	Déclaration de commercialisation	01/09/2021	3400930216484	oui	65 %	80,12	81,14	1,02	Ce médicament peut être pris en charge ou remboursé par l'Assurance Maladie dans les cas suivants :<br><br>Diabète de type 2 chez l'adulte lorsqu'il est utilisé en bithérapie avec la metformine, en trithérapie avec la metformine et un sulfamide hypoglycémiant, ou encore en trithérapie avec la metformine et l¿insuline. ; JOURNAL OFFICIEL ; 07/01/16
 68011537	2675601	1 flacon(s) en verre	Présentation active	Déclaration de commercialisation	21/05/2013	3400926756017	oui	65%	115,53	116,55	1,02	
@@ -19452,7 +19452,7 @@
 69291960	3006022	plaquette(s) PVC PVDC aluminium de 14 gélule(s)	Présentation active	Déclaration de commercialisation	14/02/2017	3400930060223	oui	65%	1,59	2,61	1,02	
 69291960	3006024	plaquette(s) PVC PVDC aluminium de 28 gélule(s)	Présentation active	Déclaration de commercialisation	10/01/2017	3400930060247	oui	65%	2,85	3,87	1,02	
 69291960	3628294	pilulier(s) polyéthylène haute densité (PEHD) de 28  gélule(s)	Présentation active	Déclaration de commercialisation	20/12/2011	3400936282940	oui	65%	2,85	3,87	1,02	
-69292539	3024694	1 flacon(s) polyéthylène haute densité (PEHD) avec fermeture de sécurité enfant de 180 gélule(s)	Présentation active	Arrêt de commercialisation (le médicament n'a plus d'autorisation)	04/08/2026	3400930246948	non	65%	4,469,75	4,470,77	1,02	
+69292539	3024694	1 flacon(s) polyéthylène haute densité (PEHD) avec fermeture de sécurité enfant de 180 gélule(s)	Présentation active	Arrêt de commercialisation (le médicament n'a plus d'autorisation)	04/08/2026	3400930246948	non					
 69292539	3027038	1 flacon(s) polyéthylène haute densité (PEHD) avec fermeture de sécurité enfant de 30 gélule(s)	Présentation active	Arrêt de commercialisation (le médicament n'a plus d'autorisation)	04/08/2026	3400930270387	non					
 69292959	2758787	plaquette(s) PVC PVDC aluminium de 30 gélule(s)	Présentation active	Déclaration de commercialisation	07/07/2014	3400927587870	oui	30 %	8,65	9,67	1,02	
 69293057	3658036	10 récipient(s) unidose(s) polyéthylène de 2 ml	Présentation active	Déclaration de commercialisation	30/01/2006	3400936580367	oui	65%	3,74	4,76	1,02	
