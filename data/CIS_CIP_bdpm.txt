@@ -6290,8 +6290,6 @@
 63011177	3008923	1 stylo prérempli en verre de 1,44 mL + 14 aiguilles	Présentation active	Déclaration de commercialisation	20/06/2018	3400930089231	oui	100%	385,06	386,08	1,02	
 63011444	3026811	plaquette(s) PVC PVDC aluminium de 30 comprimé(s)	Présentation active	Déclaration de commercialisation	06/05/2024	3400930268117	oui	65 %	5,33	6,35	1,02	
 63011444	3026812	plaquette(s) PVC PVDC aluminium de 90 comprimé(s)	Présentation active	Déclaration de commercialisation	06/05/2024	3400930268124	oui	65%	15,87	18,63	2,76	
-63012197	2794984	flacon(s) polyéthylène haute densité (PEHD) avec fermeture de sécurité enfant de 90 gélule(s)	Présentation active	Déclaration d'arrêt de commercialisation	25/11/2021	3400927949845	non					
-63012197	2794990	flacon(s) polyéthylène haute densité (PEHD) avec fermeture de sécurité enfant de 120 gélule(s)	Présentation active	Déclaration d'arrêt de commercialisation	25/11/2021	3400927949906	non					
 63012514	3936647	10 flacon(s) en verre	Présentation active	Déclaration de commercialisation	01/07/2009	3400939366470	oui					
 63016772	3016855	1 flacon pulvérisateur en polyéthylène de 10 ml avec pompe doseuse avec embout nasal	Présentation active	Déclaration de commercialisation	09/04/2020	3400930168554	oui	30%	1,79	2,81	1,02	
 63017696	3018651	1 flacon en verre jaune(brun) de 50 ml avec 1 filtre stérile à usage unique poly(fluorure de vinylidène) (PVDF)	Présentation active	Déclaration de commercialisation	15/04/2020	3400930186510	oui					
@@ -15414,7 +15412,6 @@
 67373049	2661527	1 tube(s) aluminium verni de 30 g	Présentation active	Déclaration de commercialisation	01/04/2014	3400926615277	oui	30%	2,50	3,52	1,02	
 67373259	3013410	plaquette(s) PVC PVDC aluminium de 28 comprimé(s)	Présentation active	Déclaration de commercialisation	20/06/2019	3400930134108	oui	65%	8,31	9,33	1,02	
 67376038	3049604	1 flacon(s) en verre de 200  ml avec gobelet(s) doseur(s)	Présentation active	Déclaration de commercialisation	19/01/1961	3400930496046	non					
-67376038	3303959	1 flacon(s) en verre de 30 ml	Présentation active	Déclaration d'arrêt de commercialisation	25/11/2021	3400933039592	non					
 67376038	3547325	1 flacon(s) PETP : copolymère de polytéréphta.d'éthlè.glycol et de diéthylè.glycol avec gobelet(s) doseur(s) de 400  ml	Présentation active	Déclaration de commercialisation	31/10/2001	3400935473257	non					
 67377186	3430706	1 flacon(s) aluminium verni de 18 ml avec pompe doseuse	Présentation active	Déclaration de commercialisation	19/09/1997	3400934307065	oui	65%	5,01	6,03	1,02	
 67377300	3011216	plaquette(s) aluminium PVC PVDC de 30 comprimé(s)	Présentation active	Déclaration de commercialisation	18/02/2019	3400930112168	oui	65%	3,71	4,73	1,02	
